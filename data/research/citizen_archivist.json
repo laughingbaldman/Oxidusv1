@@ -1,0 +1,104 @@
+{
+  "name": "Citizen Archivist Missions",
+  "url": "https://www.archives.gov/citizen-archivist/missions",
+  "description": "Community-driven projects to digitize, transcribe, and tag historical documents",
+  "categories": [
+    "history",
+    "community",
+    "preservation",
+    "participation",
+    "democracy"
+  ],
+  "documents": {
+    "citizen_archivist_missions_0": {
+      "title": "Transcription Mission",
+      "content": "Help make historical documents searchable by transcribing handwritten text and typewritten content. Contribute to the National Archives by making important historical records more accessible. Each transcription helps researchers, educators, and the public better understand our shared history. Your transcriptions help preserve the voices and records of ordinary Americans and important historical events.",
+      "type": "citizen_mission",
+      "date": "ongoing",
+      "significance": "Democratizes access to history through crowdsourced transcription",
+      "questions_generated": [
+        "Why did this event happen at this specific time? (regarding: Transcription Mission (ongoing))",
+        "Why did these people make these choices? (regarding: Transcription Mission (ongoing))",
+        "Why was this document created? (regarding: Transcription Mission (ongoing))",
+        "How did this event unfold step by step? (regarding: Transcription Mission (ongoing))",
+        "How did people overcome these challenges? (regarding: Transcription Mission (ongoing))",
+        "How did this document come to exist? (regarding: Transcription Mission (ongoing))"
+      ],
+      "insights": [],
+      "research_sessions": [
+        {
+          "timestamp": "2026-01-28 21:48:34.004595",
+          "findings": "Researched Transcription Mission: Democratizes access to history through crowdsourced transcription",
+          "questions": [
+            "Why did this event happen at this specific time? (regarding: Transcription Mission (ongoing))",
+            "Why did these people make these choices? (regarding: Transcription Mission (ongoing))",
+            "Why was this document created? (regarding: Transcription Mission (ongoing))",
+            "How did this event unfold step by step? (regarding: Transcription Mission (ongoing))",
+            "How did people overcome these challenges? (regarding: Transcription Mission (ongoing))",
+            "How did this document come to exist? (regarding: Transcription Mission (ongoing))"
+          ]
+        }
+      ]
+    },
+    "citizen_archivist_missions_1": {
+      "title": "Tagging Mission",
+      "content": "Add descriptive tags to photographs and documents to improve discoverability. Tags help researchers find materials about specific topics, people, places, and events. By tagging, you help connect disparate records and reveal patterns in history. This community effort creates a rich, interconnected knowledge base of American history.",
+      "type": "citizen_mission",
+      "date": "ongoing",
+      "significance": "Enhances searchability and reveals connections in historical records",
+      "questions_generated": [
+        "Why did this event happen at this specific time? (regarding: Tagging Mission (ongoing))",
+        "Why did these people make these choices? (regarding: Tagging Mission (ongoing))",
+        "Why was this document created? (regarding: Tagging Mission (ongoing))",
+        "How did this event unfold step by step? (regarding: Tagging Mission (ongoing))",
+        "How did people overcome these challenges? (regarding: Tagging Mission (ongoing))",
+        "How did this document come to exist? (regarding: Tagging Mission (ongoing))"
+      ],
+      "insights": [],
+      "research_sessions": [
+        {
+          "timestamp": "2026-01-28 21:48:34.005594",
+          "findings": "Researched Tagging Mission: Enhances searchability and reveals connections in historical records",
+          "questions": [
+            "Why did this event happen at this specific time? (regarding: Tagging Mission (ongoing))",
+            "Why did these people make these choices? (regarding: Tagging Mission (ongoing))",
+            "Why was this document created? (regarding: Tagging Mission (ongoing))",
+            "How did this event unfold step by step? (regarding: Tagging Mission (ongoing))",
+            "How did people overcome these challenges? (regarding: Tagging Mission (ongoing))",
+            "How did this document come to exist? (regarding: Tagging Mission (ongoing))"
+          ]
+        }
+      ]
+    },
+    "citizen_archivist_missions_2": {
+      "title": "Scanning and Digitization",
+      "content": "Participate in projects to digitize important historical documents. The National Archives works with communities to scan, photograph, and preserve records that might otherwise be lost. Digital preservation ensures these materials survive for future generations. Community involvement in digitization projects helps prioritize materials that are most important to local and national history.",
+      "type": "citizen_mission",
+      "date": "ongoing",
+      "significance": "Preserves historical documents for perpetuity through digital access",
+      "questions_generated": [],
+      "insights": [],
+      "research_sessions": []
+    },
+    "citizen_archivist_missions_3": {
+      "title": "Correction and Enhancement",
+      "content": "Help improve the accuracy of transcriptions, metadata, and descriptions. Community members review transcriptions made by others, check for errors, and enhance descriptions. This collaborative approach ensures the highest quality historical record. Corrections and enhancements make the archives more valuable for researchers and the public.",
+      "type": "citizen_mission",
+      "date": "ongoing",
+      "significance": "Ensures accuracy and quality of the historical record",
+      "questions_generated": [],
+      "insights": [],
+      "research_sessions": []
+    },
+    "citizen_archivist_missions_4": {
+      "title": "Photo Matching",
+      "content": "Help identify photographs and match them to related documents and context. Photographs often lack clear identification of where, when, or who is pictured. By matching photos to other historical materials, researchers can piece together the story of a place, event, or person. This collaborative detective work reveals the human dimension of history.",
+      "type": "citizen_mission",
+      "date": "ongoing",
+      "significance": "Connects visual history to broader historical context",
+      "questions_generated": [],
+      "insights": [],
+      "research_sessions": []
+    }
+  }
+}

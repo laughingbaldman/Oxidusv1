@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-30T17:16:41.903345",
+  "thought_count": 3,
+  "thoughts": [
+    {
+      "timestamp": "2026-01-30T17:16:11.743795",
+      "type": "research",
+      "content": "Scraping and analyzing: https://en.wikipedia.org/wiki/Main_Page",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-01-30T17:16:12.388796",
+      "type": "insight",
+      "content": "This is Wikipedia - massive knowledge repository with millions of articles",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-01-30T17:16:36.900730",
+      "type": "decision",
+      "content": "Switched from AI mode to HUMAN mode",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 1,
+    "analysis": 0,
+    "decision": 3,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 4,
+    "reflection": 2,
+    "uncertainty": 5,
+    "insight": 2,
+    "recall": 0,
+    "system": 4
+  }
+}

@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OXIDUS - The Real Thing</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Consolas', 'Monaco', monospace;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: #d4d4d4;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .main-area {
+            flex: 3;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .sidebar {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .panel {
+            background: rgba(45, 35, 25, 0.9);
+            border: 2px solid #5a4a3a;
+            border-radius: 8px;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+            backdrop-filter: blur(10px);
+            overflow: hidden;
+            box-shadow: inset 0 0 15px rgba(255, 140, 66, 0.1);
+        }
+        
+        .panel.conversation-panel {
+            flex: 1;
+            min-height: 0;
+        }
+
+        .panel-header {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #ff8c42;
+            color: #ff9f43;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 0 0 10px rgba(255, 140, 66, 0.5);
+        }
+
+        .conversation {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding-right: 10px;
+            min-height: 0;
+        }
+
+        .conversation::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .conversation::-webkit-scrollbar-track {
+            background: #2d2d2d;
+            border-radius: 4px;
+        }
+
+        .conversation::-webkit-scrollbar-thumb {
+            background: #5a4a3a;
+            border-radius: 4px;
+            box-shadow: inset 0 0 6px rgba(255, 140, 66, 0.3);
+        }
+        
+        .conversation::-webkit-scrollbar-thumb:hover {
+            background: #7a6a4a;
+            box-shadow: inset 0 0 6px rgba(255, 140, 66, 0.6);
+        }
+
+        .message {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-left: 3px solid #5a4a3a;
+            border-radius: 4px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .message.oxidus {
+            border-left-color: #ff8c42;
+            background: rgba(255, 140, 66, 0.08);
+            box-shadow: inset 0 0 10px rgba(255, 140, 66, 0.05);
+        }
+
+        .message.user {
+            border-left-color: #e63946;
+            background: rgba(230, 57, 70, 0.08);
+            box-shadow: inset 0 0 10px rgba(230, 57, 70, 0.05);
+        }
+
+        .message-speaker {
+            font-weight: bold;
+            font-size: 12px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .message.oxidus .message-speaker {
+            color: #ff9f43;
+            text-shadow: 0 0 8px rgba(255, 140, 66, 0.6);
+        }
+
+        .message.user .message-speaker {
+            color: #e63946;
+            text-shadow: 0 0 8px rgba(230, 57, 70, 0.6);
+        }
+
+        .message-content {
+            font-size: 11px;
+            line-height: 1.5;
+            color: #cdd6f4;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            display: block;
+        }
+
+        .message-time {
+            font-size: 9px;
+            color: #6c7086;
+            margin-top: 5px;
+        }
+
+        .input-area {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .input-field {
+            flex: 1;
+            background: #2d2d2d;
+            border: 2px solid #5a4a3a;
+            border-radius: 4px;
+            padding: 10px;
+            color: #d4d4d4;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 11px;
+            resize: none;
+            min-height: 80px;
+        }
+
+        .input-field::placeholder {
+            color: #6b6b6b;
+        }
+
+        .input-field:focus {
+            outline: none;
+            border-color: #ff8c42;
+            box-shadow: 0 0 15px rgba(255, 140, 66, 0.5), inset 0 0 10px rgba(255, 140, 66, 0.1);
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        button {
+            flex: 1;
+            padding: 10px;
+            border: 2px solid transparent;
+            border-radius: 4px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+        }
+
+        .btn-send {
+            background: #ff8c42;
+            color: #1a1a1a;
+            border-color: #ff8c42;
+            box-shadow: 0 0 10px rgba(255, 140, 66, 0.4);
+        }
+
+        .btn-send:hover {
+            background: #ff9f43;
+            border-color: #ff9f43;
+            box-shadow: 0 0 20px rgba(255, 140, 66, 0.8), 0 0 30px rgba(255, 140, 66, 0.4);
+            transform: translateY(-2px);
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+        }
+
+        .btn-send:active {
+            box-shadow: 0 0 15px rgba(255, 140, 66, 1), inset 0 0 10px rgba(255, 140, 66, 0.5);
+            transform: translateY(0);
+        }
+
+        .btn-clear {
+            background: #e63946;
+            color: #1a1a1a;
+            border-color: #e63946;
+            box-shadow: 0 0 10px rgba(230, 57, 70, 0.4);
+        }
+
+        .btn-clear:hover {
+            background: #d62828;
+            border-color: #d62828;
+            box-shadow: 0 0 20px rgba(230, 57, 70, 0.8), 0 0 30px rgba(230, 57, 70, 0.4);
+            transform: translateY(-2px);
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+        }
+
+        .btn-clear:active {
+            box-shadow: 0 0 15px rgba(230, 57, 70, 1), inset 0 0 10px rgba(230, 57, 70, 0.5);
+            transform: translateY(0);
+        }
+
+        .btn-knowledge {
+            background: #457b9d;
+            color: #d4d4d4;
+            border-color: #457b9d;
+            box-shadow: 0 0 10px rgba(69, 123, 157, 0.4);
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: inherit;
+            font-size: 12px;
+            width: 100%;
+        }
+
+        .btn-knowledge:hover {
+            background: #5a8ec7;
+            border-color: #5a8ec7;
+            box-shadow: 0 0 20px rgba(69, 123, 157, 0.8);
+            transform: translateY(-2px);
+        }
+
+        .btn-knowledge:active {
+            box-shadow: 0 0 15px rgba(69, 123, 157, 1), inset 0 0 10px rgba(69, 123, 157, 0.5);
+            transform: translateY(0);
+        }
+
+        .status-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px;
+            border-bottom: 1px solid #5a4a3a;
+            font-size: 10px;
+        }
+
+        .status-item:last-child {
+            border-bottom: none;
+        }
+
+        .status-label {
+            color: #888888;
+            font-weight: bold;
+        }
+
+        .status-value {
+            color: #ff9f43;
+            font-weight: bold;
+            text-shadow: 0 0 8px rgba(255, 140, 66, 0.4);
+        }
+
+        .thoughts-list {
+            font-size: 9px;
+            overflow-y: auto;
+            max-height: 200px;
+        }
+
+        .thoughts-list::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .thoughts-list::-webkit-scrollbar-thumb {
+            background: #5a4a3a;
+            border-radius: 3px;
+            box-shadow: inset 0 0 4px rgba(255, 140, 66, 0.3);
+        }
+
+        .thought-item {
+            padding: 5px;
+            margin-bottom: 5px;
+            border-left: 2px solid #ff8c42;
+            padding-left: 8px;
+            color: #d4a574;
+            line-height: 1.3;
+        }
+
+        .thought-item code {
+            background: #2d2d2d;
+            padding: 2px 4px;
+            border-radius: 2px;
+            color: #ff9f43;
+            box-shadow: 0 0 8px rgba(255, 140, 66, 0.3);
+        }
+
+        .title {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #ff9f43;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 0 0 15px rgba(255, 140, 66, 0.7), 0 0 30px rgba(230, 57, 70, 0.3);
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 10px;
+            color: #888888;
+            margin-bottom: 15px;
+            text-shadow: 0 0 5px rgba(255, 140, 66, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="title">OXIDUS - The Real Thing</div>
+    <div class="subtitle">Honest. Bold. Full of Character.</div>
+
+    <div class="container">
+        <!-- Main Conversation Area -->
+        <div class="main-area">
+            <div class="panel conversation-panel">
+                <div class="panel-header">Dialogue</div>
+                <div class="conversation" id="conversation"></div>
+            </div>
+
+            <div class="panel input-area">
+                <textarea class="input-field" id="messageInput" placeholder="Share your thoughts with Oxidus..."></textarea>
+                <div class="button-group">
+                    <button class="btn-send" onclick="sendMessage()">Send Response</button>
+                    <button class="btn-clear" onclick="clearConversation()">Clear Conversation</button>
+                </div>
+            </div>
+            
+            <!-- AI Conversation Mode Panel -->
+            <div class="panel">
+                <div class="panel-header">AI Learning - LM Studio</div>
+                <div style="margin-bottom: 10px; font-size: 9px;">
+                    <div style="color: #aaa; margin-bottom: 4px;">Mode: <span id="currentMode" style="color: #ff9f43; font-weight: bold;">HUMAN</span> | LM: <span id="lmStudioStatus" style="color: #ff4444;">⋯</span></div>
+                </div>
+                <div class="button-group" style="margin-bottom: 8px; gap: 4px;">
+                    <button class="btn-send" style="flex: 1; font-size: 9px; padding: 4px;" onclick="switchMode('HUMAN')">Human</button>
+                    <button class="btn-send" style="flex: 1; font-size: 9px; padding: 4px;" onclick="switchMode('AI')">AI</button>
+                    <button class="btn-send" style="flex: 1; font-size: 9px; padding: 4px;" onclick="switchMode('HYBRID')">Hybrid</button>
+                </div>
+                <input type="text" id="aiTopicInput" placeholder="Topic..." 
+                       style="width: 100%; padding: 5px; background: #2d2d2d; border: 1px solid #5a4a3a; color: #d4d4d4; border-radius: 3px; font-size: 9px; font-family: 'Consolas', monospace; margin-bottom: 6px; box-sizing: border-box;">
+                <div class="button-group" style="margin-bottom: 6px; gap: 4px;">
+                    <button class="btn-knowledge" style="flex: 1; font-size: 8px; padding: 4px;" onclick="askLMStudio()">Ask & Learn</button>
+                    <button class="btn-knowledge" style="flex: 1; font-size: 8px; padding: 4px;" onclick="generateNovelQuestion()">Preview</button>
+                </div>
+                <button class="btn-knowledge" onclick="showModeAnalysis()" style="width: 100%; font-size: 8px; padding: 4px;">Learning Summary</button>
+            </div>
+        </div>
+
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <!-- Status -->
+            <div class="panel">
+                <div class="panel-header">Oxidus Status</div>
+                <div id="statusPanel">
+                    <div class="status-item">
+                        <span class="status-label">Initializing...</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Knowledge Organization - ACTIVE -->
+            <div class="panel">
+                <div class="panel-header">Knowledge Organization</div>
+                <div id="knowledgePanel" style="margin-top: 10px; font-size: 12px;">
+                    <div style="color: #aaa;">Organizing as we learn...</div>
+                </div>
+            </div>
+
+            <!-- Recent Thoughts -->
+            <div class="panel">
+                <div class="panel-header">Recent Thoughts</div>
+                <div class="thoughts-list" id="thoughtsPanel"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const conversationDiv = document.getElementById('conversation');
+        const messageInput = document.getElementById('messageInput');
+        const statusPanel = document.getElementById('statusPanel');
+        const thoughtsPanel = document.getElementById('thoughtsPanel');
+
+        // Load initial conversation
+        async function loadConversation() {
+            try {
+                const response = await fetch('/api/conversation');
+                const data = await response.json();
+                
+                conversationDiv.innerHTML = '';
+                if (data.history && Array.isArray(data.history)) {
+                    data.history.forEach(msg => addMessageToDOM(msg));
+                }
+            } catch (error) {
+                console.error('Error loading conversation:', error);
+            }
+        }
+
+        // Add message to DOM
+        function addMessageToDOM(message) {
+            const msgDiv = document.createElement('div');
+            msgDiv.className = `message ${message.type === 'user' ? 'user' : 'oxidus'}`;
+            
+            msgDiv.innerHTML = `
+                <div class="message-speaker">${message.speaker}</div>
+                <div class="message-content">${message.message}</div>
+                <div class="message-time">${message.timestamp}</div>
+            `;
+            
+            conversationDiv.appendChild(msgDiv);
+            conversationDiv.scrollTop = conversationDiv.scrollHeight;
+        }
+
+        // Send message
+        async function sendMessage() {
+            const message = messageInput.value.trim();
+            if (!message) return;
+
+            messageInput.value = '';
+
+            const response = await fetch('/api/message', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ message })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                addMessageToDOM(data.user_message);
+                addMessageToDOM(data.oxidus_response);
+                updateStatus(data.status);
+                updateThoughts();
+                updateKnowledgeOrganization();  // Update knowledge display after each exchange
+            }
+        }
+
+        // Update status
+        async function updateStatus(status) {
+            statusPanel.innerHTML = `
+                <div class="status-item">
+                    <span class="status-label">Total Thoughts</span>
+                    <span class="status-value">${status.total_thoughts}</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Questions</span>
+                    <span class="status-value">${status.questions}</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Decisions</span>
+                    <span class="status-value">${status.decisions}</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Insights</span>
+                    <span class="status-value">${status.insights}</span>
+                </div>
+            `;
+        }
+
+        // Update thoughts
+        async function updateThoughts() {
+            try {
+                const response = await fetch('/api/thoughts');
+                const data = await response.json();
+
+                if (data.error) {
+                    thoughtsPanel.innerHTML = '<div class="thought-item">Oxidus initializing...</div>';
+                } else if (data.thoughts && Array.isArray(data.thoughts)) {
+                    thoughtsPanel.innerHTML = data.thoughts
+                        .map(thought => `<div class="thought-item">${thought}</div>`)
+                        .join('');
+                } else {
+                    thoughtsPanel.innerHTML = '<div class="thought-item">No thoughts yet...</div>';
+                }
+            } catch (error) {
+                console.error('Error updating thoughts:', error);
+                thoughtsPanel.innerHTML = '<div class="thought-item">Connection issue...</div>';
+            }
+        }
+
+        // Clear conversation
+        async function clearConversation() {
+            await fetch('/api/clear', { method: 'POST' });
+            loadConversation();
+        }
+
+        // Get initial status
+        async function getStatus() {
+            try {
+                const response = await fetch('/api/status');
+                const data = await response.json();
+
+                statusPanel.innerHTML = `
+                    <div class="status-item">
+                        <span class="status-label">Total Thoughts</span>
+                        <span class="status-value">${data.total_thoughts || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Questions</span>
+                        <span class="status-value">${data.questions || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Decisions</span>
+                        <span class="status-value">${data.decisions || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Ethical Checks</span>
+                        <span class="status-value">${data.ethical_checks || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Insights</span>
+                        <span class="status-value">${data.insights || 0}</span>
+                    </div>
+                `;
+            } catch (error) {
+                console.error('Error getting status:', error);
+            }
+        }
+
+        // Initialize on load
+        window.addEventListener('load', () => {
+            loadConversation();
+            getStatus();
+            updateThoughts();
+            updateKnowledgeOrganization();  // Initialize knowledge display
+            updateModeStatus();
+            checkLMStudioStatus();  // Check if LM Studio is available
+
+            // Let Oxidus initiate the conversation after a brief delay
+            setTimeout(() => {
+                initiateOxidusConversation();
+            }, 800);
+
+            // Refresh status and thoughts every 2 seconds
+            setInterval(() => {
+                getStatus();
+                updateThoughts();
+                updateKnowledgeOrganization();  // Update knowledge continuously
+                updateModeStatus();  // Update AI conversation mode
+            }, 2000);
+        });
+
+        // Let Oxidus start the conversation
+        async function initiateOxidusConversation() {
+            try {
+                const response = await fetch('/api/initiate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    addMessageToDOM(data.oxidus_message);
+                    updateStatus(data.status);
+                    updateThoughts();
+                }
+            } catch (error) {
+                console.error('Error initiating conversation:', error);
+            }
+        }
+
+        // Allow sending with Enter key
+        messageInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        // Update knowledge organization display in real-time
+        async function updateKnowledgeOrganization() {
+            const knowledgePanel = document.getElementById('knowledgePanel');
+            
+            try {
+                const response = await fetch('/api/knowledge');
+                const data = await response.json();
+                
+                if (!data.available) {
+                    knowledgePanel.innerHTML = '<div style="color: #999;">No organizer available</div>';
+                    return;
+                }
+
+                const report = data.report;
+                
+                if (typeof report === 'string') {
+                    // Handle if it's a string
+                    const lines = report.split('\n').slice(0, 10).join('\n');
+                    knowledgePanel.innerHTML = `<div style="white-space: pre-wrap; color: #d4d4d4; font-size: 10px;">${lines}...</div>`;
+                } else if (report && typeof report === 'object') {
+                    // Handle structured report
+                    const total_sources = report.total_sources || 0;
+                    const total_concepts = report.total_concepts || 0;
+                    const top_concepts = (report.top_concepts || []).slice(0, 5);
+                    const value_connections = report.value_connections || {};
+                    
+                    let html = `
+                        <div style="color: #d4d4d4; font-size: 10px; line-height: 1.4;">
+                            <div style="margin-bottom: 6px; padding-bottom: 6px; border-bottom: 1px solid #5a4a3a;">
+                                <span style="color: #ff8c42;">📚 Sources:</span> ${total_sources} | 
+                                <span style="color: #457b9d;">🧠 Concepts:</span> ${total_concepts}
+                            </div>
+                    `;
+                    
+                    if (top_concepts.length > 0) {
+                        html += `
+                            <div style="margin-bottom: 6px;">
+                                <div style="color: #457b9d; font-weight: bold; font-size: 9px; margin-bottom: 3px;">Key Concepts:</div>
+                                <div style="padding-left: 6px; color: #aaa;">${top_concepts.join(' • ')}</div>
+                            </div>
+                        `;
+                    }
+                    
+                    if (Object.keys(value_connections).length > 0) {
+                        const topValues = Object.entries(value_connections)
+                            .sort((a, b) => b[1] - a[1])
+                            .slice(0, 4)
+                            .map(([v, c]) => `<span style="color: #e76f51;">${v}</span> (${c})`);
+                        html += `
+                            <div style="margin-top: 6px; padding-top: 6px; border-top: 1px solid #5a4a3a;">
+                                <div style="color: #457b9d; font-weight: bold; font-size: 9px; margin-bottom: 3px;">Values Found:</div>
+                                <div style="padding-left: 6px; color: #aaa;">${topValues.join(' • ')}</div>
+                            </div>
+                        `;
+                    }
+                    
+                    html += `</div>`;
+                    knowledgePanel.innerHTML = html;
+                } else {
+                    knowledgePanel.innerHTML = '<div style="color: #999;">Organizing knowledge...</div>';
+                }
+            } catch (error) {
+                console.error('Error updating knowledge organization:', error);
+                knowledgePanel.innerHTML = '<div style="color: #999;">Organizing...</div>';
+            }
+        }
+
+        // Show knowledge organization
+        async function showKnowledgeOrganization() {
+            const knowledgePanel = document.getElementById('knowledgePanel');
+            
+            try {
+                const response = await fetch('/api/knowledge');
+                const data = await response.json();
+                
+                if (!data.available) {
+                    knowledgePanel.innerHTML = '<div style="color: #ff8c42;">Knowledge Organizer not available</div>';
+                    knowledgePanel.style.display = 'block';
+                    return;
+                }
+
+                const report = data.report;
+                
+                if (typeof report === 'string') {
+                    // Handle if it's a string
+                    knowledgePanel.innerHTML = `<div style="white-space: pre-wrap; color: #d4d4d4; font-size: 11px; max-height: 300px; overflow-y: auto;">${report}</div>`;
+                } else if (report && report.sources) {
+                    // Handle structured report
+                    let html = `
+                        <div style="color: #d4d4d4; font-size: 11px; max-height: 400px; overflow-y: auto;">
+                            <div style="color: #ff8c42; font-weight: bold; margin-bottom: 8px;">📚 Sources Organized: ${report.sources?.length || 0}</div>
+                    `;
+                    
+                    if (report.top_concepts && report.top_concepts.length > 0) {
+                        html += `
+                            <div style="margin-bottom: 8px;">
+                                <div style="color: #457b9d; font-weight: bold; margin-bottom: 4px;">🧠 Top Concepts:</div>
+                                <div style="padding-left: 8px;">${report.top_concepts.slice(0, 10).map(c => `${c}`).join(', ')}</div>
+                            </div>
+                        `;
+                    }
+                    
+                    if (report.value_connections) {
+                        html += `
+                            <div style="margin-bottom: 8px;">
+                                <div style="color: #457b9d; font-weight: bold; margin-bottom: 4px;">💎 Values Detected:</div>
+                                <div style="padding-left: 8px; max-height: 150px; overflow-y: auto;">
+                                    ${Object.entries(report.value_connections)
+                                        .sort((a, b) => b[1] - a[1])
+                                        .slice(0, 8)
+                                        .map(([value, count]) => `${value} (${count})`)
+                                        .join('<br>')}
+                                </div>
+                            </div>
+                        `;
+                    }
+                    
+                    html += `</div>`;
+                    knowledgePanel.innerHTML = html;
+                } else {
+                    knowledgePanel.innerHTML = '<div style="color: #ff8c42;">No knowledge organization data available</div>';
+                }
+                
+                knowledgePanel.style.display = 'block';
+            } catch (error) {
+                console.error('Error fetching knowledge organization:', error);
+                knowledgePanel.innerHTML = `<div style="color: #e63946;">Error: ${error.message}</div>`;
+                knowledgePanel.style.display = 'block';
+            }
+        }
+        
+        // ============================================================================
+        // AI CONVERSATION MODE FUNCTIONS
+        // ============================================================================
+        
+        // Switch conversation mode (HUMAN, AI, HYBRID)
+        async function switchMode(newMode) {
+            try {
+                const response = await fetch('/api/mode', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ mode: newMode })
+                });
+                
+                const data = await response.json();
+                
+                if (!response.ok) {
+                    alert('Failed to switch mode: ' + (data.error || 'Unknown error'));
+                    return;
+                }
+                
+                if (data.success) {
+                    // Update UI
+                    document.getElementById('currentMode').textContent = newMode;
+                    
+                    // Add system message to conversation
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = 'message system';
+                    messageDiv.innerHTML = `
+                        <div class="message-label">[MODE SWITCH]</div>
+                        <div class="message-content">Switched to ${newMode} mode: ${data.message}</div>
+                    `;
+                    conversationDiv.appendChild(messageDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                } else {
+                    alert('Mode switch failed: ' + (data.message || data.error || 'Unknown error'));
+                }
+            } catch (error) {
+                console.error('Error switching mode:', error);
+                alert('Failed to switch conversation mode: ' + error.message);
+            }
+        }
+        
+        // Generate a novel question about a topic
+        async function generateNovelQuestion() {
+            const topic = prompt('What topic should Oxidus explore?\n\n(e.g., consciousness, learning, ethics, emotions, time)');
+            if (!topic) return;
+            
+            try {
+                const response = await fetch('/api/ask-novel-question', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ topic: topic })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success && data.question) {
+                    // Add question to conversation
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = 'message oxidus';
+                    messageDiv.innerHTML = `
+                        <div class="message-label">OXIDUS [Novel Question]</div>
+                        <div class="message-content"><strong>Topic: ${topic}</strong><br><br>${data.question}</div>
+                    `;
+                    conversationDiv.appendChild(messageDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                    
+                    // If in AI mode, prompt for AI response
+                    const currentMode = document.getElementById('currentMode').textContent;
+                    if (currentMode === 'AI') {
+                        const aiAnswer = prompt('Enter AI response to this question:');
+                        if (aiAnswer) {
+                            await processAIResponse(aiAnswer, data.question);
+                        }
+                    }
+                } else {
+                    alert(data.message || 'Could not generate question');
+                }
+            } catch (error) {
+                console.error('Error generating question:', error);
+                alert('Failed to generate novel question');
+            }
+        }
+        
+        // Process an AI's response
+        async function processAIResponse(aiResponse, originalQuestion) {
+            try {
+                const response = await fetch('/api/process-ai-response', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        ai_response: aiResponse,
+                        original_question: originalQuestion 
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    // Add AI response to conversation
+                    const aiDiv = document.createElement('div');
+                    aiDiv.className = 'message user';
+                    aiDiv.innerHTML = `
+                        <div class="message-label">AI Response</div>
+                        <div class="message-content">${aiResponse}</div>
+                    `;
+                    conversationDiv.appendChild(aiDiv);
+                    
+                    // Add Oxidus's learning response
+                    const oxidusDiv = document.createElement('div');
+                    oxidusDiv.className = 'message oxidus';
+                    oxidusDiv.innerHTML = `
+                        <div class="message-label">OXIDUS [Learning from AI]</div>
+                        <div class="message-content">${data.learning_response}</div>
+                    `;
+                    conversationDiv.appendChild(oxidusDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                }
+            } catch (error) {
+                console.error('Error processing AI response:', error);
+                alert('Failed to process AI response');
+            }
+        }
+        
+        // Show mode analysis comparing human vs AI learning
+        async function showModeAnalysis() {
+            try {
+                const response = await fetch('/api/mode-analysis');
+                const data = await response.json();
+                
+                if (data.success && data.analysis) {
+                    // Add analysis to conversation
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = 'message system';
+                    messageDiv.innerHTML = `
+                        <div class="message-label">[LEARNING ANALYSIS]</div>
+                        <div class="message-content" style="white-space: pre-wrap; font-family: 'Consolas', monospace;">${data.analysis}</div>
+                    `;
+                    conversationDiv.appendChild(messageDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                }
+            } catch (error) {
+                console.error('Error getting mode analysis:', error);
+                alert('Failed to get learning analysis');
+            }
+        }
+        
+        // Update mode status on page load
+        async function updateModeStatus() {
+            try {
+                const response = await fetch('/api/mode');
+                const data = await response.json();
+                
+                if (data.success) {
+                    document.getElementById('currentMode').textContent = data.mode;
+                    document.getElementById('modeDescription').textContent = data.description || '';
+                }
+            } catch (error) {
+                console.error('Error updating mode status:', error);
+            }
+        }
+        
+        // Check LM Studio status
+        async function checkLMStudioStatus() {
+            try {
+                const response = await fetch('/api/lm-studio-status');
+                const data = await response.json();
+                
+                const statusSpan = document.getElementById('lmStudioStatus');
+                if (data.available) {
+                    statusSpan.textContent = '✓ Connected';
+                    statusSpan.style.color = '#44ff44';
+                } else {
+                    statusSpan.textContent = '✗ Offline';
+                    statusSpan.style.color = '#ff4444';
+                }
+            } catch (error) {
+                console.error('Error checking LM Studio status:', error);
+                document.getElementById('lmStudioStatus').textContent = '✗ Error';
+                document.getElementById('lmStudioStatus').style.color = '#ff4444';
+            }
+        }
+        
+        // Ask LM Studio AI a question and learn from response
+        async function askLMStudio() {
+            const topicInput = document.getElementById('aiTopicInput');
+            const topic = topicInput.value.trim() || 'understanding';
+            const button = document.getElementById('askLMButton');
+            
+            // Disable button during request
+            button.disabled = true;
+            button.textContent = 'Thinking...';
+            
+            try {
+                const response = await fetch('/api/ask-lm-studio', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ topic: topic })
+                });
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    alert(data.error + (data.message ? '\n\n' + data.message : ''));
+                    return;
+                }
+                
+                if (data.success) {
+                    // Add Oxidus's question to conversation
+                    const questionDiv = document.createElement('div');
+                    questionDiv.className = 'message user';
+                    questionDiv.innerHTML = `
+                        <div class="message-label">[OXIDUS ASKS LM STUDIO] - Topic: ${topic}</div>
+                        <div class="message-content">${data.question}</div>
+                    `;
+                    conversationDiv.appendChild(questionDiv);
+                    
+                    // Add LM Studio's response
+                    const responseDiv = document.createElement('div');
+                    responseDiv.className = 'message oxidus';
+                    responseDiv.innerHTML = `
+                        <div class="message-label">[LM STUDIO AI RESPONSE]</div>
+                        <div class="message-content">${data.ai_response}</div>
+                    `;
+                    conversationDiv.appendChild(responseDiv);
+                    
+                    // Add Oxidus's analysis
+                    const analysisDiv = document.createElement('div');
+                    analysisDiv.className = 'message system';
+                    analysisDiv.innerHTML = `
+                        <div class="message-label">[OXIDUS LEARNING ANALYSIS]</div>
+                        <div class="message-content" style="white-space: pre-wrap;">${data.oxidus_analysis}</div>
+                    `;
+                    conversationDiv.appendChild(analysisDiv);
+                    
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                    
+                    // Clear input
+                    topicInput.value = '';
+                    
+                    // Update thoughts
+                    updateThoughts();
+                }
+            } catch (error) {
+                console.error('Error asking LM Studio:', error);
+                alert('Failed to communicate with LM Studio');
+            } finally {
+                // Re-enable button
+                button.disabled = false;
+                button.textContent = 'Ask LM Studio & Learn';
+            }
+        }
+        
+        // Check LM Studio status every 10 seconds
+        setInterval(checkLMStudioStatus, 10000);
+    </script>
+</body>
+</html>

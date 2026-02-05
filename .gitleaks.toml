@@ -1,0 +1,14 @@
+title = "gitleaks config"
+
+[allowlist]
+paths = [
+  "^\.venv/",
+  "^__pycache__/"
+]
+
+[[rules]]
+# Keep built-in rules and add a simple high-signal rule for env-style secrets.
+id = "env-secret"
+description = "Generic env secret assignment"
+regex = '''(?i)(?:^|\s)(?:ADMIN_PASSWORD|JWT_SECRET|API_KEY|SECRET|TOKEN)\s*[:=]\s*[^\s]+'''
+path = '''(?i).*\.(env|ini|cfg|yaml|yml|json|py|js|ts|html|md|txt)$'''
