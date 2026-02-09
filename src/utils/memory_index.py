@@ -71,6 +71,14 @@ class MemoryIndex:
             'understanding': r'\b(understand|comprehend|grasp|realize)\w*',
             'experience': r'\b(experience|lived|felt|went\s+through)\w*',
         }
+        self._stopwords = {
+            'the', 'and', 'that', 'with', 'from', 'this', 'have', 'what', 'your', 'about',
+            'when', 'where', 'which', 'their', 'there', 'would', 'could', 'should', 'just',
+            'like', 'want', 'need', 'been', 'into', 'than', 'then', 'them', 'they', 'you',
+            'are', 'was', 'were', 'will', 'can', 'how', 'why', 'who', 'for', 'not', 'but',
+            'its', 'it', 'our', 'out', 'use', 'using', 'used', 'also', 'may', 'might',
+            'more', 'most', 'such', 'these', 'those', 'over', 'under', 'between', 'within'
+        }
     
     def extract_topics(self, text: str) -> List[str]:
         """Extract topics from text using pattern matching."""
@@ -80,8 +88,25 @@ class MemoryIndex:
         for concept, pattern in self.concept_patterns.items():
             if re.search(pattern, text_lower):
                 topics.append(concept)
-        
-        return topics
+
+        if topics:
+            return topics
+
+        tokens = re.findall(r"[a-zA-Z]{4,}", text_lower)
+        if not tokens:
+            return []
+
+        counts = {}
+        for token in tokens:
+            if token in self._stopwords:
+                continue
+            counts[token] = counts.get(token, 0) + 1
+
+        if not counts:
+            return []
+
+        sorted_tokens = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))
+        return [token for token, _ in sorted_tokens[:6]]
     
     def add_memory(self, content: str, memory_type: str, topics: List[str] = None) -> MemoryNode:
         """Add a new memory to the index."""

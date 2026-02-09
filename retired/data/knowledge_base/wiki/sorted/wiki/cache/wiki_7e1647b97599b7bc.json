@@ -1,0 +1,849 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "21787470": {
+          "pageid": 21787470,
+          "ns": 0,
+          "title": "Alpha particle",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1984 Moroccan radiation accident"
+            },
+            {
+              "ns": 0,
+              "title": "1990 Clinic of Zaragoza radiotherapy accident"
+            },
+            {
+              "ns": 0,
+              "title": "1996 San Juan de Dios radiotherapy accident"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustic radiation force"
+            },
+            {
+              "ns": 0,
+              "title": "Actinide"
+            },
+            {
+              "ns": 0,
+              "title": "Actinium"
+            },
+            {
+              "ns": 0,
+              "title": "Acute radiation syndrome"
+            },
+            {
+              "ns": 0,
+              "title": "Air"
+            },
+            {
+              "ns": 0,
+              "title": "Alexander Litvinenko"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha-particle spectroscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha decay"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha nuclide"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha process"
+            },
+            {
+              "ns": 0,
+              "title": "Americium-241"
+            },
+            {
+              "ns": 0,
+              "title": "Antimatter"
+            },
+            {
+              "ns": 0,
+              "title": "Antistatic devices"
+            },
+            {
+              "ns": 0,
+              "title": "Antonius van den Broek"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Askaryan radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic number"
+            },
+            {
+              "ns": 0,
+              "title": "Background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Beryllium-8"
+            },
+            {
+              "ns": 0,
+              "title": "Beta decay"
+            },
+            {
+              "ns": 0,
+              "title": "Beta particle"
+            },
+            {
+              "ns": 0,
+              "title": "Beta radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Black-body radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Bladder cancer"
+            },
+            {
+              "ns": 0,
+              "title": "Boson"
+            },
+            {
+              "ns": 0,
+              "title": "Bremsstrahlung"
+            },
+            {
+              "ns": 0,
+              "title": "Brookhaven National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium"
+            },
+            {
+              "ns": 0,
+              "title": "Cell (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Charge radius"
+            },
+            {
+              "ns": 0,
+              "title": "Cherenkov radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Chromosome"
+            },
+            {
+              "ns": 0,
+              "title": "Chronic radiation syndrome"
+            },
+            {
+              "ns": 0,
+              "title": "Cloud chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Cluster decay"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic ray"
+            },
+            {
+              "ns": 0,
+              "title": "Coulomb's law"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclotron"
+            },
+            {
+              "ns": 0,
+              "title": "DK (publisher)"
+            },
+            {
+              "ns": 0,
+              "title": "Dark radiation"
+            },
+            {
+              "ns": 0,
+              "title": "David Christian (historian)"
+            },
+            {
+              "ns": 0,
+              "title": "Delta ray"
+            },
+            {
+              "ns": 0,
+              "title": "Diffusing alpha emitters radiation therapy"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dosimetry"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic random access memory"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's energy budget"
+            },
+            {
+              "ns": 0,
+              "title": "Electric charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric spark"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic force"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation and health"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electronvolt"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary charge"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Ernest Rutherford"
+            },
+            {
+              "ns": 0,
+              "title": "Federal Security Service of the Russian Federation"
+            },
+            {
+              "ns": 0,
+              "title": "Fissile"
+            },
+            {
+              "ns": 0,
+              "title": "Fissionable"
+            },
+            {
+              "ns": 0,
+              "title": "Fundamental interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Geiger–Nuttall law"
+            },
+            {
+              "ns": 0,
+              "title": "Goiânia accident"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Greek alphabet"
+            },
+            {
+              "ns": 0,
+              "title": "Half-life"
+            },
+            {
+              "ns": 0,
+              "title": "Hans Geiger"
+            },
+            {
+              "ns": 0,
+              "title": "Health physics"
+            },
+            {
+              "ns": 0,
+              "title": "Heat transfer"
+            },
+            {
+              "ns": 0,
+              "title": "Helion (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Helium-3"
+            },
+            {
+              "ns": 0,
+              "title": "Helium-4"
+            },
+            {
+              "ns": 0,
+              "title": "Henri Becquerel"
+            },
+            {
+              "ns": 0,
+              "title": "IEEE Transactions on Electron Devices"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Intel"
+            },
+            {
+              "ns": 0,
+              "title": "Invariant mass"
+            },
+            {
+              "ns": 0,
+              "title": "Ion"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Ionizing radiation"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "John Wiley & Sons"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic energy"
+            },
+            {
+              "ns": 0,
+              "title": "Laser safety"
+            },
+            {
+              "ns": 0,
+              "title": "Lasers and aviation safety"
+            },
+            {
+              "ns": 0,
+              "title": "Lead"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Linear energy transfer"
+            },
+            {
+              "ns": 0,
+              "title": "List of alpha-emitting nuclides"
+            },
+            {
+              "ns": 0,
+              "title": "List of civilian radiation accidents"
+            },
+            {
+              "ns": 0,
+              "title": "Long-range alpha"
+            },
+            {
+              "ns": 0,
+              "title": "Lung cancer"
+            },
+            {
+              "ns": 0,
+              "title": "Marie Curie"
+            },
+            {
+              "ns": 0,
+              "title": "Mass number"
+            },
+            {
+              "ns": 0,
+              "title": "MeV"
+            },
+            {
+              "ns": 0,
+              "title": "Medical radiography"
+            },
+            {
+              "ns": 0,
+              "title": "Micrometre"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave"
+            },
+            {
+              "ns": 0,
+              "title": "National Institute of Standards and Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Nature (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "New York City"
+            },
+            {
+              "ns": 0,
+              "title": "Non-ionizing radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fission"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear force"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear transmutation"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleon"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Particle"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Particle physics"
+            },
+            {
+              "ns": 0,
+              "title": "Particle radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Particle statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Penetration depth"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Chrisp"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphorescence"
+            },
+            {
+              "ns": 0,
+              "title": "PhysOrg"
+            },
+            {
+              "ns": 0,
+              "title": "Physics in the Classical Limit"
+            },
+            {
+              "ns": 0,
+              "title": "Plutonium-238"
+            },
+            {
+              "ns": 0,
+              "title": "Polonium-210"
+            },
+            {
+              "ns": 0,
+              "title": "Potential well"
+            },
+            {
+              "ns": 0,
+              "title": "Prostate cancer"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum tunneling"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation damage"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation exposure"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation hardening"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation poisoning"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation protection"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation therapy"
+            },
+            {
+              "ns": 0,
+              "title": "Radio wave"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive contamination"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive source"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactivity in the life sciences"
+            },
+            {
+              "ns": 0,
+              "title": "Radiobiology"
+            },
+            {
+              "ns": 0,
+              "title": "Radioisotope thermoelectric generator"
+            },
+            {
+              "ns": 0,
+              "title": "Radionuclide"
+            },
+            {
+              "ns": 0,
+              "title": "Radionuclides"
+            },
+            {
+              "ns": 0,
+              "title": "Radium"
+            },
+            {
+              "ns": 0,
+              "title": "Radium-223"
+            },
+            {
+              "ns": 0,
+              "title": "Radium-226"
+            },
+            {
+              "ns": 0,
+              "title": "Radon"
+            },
+            {
+              "ns": 0,
+              "title": "Rebecca Wragg Sykes"
+            },
+            {
+              "ns": 0,
+              "title": "Reduced Planck constant"
+            },
+            {
+              "ns": 0,
+              "title": "Relative biological effectiveness"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic Heavy Ion Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Rutherford scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Rutherford scattering experiments"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "STAR collaboration"
+            },
+            {
+              "ns": 0,
+              "title": "Science (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Sievert"
+            },
+            {
+              "ns": 0,
+              "title": "Skin"
+            },
+            {
+              "ns": 0,
+              "title": "Smoke detector"
+            },
+            {
+              "ns": 0,
+              "title": "Soft error"
+            },
+            {
+              "ns": 0,
+              "title": "Space probe"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Spin (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Spontaneous fission"
+            },
+            {
+              "ns": 0,
+              "title": "Starlight"
+            },
+            {
+              "ns": 0,
+              "title": "Static cling"
+            },
+            {
+              "ns": 0,
+              "title": "Sunlight"
+            },
+            {
+              "ns": 0,
+              "title": "Synchrotron"
+            },
+            {
+              "ns": 0,
+              "title": "Synchrotron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium-104"
+            },
+            {
+              "ns": 0,
+              "title": "Ternary fission"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Royds"
+            },
+            {
+              "ns": 0,
+              "title": "Thorium"
+            },
+            {
+              "ns": 0,
+              "title": "Thorotrast"
+            },
+            {
+              "ns": 0,
+              "title": "Tobacco and health"
+            },
+            {
+              "ns": 0,
+              "title": "Transuranic"
+            },
+            {
+              "ns": 0,
+              "title": "Triple-alpha process"
+            },
+            {
+              "ns": 0,
+              "title": "U.S. Department of Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Unruh radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Velocity"
+            },
+            {
+              "ns": 0,
+              "title": "W. H. Freeman"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless device radiation and health"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless electronic devices and health"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323594.4635768
+}

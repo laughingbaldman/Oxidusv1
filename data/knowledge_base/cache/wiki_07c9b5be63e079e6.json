@@ -1,0 +1,77 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1795597": {
+          "pageid": 1795597,
+          "ns": 0,
+          "title": "Acetone",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Yangonin"
+            },
+            {
+              "ns": 0,
+              "title": "Zaleplon"
+            },
+            {
+              "ns": 0,
+              "title": "Zapizolam"
+            },
+            {
+              "ns": 0,
+              "title": "Zolazepam"
+            },
+            {
+              "ns": 0,
+              "title": "Zolpidem"
+            },
+            {
+              "ns": 0,
+              "title": "Zomebazam"
+            },
+            {
+              "ns": 0,
+              "title": "Zopiclone"
+            },
+            {
+              "ns": 0,
+              "title": "Zuranolone"
+            },
+            {
+              "ns": 0,
+              "title": "Zymostenol"
+            },
+            {
+              "ns": 0,
+              "title": "Zymosterol"
+            },
+            {
+              "ns": 0,
+              "title": "Zymosterone"
+            },
+            {
+              "ns": 0,
+              "title": "Α-Ethyl-α-methylthiobutyrolactone"
+            },
+            {
+              "ns": 0,
+              "title": "Α-Pinene"
+            },
+            {
+              "ns": 0,
+              "title": "Β-hydroxybutyric acid"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357724.6097584
+}

@@ -1,0 +1,577 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "92377": {
+          "pageid": 92377,
+          "ns": 0,
+          "title": "Electromagnet",
+          "links": [
+            {
+              "ns": 0,
+              "title": "AC motor"
+            },
+            {
+              "ns": 0,
+              "title": "Actuator"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Ampere's circuital law"
+            },
+            {
+              "ns": 0,
+              "title": "Ampere's law"
+            },
+            {
+              "ns": 0,
+              "title": "Ampere-turn"
+            },
+            {
+              "ns": 0,
+              "title": "André-Marie Ampère"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Biot–Savart law"
+            },
+            {
+              "ns": 0,
+              "title": "Bitter electromagnet"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Coercivity"
+            },
+            {
+              "ns": 0,
+              "title": "Conventional current"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Cryostat"
+            },
+            {
+              "ns": 0,
+              "title": "Degaussing"
+            },
+            {
+              "ns": 0,
+              "title": "Dimensionless"
+            },
+            {
+              "ns": 0,
+              "title": "Diode"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Direct current"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Eddy current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric arc"
+            },
+            {
+              "ns": 0,
+              "title": "Electric bell"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric generator"
+            },
+            {
+              "ns": 0,
+              "title": "Electric motor"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic coil"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Electromechanical"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic component"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Electropermanent magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Explosively pumped flux compression generator"
+            },
+            {
+              "ns": 0,
+              "title": "Faraday's law of induction"
+            },
+            {
+              "ns": 0,
+              "title": "Felix Bloch"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrimagnetic"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrite core"
+            },
+            {
+              "ns": 0,
+              "title": "Ferromagnetic"
+            },
+            {
+              "ns": 0,
+              "title": "Ferromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Field coil"
+            },
+            {
+              "ns": 0,
+              "title": "Field line"
+            },
+            {
+              "ns": 0,
+              "title": "Finite element method"
+            },
+            {
+              "ns": 0,
+              "title": "Florida"
+            },
+            {
+              "ns": 0,
+              "title": "Flyback diode"
+            },
+            {
+              "ns": 0,
+              "title": "Francis Bitter"
+            },
+            {
+              "ns": 0,
+              "title": "Freewheeling diode"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Galvanometer"
+            },
+            {
+              "ns": 0,
+              "title": "Hans Christian Ørsted"
+            },
+            {
+              "ns": 0,
+              "title": "Hard disk"
+            },
+            {
+              "ns": 0,
+              "title": "Headphone"
+            },
+            {
+              "ns": 0,
+              "title": "Helix"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperthermia therapy"
+            },
+            {
+              "ns": 0,
+              "title": "Hysteresis"
+            },
+            {
+              "ns": 0,
+              "title": "Hysteresis loop"
+            },
+            {
+              "ns": 0,
+              "title": "Hysteresis loss"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Implosion (mechanical process)"
+            },
+            {
+              "ns": 0,
+              "title": "Inductance"
+            },
+            {
+              "ns": 0,
+              "title": "Induction heating"
+            },
+            {
+              "ns": 0,
+              "title": "Inductor"
+            },
+            {
+              "ns": 0,
+              "title": "Insulator (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "Johann Schweigger"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Henry"
+            },
+            {
+              "ns": 0,
+              "title": "LNCMI"
+            },
+            {
+              "ns": 0,
+              "title": "Lamination"
+            },
+            {
+              "ns": 0,
+              "title": "Leakage flux"
+            },
+            {
+              "ns": 0,
+              "title": "Lev Landau"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid helium"
+            },
+            {
+              "ns": 0,
+              "title": "Lorentz force"
+            },
+            {
+              "ns": 0,
+              "title": "Loudspeaker"
+            },
+            {
+              "ns": 0,
+              "title": "MRI"
+            },
+            {
+              "ns": 0,
+              "title": "Maglev train"
+            },
+            {
+              "ns": 0,
+              "title": "Magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic bearing"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic core"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic domain"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic domains"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic energy"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field lines"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic flux"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic levitation"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic lock"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic recording"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic resonance imaging"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic separation"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetomotive force"
+            },
+            {
+              "ns": 0,
+              "title": "Mass spectrometer"
+            },
+            {
+              "ns": 0,
+              "title": "Metal fatigue"
+            },
+            {
+              "ns": 0,
+              "title": "Microprocessor"
+            },
+            {
+              "ns": 0,
+              "title": "National High Magnetic Field Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Nonlinear equation"
+            },
+            {
+              "ns": 0,
+              "title": "Nonlinear system"
+            },
+            {
+              "ns": 0,
+              "title": "Number of turns"
+            },
+            {
+              "ns": 0,
+              "title": "Numerical analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Oersted's law"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Permanent magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Permeability (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Pierre-Ernest Weiss"
+            },
+            {
+              "ns": 0,
+              "title": "Positive charge"
+            },
+            {
+              "ns": 0,
+              "title": "Power supply"
+            },
+            {
+              "ns": 0,
+              "title": "Pulsed field magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrupole magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Relay"
+            },
+            {
+              "ns": 0,
+              "title": "Reluctance"
+            },
+            {
+              "ns": 0,
+              "title": "Remanence"
+            },
+            {
+              "ns": 0,
+              "title": "Right-hand rule"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Saturation (magnetic)"
+            },
+            {
+              "ns": 0,
+              "title": "Shaped charge"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon steel"
+            },
+            {
+              "ns": 0,
+              "title": "Soft ferrite"
+            },
+            {
+              "ns": 0,
+              "title": "Soft magnetic material"
+            },
+            {
+              "ns": 0,
+              "title": "Solenoid"
+            },
+            {
+              "ns": 0,
+              "title": "Stator"
+            },
+            {
+              "ns": 0,
+              "title": "Superconducting magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Tallahassee"
+            },
+            {
+              "ns": 0,
+              "title": "Tape recorder"
+            },
+            {
+              "ns": 0,
+              "title": "Telegraph sounder"
+            },
+            {
+              "ns": 0,
+              "title": "Tensile stress"
+            },
+            {
+              "ns": 0,
+              "title": "Tesla (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "VCR"
+            },
+            {
+              "ns": 0,
+              "title": "Varnish"
+            },
+            {
+              "ns": 0,
+              "title": "Vector (mathematics and physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Waste heat"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Werner Heisenberg"
+            },
+            {
+              "ns": 0,
+              "title": "William Sturgeon"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324473.932354
+}

@@ -1,0 +1,849 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "74327": {
+          "pageid": 74327,
+          "ns": 0,
+          "title": "Principle of relativity",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ADM formalism"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute time"
+            },
+            {
+              "ns": 0,
+              "title": "Aether theories"
+            },
+            {
+              "ns": 0,
+              "title": "Albert A. Michelson"
+            },
+            {
+              "ns": 0,
+              "title": "Albert Einstein"
+            },
+            {
+              "ns": 0,
+              "title": "Alcubierre drive"
+            },
+            {
+              "ns": 0,
+              "title": "Alexander Friedmann"
+            },
+            {
+              "ns": 0,
+              "title": "Annus Mirabilis Papers"
+            },
+            {
+              "ns": 0,
+              "title": "Apsidal precession"
+            },
+            {
+              "ns": 0,
+              "title": "Arnold Sommerfeld"
+            },
+            {
+              "ns": 0,
+              "title": "Arthur Eddington"
+            },
+            {
+              "ns": 0,
+              "title": "BKL singularity"
+            },
+            {
+              "ns": 0,
+              "title": "BSSN formalism"
+            },
+            {
+              "ns": 0,
+              "title": "Background independence"
+            },
+            {
+              "ns": 0,
+              "title": "Bell's spaceship paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Biquaternion"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Brans–Dicke theory"
+            },
+            {
+              "ns": 0,
+              "title": "Centrifugal force (fictitious)"
+            },
+            {
+              "ns": 0,
+              "title": "Charles W. Misner"
+            },
+            {
+              "ns": 0,
+              "title": "Classical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Conjugate diameters"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation law (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation of energy"
+            },
+            {
+              "ns": 0,
+              "title": "Contradiction"
+            },
+            {
+              "ns": 0,
+              "title": "Coordinate transformation"
+            },
+            {
+              "ns": 0,
+              "title": "Coriolis force"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic microwave background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Covariance and contravariance of vectors"
+            },
+            {
+              "ns": 0,
+              "title": "Curvature"
+            },
+            {
+              "ns": 0,
+              "title": "David Hilbert"
+            },
+            {
+              "ns": 0,
+              "title": "Dialogue Concerning the Two Chief World Systems"
+            },
+            {
+              "ns": 0,
+              "title": "Differential geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Doubly special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamics (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Arthur Milne"
+            },
+            {
+              "ns": 0,
+              "title": "Edward W. Morley"
+            },
+            {
+              "ns": 0,
+              "title": "Ehrenfest paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein cross"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein field equations"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein rings"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Ellis wormhole"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Equivalence principle"
+            },
+            {
+              "ns": 0,
+              "title": "Ernst equation"
+            },
+            {
+              "ns": 0,
+              "title": "Event horizon"
+            },
+            {
+              "ns": 0,
+              "title": "Exact solutions in general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Fictitious forces"
+            },
+            {
+              "ns": 0,
+              "title": "Formulations of special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Four-momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Frame-dragging"
+            },
+            {
+              "ns": 0,
+              "title": "Frame of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Frames of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Friedmann equations"
+            },
+            {
+              "ns": 0,
+              "title": "Friedmann–Lemaître–Robertson–Walker metric"
+            },
+            {
+              "ns": 0,
+              "title": "Fritz Zwicky"
+            },
+            {
+              "ns": 0,
+              "title": "GEO600"
+            },
+            {
+              "ns": 0,
+              "title": "Galilean invariance"
+            },
+            {
+              "ns": 0,
+              "title": "Galilean relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Galilean transformation"
+            },
+            {
+              "ns": 0,
+              "title": "Galileo's ship"
+            },
+            {
+              "ns": 0,
+              "title": "Galileo Galilei"
+            },
+            {
+              "ns": 0,
+              "title": "General relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Geodesics in general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Geodetic effect"
+            },
+            {
+              "ns": 0,
+              "title": "Geometry"
+            },
+            {
+              "ns": 0,
+              "title": "George Francis FitzGerald"
+            },
+            {
+              "ns": 0,
+              "title": "Georges Lemaître"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational-wave astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational-wave observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational lens"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational redshift"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational wave"
+            },
+            {
+              "ns": 0,
+              "title": "Gustav Herglotz"
+            },
+            {
+              "ns": 0,
+              "title": "Gödel metric"
+            },
+            {
+              "ns": 0,
+              "title": "Hamilton–Jacobi–Einstein equation"
+            },
+            {
+              "ns": 0,
+              "title": "Hendrik Lorentz"
+            },
+            {
+              "ns": 0,
+              "title": "Henri Poincaré"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Bondi"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Minkowski"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Weyl"
+            },
+            {
+              "ns": 0,
+              "title": "Hippolyte Fizeau"
+            },
+            {
+              "ns": 0,
+              "title": "History of special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Howard P. Robertson"
+            },
+            {
+              "ns": 0,
+              "title": "Hulse–Taylor binary"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbolic orthogonality"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbolic quaternion"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Igor Dmitriyevich Novikov"
+            },
+            {
+              "ns": 0,
+              "title": "Inertial frame of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Inertial reference frame"
+            },
+            {
+              "ns": 0,
+              "title": "Interior Schwarzschild metric"
+            },
+            {
+              "ns": 0,
+              "title": "Introduction to general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Invariant (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Invariant mass"
+            },
+            {
+              "ns": 0,
+              "title": "John Archibald Wheeler"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Hooton Taylor Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Larmor"
+            },
+            {
+              "ns": 0,
+              "title": "Jürgen Ehlers"
+            },
+            {
+              "ns": 0,
+              "title": "Kaluza–Klein theory"
+            },
+            {
+              "ns": 0,
+              "title": "Karl Schwarzschild"
+            },
+            {
+              "ns": 0,
+              "title": "Kasner metric"
+            },
+            {
+              "ns": 0,
+              "title": "Kerr metric"
+            },
+            {
+              "ns": 0,
+              "title": "Kerr–Newman metric"
+            },
+            {
+              "ns": 0,
+              "title": "Kip Thorne"
+            },
+            {
+              "ns": 0,
+              "title": "LIGO"
+            },
+            {
+              "ns": 0,
+              "title": "LIGO Scientific Collaboration"
+            },
+            {
+              "ns": 0,
+              "title": "LISA Pathfinder"
+            },
+            {
+              "ns": 0,
+              "title": "Ladder paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Lemaître–Tolman metric"
+            },
+            {
+              "ns": 0,
+              "title": "Length contraction"
+            },
+            {
+              "ns": 0,
+              "title": "Lense–Thirring precession"
+            },
+            {
+              "ns": 0,
+              "title": "Light cone"
+            },
+            {
+              "ns": 0,
+              "title": "Linearized gravity"
+            },
+            {
+              "ns": 0,
+              "title": "List of contributors to general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "List of textbooks on relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Lorentz covariance"
+            },
+            {
+              "ns": 0,
+              "title": "Lorentz transformation"
+            },
+            {
+              "ns": 0,
+              "title": "Lorentz transformations"
+            },
+            {
+              "ns": 0,
+              "title": "Luminiferous aether"
+            },
+            {
+              "ns": 0,
+              "title": "Mach's principle"
+            },
+            {
+              "ns": 0,
+              "title": "Mass in special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Mass–energy equivalence"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematics of general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Matter"
+            },
+            {
+              "ns": 0,
+              "title": "Max Abraham"
+            },
+            {
+              "ns": 0,
+              "title": "Max Born"
+            },
+            {
+              "ns": 0,
+              "title": "Max Planck"
+            },
+            {
+              "ns": 0,
+              "title": "Max von Laue"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell's equations"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell equations"
+            },
+            {
+              "ns": 0,
+              "title": "Milne model"
+            },
+            {
+              "ns": 0,
+              "title": "Minkowski diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Minkowski space"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's laws"
+            },
+            {
+              "ns": 0,
+              "title": "Newtonian mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Noether's theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Non-inertial reference frame"
+            },
+            {
+              "ns": 0,
+              "title": "Numerical relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Ozsváth–Schücking metric"
+            },
+            {
+              "ns": 0,
+              "title": "Parameterized post-Newtonian formalism"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Dirac"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Ehrenfest"
+            },
+            {
+              "ns": 0,
+              "title": "Penrose diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Physical law"
+            },
+            {
+              "ns": 0,
+              "title": "Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Postulate"
+            },
+            {
+              "ns": 0,
+              "title": "Postulates of special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Pp-wave spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Preferred frame"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of covariance"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of locality"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of uniformity"
+            },
+            {
+              "ns": 0,
+              "title": "Proper acceleration"
+            },
+            {
+              "ns": 0,
+              "title": "Proper length"
+            },
+            {
+              "ns": 0,
+              "title": "Proper time"
+            },
+            {
+              "ns": 0,
+              "title": "Pulsar timing array"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Rainer Weiss"
+            },
+            {
+              "ns": 0,
+              "title": "Rapidity"
+            },
+            {
+              "ns": 0,
+              "title": "Raychaudhuri equation"
+            },
+            {
+              "ns": 0,
+              "title": "Reissner–Nordström metric"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic Doppler effect"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic disk"
+            },
+            {
+              "ns": 0,
+              "title": "Relativity of simultaneity"
+            },
+            {
+              "ns": 0,
+              "title": "Richard C. Tolman"
+            },
+            {
+              "ns": 0,
+              "title": "Riemannian geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Geroch"
+            },
+            {
+              "ns": 0,
+              "title": "Roger Penrose"
+            },
+            {
+              "ns": 0,
+              "title": "Rotating reference frame"
+            },
+            {
+              "ns": 0,
+              "title": "Roy Kerr"
+            },
+            {
+              "ns": 0,
+              "title": "Russell Alan Hulse"
+            },
+            {
+              "ns": 0,
+              "title": "Schwarzschild metric"
+            },
+            {
+              "ns": 0,
+              "title": "Science"
+            },
+            {
+              "ns": 0,
+              "title": "Shapiro time delay"
+            },
+            {
+              "ns": 0,
+              "title": "Shing-Tung Yau"
+            },
+            {
+              "ns": 0,
+              "title": "Spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Hawking"
+            },
+            {
+              "ns": 0,
+              "title": "Subrahmanyan Chandrasekhar"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Synchrotron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Taub–NUT space"
+            },
+            {
+              "ns": 0,
+              "title": "Tensor"
+            },
+            {
+              "ns": 0,
+              "title": "Terrell rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Tests of general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas precession"
+            },
+            {
+              "ns": 0,
+              "title": "Time dilation"
+            },
+            {
+              "ns": 0,
+              "title": "Tolman–Oppenheimer–Volkoff equation"
+            },
+            {
+              "ns": 0,
+              "title": "Twin paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Two-body problem in general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Van Stockum dust"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo interferometer"
+            },
+            {
+              "ns": 0,
+              "title": "Weyl−Lewis−Papapetrou coordinates"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Willem de Sitter"
+            },
+            {
+              "ns": 0,
+              "title": "World line"
+            },
+            {
+              "ns": 0,
+              "title": "Yakov Zeldovich"
+            },
+            {
+              "ns": 0,
+              "title": "Yvette Kosmann-Schwarzbach"
+            },
+            {
+              "ns": 0,
+              "title": "Yvonne Choquet-Bruhat"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770328590.535258
+}

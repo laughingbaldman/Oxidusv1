@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "generated_utc": "2026-02-09T06:27:20Z",
+  "missing_folders": [],
+  "extra_folders": [],
+  "coverage": [
+    {
+      "path": "data\\knowledge_base\\science",
+      "exists": true,
+      "file_count": 1
+    },
+    {
+      "path": "data\\knowledge_base\\history",
+      "exists": true,
+      "file_count": 1
+    },
+    {
+      "path": "data\\knowledge_base\\philosophy",
+      "exists": true,
+      "file_count": 1
+    },
+    {
+      "path": "data\\knowledge_base\\psychology",
+      "exists": true,
+      "file_count": 1
+    },
+    {
+      "path": "data\\knowledge_base\\ethics",
+      "exists": true,
+      "file_count": 1
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\humanities",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\arts",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\economics",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\law",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\medicine",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\engineering",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\technology",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\geography",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\languages",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\social_science",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\mathematics",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\business",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\environment",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\agriculture",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\religion",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\education",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\politics",
+      "exists": true,
+      "file_count": 0
+    }
+  ],
+  "empty_folders": [
+    {
+      "path": "data\\knowledge_base\\domains\\humanities",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\arts",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\economics",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\law",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\medicine",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\engineering",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\technology",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\geography",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\languages",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\social_science",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\mathematics",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\business",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\environment",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\agriculture",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\religion",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\education",
+      "exists": true,
+      "file_count": 0
+    },
+    {
+      "path": "data\\knowledge_base\\domains\\politics",
+      "exists": true,
+      "file_count": 0
+    }
+  ]
+}

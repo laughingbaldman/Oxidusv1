@@ -1,0 +1,817 @@
+---
+title: "Callisto (moon)"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Callisto_(moon)"
+source: "wikipedia"
+timestamp: "2026-02-07T19:37:16.473701"
+content_length: 28795
+links_count: 673
+---
+
+Callisto ( kə-LIST-oh) is the second-largest moon of Jupiter, after Ganymede. It is also the third-largest moon in the Solar System, following Ganymede and Saturn's moon Titan, and nearly as large as the planet Mercury. With a diameter of 4,821 km, Callisto is roughly a third larger than Earth's Moon and orbits Jupiter on average at a distance of 1.883 million km, which is about five times further out than the Moon orbiting Earth. It is the outermost of the four large Galilean moons of Jupiter, which were discovered in 1610 with one of the first telescopes, and is today visible from Earth with common binoculars.
+The surface of Callisto is the oldest and most heavily cratered in the Solar System, with the surface almost completely covered with impact craters. It does not show any signatures of subsurface processes such as plate tectonics or volcanism, and is thought to have evolved predominantly under the influence of impacts. Prominent surface features include multi-ring structures, variously shaped impact craters, and chains of craters called catenae and associated scarps, ridges and deposits. At a small scale, the surface is varied and made up of small, sparkly frost deposits at the tips of high spots, surrounded by a low-lying, smooth blanket of dark material. This is thought to result from the sublimation-driven degradation of small landforms, which is supported by the general deficit of small impact craters and the presence of numerous small knobs, considered to be their remnants. The absolute ages of the landforms are not known.
+Callisto is composed of approximately equal amounts of rock and ice, with a density of about 1.83 g/cm3, the lowest density and surface gravity of Jupiter's major moons. Compounds detected spectroscopically on the surface include water ice, carbon dioxide, silicates and organic compounds. Investigation by the Galileo spacecraft revealed that Callisto may have a small silicate core and possibly a subsurface ocean of liquid water at depths greater than 100 km.
+It is not in an orbital resonance like the three other Galilean satellites—Io, Europa and Ganymede—and is thus not appreciably tidally heated. Callisto's rotation is tidally locked to its orbit around Jupiter, so that it always faces the same direction, making Jupiter appear to hang directly overhead over its near-side. It is less affected by Jupiter's magnetosphere than the other inner satellites because of its more remote orbit located just outside Jupiter's main radiation belt. Callisto is surrounded by an extremely thin atmosphere composed of carbon dioxide and probably molecular oxygen, as well as by a rather intense ionosphere. Callisto is thought to have formed by slow accretion from the disk of the gas and dust that surrounded Jupiter after its formation. Callisto's gradual accretion and the lack of tidal heating meant that not enough heat was available for rapid differentiation. The slow convection in the interior of Callisto, which commenced soon after formation, led to partial differentiation and possibly to the formation of a subsurface ocean at a depth of 100–150 km and a small, rocky core.
+The likely presence of an ocean within Callisto leaves open the possibility that it could harbor life. However, conditions are thought to be less favorable than those on nearby Europa. Various space probes, including Pioneers 10 and 11, Galileo, and Cassini, have studied Callisto. Because of its low radiation levels, Callisto has long been considered the most suitable to base possible future crewed missions on to study the Jovian system.
+
+
+== History ==
+
+
+=== Discovery ===
+Callisto was discovered independently by Simon Marius and Galileo Galilei in 1610, along with the three other large Jovian moons—Ganymede, Io and Europa.
+
+
+=== Name ===
+Callisto, like many of Jupiter's moons, is named after one of Zeus's many lovers or other sexual partners in Greek mythology. Callisto was a nymph (or, according to some sources, the daughter of Lycaon) who was associated with the goddess of the hunt, Artemis. The name was suggested by Simon Marius soon after Callisto's discovery. Marius attributed the suggestion to Johannes Kepler.
+
+Jupiter is much blamed by the poets on account of his irregular loves. Three maidens are especially mentioned as having been clandestinely courted by Jupiter with success. Io, daughter of the River Inachus, Callisto of Lycaon, Europa of Agenor. Then there was Ganymede, the handsome son of King Tros, whom Jupiter, having taken the form of an eagle, transported to heaven on his back, as poets fabulously tell... I think, therefore, that I shall not have done amiss if the First is called by me Io, the Second Europa, the Third, on account of its majesty of light, Ganymede, the Fourth Callisto...
+However, the names of the Galilean satellites fell into disfavor for a considerable time, and were not revived in common use until the mid-20th century. In much of the earlier astronomical literature, Callisto is referred to by its Roman numeral designation, a system introduced by Galileo, as Jupiter IV or as "the fourth satellite of Jupiter".
+There is no established English adjectival form of the name. The adjectival form of Greek Καλλιστῴ Kallistōi is Καλλιστῴος Kallistōi-os, from which one might expect Latin Callistōius and English *Callistóian (with 5 syllables), parallel to Sapphóian (4 syllables) for Sapphōi and Letóian for Lētōi. However, the iota subscript is often omitted from such Greek names (cf. Inóan from Īnōi and Argóan from Argōi), and indeed the analogous form Callistoan is found.
+In Virgil, a second oblique stem appears in Latin: Callistōn-, but the corresponding Callistonian has rarely appeared in English. One also sees ad hoc forms, such as Callistan, Callistian and Callistean.
+Planetary moons other than Earth's were never given symbols in the astronomical literature. Denis Moskowitz, a software engineer who designed most of the dwarf planet symbols, proposed a Greek kappa (the initial of Callisto) combined with the cross-bar of the Jupiter symbol as the symbol of Callisto (). This symbol is not widely used.
+
+
+== Orbit and rotation ==
+
+Callisto is the outermost of the four Galilean moons of Jupiter. It orbits at a distance of approximately 1.88 million km (26.3 times the 71,492 km radius of Jupiter itself). This is significantly larger than the orbital radius—1.07 million km—of the next-closest Galilean satellite, Ganymede. As a result of this relatively distant orbit, Callisto does not participate in any mean-motion resonance—in which the three inner Galilean satellites are locked—and probably never has. Callisto is expected to be captured into the resonance in about 1.5 billion years, completing the 1:2:4:8 chain.
+Like most other regular planetary moons, Callisto's rotation is locked to be synchronous with its orbit. The length of Callisto's day, simultaneously its orbital period, is about 16.7 Earth days. Its orbit is very slightly eccentric and inclined to the Jovian equator, with the eccentricity and inclination changing quasi-periodically due to solar and planetary gravitational perturbations on a timescale of centuries. The ranges of change are 0.0072–0.0076 and 0.20–0.60°, respectively. These orbital variations cause the axial tilt (the angle between the rotational and orbital axes) to vary between 0.4 and 1.6°.
+The dynamical isolation of Callisto means that it has never been appreciably tidally heated, which has important consequences for its internal structure and evolution. Its distance from Jupiter also means that the charged-particle flux from Jupiter's magnetosphere at its surface is relatively low—about 300 times lower than, for example, that at Europa. Hence, unlike the other Galilean moons, charged-particle irradiation has had a relatively minor effect on Callisto's surface. The radiation level at Callisto's surface is equivalent to a dose of about 0.01 rem (0.1 mSv) per day, which is just over ten times higher than Earth's average background radiation, but less than in Low Earth Orbit or on Mars.
+
+
+== Physical characteristics ==
+
+
+=== Composition ===
+
+The average density of Callisto, 1.83 g/cm3, suggests a composition of approximately equal parts of rocky material and water ice, with some additional volatile ices such as ammonia. The mass fraction of ices is 49–55%. The exact composition of Callisto's rock component is not known, but is probably close to the composition of L/LL type ordinary chondrites, which are characterized by less total iron, less metallic iron and more iron oxide than H chondrites. The weight ratio of iron to silicon is 0.9–1.3 in Callisto, whereas the solar ratio is around 1:8.
+Callisto's surface has an albedo of about 20%. Its surface composition is thought to be broadly similar to its composition as a whole. Near-infrared spectroscopy has revealed the presence of water ice absorption bands at wavelengths of 1.04, 1.25, 1.5, 2.0 and 3.0 micrometers. Water ice seems to be ubiquitous on the surface of Callisto, with a mass fraction of 25–50%. The analysis of high-resolution, near-infrared and UV spectra obtained by the Galileo spacecraft and from the ground has revealed various non-ice materials: magnesium- and iron-bearing hydrated silicates, carbon dioxide, sulfur dioxide, and possibly ammonia and various organic compounds. Spectral data indicate that Callisto's surface is extremely heterogeneous at the small scale. Small, bright patches of pure water ice are intermixed with patches of a rock–ice mixture and extended dark areas made of a non-ice material.
+The Callistoan surface is asymmetric: the leading hemisphere is darker than the trailing one. This is different from other Galilean satellites, where the reverse is true. The trailing hemisphere of Callisto appears to be enriched in carbon dioxide, whereas the leading hemisphere has more sulfur dioxide. Many fresh impact craters like Lofn also show enrichment in carbon dioxide. Overall, the chemical composition of the surface, especially in the dark areas, may be close to that seen on D-type asteroids, whose surfaces are made of carbonaceous material.
+
+
+=== Internal structure ===
+
+Callisto's battered surface lies on top of a cold, stiff and icy lithosphere that is between 80 and 150 km thick. A salty ocean 150–200 km deep may lie beneath the crust, indicated by studies of the magnetic fields around Jupiter and its moons. It was found that Callisto responds to Jupiter's varying background magnetic field like a perfectly conducting sphere; that is, the field cannot penetrate inside Callisto, suggesting a layer of highly conductive fluid within it with a thickness of at least 10 km. The existence of an ocean is more likely if water contains a small amount of ammonia or other antifreeze, up to 5% by weight. In this case the water-and-ice layer can be as thick as 250–300 km. Failing an ocean, the icy lithosphere may be somewhat thicker, up to about 300 km.
+Beneath the lithosphere and putative ocean, Callisto's interior appears to be neither entirely uniform nor particularly variable. Galileo orbiter data (especially the dimensionless moment of inertia—0.3549 ± 0.0042—determined during close flybys) suggest that, if Callisto is in hydrostatic equilibrium, its interior is composed of compressed rocks and ices, with the amount of rock increasing with depth due to partial settling of its constituents. In other words, Callisto may be only partially differentiated. The density and moment of inertia for an equilibrium Callisto are compatible with the existence of a small silicate core in the center of the planet. The radius of any such core cannot exceed 600 km, and the density may lie between 3.1 and 3.6 g/cm3. In this case, Callisto's interior would be in stark contrast to that of Ganymede, which appears to be fully differentiated.
+However, a 2011 reanalysis of Galileo data suggests that Callisto is not in hydrostatic equilibrium. In that case, the gravity data may be more consistent with a more thoroughly differentiated Callisto with a hydrated silicate core.
+
+
+=== Surface features ===
+
+The ancient surface of Callisto is one of the most heavily cratered in the Solar System. In fact, the crater density is close to saturation: any new crater will tend to erase an older one. The large-scale geology is relatively simple; on Callisto there are no large mountains, volcanoes or other endogenic tectonic features. The impact craters and multi-ring structures—together with associated fractures, scarps and deposits—are the only large features to be found on the surface.
+Callisto's surface can be divided into several geologically different parts: cratered plains, light plains, bright and dark smooth plains, and various units associated with particular multi-ring structures and impact craters. The cratered plains make up most of the surface area and represent the ancient lithosphere, a mixture of ice and rocky material. The light plains include bright impact craters like Burr and Lofn, as well as the effaced remnants of old large craters called palimpsests, the central parts of multi-ring structures, and isolated patches in the cratered plains. These light plains are thought to be icy impact deposits. The bright, smooth plains make up a small fraction of Callisto's surface and are found in the ridge and trough zones of the Valhalla and Asgard formations and as isolated spots in the cratered plains. They were thought to be connected with endogenic activity, but the high-resolution Galileo images showed that the bright, smooth plains correlate with heavily fractured and knobby terrain and do not show any signs of resurfacing. The Galileo images also revealed small, dark, smooth areas with overall coverage less than 10,000 km2, which appear to embay the surrounding terrain. They are possible cryovolcanic deposits. Both the light and the various smooth plains are somewhat younger and less cratered than the background cratered plains.
+
+Impact crater diameters seen range from 0.1 km—a limit defined by the imaging resolution—to over 100 km, not counting the multi-ring structures. Small craters, with diameters less than 5 km, have simple bowl or flat-floored shapes. Those 5–40 km across usually have a central peak. Larger impact features, with diameters in the range 25–100 km, have central pits instead of peaks, such as Tindr crater. The largest craters with diameters over 60 km can have central domes, which are thought to result from central tectonic uplift after an impact; examples include Doh and Hár craters. A small number of very large—more than 100 km in diameter—and bright impact craters show anomalous dome geometry. These are unusually shallow and may be a transitional landform to the multi-ring structures, as with the Lofn impact feature. Callisto's craters are generally shallower than those on the Moon.
+
+The largest impact features on Callisto's surface are multi-ring basins. Valhalla is the largest, with a bright central region 600 km in diameter, and rings extending as far as 1,800 km from the center (see figure). The second largest is Asgard, measuring about 1,600 km in diameter. Multi-ring structures probably originated as a result of a post-impact concentric fracturing of the lithosphere lying on a layer of soft or liquid material, possibly an ocean. The catenae—for example Gomul Catena—are long chains of impact craters lined up in straight lines across the surface. They were probably created by objects that were tidally disrupted as they passed close to Jupiter prior to the impact on Callisto, or by very oblique impacts. A historical example of a disruption was Comet Shoemaker–Levy 9.
+As mentioned above, small patches of pure water ice with an albedo as high as 80% are found on the surface of Callisto, surrounded by much darker material. High-resolution Galileo images showed the bright patches to be predominately located on elevated surface features: crater rims, scarps, ridges and knobs. They are likely to be thin water frost deposits. Dark material usually lies in the lowlands surrounding and mantling bright features and appears to be smooth. It often forms patches up to 5 km across within the crater floors and in the intercrater depressions.
+On a sub-kilometer scale the surface of Callisto is more degraded than the surfaces of other icy Galilean moons. Typically there is a deficit of small impact craters with diameters less than 1 km as compared with, for instance, the dark plains on Ganymede. Instead of small craters, the almost ubiquitous surface features are small knobs and pits. The knobs are thought to represent remnants of crater rims degraded by an as-yet uncertain process. The most likely candidate process is the slow sublimation of ice, which is enabled by a temperature of up to 165 K, reached at a subsolar point. Such sublimation of water or other volatiles from the dirty ice that is the bedrock causes its decomposition. The non-ice remnants form debris avalanches descending from the slopes of the crater walls. Such avalanches are often observed near and inside impact craters and termed "debris aprons". Sometimes crater walls are cut by sinuous valley-like incisions called "gullies", which resemble certain Martian surface features. In the ice sublimation hypothesis, the low-lying dark material is interpreted as a blanket of primarily non-ice debris, which originated from the degraded rims of craters and has covered a predominantly icy bedrock.
+The relative ages of the different surface units on Callisto can be determined from the density of impact craters on them. The older the surface, the denser the crater population. Absolute dating has not been carried out, but based on theoretical considerations, the cratered plains are thought to be ~4.5 billion years old, dating back almost to the formation of the Solar System. The ages of multi-ring structures and impact craters depend on chosen background cratering rates and are estimated by different authors to vary between 1 and 4 billion years.
+
+
+=== Atmosphere and ionosphere ===
+
+Callisto has a very tenuous atmosphere composed of carbon dioxide and probably oxygen. It was detected by the Galileo Near Infrared Mapping Spectrometer (NIMS) from its absorption feature near the wavelength 4.2 micrometers. The surface pressure is estimated to be 7.5 picobar (0.75 μPa) and particle density 4 × 108 cm−3. Because such a thin atmosphere would be lost in only about four years though atmospheric escape, it must be constantly replenished, possibly by slow sublimation of carbon dioxide ice from Callisto's icy crust, which would be compatible with the sublimation–degradation hypothesis for the formation of the surface knobs.
+Callisto's ionosphere was first detected during Galileo flybys; its high electron density of 7–17 × 104 cm−3 cannot be explained by the photoionization of the atmospheric carbon dioxide alone. Hence, it is suspected that the atmosphere of Callisto is actually dominated by molecular oxygen (in amounts 10–100 times greater than CO2). However, oxygen has not yet been directly detected in the atmosphere of Callisto. Observations with the Hubble Space Telescope (HST) placed an upper limit on its possible concentration in the atmosphere, based on lack of detection, which is still compatible with the ionospheric measurements. At the same time, HST was able to detect condensed oxygen trapped on the surface of Callisto.
+Atomic hydrogen has also been detected in Callisto's atmosphere via analysis of 2001 Hubble Space Telescope data. Spectral images taken on 15 and 24 December 2001 were re-examined, revealing a faint signal of scattered light that indicates a hydrogen corona. The observed brightness from the scattered sunlight in Callisto's hydrogen corona is approximately two times larger when the leading hemisphere is observed. This asymmetry may originate from a different hydrogen abundance in both the leading and trailing hemispheres. However, this hemispheric difference in Callisto's hydrogen corona brightness is likely to originate from the extinction of the signal in Earth's geocorona, which is greater when the trailing hemisphere is observed.
+
+
+== Origin and evolution ==
+The partial differentiation of Callisto (inferred e.g. from moment of inertia measurements) means that it has never been heated enough to melt its ice component. Therefore, the most favorable model of its formation is a slow accretion in the low-density Jovian subnebula—a disk of the gas and dust that existed around Jupiter after its formation. Such a prolonged accretion stage would allow cooling to largely keep up with the heat accumulation caused by impacts, radioactive decay and contraction, thereby preventing melting and fast differentiation. The allowable timescale for the formation of Callisto lies then in the range 0.1 million–10 million years.
+
+The further evolution of Callisto after accretion was determined by the balance of the radioactive heating, cooling through thermal conduction near the surface, and solid state or subsolidus convection in the interior. Details of the subsolidus convection in the ice is the main source of uncertainty in the models of all icy moons. It is known to develop when the temperature is sufficiently close to the melting point, due to the temperature dependence of ice viscosity. Subsolidus convection in icy bodies is a slow process with ice motions of the order of 1 centimeter per year, but is, in fact, a very effective cooling mechanism on long timescales. It is thought to proceed in the so-called stagnant lid regime, where a stiff, cold outer layer of Callisto conducts heat without convection, whereas the ice beneath it convects in the subsolidus regime. For Callisto, the outer conductive layer corresponds to the cold and rigid lithosphere with a thickness of about 100 km. Its presence would explain the lack of any signs of the endogenic activity on the Callistoan surface. The convection in the interior parts of Callisto may be layered, because under the high pressures found there, water ice exists in different crystalline phases beginning from the ice I on the surface to ice VII in the center. The early onset of subsolidus convection in the Callistoan interior could have prevented large-scale ice melting and any resulting differentiation that would have otherwise formed a large rocky core and icy mantle. Due to the convection process, however, very slow and partial separation and differentiation of rocks and ices inside Callisto has been proceeding on timescales of billions of years and may be continuing to this day.
+The current understanding of the evolution of Callisto allows for the existence of a layer or "ocean" of liquid water in its interior. This is connected with the anomalous behavior of ice I phase's melting temperature, which decreases with pressure, achieving temperatures as low as 251 K at 2,070 bar (207 MPa). In all realistic models of Callisto the temperature in the layer between 100 and 200 km in depth is very close to, or exceeds slightly, this anomalous melting temperature. The presence of even small amounts of ammonia—about 1–2% by weight—almost guarantees the liquid's existence because ammonia would lower the melting temperature even further.
+Although Callisto is very similar in bulk properties to Ganymede, it apparently had a much simpler geological history. The surface appears to have been shaped mainly by impacts and other exogenic forces. Unlike neighboring Ganymede with its grooved terrain, there is little evidence of tectonic activity. Explanations that have been proposed for the contrasts in internal heating and consequent differentiation and geologic activity between Callisto and Ganymede include differences in formation conditions, the greater tidal heating experienced by Ganymede, and the more numerous and energetic impacts that would have been suffered by Ganymede during the Late Heavy Bombardment. The relatively simple geological history of Callisto provides planetary scientists with a reference point for comparison with other more active and complex worlds.
+
+
+== Habitability ==
+Similarly to Jupiter's moons Europa and Ganymede; Saturn's moons Enceladus, Dione, and Titan; and Neptune's moon Triton, Callisto's potential subsurface ocean might be composed of salt water. 
+As with Europa and Ganymede, the idea has been raised that habitable conditions and even extraterrestrial microbial life may exist in the ocean, specifically halophiles. 
+However, the environmental conditions necessary for life appear to be less favorable on Callisto than on Europa. The principal reasons are the lack of contact with rocky material and the lower heat flux from the planet's interior. Callisto's ocean is heated only by radioactive decay, while Europa's is also heated by tidal energy, as it is much closer to Jupiter. It is thought that of all of Jupiter's moons, Europa has the greatest chance of supporting microbial life.
+
+
+== Exploration ==
+
+
+=== Pre-spaceflight ===
+Lighter composition was suggested in 1923 by Harold Jeffreys, by Gustav Tammann in 1931, and in 1951 Jeffreys suggested water.
+
+
+=== Space age ===
+The Pioneer 10 and Pioneer 11 Jupiter encounters in the early 1970s contributed little new information about Callisto in comparison with what was already known from Earth-based observations. The real breakthrough happened later with the Voyager 1 and Voyager 2 flybys in 1979. They imaged more than half of the Callistoan surface with a resolution of 1–2 km, and precisely measured its temperature, mass and shape. A second round of exploration lasted from 1994 to 2003, when the Galileo spacecraft had eight close encounters with Callisto, the last flyby during the C30 orbit in 2001 came as close as 138 km to the surface. The Galileo orbiter completed the global imaging of the surface and delivered a number of pictures with a resolution as high as 15 meters of selected areas of Callisto. In 2000, the Cassini spacecraft en route to Saturn acquired high-quality infrared spectra of the Galilean satellites including Callisto. In February–March 2007, the New Horizons probe on its way to Pluto obtained new images and spectra of Callisto.
+
+
+=== Future exploration ===
+Callisto will be visited by three spacecraft in the near future.
+The European Space Agency's Jupiter Icy Moons Explorer (JUICE), which launched on 14 April 2023, will perform 21 close flybys of Callisto between 2031 and 2034.
+NASA's Europa Clipper, which launched on 14 October 2024, will conduct nine close flybys of Callisto beginning in 2030.
+China's CNSA Tianwen-4 is planned to launch to Jupiter around 2030 before entering orbit around Callisto.
+
+
+=== Old proposals ===
+Formerly proposed for a launch in 2020, the Europa Jupiter System Mission (EJSM) was a joint NASA/ESA proposal for exploration of Jupiter's moons. In February 2009 it was announced that ESA/NASA had given this mission priority ahead of the Titan Saturn System Mission. At the time ESA's contribution still faced funding competition from other ESA projects. EJSM consisted of the NASA-led Jupiter Europa Orbiter, the ESA-led Jupiter Ganymede Orbiter and possibly a JAXA-led Jupiter Magnetospheric Orbiter.
+
+
+=== Potential crewed exploration and habitation ===
+
+In 2003 NASA conducted a conceptual study called Human Outer Planets Exploration (HOPE) regarding the future human exploration of the outer Solar System. The target chosen to consider in detail was Callisto.
+The study proposed a possible surface base on Callisto that would produce rocket propellant for further exploration of the Solar System. Advantages of a base on Callisto include low radiation (due to its distance from Jupiter) and geological stability. Such a base could facilitate remote exploration of Europa, or be an ideal location for a Jovian system waystation servicing spacecraft heading farther into the outer Solar System, using a gravity assist from a close flyby of Jupiter after departing Callisto.
+In December 2003, NASA reported that a crewed mission to Callisto might be possible in the 2040s.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Callisto Profile at NASA's Solar System Exploration site
+Callisto page at The Nine Planets
+Callisto page at Views of the Solar System
+Callisto Crater Database from the Lunar and Planetary Institute
+Images of Callisto at JPL's Planetary Photojournal
+Movie of Callisto's rotation from the National Oceanic and Atmospheric Administration
+Callisto map with feature names from Planetary Photojournal
+Callisto nomenclature and Callisto map with feature names from the USGS planetary nomenclature page
+Paul Schenk's 3D images and flyover videos of Callisto and other outer solar system satellites
+Google Callisto 3D, interactive map of the moon
+
+## Links
+- (136617) 1994 CC
+- (153591) 2001 SN263
+- 1,000,000,000
+- 107 Camilla
+- 10 Hygiea
+- 120347 Salacia
+- 130 Elektra
+- 152830 Dinkinesh
+- 174567 Varda
+- 20000 Varuna
+- 2009 Jupiter impact event
+- 2010 Jupiter impact event
+- 2013 ND15
+- 2016 Jupiter impact event
+- 2019 UO14
+- 2060 Chiron
+- 216 Kleopatra
+- 229762 Gǃkúnǁʼhòmdímà
+- 22 Kalliope
+- 243 Ida
+- 28978 Ixion
+- 2 Pallas
+- 3122 Florence
+- 317 Roxane
+- 31 Euphrosyne
+- 3548 Eurybates
+- 3749 Balam
+- 41 Daphne
+- 45 Eugenia
+- 47171 Lempo
+- 4 Vesta
+- 532037 Chiminigagua
+- 55637 Uni
+- 617 Patroclus
+- 624 Hektor
+- 65803 Didymos
+- 66391 Moshup
+- 762 Pulcova
+- 79360 Sila–Nunam
+- 87 Sylvia
+- 93 Minerva
+- A Latin Dictionary
+- Absorption band
+- Accretion (astrophysics)
+- Accretion disk
+- Actaea (moon)
+- Active asteroid
+- Adlinda (crater)
+- Adrastea (moon)
+- Aitne (moon)
+- Albedo
+- Almost periodic function
+- Amalthea (moon)
+- Ammonia
+- Ananke (moon)
+- Ananke group
+- Antifreeze
+- Aoede (moon)
+- Apparent magnitude
+- Apsis
+- ArXiv (identifier)
+- Arcas (crater)
+- Arche (moon)
+- Argo
+- Ariel (moon)
+- Artemis
+- Asgard (crater)
+- Asteroid
+- Asteroid belt
+- Asteroid family
+- Asteroid mining
+- Astronomy
+- Astronomy Now
+- Atmosphere
+- Atmosphere of Earth
+- Atmosphere of Io
+- Atmosphere of Jupiter
+- Atmosphere of Mars
+- Atmosphere of Mercury
+- Atmosphere of Pluto
+- Atmosphere of Titan
+- Atmosphere of Triton
+- Atmosphere of Uranus
+- Atmosphere of Venus
+- Atmosphere of the Moon
+- Atmospheric chemistry
+- Atmospheric escape
+- Atmospheric pressure
+- Autonoe (moon)
+- Axial tilt
+- BBC News Online
+- Bar (unit)
+- Bedrock
+- Bibcode (identifier)
+- Binoculars
+- Bonnie Buratti
+- Burr (crater)
+- CNSA
+- Callirrhoe (moon)
+- Callisto (mythology)
+- Calypso (moon)
+- Capture of Triton
+- Carbon
+- Carbon dioxide
+- Carme (moon)
+- Carme group
+- Carpo (moon)
+- Cassini–Huygens
+- Centaur (small Solar System body)
+- Ceres (dwarf planet)
+- Chaldene
+- Charged particle
+- Charon (moon)
+- Chiron (hypothetical moon)
+- Chrysalis (hypothetical moon)
+- Circumplanetary disk
+- Circumstellar disc
+- Circumstellar envelope
+- CiteSeerX (identifier)
+- Claimed moons of Earth
+- Classical Kuiper belt object
+- Co-orbital configuration
+- Coatlicue (star)
+- Coma (cometary)
+- Comet
+- Comet Shoemaker–Levy 9
+- Complex crater
+- Concentric
+- Condensation
+- Convection
+- Core (geology)
+- Cosmic dust
+- Counter-Earth
+- Crater chain
+- Crust (geology)
+- Cryovolcano
+- Cyllene (moon)
+- D-type asteroid
+- Dactyl (moon)
+- Dale Cruikshank
+- Damocloid
+- Day
+- Debris
+- Debris disk
+- Declination
+- Deep space exploration
+- Deimos (moon)
+- Density
+- Deposit (geology)
+- Detached object
+- Dia (moon)
+- Dimorphos
+- Dione (moon)
+- Discovery and exploration of the Solar System
+- Disrupted planet
+- Doh (crater)
+- Doi (identifier)
+- Double planet
+- Dwarf planet
+- Dysnomia (moon)
+- ESA
+- Earth
+- Earth trojan
+- Ecliptic
+- Effects of Planet Nine on trans-Neptunian objects
+- Eirene (moon)
+- Ejecta blanket
+- Elara (moon)
+- Electrical conductivity
+- Enceladus
+- Enceladus Orbilander
+- Endogenic
+- Equator
+- Erinome
+- Eris (dwarf planet)
+- Ersa (moon)
+- Escape velocity
+- Escarpment
+- Euanthe (moon)
+- Eukelade
+- Eupheme (moon)
+- Euporie (moon)
+- Europa (moon)
+- Europa Clipper
+- Europa Jupiter System Mission
+- European Space Agency
+- Eurydome (moon)
+- Evolution
+- Exogenic
+- Exoplanet
+- Exoplanetary Circumstellar Environments and Disk Explorer
+- Exozodiacal dust
+- Exploration of Jupiter
+- Exploration of Mars
+- Exploration of Mercury
+- Exploration of Neptune
+- Exploration of Pluto
+- Exploration of Saturn
+- Exploration of Uranus
+- Exploration of the Moon
+- Extraterrestrial atmosphere
+- Extraterrestrial life
+- Extraterrestrial materials
+- Extraterrestrial sample curation
+- Fifth Giant
+- Five-planet Nice model
+- Flux
+- Formation and evolution of the Solar System
+- Formation of Jupiter
+- Fracture (geology)
+- Frost
+- Frost line (astrophysics)
+- G-force
+- GJ 1132 b
+- Galilean moon
+- Galilean moons
+- Galilean satellites
+- Galileo (spacecraft)
+- Galileo Galilei
+- Galileo project
+- Ganymede (moon)
+- Gas giant
+- Geocorona
+- Geology
+- Giant-impact hypothesis
+- Giant planet
+- Gomul Catena
+- Gonggong (dwarf planet)
+- Gould Belt
+- Grand tack hypothesis
+- Gravitational collapse
+- Gravitational constant
+- Gravity assist
+- Great Red Spot
+- Greek mythology
+- Gustav Tammann
+- Gǃòʼé ǃHú
+- HD 209458 b
+- H chondrite
+- Halophile
+- Harold Jeffreys
+- Harpalyke (moon)
+- Haumea
+- Hdl (identifier)
+- Hegemone (moon)
+- Heimdall (crater)
+- Helike (moon)
+- Hermippe (moon)
+- Herse (moon)
+- Hill sphere
+- Hills cloud
+- Himalia (moon)
+- Himalia group
+- Historical geology
+- Historical models of the Solar System
+- History of Solar System formation and evolution hypotheses
+- Hiʻiaka (moon)
+- Hubble Space Telescope
+- Human spaceflight
+- Human spaceflight programs
+- Hydra (moon)
+- Hydrostatic equilibrium
+- Hyperion (hypothetical planet)
+- Hyperion (moon)
+- Hypothetical moon of Mercury
+- Hár (crater)
+- ISBN (identifier)
+- ISSN (identifier)
+- Iapetus (moon)
+- Icarus (journal)
+- Ice
+- Ice I
+- Ice VII
+- Ice giant
+- Icy moon
+- Ilmarë
+- Image resolution
+- Impact crater
+- Impact event
+- Impact events on Jupiter
+- Inclination
+- Inner moon
+- Inner satellite
+- Ino (mythology)
+- Interplanetary dust cloud
+- Interplanetary medium
+- Interstellar cloud
+- Interstellar medium
+- Io (moon)
+- Io Volcano Observer
+- Iocaste (moon)
+- Ionosphere
+- Iota subscript
+- Iron
+- Iron oxide
+- Irradiation
+- Irregular moon
+- Isonoe (moon)
+- JAXA
+- Jalkr
+- Johannes Kepler
+- Journal of Geophysical Research
+- Juno (spacecraft)
+- Jupiter
+- Jupiter's North Pole
+- Jupiter's South Pole
+- Jupiter's moons in fiction
+- Jupiter (mythology)
+- Jupiter Europa Orbiter
+- Jupiter Ganymede Orbiter
+- Jupiter Icy Moons Explorer
+- Jupiter Icy Moons Orbiter
+- Jupiter LI
+- Jupiter LII
+- Jupiter LIV
+- Jupiter LIX
+- Jupiter LV
+- Jupiter LVI
+- Jupiter LXI
+- Jupiter LXIII
+- Jupiter LXIV
+- Jupiter LXIX
+- Jupiter LXVI
+- Jupiter LXVII
+- Jupiter LXVIII
+- Jupiter LXX
+- Jupiter LXXII
+- Jupiter Magnetospheric Orbiter
+- Jupiter in fiction
+- Jupiter trojan
+- Kale (moon)
+- Kallichore (moon)
+- Kalyke
+- Kappa
+- Keelut (crater)
+- Kelvin
+- Kepler-7b
+- Kerberos (moon)
+- Kirkwood gap
+- Kol Facula
+- Kore (moon)
+- Kuiper belt
+- Kuiper cliff
+- Lagrange point
+- Landform
+- Laniakea Supercluster
+- Laplace-P
+- Laplace plane
+- Late Heavy Bombardment
+- Leda (moon)
+- Leto
+- Lexico
+- Linus (moon)
+- List of Earth-crossing asteroids
+- List of Jupiter-crossing minor planets
+- List of Jupiter trojans (Greek camp)
+- List of Jupiter trojans (Trojan camp)
+- List of Mars-crossing minor planets
+- List of Mercury-crossing minor planets
+- List of Neptune-crossing minor planets
+- List of Saturn-crossing minor planets
+- List of Solar System objects
+- List of Solar System objects by size
+- List of Solar System probes
+- List of Uranus-crossing minor planets
+- List of Venus-crossing minor planets
+- List of adjectivals and demonyms of astronomical bodies
+- List of craters on Callisto
+- List of crewed spacecraft
+- List of exceptional asteroids
+- List of former planets
+- List of geological features on Callisto
+- List of gravitationally rounded objects of the Solar System
+- List of hypothetical Solar System objects
+- List of interstellar and circumstellar molecules
+- List of minor planet discoverers
+- List of minor planets
+- List of missions to comets
+- List of natural satellites
+- List of possible dwarf planets
+- List of quadrangles on Callisto
+- Lists of comets
+- Lithosphere
+- Local Bubble
+- Local Group
+- Local Hole
+- Local Interstellar Cloud
+- Local Sheet
+- Local Volume
+- Lofn (crater)
+- Low Earth Orbit
+- Lunar resources
+- Lycaon (king of Arcadia)
+- Lysithea (moon)
+- MPa
+- Magnesium
+- Magnetic field
+- Magnetosphere
+- Magnetosphere of Jupiter
+- Makemake
+- Mantle (geology)
+- Mark R. Showalter
+- Mars
+- Mars trojan
+- Mass
+- Mean radius (astronomy)
+- Meanings of minor-planet names
+- Megaclite
+- Melting point
+- Menoetius (moon)
+- Mercury (planet)
+- Meteoroid
+- Metis (moon)
+- Metre per second squared
+- Micrometer (unit)
+- Micrometers
+- Microorganism
+- Micropascal
+- Milky Way
+- Millisievert
+- Mimas
+- Minor-planet moon
+- Minor planet
+- Miranda (moon)
+- Mneme (moon)
+- Molecular cloud
+- Molecular oxygen
+- Moment of inertia
+- Moment of inertia factor
+- Monthly Notices of the Royal Astronomical Society
+- Moon
+- Moon of Jupiter
+- Moonlet
+- Moons of Haumea
+- Moons of Jupiter
+- Moons of Mars
+- Moons of Neptune
+- Moons of Pluto
+- Moons of Saturn
+- Moons of Uranus
+- Multi-ring structures
+- NASA
+- Namaka (moon)
+- Naming of moons
+- Natural satellite
+- Nature Geoscience
+- Near-Earth object
+- Near-infrared
+- Nebular hypothesis
+- Neith (hypothetical moon)
+- Nemesis (hypothetical star)
+- Neptune
+- Neptune trojan
+- Nereid (moon)
+- New Horizons
+- Nibiru cataclysm
+- Nice 2 model
+- Nice model
+- Nix (moon)
+- Njord (crater)
+- Nymph
+- OCLC (identifier)
+- Oberon (moon)
+- Oblique stem
+- Observable universe
+- Observations and explorations of Venus
+- Olympias (moon)
+- Omolʹ (crater)
+- Oort cloud
+- Oort limit
+- Opposition (astronomy)
+- Orbital eccentricity
+- Orbital inclination
+- Orbital period
+- Orbital resonance
+- Orbital speed
+- Orcus (dwarf planet)
+- Ordinary chondrite
+- Organic compound
+- Organic compounds
+- Orion Arm
+- Orthosie (moon)
+- Osculating orbit
+- Outer Solar System
+- Outer space
+- Outline of Jupiter
+- Outline of space exploration
+- Outline of the Solar System
+- Oxford University Press
+- Oxygen
+- PMID (identifier)
+- Palimpsest (planetary astronomy)
+- Pandia (moon)
+- Pasiphae (moon)
+- Pasiphae group
+- Pasithee (moon)
+- Perseus Project
+- Petit-Prince (moon)
+- Phaeton (hypothetical planet)
+- Philophrosyne (moon)
+- Phobos (moon)
+- Phoebe (moon)
+- Pioneer 10
+- Pioneer 11
+- Pioneer program
+- Pisces–Cetus Supercluster Complex
+- Planet
+- Planet Nine
+- Planet V
+- Planetary-mass moon
+- Planetary core
+- Planetary differentiation
+- Planetary habitability
+- Planetary migration
+- Planetary objects proposed in religion, astrology, ufology and pseudoscience
+- Planetary system
+- Planetesimal
+- Planets beyond Neptune
+- Plate tectonics
+- Plutino
+- Pluto
+- Potentially hazardous object
+- Praxidike (moon)
+- Prebiotic atmosphere
+- Pressure
+- Proteus (moon)
+- Protoplanetary disk
+- Provisional designation in astronomy
+- Quaoar
+- Queta (moon)
+- Radiation
+- Radioactive
+- Refracting telescope
+- Regular moon
+- Remus (moon)
+- Rhea (moon)
+- Right ascension
+- Rim (craters)
+- Ring system
+- Rings of Chariklo
+- Rings of Jupiter
+- Rings of Neptune
+- Rings of Rhea
+- Rings of Saturn
+- Rings of Uranus
+- Robin Canup
+- Roche limit
+- Rock (geology)
+- Rocket propellant
+- Romulus (moon)
+- Ronald Greeley
+- Rubble pile
+- Röntgen equivalent man
+- S/2003 J 10
+- S/2003 J 12
+- S/2003 J 16
+- S/2003 J 23
+- S/2003 J 24
+- S/2003 J 4
+- S/2003 J 9
+- S/2011 J 3
+- S/2015 (136472) 1
+- S/2018 J 2
+- S/2018 J 4
+- S/2022 J 2
+- S2CID (identifier)
+- SMARA (spacecraft)
+- Saline water
+- Sample-return mission
+- Sappho
+- Satellite galaxies of the Milky Way
+- Saturn
+- Scattered disc
+- Secondary crater
+- Sedna (dwarf planet)
+- Sednoid
+- Selam (moon)
+- Semi-major and semi-minor axes
+- Shensuo (spacecraft)
+- Sidereus Nuncius
+- Silicate
+- Silicon
+- Simon Marius
+- Sinope (moon)
+- Skamandrios (moon)
+- Small Solar System body
+- Solar Polar Orbit Observatory
+- Solar System
+- Solar System model
+- Solar eclipses on Jupiter
+- Solar nebula
+- Space colonization
+- Space exploration
+- Space probe
+- Space station
+- Spectroscopy
+- Spectrum
+- Spheroid
+- Sponde
+- Squannit (moon)
+- Star
+- Star formation
+- Stellar atmosphere
+- Stellar collision
+- Styx (moon)
+- Sublimation (chemistry)
+- Sublimation (phase transition)
+- Subsatellite
+- Subsurface ocean
+- Sulfur dioxide
+- Sun
+- Surface gravity
+- Synchronous rotation
+- Synestia
+- Synodic rotation period
+- Syzygy (astronomy)
+- Taygete (moon)
+- Tectonic
+- Tectonic uplift
+- Temperature
+- Terrestrial planet
+- Tethys (moon)
+- The New York Times
+- Thebe (moon)
+- Theia (hypothetical planet)
+- Thelxinoe (moon)
+- Themis (hypothetical moon)
+- Themisto (moon)
+- Thermal conduction
+- Thyone (moon)
+- Tianwen-4
+- Tidal heating
+- Tidal locking
+- Tidally locked
+- Timeline of Solar System exploration
+- Timeline of discovery of Solar System planets and their moons
+- Tindr (crater)
+- Tinia (moon)
+- Titan (moon)
+- Titan Saturn System Mission
+- Titania (moon)
+- Tornarsuk (crater)
+- Trans-Neptunian object
+- Triton (moon)
+- Trojan (celestial body)
+- Trough (geology)
+- Tyche (hypothetical planet)
+- UV
+- Ulysses (spacecraft)
+- Umbriel
+- Universe
+- Uranus
+- Uranus trojans
+- Utgard (crater)
+- Valetudo (moon)
+- Valhalla (crater)
+- Vanth (moon)
+- Venus
+- Virgo Supercluster
+- Viscosity
+- Volatile (astrogeology)
+- Volcanism
+- Volume
+- Voyager 1
+- Voyager 2
+- Voyager program
+- Vulcan (hypothetical planet)
+- Vulcanoid
+- Water
+- Water absorption
+- Weywot
+- Xiangliu (moon)
+- Zeus

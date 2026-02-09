@@ -1,0 +1,501 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25268": {
+          "pageid": 25268,
+          "ns": 0,
+          "title": "Quantum electrodynamics",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Schwinger limit"
+            },
+            {
+              "ns": 0,
+              "title": "Schwinger model"
+            },
+            {
+              "ns": 0,
+              "title": "Schwinger–Dyson equation"
+            },
+            {
+              "ns": 0,
+              "title": "Seiberg–Witten theory"
+            },
+            {
+              "ns": 0,
+              "title": "Self-energy"
+            },
+            {
+              "ns": 0,
+              "title": "Sergio Doplicher"
+            },
+            {
+              "ns": 0,
+              "title": "Sheldon Glashow"
+            },
+            {
+              "ns": 0,
+              "title": "Shin'ichirō Tomonaga"
+            },
+            {
+              "ns": 0,
+              "title": "Sidney Coleman"
+            },
+            {
+              "ns": 0,
+              "title": "Silvan Schweber"
+            },
+            {
+              "ns": 0,
+              "title": "Sin-Itiro Tomonaga"
+            },
+            {
+              "ns": 0,
+              "title": "Sine-Gordon equation"
+            },
+            {
+              "ns": 0,
+              "title": "Soler model"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state physics"
+            },
+            {
+              "ns": 0,
+              "title": "Special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Spin-1/2"
+            },
+            {
+              "ns": 0,
+              "title": "Spin (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Split supersymmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Spontaneous emission"
+            },
+            {
+              "ns": 0,
+              "title": "Spontaneous symmetry breaking"
+            },
+            {
+              "ns": 0,
+              "title": "Square modulus"
+            },
+            {
+              "ns": 0,
+              "title": "Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Stanley Brodsky"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Louis Adler"
+            },
+            {
+              "ns": 0,
+              "title": "Stern–Gerlach experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Steven Weinberg"
+            },
+            {
+              "ns": 0,
+              "title": "String theory"
+            },
+            {
+              "ns": 0,
+              "title": "Strong force"
+            },
+            {
+              "ns": 0,
+              "title": "Strong interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Stueckelberg action"
+            },
+            {
+              "ns": 0,
+              "title": "Sudbury Neutrino Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Super-Kamiokande"
+            },
+            {
+              "ns": 0,
+              "title": "Super QCD"
+            },
+            {
+              "ns": 0,
+              "title": "Superdeterminism"
+            },
+            {
+              "ns": 0,
+              "title": "Superfluid vacuum theory"
+            },
+            {
+              "ns": 0,
+              "title": "Supergravity"
+            },
+            {
+              "ns": 0,
+              "title": "Superstring theory"
+            },
+            {
+              "ns": 0,
+              "title": "Supersymmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Suraj N. Gupta"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry in quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "T-symmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Takeo Matsubara"
+            },
+            {
+              "ns": 0,
+              "title": "Technicolor (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Tevatron"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of everything"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Thirring model"
+            },
+            {
+              "ns": 0,
+              "title": "Thirring–Wess model"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of fundamental physics discoveries"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum computing and communication"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Toda field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Toichiro Kinoshita"
+            },
+            {
+              "ns": 0,
+              "title": "Tom W. B. Kibble"
+            },
+            {
+              "ns": 0,
+              "title": "Tony Skyrme"
+            },
+            {
+              "ns": 0,
+              "title": "Topological charge"
+            },
+            {
+              "ns": 0,
+              "title": "Topological quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Transactional interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Tsung-Dao Lee"
+            },
+            {
+              "ns": 0,
+              "title": "Twistor theory"
+            },
+            {
+              "ns": 0,
+              "title": "Two-dimensional Yang–Mills theory"
+            },
+            {
+              "ns": 0,
+              "title": "Two-dimensional conformal field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Two-photon physics"
+            },
+            {
+              "ns": 0,
+              "title": "Type IIA supergravity"
+            },
+            {
+              "ns": 0,
+              "title": "Type IIB supergravity"
+            },
+            {
+              "ns": 0,
+              "title": "Type I supergravity"
+            },
+            {
+              "ns": 0,
+              "title": "U(1)"
+            },
+            {
+              "ns": 0,
+              "title": "Uehling potential"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum expectation value"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum polarization"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum state"
+            },
+            {
+              "ns": 0,
+              "title": "Valentine Bargmann"
+            },
+            {
+              "ns": 0,
+              "title": "Valery Rubakov"
+            },
+            {
+              "ns": 0,
+              "title": "Vertex function"
+            },
+            {
+              "ns": 0,
+              "title": "Victor Popov"
+            },
+            {
+              "ns": 0,
+              "title": "Victor Sergeevich Fadin"
+            },
+            {
+              "ns": 0,
+              "title": "Victor Weisskopf"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual particle"
+            },
+            {
+              "ns": 0,
+              "title": "Vladimir Fock"
+            },
+            {
+              "ns": 0,
+              "title": "Vladimir Gribov"
+            },
+            {
+              "ns": 0,
+              "title": "Walter Thirring"
+            },
+            {
+              "ns": 0,
+              "title": "Ward–Takahashi identity"
+            },
+            {
+              "ns": 0,
+              "title": "Wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Wave interference"
+            },
+            {
+              "ns": 0,
+              "title": "Wave operator"
+            },
+            {
+              "ns": 0,
+              "title": "Wave–particle duality"
+            },
+            {
+              "ns": 0,
+              "title": "Weak force"
+            },
+            {
+              "ns": 0,
+              "title": "Weak hypercharge"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Weak isospin"
+            },
+            {
+              "ns": 0,
+              "title": "Weak nuclear force"
+            },
+            {
+              "ns": 0,
+              "title": "Wendell H. Furry"
+            },
+            {
+              "ns": 0,
+              "title": "Werner Heisenberg"
+            },
+            {
+              "ns": 0,
+              "title": "Wess–Zumino model"
+            },
+            {
+              "ns": 0,
+              "title": "Wess–Zumino–Witten model"
+            },
+            {
+              "ns": 0,
+              "title": "Weyl equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler's delayed-choice experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler–DeWitt equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler–Feynman absorber theory"
+            },
+            {
+              "ns": 0,
+              "title": "Wick's theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Wightman axioms"
+            },
+            {
+              "ns": 0,
+              "title": "Wigner's friend"
+            },
+            {
+              "ns": 0,
+              "title": "Willis Lamb"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfgang Pauli"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfhart Zimmermann"
+            },
+            {
+              "ns": 0,
+              "title": "Yang Chen-Ning"
+            },
+            {
+              "ns": 0,
+              "title": "Yang–Mills theory"
+            },
+            {
+              "ns": 0,
+              "title": "Yang–Mills–Higgs equations"
+            },
+            {
+              "ns": 0,
+              "title": "Yasushi Takahashi"
+            },
+            {
+              "ns": 0,
+              "title": "Yoichiro Nambu"
+            },
+            {
+              "ns": 0,
+              "title": "Yukawa interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-point energy"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770328602.7204275
+}

@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-09T13:52:31.310675",
+  "thought_count": 3,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:52:01.296072",
+      "type": "question",
+      "content": "How do assembly, axle, axle axle interact or influence each other? (source: Axle)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:52:01.296072",
+      "type": "question",
+      "content": "Why does this topic connect most to duty? (source: Axle)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:52:01.296072",
+      "type": "question",
+      "content": "What is missing or uncertain about assembly in this source? (source: Axle)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 139,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 3,
+    "reflection": 2,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

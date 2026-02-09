@@ -1,0 +1,481 @@
+---
+title: "Californium"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Californium"
+source: "wikipedia"
+timestamp: "2026-02-07T19:37:04.679945"
+content_length: 18325
+links_count: 348
+---
+
+Californium is a synthetic chemical element; it has symbol Cf and atomic number 98. It was first synthesized in 1950 at Lawrence Berkeley National Laboratory (then the University of California Radiation Laboratory) by bombarding curium with alpha particles (helium-4 ions). It is an actinide element, the sixth transuranium element to be synthesized, and has the second-highest atomic mass of all elements that have been produced in amounts large enough to see with the naked eye (after einsteinium). It was named after the university and the U.S. state of California.
+Two crystalline forms exist at normal pressure: one above and one below 900 °C (1,650 °F). A third form exists at high pressure. Californium slowly tarnishes in air at room temperature. Californium compounds are dominated by the +3 oxidation state. The most stable of californium's twenty known isotopes is californium-251, with a half-life of 898 years. This short half-life means the element is not found in significant quantities in the Earth's crust. 252Cf, with a half-life of about 2.645 years, is the most common isotope used and is produced at Oak Ridge National Laboratory (ORNL) in the United States and Research Institute of Atomic Reactors in Russia.
+Californium is one of the few transuranium elements with practical uses. Most of these applications exploit the fact that certain isotopes of californium emit neutrons. For example, californium can be used to help start up nuclear reactors, and it is used as a source of neutrons when studying materials using neutron diffraction and neutron spectroscopy. It can also be used in nuclear synthesis of higher mass elements; oganesson (element 118) was synthesized by bombarding californium-249 atoms with calcium-48 ions. Users of californium must take into account radiological concerns and the element's ability to disrupt the formation of red blood cells by bioaccumulating in skeletal tissue.
+
+
+== Characteristics ==
+
+
+=== Physical properties ===
+Californium is a silvery-white actinide metal with a melting point of 900 ± 30 °C (1,650 ± 50 °F) and an estimated boiling point of 1,743 K (1,470 °C; 2,680 °F). The pure metal is malleable and is easily cut with a knife. Californium metal starts to vaporize above 300 °C (570 °F) when exposed to a vacuum. Below 51 K (−222 °C; −368 °F) californium metal is either ferromagnetic or ferrimagnetic (it acts like a magnet), between 48 and 66 K it is antiferromagnetic (an intermediate state), and above 160 K (−113 °C; −172 °F) it is paramagnetic (external magnetic fields can make it magnetic). It forms alloys with lanthanide metals but little is known about the resulting materials.
+The element has two crystalline forms at standard atmospheric pressure: a double-hexagonal close-packed form dubbed alpha (α) and a face-centered cubic form designated beta (β). The α form exists below 600–800 °C with a density of 15.10 g/cm3 and the β form exists above 600–800 °C with a density of 8.74 g/cm3. At 48 GPa of pressure the β form changes into an orthorhombic crystal system due to delocalization of the atom's 5f electrons, which frees them to bond.
+The bulk modulus of a material is a measure of its resistance to uniform pressure. Californium's bulk modulus is 50±5 GPa, which is similar to trivalent lanthanide metals but smaller than more familiar metals, such as aluminium (70 GPa).
+
+
+=== Chemical properties and compounds ===
+
+Californium exhibits oxidation states of 4, 3, or 2. It typically forms eight or nine bonds to surrounding atoms or ions. Its chemical properties are predicted to be similar to other primarily 3+ valence actinide elements and the element dysprosium, which is the lanthanide above californium in the periodic table. Compounds in the +4 oxidation state are strong oxidizing agents and those in the +2 state are strong reducing agents.
+The element slowly tarnishes in air at room temperature, with the rate increasing when moisture is added. Californium reacts when heated with hydrogen, nitrogen, or a chalcogen (oxygen family element); reactions with dry hydrogen and aqueous mineral acids are rapid. 
+Californium is only water-soluble as the californium(III) cation. Attempts to reduce or oxidize the +3 ion in solution have failed. The element forms a water-soluble chloride, nitrate, perchlorate, and sulfate and is precipitated as a fluoride, oxalate, or hydroxide. Californium is the heaviest actinide to exhibit covalent properties, as is observed in the californium borate.
+
+
+=== Isotopes ===
+
+All nuclear data not otherwise stated is from the standard source:
+Twenty isotopes of californium are known with mass number ranging from 237 to 256; the most stable are 251Cf with half-life 898 years, 249Cf with half-life 351 years, 250Cf at 13.08 years, and 252Cf at 2.645 years. All other isotopes have half-life shorter than a year, and most of these have half-lives less than 20 minutes.
+249Cf is formed by beta decay of berkelium-249, and heavier californium isotopes are made by subjecting berkelium to intense neutron radiation in a nuclear reactor. Though californium-251 has the longest half-life, its production yield is relatively low due to its rapid depletion by reaction with another neutron (high neutron cross section).
+252Cf is a very strong neutron emitter, which makes it an extremely hazardous radioactive isotope. 252Cf, 96.9% of the time, alpha decays to curium-248; the other 3.1% of decays are spontaneous fission. One microgram of 252Cf emits 2.3 million neutrons per second (about 3.7 neutrons per fission). The other main isotopes of californium (248-251) also alpha decay to those of curium, with a much smaller fraction of fission.
+
+
+== History ==
+
+Californium was first made at University of California Radiation Laboratory, Berkeley, by physics researchers Stanley Gerald Thompson, Kenneth Street Jr., Albert Ghiorso, and Glenn T. Seaborg, about February 9, 1950. It was the sixth transuranium element to be discovered; the team announced its discovery on March 17, 1950.
+To produce californium, a microgram-size target of curium-242 (242Cm) was bombarded with 35 MeV alpha particles (4He) in the 60-inch-diameter (1.52 m) cyclotron at Berkeley, which produced californium-245 (245Cf) plus one free neutron (n).
+
+24296Cm + 42He → 24598Cf + 10n
+To identify and separate out the element, ion exchange and adsorsion methods were undertaken. Only about 5,000 atoms of californium were produced in this experiment, and these atoms had a half-life of 44 minutes.
+The discoverers named the new element after the university and the state. This was a break from the convention used for elements 95 to 97, which drew inspiration from how the elements directly above them in the periodic table were named. However, the element directly above element 98 in the periodic table, dysprosium, has a name that means "hard to get at", so the researchers decided to set aside the informal naming convention. They added that "the best we can do is to point out [that] ... searchers a century ago found it difficult to get to California".
+Weighable amounts of californium were first produced by the irradiation of plutonium targets at Materials Testing Reactor at National Reactor Testing Station, eastern Idaho; these findings were reported in 1954. The high spontaneous fission rate of californium-252 was observed in these samples. The first experiment with californium in concentrated form occurred in 1958. The isotopes 249Cf to 252Cf were isolated that same year from a sample of plutonium-239 that had been irradiated with neutrons in a nuclear reactor for five years. Two years later, in 1960, Burris Cunningham and James Wallman of Lawrence Radiation Laboratory of the University of California created the first californium compounds—californium trichloride, californium(III) oxychloride, and californium oxide—by treating californium with steam and hydrochloric acid.
+The High Flux Isotope Reactor (HFIR) at ORNL in Oak Ridge, Tennessee, started producing small batches of californium in the 1960s. By 1995, HFIR nominally produced 500 milligrams (0.018 oz) of californium annually. Plutonium supplied by the United Kingdom to the United States under the 1958 US–UK Mutual Defence Agreement was used for making californium.
+The Atomic Energy Commission sold 252Cf to industrial and academic customers in the early 1970s for $10/microgram, and an average of 150 mg (0.0053 oz) of 252Cf were shipped each year from 1970 to 1990. Californium metal was first prepared in 1974 by Haire and Baybarz, who reduced californium(III) oxide with lanthanum metal to obtain microgram amounts of sub-micrometer thick films.
+
+
+== Occurrence ==
+Traces of californium can be found near facilities that use the element in mineral prospecting and in medical treatments. The element is fairly insoluble in water, but it adheres well to ordinary soil; and concentrations of it in the soil can be 500 times higher than in the water surrounding the soil particles.
+Nuclear fallout from atmospheric nuclear weapons testing prior to 1980 contributed a small amount of californium to the environment. Californium-249, -252, -253, and -254 have been observed in the radioactive dust collected from the air after a nuclear explosion. Californium is not a major radionuclide at United States Department of Energy legacy sites since it was not produced in large quantities.
+Californium was once believed to be produced in supernovas, as their decay matches the 60-day half-life of 254Cf. However, subsequent studies failed to demonstrate any californium spectra, and supernova light curves are now thought to follow the decay of nickel-56.
+The transuranic elements up to fermium, including californium, should have been present in the natural nuclear fission reactor at Oklo, but any quantities produced then would have long since decayed away.
+
+
+== Production ==
+
+Californium is produced in nuclear reactors and particle accelerators. Californium-250 is made by bombarding berkelium-249 (249Bk) with neutrons, forming berkelium-250 (250Bk) via neutron capture (n,γ) which, in turn, quickly beta decays (β−) to californium-250 (250Cf) in the following reaction:
+
+24997Bk(n,γ)25097Bk → 25098Cf + β−
+Bombardment of 250Cf with neutrons produces 251Cf and 252Cf.
+Prolonged irradiation of americium, curium, and plutonium with neutrons produces milligram amounts of 252Cf and microgram amounts of 249Cf. As of 2006, curium isotopes 244 to 248 are irradiated by neutrons in special reactors to produce mainly californium-252 with lesser amounts of isotopes 249 to 255.
+Microgram quantities of 252Cf are available for commercial use through the U.S. Nuclear Regulatory Commission. Only two sites produce 252Cf: Oak Ridge National Laboratory in the U.S., and the Research Institute of Atomic Reactors in Dimitrovgrad, Russia. As of 2003, the two sites produce 0.25 grams and 0.025 grams of 252Cf per year, respectively.
+Three californium isotopes with significant half-lives are produced, requiring a total of 15 neutron captures by uranium-238 without nuclear fission or alpha decay occurring during the process. 253Cf is at the end of a production chain that starts with uranium-238, and includes several isotopes of plutonium, americium, curium,  and berkelium, and the californium isotopes 249 to 253 (see diagram).
+
+
+== Applications ==
+
+
+=== Neutron source ===
+252Cf has a number of specialized uses as a strong neutron emitter; it produces 139 million neutrons per microgram per minute. This property makes it useful as a startup neutron source for some nuclear reactors and as a portable (non-reactor based) neutron source for neutron activation analysis to detect trace amounts of elements in samples. Neutrons from californium are used as a treatment of certain cervical and brain cancers where other radiation therapy is ineffective. It has been used in educational applications since 1969 when Georgia Institute of Technology got a loan of 119 μg of 252Cf from the Savannah River Site. It is also used with online elemental coal analyzers and bulk material analyzers in the coal and cement industries.
+Neutron penetration into materials makes californium useful in detection instruments such as fuel rod scanners; neutron radiography of aircraft and weapons components to detect corrosion, bad welds, cracks and trapped moisture; and in portable metal detectors. Neutron moisture gauges use 252Cf to find water and petroleum layers in oil wells, as a portable neutron source for gold and silver prospecting for on-the-spot analysis, and to detect ground water movement. The main uses of 252Cf in 1982 were, reactor start-up (48.3%), fuel rod scanning (25.3%), and activation analysis (19.4%). By 1994, most 252Cf was used in neutron radiography (77.4%), with fuel rod scanning (12.1%) and reactor start-up (6.9%) as important but secondary uses. In 2021, fast neutrons from 252Cf were used for wireless data transmission.
+
+
+=== Superheavy element production ===
+
+In October 2006, researchers announced that three atoms of oganesson (element 118) had been identified at Joint Institute for Nuclear Research in Dubna, Russia, from bombarding 249Cf with calcium-48, making it the heaviest element ever made. The target contained about 10 mg of 249Cf deposited on a titanium foil of 32 cm2 area.  Californium has also been used to produce other transuranic elements; for example, lawrencium was first synthesized in 1961 by bombarding californium with boron nuclei.
+
+
+=== Hypothetical nuclear weapons ===
+
+251Cf has a very small calculated critical mass of about 5 kg (11 lb), high lethality, and a relatively short period of toxic environmental irradiation. The low critical mass of californium led to some exaggerated claims about possible uses for the element.
+
+
+== Precautions ==
+Californium that bioaccumulates in skeletal tissue releases radiation that disrupts the body's ability to form red blood cells. The element plays no natural biological role in any organism due to its intense radioactivity and low concentration in the environment.
+Californium can enter the body from ingesting contaminated food or drinks or by breathing air with suspended particles of the element. Once in the body, only 0.05% of the californium will reach the bloodstream. About 65% of that californium will be deposited in the skeleton, 25% in the liver, and the rest in other organs, or excreted, mainly in urine. Half of the californium deposited in the skeleton and liver are gone in 50 and 20 years, respectively. Californium in the skeleton adheres to bone surfaces before slowly migrating throughout the bone.
+The element is most dangerous if taken into the body. In addition, californium-249 and californium-251 can cause tissue damage externally, through gamma ray emission. Ionizing radiation emitted by californium on bone and in the liver can cause cancer.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Cotton, F. Albert; Wilkinson, Geoffrey; Murillo, Carlos A.; Bochmann, Manfred (1999). Advanced Inorganic Chemistry (6th ed.). John Wiley & Sons. ISBN 978-0-471-19957-1.
+Cunningham, B. B. (1968). "Californium". In Hampel, Clifford A. (ed.). The Encyclopedia of the Chemical Elements. Reinhold Book Corporation. LCCN 68029938.
+Emsley, John (1998). The Elements. Oxford University Press. ISBN 978-0-19-855818-7.
+Emsley, John (2001). "Californium". Nature's Building Blocks: An A-Z Guide to the Elements. Oxford University Press. ISBN 978-0-19-850340-8.
+Greenwood, N. N.; Earnshaw, A. (1997). Chemistry of the Elements (2nd ed.). Butterworth-Heinemann. ISBN 978-0-7506-3365-9.
+Haire, Richard G. (2006). "Californium". In Morss, Lester R.; Edelstein, Norman M.; Fuger, Jean (eds.). The Chemistry of the Actinide and Transactinide Elements (3rd ed.). Springer Science+Business Media. ISBN 978-1-4020-3555-5.
+Heiserman, David L. (1992). "Element 98: Californium". Exploring Chemical Elements and their Compounds. TAB Books. ISBN 978-0-8306-3018-9.
+Jakubke, Hans-Dieter; Jeschkeit, Hans, eds. (1994). Concise Encyclopedia Chemistry. trans. rev. Eagleson, Mary. Walter de Gruyter. ISBN 978-3-11-011451-5.
+Krebs, Robert (2006). The History and Use of our Earth's Chemical Elements: A Reference Guide. Greenwood Publishing Group. ISBN 978-0-313-33438-2.
+Lide, David R., ed. (2006). Handbook of Chemistry and Physics (87th ed.). CRC Press, Taylor & Francis Group. ISBN 978-0-8493-0487-3.
+National Research Council (U.S.). Committee on Radiation Source Use and Replacement (2008). Radiation Source Use and Replacement: Abbreviated Version. National Academies Press. ISBN 978-0-309-11014-3.
+O'Neil, Marydale J.; Heckelman, Patricia E.; Roman, Cherie B., eds. (2006). The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals (14th ed.). Merck Research Laboratories, Merck & Co. ISBN 978-0-911910-00-1.
+Osborne-Lee, I. W.; Alexander, C. W. (1995). "Californium-252: A Remarkable Versatile Radioisotope". Oak Ridge Technical Report ORNL/TM-12706. doi:10.2172/205871. OSTI 205871.
+Ruiz-Lapuente, P.; Canal, R.; Isern, J. (1996). Thermonuclear Supernovae. Springer Science+Business Media. ISBN 978-0-7923-4359-2.
+Seaborg, Glenn T.; Loveland, Walter D. (1990). The Elements Beyond Uranium. John Wiley & Sons, Inc. ISBN 978-0-471-89062-1.
+Seaborg, Glenn T. (1994). Modern alchemy: selected papers of Glenn T. Seaborg. World Scientific. ISBN 978-981-02-1440-1.
+Seaborg, Glenn T. (1996). Adloff, J. P. (ed.). One Hundred Years after the Discovery of Radioactivity. Oldenbourg Wissenschaftsverlag. ISBN 978-3-486-64252-0.
+Seaborg, Glenn T. (2004). "Californium". In Geller, Elizabeth (ed.). Concise Encyclopedia of Chemistry. McGraw-Hill. p. 94. ISBN 978-0-07-143953-4.
+Szwacki, Nevill Gonzalez; Szwacka, Teresa (2010). Basic Elements of Crystallography. Pan Stanford. ISBN 978-981-4241-59-5.
+Walker, Perrin; Tarn, William H., eds. (1991). Handbook of Metal Etchants. CRC Press. ISBN 978-0-8493-3623-2.
+Weeks, Mary Elvira; Leichester, Henry M. (1968). "21: Modern Alchemy". Discovery of the Elements. Journal of Chemical Education. pp. 848–850. ISBN 978-0-7661-3872-8. LCCN 68015217.
+
+
+== External links ==
+
+Californium at The Periodic Table of Videos (University of Nottingham)
+NuclearWeaponArchive.org – Californium
+Hazardous Substances Databank – Californium, Radioactive
+
+ Media related to Californium at Wikimedia Commons
+
+## Links
+- 1958 US–UK Mutual Defence Agreement
+- Actinide
+- Actinium
+- Age of the Earth
+- Albert Ghiorso
+- Alkali metal
+- Alkaline earth metal
+- Alloy
+- Alpha decay
+- Alpha particle
+- Aluminium
+- Americium
+- Antiferromagnetism
+- Antimony
+- Aqueous solution
+- Argon
+- Arsenic
+- Astatine
+- Atomic number
+- Barium
+- Berkeley, California
+- Berkelium
+- Beryllium
+- Beta decay
+- Beta minus decay
+- Bibcode (identifier)
+- Bioaccumulation
+- Bismuth
+- Block (periodic table)
+- Bohrium
+- Boiling point
+- Boron
+- Boron group
+- Brain tumor
+- Bromine
+- Bulk material analyzer
+- Bulk modulus
+- Butterworth-Heinemann
+- CAS Registry Number
+- Cadmium
+- Caesium
+- Calcium
+- Calcium-48
+- California
+- Californiocene
+- Californium(II) bromide
+- Californium(II) iodide
+- Californium(III) bromide
+- Californium(III) chloride
+- Californium(III) fluoride
+- Californium(III) hydroxide
+- Californium(III) iodide
+- Californium(III) nitrate
+- Californium(III) oxide
+- Californium(III) oxybromide
+- Californium(III) oxychloride
+- Californium(III) oxyfluoride
+- Californium(III) oxyiodide
+- Californium(III) polyborate
+- Californium(III) sulfate
+- Californium(IV) fluoride
+- Californium(IV) oxide
+- Californium-251
+- Californium-252
+- Californium (disambiguation)
+- Californium compounds
+- Californium dichloride
+- Californium tetrafluoride
+- Carbon
+- Carbon group
+- Cation
+- Cerium
+- Cervical cancer
+- Chalcogen
+- Chemical symbol
+- Chloride
+- Chlorine
+- Chromium
+- CiteSeerX (identifier)
+- Close-packing of equal spheres
+- Coal analyzer
+- Cobalt
+- Copernicium
+- Copper
+- Corrosion
+- Critical mass
+- Crystal structure
+- Cubic crystal system
+- Curium
+- Curium-244
+- Curium-245
+- Curium-246
+- Curium-247
+- Curium-248
+- Curium-249
+- Curium-250
+- Cyclotron
+- D-block
+- Darmstadtium
+- Decay product
+- Density
+- Dimitrovgrad, Russia
+- Doi (identifier)
+- Dubna
+- Dubnium
+- Dysprosium
+- Eastern Idaho
+- Einsteinium
+- Einsteinium-253
+- Electron configuration
+- Electron shell
+- Electronegativity
+- Energy Reorganization Act of 1974
+- Erbium
+- Europium
+- F-block
+- F-block groups
+- Fermium
+- Ferrimagnetism
+- Ferromagnetism
+- Flerovium
+- Fluoride
+- Fluorine
+- Francium
+- Free neutron
+- Fuel rod
+- Gadolinium
+- Gallium
+- Gamma ray
+- Georgia Tech
+- Germanium
+- Glenn T. Seaborg
+- Glenn T. Seaborg bibliography
+- Gold
+- Group (periodic table)
+- Group 10 element
+- Group 11 element
+- Group 12 element
+- Group 3 element
+- Group 4 element
+- Group 5 element
+- Group 6 element
+- Group 7 element
+- Group 8 element
+- Group 9 element
+- Hafnium
+- Half-life
+- Halogen
+- Hassium
+- Hdl (identifier)
+- Helium
+- Helium-4
+- High Flux Isotope Reactor
+- Holmium
+- Hydrochloric acid
+- Hydrogen
+- Hydroxide
+- ISBN (identifier)
+- ISSN (identifier)
+- Idaho National Laboratory
+- Indium
+- Iodine
+- Ion exchange
+- Ionization energy
+- Ionizing radiation
+- Iridium
+- Iron
+- Isotope
+- Isotopes of americium
+- Isotopes of berkelium
+- Isotopes of californium
+- Isotopes of curium
+- Isotopes of nickel
+- Isotopes of plutonium
+- JSTOR (identifier)
+- Johan Gadolin
+- Joint Institute for Nuclear Research
+- Kelvin
+- Kenneth Street Jr.
+- Krypton
+- LCCN (identifier)
+- Lanthanide
+- Lanthanum
+- Lawrence Berkeley National Laboratory
+- Lawrencium
+- Lead
+- List of chemical element name etymologies
+- List of data references for chemical elements
+- Lithium
+- Livermorium
+- Lutetium
+- Magnesium
+- Manganese
+- Marie Curie
+- Mary Elvira Weeks
+- Mass number
+- Materials Testing Reactor
+- Meitnerium
+- Melting point
+- Mendelevium
+- Mercury (element)
+- Metallocene
+- Microgram
+- Mineral acid
+- Mohs scale of mineral hardness
+- Molybdenum
+- Moscovium
+- Naked eye
+- Natural abundance
+- Natural nuclear fission reactor
+- Neodymium
+- Neon
+- Neptunium
+- Neutron
+- Neutron activation analysis
+- Neutron capture
+- Neutron cross section
+- Neutron diffraction
+- Neutron imaging
+- Neutron moisture gauge
+- Neutron source
+- Neutron spectroscopy
+- Nickel
+- Nihonium
+- Niobium
+- Nitrate
+- Nitrogen
+- Nobelium
+- Noble gas
+- Norman Greenwood
+- Nuclear Regulatory Commission
+- Nuclear fallout
+- Nuclear fission
+- Nuclear fuel cycle
+- Nuclear reactor
+- Nuclear weapon design
+- Nuclear weapons testing
+- OSTI (identifier)
+- Oak Ridge, Tennessee
+- Oak Ridge National Laboratory
+- Oganesson
+- Oklo
+- Organoactinide chemistry
+- Orthorhombic crystal system
+- Osmium
+- Oxalate
+- Oxidation state
+- Oxidizing agent
+- Oxygen
+- P-block
+- PMID (identifier)
+- Palladium
+- Paramagnetic
+- Particle accelerator
+- Pascal (unit)
+- Perchlorate
+- Period (periodic table)
+- Period 1 element
+- Period 2 element
+- Period 3 element
+- Period 4 element
+- Period 5 element
+- Period 6 element
+- Period 7 element
+- Periodic table
+- Phase (matter)
+- Phosphorus
+- Physical Review
+- Pierre Curie
+- Platinum
+- Plutonium
+- Plutonium-239
+- Pnictogen
+- Polonium
+- Popular Science
+- Potassium
+- Praseodymium
+- Promethium
+- Protactinium
+- Radiation therapy
+- Radioactive
+- Radioactive decay
+- Radium
+- Radon
+- Red blood cell
+- Redox
+- Reducing agent
+- Research Institute of Atomic Reactors
+- Rhenium
+- Rhodium
+- Roentgenium
+- Room temperature
+- Rubidium
+- Russia
+- Ruthenium
+- Rutherfordium
+- S-block
+- S2CID (identifier)
+- Samarium
+- Savannah River Site
+- Scandium
+- Seaborgium
+- Selenium
+- Silicon
+- Silver
+- Sodium
+- Solid
+- Spectral line
+- Spontaneous fission
+- Springer Science+Business Media
+- Standard atmosphere (unit)
+- Standard temperature and pressure
+- Stanley Gerald Thompson
+- Startup neutron source
+- Strontium
+- Sulfate
+- Sulfur
+- Superheavy element
+- Supernova
+- Synthetic element
+- Synthetic radioisotope
+- Tantalum
+- Technetium
+- Tellurium
+- Tennessine
+- Terbium
+- Thallium
+- The Periodic Table of Videos
+- Thorium
+- Thulium
+- Timeline of chemical element discoveries
+- Tin
+- Titanium
+- Transuranium element
+- Tungsten
+- U.S. state
+- Unit cell
+- United States Atomic Energy Commission
+- United States Department of Energy
+- University of California, Berkeley
+- Uranium
+- Uranium-238
+- Vanadium
+- Xenon
+- Ytterbium
+- Yttrium
+- Zinc
+- Zirconium

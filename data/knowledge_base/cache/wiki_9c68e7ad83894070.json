@@ -1,0 +1,561 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "2396": {
+          "pageid": 2396,
+          "ns": 0,
+          "title": "Adhesive",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Accelerated testing of adhesives"
+            },
+            {
+              "ns": 0,
+              "title": "Acrylate"
+            },
+            {
+              "ns": 0,
+              "title": "Acrylate polymer"
+            },
+            {
+              "ns": 0,
+              "title": "Acrylic resin"
+            },
+            {
+              "ns": 0,
+              "title": "Adhesion"
+            },
+            {
+              "ns": 0,
+              "title": "Adhesive (band)"
+            },
+            {
+              "ns": 0,
+              "title": "Adhesive surface forces"
+            },
+            {
+              "ns": 0,
+              "title": "Adhesive tape"
+            },
+            {
+              "ns": 0,
+              "title": "Albumen"
+            },
+            {
+              "ns": 0,
+              "title": "Animal glue"
+            },
+            {
+              "ns": 0,
+              "title": "Antonio Pizzi"
+            },
+            {
+              "ns": 0,
+              "title": "Axe"
+            },
+            {
+              "ns": 0,
+              "title": "Bakelite"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bioadhesives"
+            },
+            {
+              "ns": 0,
+              "title": "Birch bark tar"
+            },
+            {
+              "ns": 0,
+              "title": "Bitumen"
+            },
+            {
+              "ns": 0,
+              "title": "Blu-Tack"
+            },
+            {
+              "ns": 0,
+              "title": "Carbamate"
+            },
+            {
+              "ns": 0,
+              "title": "Casein"
+            },
+            {
+              "ns": 0,
+              "title": "Casein glue"
+            },
+            {
+              "ns": 0,
+              "title": "Caulk"
+            },
+            {
+              "ns": 0,
+              "title": "Chapman and Hall"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Clamp (tool)"
+            },
+            {
+              "ns": 0,
+              "title": "Contact adhesives"
+            },
+            {
+              "ns": 0,
+              "title": "Corrugated board"
+            },
+            {
+              "ns": 0,
+              "title": "Cross-link"
+            },
+            {
+              "ns": 0,
+              "title": "Cyanoacrylate"
+            },
+            {
+              "ns": 0,
+              "title": "Cyanoacrylates"
+            },
+            {
+              "ns": 0,
+              "title": "Dextrin"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dry ice"
+            },
+            {
+              "ns": 0,
+              "title": "Duncan Phyfe"
+            },
+            {
+              "ns": 0,
+              "title": "Elastomer"
+            },
+            {
+              "ns": 0,
+              "title": "Electroplating"
+            },
+            {
+              "ns": 0,
+              "title": "Emulsion"
+            },
+            {
+              "ns": 0,
+              "title": "Epoxy"
+            },
+            {
+              "ns": 0,
+              "title": "Ethylene-vinyl acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Experimental archaeology"
+            },
+            {
+              "ns": 0,
+              "title": "Fastener"
+            },
+            {
+              "ns": 0,
+              "title": "Flame treatment"
+            },
+            {
+              "ns": 0,
+              "title": "Formica (plastic)"
+            },
+            {
+              "ns": 0,
+              "title": "Fracture mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "George Mantanis"
+            },
+            {
+              "ns": 0,
+              "title": "Glue (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Glue sniffing"
+            },
+            {
+              "ns": 0,
+              "title": "Glue stick"
+            },
+            {
+              "ns": 0,
+              "title": "HVAC"
+            },
+            {
+              "ns": 0,
+              "title": "Horn (anatomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Hot-melt adhesive"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Impact glue"
+            },
+            {
+              "ns": 0,
+              "title": "Keratin"
+            },
+            {
+              "ns": 0,
+              "title": "Laminate"
+            },
+            {
+              "ns": 0,
+              "title": "Le Moustier"
+            },
+            {
+              "ns": 0,
+              "title": "Lignin"
+            },
+            {
+              "ns": 0,
+              "title": "List of glues"
+            },
+            {
+              "ns": 0,
+              "title": "List of polyurethane applications"
+            },
+            {
+              "ns": 0,
+              "title": "Marcel Dekker"
+            },
+            {
+              "ns": 0,
+              "title": "Marquetry"
+            },
+            {
+              "ns": 0,
+              "title": "Masking tape"
+            },
+            {
+              "ns": 0,
+              "title": "Masonite"
+            },
+            {
+              "ns": 0,
+              "title": "Medium-density fiberboard"
+            },
+            {
+              "ns": 0,
+              "title": "Middle Paleolithic"
+            },
+            {
+              "ns": 0,
+              "title": "Moisture"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular binding"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular mass"
+            },
+            {
+              "ns": 0,
+              "title": "Mongols"
+            },
+            {
+              "ns": 0,
+              "title": "Mucilage"
+            },
+            {
+              "ns": 0,
+              "title": "Natural rubber"
+            },
+            {
+              "ns": 0,
+              "title": "Neanderthals"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrocellulose"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ochre"
+            },
+            {
+              "ns": 0,
+              "title": "Organic compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organic polymer"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Paper bag"
+            },
+            {
+              "ns": 0,
+              "title": "Papyrus"
+            },
+            {
+              "ns": 0,
+              "title": "Phase (matter)"
+            },
+            {
+              "ns": 0,
+              "title": "Pitch (resin)"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma activation"
+            },
+            {
+              "ns": 0,
+              "title": "Plaster of Paris"
+            },
+            {
+              "ns": 0,
+              "title": "Plywood"
+            },
+            {
+              "ns": 0,
+              "title": "Polychloroprene"
+            },
+            {
+              "ns": 0,
+              "title": "Polyimide"
+            },
+            {
+              "ns": 0,
+              "title": "Polymer"
+            },
+            {
+              "ns": 0,
+              "title": "Polyurethane"
+            },
+            {
+              "ns": 0,
+              "title": "Polyvinyl acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Post-it note"
+            },
+            {
+              "ns": 0,
+              "title": "Postage stamp gum"
+            },
+            {
+              "ns": 0,
+              "title": "Pozzolana"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure-sensitive adhesive"
+            },
+            {
+              "ns": 0,
+              "title": "Procter & Gamble"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Rubber cement"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Scotch Tape"
+            },
+            {
+              "ns": 0,
+              "title": "Sealant"
+            },
+            {
+              "ns": 0,
+              "title": "Sewing"
+            },
+            {
+              "ns": 0,
+              "title": "Shelf life"
+            },
+            {
+              "ns": 0,
+              "title": "Slaked lime"
+            },
+            {
+              "ns": 0,
+              "title": "Solvent"
+            },
+            {
+              "ns": 0,
+              "title": "Starch"
+            },
+            {
+              "ns": 0,
+              "title": "Stockholm"
+            },
+            {
+              "ns": 0,
+              "title": "Strain crystallization"
+            },
+            {
+              "ns": 0,
+              "title": "Strain energy release rate"
+            },
+            {
+              "ns": 0,
+              "title": "Stress concentration"
+            },
+            {
+              "ns": 0,
+              "title": "Substrate (materials science)"
+            },
+            {
+              "ns": 0,
+              "title": "Surface energy"
+            },
+            {
+              "ns": 0,
+              "title": "Tendon"
+            },
+            {
+              "ns": 0,
+              "title": "Thermoplastic"
+            },
+            {
+              "ns": 0,
+              "title": "Thermoplastics"
+            },
+            {
+              "ns": 0,
+              "title": "Thermoset plastic"
+            },
+            {
+              "ns": 0,
+              "title": "Thermosetting plastic"
+            },
+            {
+              "ns": 0,
+              "title": "Thermosetting polymer"
+            },
+            {
+              "ns": 0,
+              "title": "Thiomer"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Chippendale"
+            },
+            {
+              "ns": 0,
+              "title": "Thread-locking fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Tutankhamun"
+            },
+            {
+              "ns": 0,
+              "title": "Tyrolean Iceman"
+            },
+            {
+              "ns": 0,
+              "title": "UV curing"
+            },
+            {
+              "ns": 0,
+              "title": "Van der Waals force"
+            },
+            {
+              "ns": 0,
+              "title": "Van der Waals forces"
+            },
+            {
+              "ns": 0,
+              "title": "Wallpaper adhesive"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Welding"
+            },
+            {
+              "ns": 0,
+              "title": "Wetting"
+            },
+            {
+              "ns": 0,
+              "title": "Wood glue"
+            },
+            {
+              "ns": 0,
+              "title": "Wood veneer"
+            },
+            {
+              "ns": 0,
+              "title": "Ötzi"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770583926.8648245
+}

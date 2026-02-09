@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "14092434": {
+          "pageid": 14092434,
+          "ns": 0,
+          "title": "Bibcode",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Agronomy Journal"
+            },
+            {
+              "ns": 0,
+              "title": "Astrophysics Data System"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Digital object identifier"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Kluwer Academic Publishers"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly Notices of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "NASA/IPAC Extragalactic Database"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review Letters"
+            },
+            {
+              "ns": 0,
+              "title": "SIMBAD"
+            },
+            {
+              "ns": 0,
+              "title": "The Astronomical Journal"
+            },
+            {
+              "ns": 0,
+              "title": "The Astrophysical Journal Letters"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330176.7087827
+}

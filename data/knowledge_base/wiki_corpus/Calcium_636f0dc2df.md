@@ -1,0 +1,735 @@
+---
+title: "Calcium"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Calcium"
+source: "wikipedia"
+timestamp: "2026-02-07T19:36:28.333126"
+content_length: 28217
+links_count: 587
+---
+
+Calcium is a chemical element; it has symbol Ca and atomic number 20. As an alkaline earth metal, calcium is a reactive metal that forms a dark oxide-nitride layer when exposed to air. Its physical and chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most abundant element in Earth's crust, and the third most abundant metal, after iron and aluminium. The most common calcium compound on Earth is calcium carbonate, found in limestone and the fossils of early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium. The name comes from Latin calx "lime", which was obtained from heating limestone.
+Some calcium compounds were known to the ancients, though their chemistry was unknown until the seventeenth century. Pure calcium was isolated in 1808 via electrolysis of its oxide by Humphry Davy, who named the element. Calcium compounds are widely used in many industries: in foods and pharmaceuticals for calcium supplementation, in the paper industry as bleaches, as components in cement and electrical insulators, and in the manufacture of soaps. On the other hand, the metal in pure form has few applications due to its high reactivity; still, in small quantities it is often used as an alloying component in steelmaking, and sometimes, as a calcium–lead alloy, in making automotive batteries.
+Calcium is the most abundant metal and the fifth-most abundant element in the human body. As electrolytes, calcium ions (Ca2+) play a vital role in the physiological and biochemical processes of organisms and cells: in signal transduction pathways where they act as a second messenger; in neurotransmitter release from neurons; in contraction of all muscle cell types; as cofactors in many enzymes; and in fertilization. Calcium ions outside cells are important for maintaining the potential difference across excitable cell membranes, protein synthesis, and bone formation.
+
+
+== Characteristics ==
+
+
+=== Classification ===
+
+Calcium is a very ductile silvery metal (sometimes described as pale yellow) whose properties are very similar to the heavier elements in its group, strontium, barium, and radium. A calcium atom has 20 electrons, with electron configuration [Ar]4s2. Like the other elements in group 2 of the periodic table, calcium has two valence electrons in the outermost s-orbital, which are very easily lost in chemical reactions to form a dipositive ion with the stable electron configuration of a noble gas, in this case argon.
+Hence, calcium is almost always divalent in its compounds, which are usually ionic. Hypothetical univalent salts of calcium would be stable with respect to their elements, but not to disproportionation to the divalent salts and calcium metal, because the enthalpy of formation of MX2 is much higher than those of the hypothetical MX. This occurs because of the much greater lattice energy afforded by the more highly charged Ca2+ cation compared to the hypothetical Ca+ cation.
+Calcium, strontium, barium, and radium are always considered to be alkaline earth metals; the lighter beryllium and magnesium, also in group 2 of the periodic table, are often included as well. Nevertheless, beryllium and magnesium differ significantly from the other members of the group in their physical and chemical behavior: they behave more like aluminium and zinc respectively and have some of the weaker metallic character of the post-transition metals, which is why the traditional definition of the term "alkaline earth metal" excludes them.
+
+
+=== Physical properties ===
+Calcium metal melts at 842 °C and boils at 1494 °C; these values are higher than those for magnesium and strontium, the neighbouring group 2 metals. It crystallises in the face-centered cubic arrangement like strontium and barium; above 443 °C (716 K), it changes to body-centered cubic. Its density of 1.526 g/cm3 (at 20 °C) is the lowest in its group.
+Calcium is harder than lead but can be cut with a knife with effort. While calcium is a poorer conductor of electricity than copper or aluminium by volume, it is a better conductor by mass than both due to its very low density. While calcium is infeasible as a conductor for most terrestrial applications as it reacts quickly with atmospheric oxygen, its use as such in space has been considered.
+
+
+=== Chemical properties ===
+
+The chemistry of calcium is that of a typical heavy alkaline earth metal. For example, calcium spontaneously reacts with water more quickly than magnesium but less quickly than strontium to produce calcium hydroxide and hydrogen gas. It also reacts with the oxygen and nitrogen in air to form a mixture of calcium oxide and calcium nitride. When finely divided, it spontaneously burns in air to produce the nitride. Bulk calcium is less reactive: it quickly forms a hydration coating in moist air, but below 30% relative humidity it may be stored indefinitely at room temperature.
+Besides the simple oxide CaO, calcium peroxide, CaO2, can be made by direct oxidation of calcium metal under a high pressure of oxygen, and there is some evidence for a yellow superoxide Ca(O2)2.Calcium hydroxide, Ca(OH)2, is a strong base, though not as strong as the hydroxides of strontium, barium or the alkali metals. All four dihalides of calcium are known. Calcium carbonate (CaCO3) and calcium sulfate (CaSO4) are particularly abundant minerals. Like strontium and barium, as well as the alkali metals and the divalent lanthanides europium and ytterbium, calcium metal dissolves directly in liquid ammonia to give a dark blue solution.
+Due to the large size of the calcium ion (Ca2+), high coordination numbers are common, up to 24 in some intermetallic compounds such as CaZn13. Calcium is readily complexed by oxygen chelates such as EDTA and polyphosphates, which are useful in analytic chemistry and removing calcium ions from hard water. In the absence of steric hindrance, smaller group 2 cations tend to form stronger complexes, but when large polydentate macrocycles are involved the trend is reversed.
+
+
+==== Organocalcium compounds ====
+
+In contrast to organomagnesium compounds, organocalcium compounds are not similarly useful, with one major exception, calcium carbide, CaC2.  This material, which has historic significance, is prepared by heating calcium oxide with carbon.  According to X-ray crystallography, calcium carbide can be described as Ca2+ derivative of acetylide, C22-, although it is not a salt.  Several million tons of calcium carbide are produced annually.  Hydrolysis gives acetylene, which is used in welding and a chemical precursor.  Reaction with nitrogen gas converts calcium carbide to calcium cyanamide.
+A dominant theme in molecular organocalcium chemistry is the large radius of calcium, which often leads to high coordination numbers. For example, dimethylcalcium appears to be a 3-dimensional polymer, whereas dimethylmagnesium is a linear polymer with tetrahedral Mg centers.  Bulky ligands are often required to disfavor polymeric species. For example, calcium dicyclopentadienyl, Ca(C5H5)2 has a polymeric structure and thus is nonvolatile and insoluble in solvents. Replacing the C5H5 ligand with the bulkier C5(CH3)5 (pentamethylcyclopentadienyl) gives a soluble complex that sublimes and forms well-defined adducts with ethers. Organocalcium compounds tend to be more similar to organoytterbium compounds due to the similar ionic radii of Yb2+ (102 pm) and Ca2+ (100 pm).
+Organocalcium compounds have been well investigated. Some such complexes exhibit catalytic properties,  although none have been commercialized.
+
+
+=== Isotopes ===
+
+Natural calcium is a mixture of five stable isotopes—40Ca, 42Ca, 43Ca, 44Ca, and 46Ca—and 48Ca, whose half-life of 4.3 × 1019 years is so long that it can be considered stable for all practical purposes. Calcium is the first (lightest) element to have six naturally occurring isotopes.
+By far the most common isotope is 40Ca, which makes up 96.941% of natural calcium. It is produced in the silicon-burning process from fusion of alpha particles and is the heaviest stable nuclide with equal proton and neutron numbers; its occurrence is also supplemented slowly by the decay of primordial 40K. Adding another alpha particle leads to unstable 44Ti, which decays via two successive electron captures to stable 44Ca; this makes up 2.806% of natural calcium and is the second-most common isotope.
+The other four natural isotopes, 42, 43, 46, 48Ca, are significantly rarer, each comprising less than 1% of natural calcium. The four lighter isotopes are mainly products of oxygen-burning and silicon-burning, leaving the two heavier ones to be produced via neutron capture. 46Ca is mostly produced in a "hot" s-process, as its formation requires a rather high neutron flux to allow short-lived 45Ca to capture a neutron. 48Ca is produced by electron capture in the r-process in type Ia supernovae, where high neutron excess and low enough entropy ensures its survival.
+46Ca and 48Ca are the first "classically stable" nuclides with a 6-neutron or 8-neutron excess respectively. Though extremely neutron-rich for such a light element, 48Ca is very stable because it is a doubly magic nucleus, with 20 protons and 28 neutrons arranged in closed shells. Its beta decay to 48Sc is very hindered by the gross mismatch of nuclear spin: 48Ca has zero nuclear spin, being even–even, while 48Sc has spin 6+, so the decay is forbidden by conservation of angular momentum. While two excited states of 48Sc are available for decay as well, they are also forbidden due to their high spins. As a result, when 48Ca does decay, it does so by double beta decay to 48Ti instead, being the lightest nuclide known to undergo double beta decay.
+46Ca can also theoretically double-beta-decay to 46Ti, but this has never been observed. The most common isotope 40Ca is also doubly magic and could undergo double electron capture to 40Ar, but this has likewise never been observed. Calcium is the only element with two primordial doubly magic isotopes. The experimental lower limits for the half-lives of 40Ca and 46Ca are 5.9 × 1021 years and 2.8 × 1015 years respectively.
+Excluding 48Ca, the longest lived radioisotope of calcium is 41Ca. It decays by electron capture to stable 41K with a half-life of about 105 years. Its existence in the early Solar System as an extinct radionuclide has been inferred from excesses of 41K. Traces of 41Ca also still exist today, as it is a cosmogenic nuclide, continuously produced through neutron activation of natural 40Ca.
+Many other calcium radioisotopes are known, ranging from 35Ca to 60Ca. They are all much shorter-lived than 41Ca; the most stable are 45Ca (half-life 163 days) and 47Ca (half-life 4.54 days). Isotopes lighter than 42Ca usually undergo beta plus decay to isotopes of potassium, and those heavier than 44Ca usually undergo beta minus decay to scandium; though near the nuclear drip lines, proton emission and neutron emission begin to be significant decay modes as well.
+Like other elements, a variety of processes alter the relative abundance of calcium isotopes. The best studied of these processes is the mass-dependent fractionation of calcium isotopes that accompanies the precipitation of calcium minerals such as calcite, aragonite and apatite from solution. Lighter isotopes are preferentially incorporated into these minerals, leaving the surrounding solution enriched in heavier isotopes at a magnitude of roughly 0.025% per atomic mass unit (amu) at room temperature. Mass-dependent differences in calcium isotope composition are conventionally expressed by the ratio of two isotopes (usually 44Ca/40Ca) in a sample compared to the same ratio in a standard reference material. 44Ca/40Ca varies by about 1–2‰ among organisms on Earth.
+
+
+== History ==
+
+Calcium compounds were known for millennia, though their chemical makeup was not understood until the 17th century. Lime as a building material and as plaster for statues was used as far back as around 7000 BC. The first dated lime kiln dates back to 2500 BC and was found in Khafajah, Mesopotamia.
+About the same time, dehydrated gypsum (CaSO4·2H2O) was being used in the Great Pyramid of Giza. This material would later be used for the plaster in the tomb of Tutankhamun. The ancient Romans instead used lime mortars made by heating limestone (CaCO3). The name "calcium" itself derives from the Latin word calx "lime".
+Vitruvius noted that the lime that resulted was lighter than the original limestone, attributing this to the boiling of the water. In 1755, Joseph Black proved that this was due to the loss of carbon dioxide, which as a gas had not been recognised by the ancient Romans.
+
+In 1789, Antoine Lavoisier suspected that lime might be an oxide of an element. In his table of the elements, Lavoisier listed five "salifiable earths" (i.e., ores that could be made to react with acids to produce salts (salis = salt, in Latin): chaux (calcium oxide), magnésie (magnesia, magnesium oxide), baryte (barium sulfate), alumine (alumina, aluminium oxide), and silice (silica, silicon dioxide)). About these "elements", Lavoisier reasoned: We are probably only acquainted as yet with a part of the metallic substances existing in nature, as all those which have a stronger affinity to oxygen than carbon possesses, are incapable, hitherto, of being reduced to a metallic state, and consequently, being only presented to our observation under the form of oxyds, are confounded with earths. It is extremely probable that barytes, which we have just now arranged with earths, is in this situation; for in many experiments it exhibits properties nearly approaching to those of metallic bodies. It is even possible that all the substances we call earths may be only metallic oxyds, irreducible by any hitherto known process.
+Calcium, along with its congeners magnesium, strontium, and barium, was first isolated by Humphry Davy in 1808. Following the work of Jöns Jakob Berzelius and Magnus Martin of Pontin on electrolysis, Davy isolated calcium and magnesium by putting a mixture of the respective metal oxides with mercury(II) oxide on a platinum plate which was used as the anode, the cathode being a platinum wire partially submerged into mercury. Electrolysis then gave calcium–mercury and magnesium–mercury amalgams, and distilling off the mercury gave the metal. However, pure calcium cannot be prepared in bulk by this method and a workable commercial process for its production was not found until over a century later.
+
+
+== Occurrence and production ==
+
+At 3%, calcium is the fifth most abundant element in the Earth's crust, and the third most abundant metal behind aluminium and iron. It is also the fourth most abundant element in the lunar highlands. Sedimentary calcium carbonate deposits pervade the Earth's surface as fossilised remains of past marine life; they occur in two forms, the rhombohedral calcite (more common) and the orthorhombic aragonite (forming in more temperate seas). Minerals of the first type include limestone, dolomite, marble, chalk, and Iceland spar; aragonite beds make up the Bahamas, the Florida Keys, and the Red Sea basins. Corals, sea shells, and pearls are mostly made up of calcium carbonate. Among the other important minerals of calcium are gypsum (CaSO4·2H2O), anhydrite (CaSO4), fluorite (CaF2), and apatite ([Ca5(PO4)3X], X = OH, Cl, or F)
+The major producers of calcium are China (about 10000 to 12000 tonnes per year), Russia (about 6000 to 8000 tonnes per year), and the United States (about 2000 to 4000 tonnes per year). Canada and France are among the minor producers. In 2005, about 24000 tonnes of calcium were produced; about half of the world's extracted calcium is used by the United States, with about 80% of the output used each year.
+In Russia and China, Davy's method of electrolysis is still used, but is instead applied to molten calcium chloride. Since calcium is less reactive than strontium or barium, the oxide–nitride coating that results in air is stable and lathe machining and other standard metallurgical techniques are suitable for calcium.
+In the U.S. and Canada, calcium is instead produced by reducing lime with aluminium at high temperatures. In this process, powdered high-calcium lime and powdered aluminum are mixed and compacted into briquettes for a high degree of contact, which are then placed in a sealed retort which has been evacuated and heated to ~1200°C. The briquettes release calcium vapor into the vacuum for about 8 hours, which then condenses in the cooled ends of the retorts to form 24-34 kg pieces of calcium metal, as well as some residue of calcium aluminate. High-purity calcium can be obtained by distilling low-purity calcium at high temperatures.
+
+
+=== Geochemical cycling ===
+
+Calcium cycling provides a link between tectonics, climate, and the carbon cycle. In the simplest terms, mountain-building exposes calcium-bearing rocks such as basalt and granodiorite to chemical weathering and releases Ca2+ into surface water. These ions are transported to the ocean where they react with dissolved CO2 to form limestone (CaCO3), which in turn settles to the sea floor where it is incorporated into new rocks. Dissolved CO2, along with carbonate and bicarbonate ions, are termed "dissolved inorganic carbon" (DIC).
+The actual reaction is more complicated and involves the bicarbonate ion (HCO−3) that forms when CO2 reacts with water at seawater pH:
+
+Ca2+ + 2 HCO−3  →  CaCO3↓ + CO2 + H2O
+At seawater pH, most of the dissolved CO2 is immediately converted back into HCO−3. The reaction results in a net transport of one molecule of CO2 from the ocean/atmosphere into the lithosphere. The result is that each Ca2+ ion released by chemical weathering ultimately removes one CO2 molecule from the surficial system (atmosphere, ocean, soil and living organisms), storing it in carbonate rocks where it is likely to stay for hundreds of millions of years. The weathering of calcium from rocks thus scrubs CO2 from the ocean and air, exerting a strong long-term effect on climate.
+
+
+== Applications ==
+The largest use of metallic calcium is in steelmaking, due to its strong chemical affinity for chalcogens oxygen and sulfur. Its oxides and sulfides, once formed, give liquid lime aluminate and sulfide inclusions in steel which float out; on treatment, these inclusions disperse throughout the steel and become small and spherical, improving castability, cleanliness and general mechanical properties. Calcium is also used in maintenance-free automotive batteries, in which the use of 0.1% calcium–lead alloys instead of the usual antimony–lead alloys leads to lower water loss and lower self-discharging.
+Due to the risk of expansion and cracking, aluminium is sometimes also incorporated into these alloys. These lead–calcium alloys are also used in casting, replacing lead–antimony alloys. Calcium is also used to strengthen aluminium alloys used for bearings, for the control of graphitic carbon in cast iron, and to remove bismuth impurities from lead. Calcium metal is found in some drain cleaners, where it functions to generate heat and calcium hydroxide that saponifies the fats and liquefies the proteins (for example, those in hair) that block drains.
+Besides metallurgy, the reactivity of calcium is exploited to remove nitrogen from high-purity argon gas and as a getter for oxygen and nitrogen. It is also used as a reducing agent in the production of chromium, zirconium, thorium, vanadium and uranium. It can also be used to store hydrogen gas, as it reacts with hydrogen to form solid calcium hydride, from which the hydrogen can easily be re-extracted.
+Calcium isotope fractionation during mineral formation has led to several applications of calcium isotopes. In particular, the 1997 observation by Skulan and DePaolo that calcium minerals are isotopically lighter than the solutions from which the minerals precipitate is the basis of analogous applications in medicine and in paleoceanography. In animals with skeletons mineralised with calcium, the calcium isotopic composition of soft tissues reflects the relative rate of formation and dissolution of skeletal mineral.
+In humans, changes in the calcium isotopic composition of urine have been shown to be related to changes in bone mineral balance. When the rate of bone formation exceeds the rate of bone resorption, the 44Ca/40Ca ratio in soft tissue rises and vice versa. Because of this relationship, calcium isotopic measurements of urine or blood may be useful in the early detection of metabolic bone diseases like osteoporosis.
+A similar system exists in seawater, where 44Ca/40Ca tends to rise when the rate of removal of Ca2+ by mineral precipitation exceeds the input of new calcium into the ocean. In 1997, Skulan and DePaolo presented the first evidence of change in seawater 44Ca/40Ca over geologic time, along with a theoretical explanation of these changes. More recent papers have confirmed this observation, demonstrating that seawater Ca2+ concentration is not constant, and that the ocean is never in a "steady state" with respect to calcium input and output. This has important climatological implications, as the marine calcium cycle is closely tied to the carbon cycle.
+Many calcium compounds are used in food, as pharmaceuticals, and in medicine, among others. For example, calcium and phosphorus are supplemented in foods through the addition of calcium lactate, calcium diphosphate, and tricalcium phosphate. The last is also used as a polishing agent in toothpaste and in antacids. Calcium lactobionate is a white powder that is used as a suspending agent for pharmaceuticals. In baking, calcium phosphate is used as a leavening agent. Calcium sulfite is used as a bleach in papermaking and as a disinfectant, calcium silicate is used as a reinforcing agent in rubber, and calcium acetate is a component of liming rosin and is used to make metallic soaps and synthetic resins.
+Calcium supplement is on the World Health Organization's List of Essential Medicines.
+
+
+== Food sources ==
+
+Foods rich in calcium include dairy products such as milk, yogurt, and cheese, as well as sardines, salmon, soy products, kale, and fortified breakfast cereals.
+Because of concerns for long-term adverse side effects, including calcification of arteries and kidney stones, both the U.S. Institute of Medicine (IOM) and the European Food Safety Authority (EFSA) set tolerable upper intake levels (ULs) for combined dietary and supplemental calcium. From the IOM, people of ages 9–18 years are not to exceed 3 g/day combined intake; for ages 19–50, not to exceed 2.5 g/day; for ages 51 and older, not to exceed 2 g/day. EFSA set the UL for all adults at 2.5 g/day, but decided the information for children and adolescents was not sufficient to determine ULs.
+
+
+== Biological and pathological role ==
+
+
+=== Function ===
+Calcium is an essential element needed in large quantities. The Ca2+ ion acts as an electrolyte and is vital to the health of the muscular, circulatory, and digestive systems; is indispensable to the building of bone in the form of hydroxyapatite; and supports synthesis and function of blood cells. For example, it regulates the contraction of muscles, nerve conduction, and the clotting of blood. As a result, intra- and extracellular calcium levels are tightly regulated by the body. Calcium can play this role because the Ca2+ ion forms stable coordination complexes with many organic compounds, especially proteins; it also forms compounds with a wide range of solubilities, enabling the formation of the skeleton.
+
+
+=== Binding ===
+Calcium ions may be complexed by proteins through binding the carboxyl groups of glutamic acid or aspartic acid residues; through interacting with phosphorylated serine, tyrosine, or threonine residues; or by being chelated by γ-carboxylated amino acid residues. Trypsin, a digestive enzyme, uses the first method; osteocalcin, a bone matrix protein, uses the third.
+Some other bone matrix proteins such as osteopontin and bone sialoprotein use both the first and the second. Direct activation of enzymes by binding calcium is common; some other enzymes are activated by noncovalent association with direct calcium-binding enzymes. Calcium also binds to the phospholipid layer of the cell membrane, anchoring proteins associated with the cell surface.
+
+
+=== Solubility ===
+As an example of the wide range of solubility of calcium compounds, monocalcium phosphate is very soluble in water, 85% of extracellular calcium is as dicalcium phosphate with a solubility of 2.00 mM, and the hydroxyapatite of bones in an organic matrix is tricalcium phosphate with a solubility of 1000 μM.
+
+
+=== Nutrition ===
+Calcium is a common constituent of multivitamin dietary supplements, but the composition of calcium complexes in supplements may affect its bioavailability which varies by solubility of the salt involved: calcium citrate, malate, and lactate are highly bioavailable, while the oxalate is less. Other calcium preparations include calcium carbonate, calcium citrate malate, and calcium gluconate. The intestine absorbs about one-third of calcium eaten as the free ion, and plasma calcium level is then regulated by the kidneys.
+
+
+=== Hormonal regulation of bone formation and serum levels ===
+Parathyroid hormone and vitamin D promote the formation of bone by allowing and enhancing the deposition of calcium ions there, allowing rapid bone turnover without affecting bone mass or mineral content. When plasma calcium levels fall, cell surface receptors are activated and the secretion of parathyroid hormone occurs; it then proceeds to stimulate the entry of calcium into the plasma pool by taking it from targeted kidney, gut, and bone cells, with the bone-forming action of parathyroid hormone being antagonised by calcitonin, whose secretion increases with increasing plasma calcium levels.
+
+
+=== Abnormal serum levels ===
+Excess intake of calcium may cause hypercalcemia. However, because calcium is absorbed rather inefficiently by the intestines, high serum calcium is more likely caused by excessive secretion of parathyroid hormone (PTH) or possibly by excessive intake of vitamin D, both of which facilitate calcium absorption. All these conditions result in excess calcium salts being deposited in the heart, blood vessels, or kidneys. Symptoms include anorexia, nausea, vomiting, memory loss, confusion, muscle weakness, increased urination, dehydration, and metabolic bone disease.
+Chronic hypercalcaemia typically leads to calcification of soft tissue and its serious consequences: for example, calcification can cause loss of elasticity of vascular walls and disruption of laminar blood flow—and thence to plaque rupture and thrombosis. Conversely, inadequate calcium or vitamin D intakes may result in hypocalcemia, often caused also by inadequate secretion of parathyroid hormone or defective PTH receptors in cells. Symptoms include neuromuscular excitability, which potentially causes tetany and disruption of conductivity in cardiac tissue.
+
+
+=== Bone disease ===
+As calcium is required for bone development, many bone diseases can be traced to the organic matrix or the hydroxyapatite in molecular structure or organization of bone. Osteoporosis is a reduction in mineral content of bone per unit volume, and can be treated by supplementation of calcium, vitamin D, and bisphosphonates. Inadequate amounts of calcium, vitamin D, or phosphates can lead to softening of bones, called osteomalacia.
+
+
+== Safety ==
+
+
+=== Metallic calcium ===
+
+Because calcium reacts exothermically with water and acids, calcium metal coming into contact with bodily moisture results in severe corrosive irritation. When swallowed, calcium metal has the same effect on the mouth, oesophagus, and stomach, and can be fatal. However, long-term exposure is not known to have distinct adverse effects.
+
+
+== References ==
+
+
+== Bibliography ==
+Hluchan, Stephen E.; Pomerantz, Kenneth (2005). "Calcium and Calcium Alloys". Ullmann's Encyclopedia of Industrial Chemistry. Weinheim: Wiley-VCH. doi:10.1002/14356007.a04_515.pub2. ISBN 978-3-527-30673-2.
+
+## Links
+- 'Ain Ghazal Statues
+- Abundance of elements in Earth's crust
+- Acetylene
+- Actinium
+- Alkali metal
+- Alkaline earth metal
+- Alpha particle
+- Aluminate
+- Aluminium
+- Americium
+- Ammonia
+- Analytic chemistry
+- Ancient Roman
+- Angular momentum
+- Anhydrite
+- Antacid
+- Antimony
+- Antoine Lavoisier
+- Apatite
+- ArXiv (identifier)
+- Aragonite
+- Arginine alpha-ketoglutarate
+- Argon
+- Arsenic
+- Aspartic acid
+- Astatine
+- Atomic number
+- Atomic radius
+- Automotive battery
+- B vitamins
+- Bahamas
+- Barium
+- Basalt
+- Berkelium
+- Beryllium
+- Beta-Hydroxy beta-methylbutyric acid
+- Beta decay
+- Beta minus decay
+- Beta plus decay
+- Bibcode (identifier)
+- Bicarbonate
+- Bifidobacterium
+- Bioavailability (medicine)
+- Biochemistry
+- Biotin
+- Bismuth
+- Bisphosphonate
+- Block (periodic table)
+- Body-centered cubic
+- Bodybuilding supplement
+- Bohrium
+- Boiling point
+- Bone sialoprotein
+- Boron
+- Boron group
+- Breakfast cereal
+- Brinell hardness test
+- Briquette
+- Bromine
+- Bulk modulus
+- Bulky ligand
+- Butterworth-Heinemann
+- CAS Registry Number
+- Cadmium
+- Caesium
+- Calcification
+- Calcite
+- Calcitonin
+- Calcium(I) chloride
+- Calcium-48
+- Calcium (disambiguation)
+- Calcium acetate
+- Calcium aluminates
+- Calcium arsenate
+- Calcium arsenide
+- Calcium azide
+- Calcium bicarbonate
+- Calcium bisulfite
+- Calcium borate
+- Calcium bromate
+- Calcium bromide
+- Calcium carbide
+- Calcium carbonate
+- Calcium chlorate
+- Calcium chloride
+- Calcium chromate
+- Calcium citrate
+- Calcium citrate malate
+- Calcium compounds
+- Calcium cyanamide
+- Calcium cyanide
+- Calcium cycle
+- Calcium diglutamate
+- Calcium diphosphate
+- Calcium disilicide
+- Calcium dobesilate
+- Calcium erythorbate
+- Calcium fluoride
+- Calcium formate
+- Calcium fructoborate
+- Calcium fumarate
+- Calcium glubionate
+- Calcium glucoheptonate
+- Calcium gluconate
+- Calcium glycerylphosphate
+- Calcium guanylate
+- Calcium hydride
+- Calcium hydroxide
+- Calcium hydroxychloride
+- Calcium hypochlorite
+- Calcium in biology
+- Calcium inosinate
+- Calcium iodate
+- Calcium iodide
+- Calcium lactate
+- Calcium lactobionate
+- Calcium malate
+- Calcium monophosphide
+- Calcium monosilicide
+- Calcium nitrate
+- Calcium nitride
+- Calcium nitrite
+- Calcium oxalate
+- Calcium oxide
+- Calcium perchlorate
+- Calcium permanganate
+- Calcium peroxide
+- Calcium phosphate
+- Calcium phosphide
+- Calcium propanoate
+- Calcium pyrophosphate
+- Calcium selenide
+- Calcium silicate
+- Calcium stearate
+- Calcium sulfate
+- Calcium sulfide
+- Calcium sulfite
+- Calcium supplement
+- Calcium supplementation
+- Calcium titanate
+- Californium
+- Canada
+- Carbon
+- Carbon cycle
+- Carbon dioxide
+- Carbon group
+- Carbonate
+- Carbonate–silicate cycle
+- Carboxyl group
+- Carnitine
+- Cast iron
+- Cell (biology)
+- Cell membrane
+- Cerium
+- Chalcogen
+- Chalk
+- Cheese
+- Chelate
+- Chelation
+- Chemical affinity
+- Chemical element
+- China
+- Chlorine
+- Choline
+- Chondroitin sulfate
+- Chromium
+- Climate
+- Cobalt
+- Cod liver oil
+- Codex Alimentarius
+- Coefficient of thermal expansion
+- Cofactor (biochemistry)
+- Commission on Isotopic Abundances and Atomic Weights
+- Coordination complex
+- Coordination number
+- Copernicium
+- Copper
+- Copper gluconate
+- Coral
+- Cosmogenic nuclide
+- Covalent radius
+- Creatine
+- Crystal structure
+- Cubic crystal system
+- Curium
+- Cyanocobalamin
+- Cyclopentadienyl
+- D-block
+- Dairy product
+- Darmstadtium
+- Decay product
+- Density
+- Diamagnetism
+- Dicalcium phosphate
+- Dietary fiber
+- Dietary supplement
+- Dimethylmagnesium
+- Disproportionation
+- Distillation
+- Divalent
+- Doi (identifier)
+- Dolomite (mineral)
+- Double beta decay
+- Double beta minus decay
+- Double electron capture
+- Doubly magic
+- Dubnium
+- Dysprosium
+- Echinacea
+- Einsteinium
+- Electrical resistivity and conductivity
+- Electrolysis
+- Electrolyte
+- Electron capture
+- Electron configuration
+- Electronegativity
+- Ellen Thomas (scientist)
+- Energy bar
+- Energy drink
+- Enthalpy of formation
+- Enthalpy of fusion
+- Enthalpy of vaporization
+- Enzyme
+- Enzyte
+- Ephedra (medicine)
+- Erbium
+- Essential element
+- Essential fatty acid
+- Ethylenediaminetetraacetic acid
+- European Food Safety Authority
+- Europium
+- Even and odd atomic nuclei
+- Extinct radionuclide
+- F-block
+- Face-centered cubic
+- Fermium
+- Fertilization
+- Fish oil
+- Flerovium
+- Florida Keys
+- Fluorine
+- Fluorite
+- Folate
+- Food fortification
+- Forbidden mechanism
+- France
+- Francium
+- GHS hazard pictograms
+- GHS hazard statements
+- GHS precautionary statements
+- Gadolinium
+- Gallium
+- Germanium
+- Getter
+- Ginseng
+- Globally Harmonized System of Classification and Labelling of Chemicals
+- Glucosamine
+- Glutamic acid
+- Glutamine
+- Goji
+- Gold
+- Granodiorite
+- Grape seed extract
+- Great Pyramid of Giza
+- Group (periodic table)
+- Group 10 element
+- Group 11 element
+- Group 12 element
+- Group 3 element
+- Group 4 element
+- Group 5 element
+- Group 6 element
+- Group 7 element
+- Group 8 element
+- Group 9 element
+- Guarana
+- Gypsum
+- Hadacol
+- Hafnium
+- Half-life
+- Halogen
+- Hard water
+- Hassium
+- Hdl (identifier)
+- Helium
+- Herbal medicine
+- Herbal tea
+- Holmium
+- Human body
+- Humphry Davy
+- Hydrogen
+- Hydroxyapatite
+- Hypercalcemia
+- Hypericum perforatum
+- Hypocalcemia
+- ISBN (identifier)
+- ISSN (identifier)
+- Iceland spar
+- Indium
+- Institute of Medicine
+- Intermetallic compound
+- Iodine
+- Ionic compound
+- Ionic radii
+- Ionization energy
+- Iridium
+- Iron
+- Iron supplement
+- Isotope
+- Isotope fractionation
+- Isotopes of calcium
+- JSTOR (identifier)
+- Joseph Black
+- Jöns Jakob Berzelius
+- Kale
+- Kelvin
+- Khafajah
+- Kidney
+- Kidney stone
+- Kilojoule per mole
+- Krill oil
+- Krypton
+- LCCN (identifier)
+- Lactobacillus
+- Lanthanide
+- Lanthanum
+- Lathe
+- Latin
+- Lattice constant
+- Lattice energy
+- Lawrencium
+- Lead
+- Leavening agent
+- Lime (material)
+- Lime kiln
+- Lime plaster
+- Limestone
+- Liming rosin
+- Lingzhi (mushroom)
+- Linseed oil
+- Lipoic acid
+- List of chemical element name etymologies
+- List of data references for chemical elements
+- Lithium
+- Lithosphere
+- Livermorium
+- Lonicera japonica
+- Lunar highlands
+- Lutetium
+- Macrocycle
+- Magnesium
+- Magnetic susceptibility
+- Magnetism
+- Magnus Martin of Pontin
+- Manganese
+- Marble
+- Mary Elvira Weeks
+- Meitnerium
+- Melatonin (supplement)
+- Melting point
+- Mendelevium
+- Mercury(II) oxide
+- Mercury (element)
+- Mesopotamia
+- Milk
+- Mineral (nutrient)
+- Mohs scale of mineral hardness
+- Molar concentration
+- Molar heat capacity
+- Molar ionization energies of the elements
+- Molybdenum
+- Monocalcium aluminate
+- Monocalcium phosphate
+- Moscovium
+- Multivitamin
+- Muscle cell
+- Muscle contraction
+- NEMO-3 Collaboration
+- NFPA 704
+- Natural abundance
+- Neodymium
+- Neon
+- Neptunium
+- Neurons
+- Neurotransmitter
+- Neutron activation
+- Neutron capture
+- Neutron emission
+- Niacin (nutrient)
+- Nickel
+- Nihonium
+- Niobium
+- Nitrogen
+- Nobelium
+- Noble gas
+- Norman Greenwood
+- Nuclear drip line
+- Nuclear spin
+- Nutraceutical
+- Nutrition
+- Oganesson
+- Organocalcium chemistry
+- Organomagnesium compound
+- Organoytterbium compound
+- Orthorhombic
+- Osmium
+- Osteocalcin
+- Osteomalacia
+- Osteopontin
+- Osteoporosis
+- Oxidation state
+- Oxygen
+- Oxygen-burning
+- P-block
+- PH
+- PMC (identifier)
+- PMID (identifier)
+- Palladium
+- Pamukkale
+- Pantothenic acid
+- Parathyroid hormone
+- Pearl
+- Pearson symbol
+- Pentamethylcyclopentadienyl
+- Period (periodic table)
+- Period 1 element
+- Period 2 element
+- Period 3 element
+- Period 4 element
+- Period 5 element
+- Period 6 element
+- Period 7 element
+- Periodic table
+- Phase (matter)
+- Phospholipid
+- Phosphorus
+- Phosphorylation
+- Physical Review D
+- Physiology
+- Picometre
+- Platinum
+- Plutonium
+- Pnictogen
+- Poisson's ratio
+- Polonium
+- Polydentate
+- Polyphosphate
+- Post-transition metal
+- Potassium
+- Potassium-40
+- Potassium-41
+- Potential difference
+- Praseodymium
+- Prebiotic (nutrition)
+- Primordial nuclide
+- Probiotic
+- Promethium
+- Protactinium
+- Protein
+- Protein supplement
+- Proton emission
+- R-process
+- Radical ion
+- Radioactive decay
+- Radioisotope
+- Radium
+- Radon
+- Red Sea
+- Red yeast rice
+- Relative humidity
+- Retort
+- Rhenium
+- Rhodium
+- Rhombohedral
+- Riboflavin
+- Roentgenium
+- Royal jelly
+- Rubidium
+- Russia
+- Ruthenium
+- Rutherfordium
+- S-block
+- S-process
+- S2CID (identifier)
+- Salmon as food
+- Samarium
+- Saponification
+- Sardines as food
+- Saw palmetto extract
+- Scandium
+- Scandium-45
+- Scandium-47
+- Sea shell
+- Seaborgium
+- Second messenger
+- Sedimentary rock
+- Selenium
+- Serine
+- Shear modulus
+- Signal transduction
+- Silicon
+- Silicon-burning process
+- Silver
+- Silybum marianum
+- Skeleton
+- Sodium
+- Solid
+- Soy
+- Specific heat capacity
+- Spectral line
+- Speed of sound
+- Spirulina (dietary supplement)
+- Stable isotope
+- Standard atomic weight
+- Standard temperature and pressure
+- Steelmaking
+- Steric hindrance
+- Strontium
+- Sulfur
+- Superoxide
+- Symbol (chemistry)
+- Synthetic radioisotope
+- Tantalum
+- Taurine
+- Technetium
+- Tectonics
+- Tellurium
+- Tennessine
+- Terbium
+- Tetany
+- Tetracalcium phosphate
+- Thallium
+- Thermal conductivity
+- Thiamine
+- Thorium
+- Threonine
+- Thrombosis
+- Thulium
+- Timeline of chemical element discoveries
+- Tin
+- Titanium
+- Tolerable upper intake level
+- Tonne
+- Toothpaste
+- Total inorganic carbon
+- Trace radioisotope
+- Traité Élémentaire de Chimie
+- Travertine
+- Tricalcium aluminate
+- Tricalcium phosphate
+- Trypsin
+- Tungsten
+- Turkey
+- Tutankhamun
+- Type Ia supernova
+- Tyrosine
+- Ullmann's Encyclopedia of Industrial Chemistry
+- United States
+- Uranium
+- Vacuum
+- Valence electron
+- Van der Waals radius
+- Vanadium
+- Vapor pressure
+- Vascular wall
+- Vitamin
+- Vitamin A
+- Vitamin B6
+- Vitamin C
+- Vitamin D
+- Vitamin E
+- Vitamin K
+- Vitruvius
+- Vulnerable plaque
+- WHO Model List of Essential Medicines
+- Wheatgrass
+- World Health Organization
+- X-ray crystallography
+- Xenon
+- Yogurt
+- Yohimbine
+- Young's modulus
+- Ytterbium
+- Yttrium
+- Zinc
+- Zinc gluconate
+- Zirconium

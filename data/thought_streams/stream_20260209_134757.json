@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-09T13:47:57.415782",
+  "thought_count": 3,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:47:27.401235",
+      "type": "question",
+      "content": "How do 1919\u20131939, aircraft, aircraft designed interact or influence each other? (source: Attack aircraft)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:47:27.401235",
+      "type": "question",
+      "content": "Why does this topic connect most to protection? (source: Attack aircraft)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:47:27.401235",
+      "type": "question",
+      "content": "What is missing or uncertain about 1919\u20131939 in this source? (source: Attack aircraft)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 119,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 3,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-07T20:32:46.705366",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-07T20:32:46.704365",
+      "type": "decision",
+      "content": "Switched from hybrid mode to AI mode",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 0,
+    "analysis": 0,
+    "decision": 2,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 0,
+    "reflection": 0,
+    "uncertainty": 0,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

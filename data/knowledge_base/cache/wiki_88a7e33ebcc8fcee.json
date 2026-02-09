@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "22194": {
+          "pageid": 22194,
+          "ns": 0,
+          "title": "Operating system",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Virtual machine"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual memory"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual reality"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual tape library"
+            },
+            {
+              "ns": 0,
+              "title": "Virtualization"
+            },
+            {
+              "ns": 0,
+              "title": "Visualization (graphics)"
+            },
+            {
+              "ns": 0,
+              "title": "Vkernel"
+            },
+            {
+              "ns": 0,
+              "title": "Volatile memory"
+            },
+            {
+              "ns": 0,
+              "title": "VxWorks"
+            },
+            {
+              "ns": 0,
+              "title": "WIMP (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Web server"
+            },
+            {
+              "ns": 0,
+              "title": "Windows"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Driver Model"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Executive"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless sensor network"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor"
+            },
+            {
+              "ns": 0,
+              "title": "Workstation"
+            },
+            {
+              "ns": 0,
+              "title": "World Wide Web"
+            },
+            {
+              "ns": 0,
+              "title": "Wrapper function"
+            },
+            {
+              "ns": 0,
+              "title": "X86"
+            },
+            {
+              "ns": 0,
+              "title": "Xbox"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770576574.7427905
+}

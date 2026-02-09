@@ -12,7 +12,7 @@ from pathlib import Path
 
 from PyQt5.QtCore import QUrl, QThread, pyqtSignal, Qt
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QLabel
-from PyQt5.QtWebEngineWidgets import QWebEngineView
+from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEngineProfile
 from PyQt5.QtGui import QIcon, QFont
 
 # Flask app
@@ -27,8 +27,8 @@ class FlaskServerThread(QThread):
     def run(self):
         """Start Flask development server"""
         try:
-            # Initialize Oxidus before starting server
-            init_oxidus()
+            # Initialize Oxidus in the background to avoid blocking server startup
+            threading.Thread(target=init_oxidus, daemon=True).start()
             self.started.emit()
             # Run Flask on localhost:5000
             flask_app.run(
@@ -73,6 +73,13 @@ class OxidusChromiumGUI(QMainWindow):
 
         # Create WebEngine view
         self.browser = QWebEngineView()
+
+        # Use a project-local cache to avoid OS-level permission issues
+        cache_root = Path(__file__).parent / 'data' / 'cache' / 'qtwebengine'
+        cache_root.mkdir(parents=True, exist_ok=True)
+        profile = QWebEngineProfile.defaultProfile()
+        profile.setCachePath(str(cache_root / 'cache'))
+        profile.setPersistentStoragePath(str(cache_root / 'storage'))
 
         # Show loading message initially
         loading_html = """
@@ -154,8 +161,15 @@ class OxidusChromiumGUI(QMainWindow):
 
     def on_flask_started(self):
         """Called when Flask server has started"""
-        # Wait a moment for Flask to fully initialize
-        time.sleep(2)
+        # Wait for Flask to fully initialize
+        for _ in range(10):
+            try:
+                import urllib.request
+                with urllib.request.urlopen('http://127.0.0.1:5000', timeout=1):
+                    break
+            except Exception:
+                time.sleep(0.5)
+
         # Load the Flask app in the browser
         self.browser.setUrl(QUrl('http://127.0.0.1:5000'))
 

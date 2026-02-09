@@ -1,0 +1,785 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "914432": {
+          "pageid": 914432,
+          "ns": 0,
+          "title": "Omega Centauri",
+          "links": [
+            {
+              "ns": 0,
+              "title": "NGC 5793"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5806"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5820"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5821"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5822"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5823"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5824"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5829"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5837"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5838"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5844"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5846"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5850"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5856"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5857"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5861"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5866"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5875"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5876"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5879"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5882"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5885"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5886"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5890"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5896"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5897"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5898"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5906"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5907"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5910"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5915"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5917"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5920"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5921"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5925"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5927"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5928"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5929"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5930"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5936"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5939"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5940"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5949"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5953"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5957"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5962"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5963"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5964"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5965"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5966"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5970"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5979"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5980"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5982"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5985"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5986"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5988"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5996"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5999"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6000"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6025"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6087"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6101"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6124"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6193"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6231"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6302"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6352"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6397"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6541"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 663"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6729"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6744"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6752"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6822"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6826"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6885"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6934"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6946"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7006"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7243"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7331"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7479"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 752"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7635"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7662"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7814"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 891"
+            },
+            {
+              "ns": 0,
+              "title": "NGTS-13b"
+            },
+            {
+              "ns": 0,
+              "title": "N Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "New General Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "North America Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Nu Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron1 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron2 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "PDS 70"
+            },
+            {
+              "ns": 0,
+              "title": "PKS 1144−379"
+            },
+            {
+              "ns": 0,
+              "title": "PKS 1353−341"
+            },
+            {
+              "ns": 0,
+              "title": "PKS 1424−418"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PSR B1259−63"
+            },
+            {
+              "ns": 0,
+              "title": "PSR J1311−3430"
+            },
+            {
+              "ns": 0,
+              "title": "Parsec"
+            },
+            {
+              "ns": 0,
+              "title": "Phi Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Philosophical Transactions of the Royal Society"
+            },
+            {
+              "ns": 0,
+              "title": "Pi Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Pinwheel Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Population II"
+            },
+            {
+              "ns": 0,
+              "title": "Proper names (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Proxima Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Proxima Centauri b"
+            },
+            {
+              "ns": 0,
+              "title": "Proxima Centauri c"
+            },
+            {
+              "ns": 0,
+              "title": "Proxima Centauri d"
+            },
+            {
+              "ns": 0,
+              "title": "Przybylski's Star"
+            },
+            {
+              "ns": 0,
+              "title": "Psi Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Ptolemy"
+            },
+            {
+              "ns": 0,
+              "title": "Q Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "RCW 79"
+            },
+            {
+              "ns": 0,
+              "title": "RR Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "R Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Radial velocities"
+            },
+            {
+              "ns": 0,
+              "title": "Rho Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Right ascension"
+            },
+            {
+              "ns": 0,
+              "title": "Rosette Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SIMBAD"
+            },
+            {
+              "ns": 0,
+              "title": "SN 185"
+            },
+            {
+              "ns": 0,
+              "title": "SN 1895B"
+            },
+            {
+              "ns": 0,
+              "title": "SN 1972E"
+            },
+            {
+              "ns": 0,
+              "title": "SN 1986G"
+            },
+            {
+              "ns": 0,
+              "title": "SN 2019so"
+            },
+            {
+              "ns": 0,
+              "title": "SV Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "SX Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "S 155"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius Dwarf Spheroidal Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Saint Helena"
+            },
+            {
+              "ns": 0,
+              "title": "Saturn Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Scorpius–Centaurus association"
+            },
+            {
+              "ns": 0,
+              "title": "Sculptor Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Shapley Supercluster"
+            },
+            {
+              "ns": 0,
+              "title": "Shapley–Sawyer Concentration Class"
+            },
+            {
+              "ns": 0,
+              "title": "Sigma Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Solar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Southern Crab Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar classification"
+            },
+            {
+              "ns": 0,
+              "title": "Stock 16"
+            },
+            {
+              "ns": 0,
+              "title": "SuWt 2"
+            },
+            {
+              "ns": 0,
+              "title": "TOI-763"
+            },
+            {
+              "ns": 0,
+              "title": "T Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Tarantula Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Tau Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Theta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Transient astronomical event"
+            },
+            {
+              "ns": 0,
+              "title": "UY Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Upsilon1 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Upsilon2 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Uranometria"
+            },
+            {
+              "ns": 0,
+              "title": "V1369 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V1400 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V1935 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V346 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V553 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V744 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V752 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V763 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V803 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V810 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V831 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V842 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "V Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star designation"
+            },
+            {
+              "ns": 0,
+              "title": "Veil Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Velocity dispersion"
+            },
+            {
+              "ns": 0,
+              "title": "WASP-15"
+            },
+            {
+              "ns": 0,
+              "title": "WASP-15b"
+            },
+            {
+              "ns": 0,
+              "title": "WASP-41"
+            },
+            {
+              "ns": 0,
+              "title": "WASP-42"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Whirlpool Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "WikiSky"
+            },
+            {
+              "ns": 0,
+              "title": "William H. Keith Jr."
+            },
+            {
+              "ns": 0,
+              "title": "X1 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "X2 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Xi1 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Xi2 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Y Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Zeta Centauri"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324742.325636
+}

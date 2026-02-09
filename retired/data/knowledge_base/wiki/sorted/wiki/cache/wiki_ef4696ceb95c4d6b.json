@@ -1,0 +1,961 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "64219": {
+          "pageid": 64219,
+          "ns": 0,
+          "title": "Bernoulli's principle",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acoustic theory"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustics"
+            },
+            {
+              "ns": 0,
+              "title": "Adhesion"
+            },
+            {
+              "ns": 0,
+              "title": "Adiabatic process"
+            },
+            {
+              "ns": 0,
+              "title": "Adolf Eugen Fick"
+            },
+            {
+              "ns": 0,
+              "title": "Aeroacoustics"
+            },
+            {
+              "ns": 0,
+              "title": "Airbus A340"
+            },
+            {
+              "ns": 0,
+              "title": "Airfoil"
+            },
+            {
+              "ns": 0,
+              "title": "Airspeed"
+            },
+            {
+              "ns": 0,
+              "title": "Airspeed indicator"
+            },
+            {
+              "ns": 0,
+              "title": "Antiplane shear"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes' principle"
+            },
+            {
+              "ns": 0,
+              "title": "Atmosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Augustin-Louis Cauchy"
+            },
+            {
+              "ns": 0,
+              "title": "Barotropic fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Beach ball"
+            },
+            {
+              "ns": 0,
+              "title": "Bending"
+            },
+            {
+              "ns": 0,
+              "title": "Bending moment"
+            },
+            {
+              "ns": 0,
+              "title": "Bending of plates"
+            },
+            {
+              "ns": 0,
+              "title": "Bernoulli grip"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Blaise Pascal"
+            },
+            {
+              "ns": 0,
+              "title": "Bob Carswell"
+            },
+            {
+              "ns": 0,
+              "title": "Boiler"
+            },
+            {
+              "ns": 0,
+              "title": "Boundary layer"
+            },
+            {
+              "ns": 0,
+              "title": "Boyle's law"
+            },
+            {
+              "ns": 0,
+              "title": "Bresler–Pister yield criterion"
+            },
+            {
+              "ns": 0,
+              "title": "Buoyancy"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Capillary action"
+            },
+            {
+              "ns": 0,
+              "title": "Carburetor"
+            },
+            {
+              "ns": 0,
+              "title": "Cauchy elastic material"
+            },
+            {
+              "ns": 0,
+              "title": "Cauchy stress tensor"
+            },
+            {
+              "ns": 0,
+              "title": "Cavitation"
+            },
+            {
+              "ns": 0,
+              "title": "Charles's law"
+            },
+            {
+              "ns": 0,
+              "title": "Chromatography"
+            },
+            {
+              "ns": 0,
+              "title": "Claude-Louis Navier"
+            },
+            {
+              "ns": 0,
+              "title": "Clausius–Duhem inequality"
+            },
+            {
+              "ns": 0,
+              "title": "Clifford Truesdell"
+            },
+            {
+              "ns": 0,
+              "title": "Coandă effect"
+            },
+            {
+              "ns": 0,
+              "title": "Cohesion (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Combined gas law"
+            },
+            {
+              "ns": 0,
+              "title": "Compact tension specimen"
+            },
+            {
+              "ns": 0,
+              "title": "Compatibility (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Compressible flow"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation of energy"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation of mass"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation of momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Conservative force"
+            },
+            {
+              "ns": 0,
+              "title": "Contact mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Continuum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Course of Theoretical Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Creep (deformation)"
+            },
+            {
+              "ns": 0,
+              "title": "Creep and shrinkage of concrete"
+            },
+            {
+              "ns": 0,
+              "title": "Damage mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Daniel Bernoulli"
+            },
+            {
+              "ns": 0,
+              "title": "David F. Anderson"
+            },
+            {
+              "ns": 0,
+              "title": "De Laval nozzle"
+            },
+            {
+              "ns": 0,
+              "title": "Deformation (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Drucker stability"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Elasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Elasticity of cell membranes"
+            },
+            {
+              "ns": 0,
+              "title": "Electrorheological fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Elevation"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy"
+            },
+            {
+              "ns": 0,
+              "title": "Equation of state"
+            },
+            {
+              "ns": 0,
+              "title": "Eringen Medal"
+            },
+            {
+              "ns": 0,
+              "title": "Euler equations (fluid dynamics)"
+            },
+            {
+              "ns": 0,
+              "title": "European Journal of Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Evgeny Lifshitz"
+            },
+            {
+              "ns": 0,
+              "title": "Failure"
+            },
+            {
+              "ns": 0,
+              "title": "Fatigue (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrofluid"
+            },
+            {
+              "ns": 0,
+              "title": "Fick's law"
+            },
+            {
+              "ns": 0,
+              "title": "Fick's laws of diffusion"
+            },
+            {
+              "ns": 0,
+              "title": "Finite strain theory"
+            },
+            {
+              "ns": 0,
+              "title": "First law of thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Flow velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid parcel"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid statics"
+            },
+            {
+              "ns": 0,
+              "title": "Force"
+            },
+            {
+              "ns": 0,
+              "title": "Fracture mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Frame of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Free fall"
+            },
+            {
+              "ns": 0,
+              "title": "Frictional contact mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Gas"
+            },
+            {
+              "ns": 0,
+              "title": "Gay-Lussac's law"
+            },
+            {
+              "ns": 0,
+              "title": "George Batchelor"
+            },
+            {
+              "ns": 0,
+              "title": "Gordon Van Wylen"
+            },
+            {
+              "ns": 0,
+              "title": "Gradient"
+            },
+            {
+              "ns": 0,
+              "title": "Graham's law"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational constant"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational field"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational potential"
+            },
+            {
+              "ns": 0,
+              "title": "Hagen–Poiseuille equation"
+            },
+            {
+              "ns": 0,
+              "title": "Hair dryer"
+            },
+            {
+              "ns": 0,
+              "title": "Heat capacity ratio"
+            },
+            {
+              "ns": 0,
+              "title": "Hooke's law"
+            },
+            {
+              "ns": 0,
+              "title": "Hubert Chanson"
+            },
+            {
+              "ns": 0,
+              "title": "Hugoniot elastic limit"
+            },
+            {
+              "ns": 0,
+              "title": "Hydraulic head"
+            },
+            {
+              "ns": 0,
+              "title": "Hydraulics"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrodynamica"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrostatic pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrostatics"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperelastic material"
+            },
+            {
+              "ns": 0,
+              "title": "Hypoelastic material"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ideal gas"
+            },
+            {
+              "ns": 0,
+              "title": "Incompressible flow"
+            },
+            {
+              "ns": 0,
+              "title": "Indicated airspeed"
+            },
+            {
+              "ns": 0,
+              "title": "Infinitesimal strain theory"
+            },
+            {
+              "ns": 0,
+              "title": "Injector"
+            },
+            {
+              "ns": 0,
+              "title": "Integral"
+            },
+            {
+              "ns": 0,
+              "title": "Internal energy"
+            },
+            {
+              "ns": 0,
+              "title": "Irreversible process"
+            },
+            {
+              "ns": 0,
+              "title": "Irrotational flow"
+            },
+            {
+              "ns": 0,
+              "title": "Isaac Newton"
+            },
+            {
+              "ns": 0,
+              "title": "Isentropic process"
+            },
+            {
+              "ns": 0,
+              "title": "Isobaric process"
+            },
+            {
+              "ns": 0,
+              "title": "Isochoric process"
+            },
+            {
+              "ns": 0,
+              "title": "J-integral"
+            },
+            {
+              "ns": 0,
+              "title": "Jacques Charles"
+            },
+            {
+              "ns": 0,
+              "title": "John D. Anderson"
+            },
+            {
+              "ns": 0,
+              "title": "Johnson–Holmquist damage model"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Louis Gay-Lussac"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic energy"
+            },
+            {
+              "ns": 0,
+              "title": "Lagrangian mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Laminar flow"
+            },
+            {
+              "ns": 0,
+              "title": "Laurence Joseph Clancy"
+            },
+            {
+              "ns": 0,
+              "title": "Law of large numbers"
+            },
+            {
+              "ns": 0,
+              "title": "Length"
+            },
+            {
+              "ns": 0,
+              "title": "Leonhard Euler"
+            },
+            {
+              "ns": 0,
+              "title": "Lev Landau"
+            },
+            {
+              "ns": 0,
+              "title": "Lift (force)"
+            },
+            {
+              "ns": 0,
+              "title": "Linear elasticity"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid"
+            },
+            {
+              "ns": 0,
+              "title": "Luke's variational principle"
+            },
+            {
+              "ns": 0,
+              "title": "Mach number"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetorheological fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Mass density"
+            },
+            {
+              "ns": 0,
+              "title": "Material failure theory"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical work"
+            },
+            {
+              "ns": 0,
+              "title": "Mixing (process engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Navier–Stokes equations"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's laws of motion"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's second law of motion"
+            },
+            {
+              "ns": 0,
+              "title": "Newtonian fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Non-Newtonian fluid"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Orifice plate"
+            },
+            {
+              "ns": 0,
+              "title": "Orthotropic material"
+            },
+            {
+              "ns": 0,
+              "title": "Partial derivative"
+            },
+            {
+              "ns": 0,
+              "title": "Pascal's law"
+            },
+            {
+              "ns": 0,
+              "title": "Piezometric head"
+            },
+            {
+              "ns": 0,
+              "title": "Ping-pong ball"
+            },
+            {
+              "ns": 0,
+              "title": "Pipe flow"
+            },
+            {
+              "ns": 0,
+              "title": "Pitot-static system"
+            },
+            {
+              "ns": 0,
+              "title": "Pitot tube"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Plasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Plume (fluid dynamics)"
+            },
+            {
+              "ns": 0,
+              "title": "Poiseuille equation"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure head"
+            },
+            {
+              "ns": 0,
+              "title": "R.B. Leighton"
+            },
+            {
+              "ns": 0,
+              "title": "R.P. Feynman"
+            },
+            {
+              "ns": 0,
+              "title": "R. B. Leighton"
+            },
+            {
+              "ns": 0,
+              "title": "R. P. Feynman"
+            },
+            {
+              "ns": 0,
+              "title": "Reciprocating engine"
+            },
+            {
+              "ns": 0,
+              "title": "Relative humidity"
+            },
+            {
+              "ns": 0,
+              "title": "Reynolds number"
+            },
+            {
+              "ns": 0,
+              "title": "Rheology"
+            },
+            {
+              "ns": 0,
+              "title": "Rheometer"
+            },
+            {
+              "ns": 0,
+              "title": "Rheometry"
+            },
+            {
+              "ns": 0,
+              "title": "Rigid body dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Boyle"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Hooke"
+            },
+            {
+              "ns": 0,
+              "title": "Rock mass plasticity"
+            },
+            {
+              "ns": 0,
+              "title": "Rocket propellant"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sandwich theory"
+            },
+            {
+              "ns": 0,
+              "title": "Shock wave"
+            },
+            {
+              "ns": 0,
+              "title": "Sir George Stokes, 1st Baronet"
+            },
+            {
+              "ns": 0,
+              "title": "Smart fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Solid"
+            },
+            {
+              "ns": 0,
+              "title": "Solid mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Sound"
+            },
+            {
+              "ns": 0,
+              "title": "Specific energy"
+            },
+            {
+              "ns": 0,
+              "title": "Speed"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of sound"
+            },
+            {
+              "ns": 0,
+              "title": "Stagnation pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Static pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Steam locomotive"
+            },
+            {
+              "ns": 0,
+              "title": "Strain (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Streamlines, streaklines, and pathlines"
+            },
+            {
+              "ns": 0,
+              "title": "Stress (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Stress measures"
+            },
+            {
+              "ns": 0,
+              "title": "Structural mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Surface tension"
+            },
+            {
+              "ns": 0,
+              "title": "Teapot effect"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "The Feynman Lectures on Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Graham (chemist)"
+            },
+            {
+              "ns": 0,
+              "title": "Torricelli's law"
+            },
+            {
+              "ns": 0,
+              "title": "Transverse isotropy"
+            },
+            {
+              "ns": 0,
+              "title": "Turbulence"
+            },
+            {
+              "ns": 0,
+              "title": "Universal constant"
+            },
+            {
+              "ns": 0,
+              "title": "University of Minnesota"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum"
+            },
+            {
+              "ns": 0,
+              "title": "Velocity potential"
+            },
+            {
+              "ns": 0,
+              "title": "Venturi effect"
+            },
+            {
+              "ns": 0,
+              "title": "Venturi meter"
+            },
+            {
+              "ns": 0,
+              "title": "Vibration"
+            },
+            {
+              "ns": 0,
+              "title": "Viscoelasticity"
+            },
+            {
+              "ns": 0,
+              "title": "Viscoplasticity"
+            },
+            {
+              "ns": 0,
+              "title": "Viscosity"
+            },
+            {
+              "ns": 0,
+              "title": "Walter Noll"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "William Prager Medal"
+            },
+            {
+              "ns": 0,
+              "title": "Wind wave"
+            },
+            {
+              "ns": 0,
+              "title": "Work (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Yield surface"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324342.7977893
+}

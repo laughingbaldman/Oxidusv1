@@ -1,0 +1,953 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "656": {
+          "pageid": 656,
+          "ns": 0,
+          "title": "Acid",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acceptor number"
+            },
+            {
+              "ns": 0,
+              "title": "Acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Acetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Acetylsalicylic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Acid (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Acid catalysis"
+            },
+            {
+              "ns": 0,
+              "title": "Acid dissociation constant"
+            },
+            {
+              "ns": 0,
+              "title": "Acid strength"
+            },
+            {
+              "ns": 0,
+              "title": "Acidic (band)"
+            },
+            {
+              "ns": 0,
+              "title": "Acidic oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Acidity (novelette)"
+            },
+            {
+              "ns": 0,
+              "title": "Acidity function"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base extraction"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base homeostasis"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base titration"
+            },
+            {
+              "ns": 0,
+              "title": "Alanine"
+            },
+            {
+              "ns": 0,
+              "title": "Alkylation"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha and beta carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Amine"
+            },
+            {
+              "ns": 0,
+              "title": "Amino acid"
+            },
+            {
+              "ns": 0,
+              "title": "Amino acids"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Amphoterism"
+            },
+            {
+              "ns": 0,
+              "title": "Anion"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous solution"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous solutions"
+            },
+            {
+              "ns": 0,
+              "title": "Ascorbic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Aspartic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Aspirin"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic orbital"
+            },
+            {
+              "ns": 0,
+              "title": "Base (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Basic oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Beaker (glassware)"
+            },
+            {
+              "ns": 0,
+              "title": "Benzene"
+            },
+            {
+              "ns": 0,
+              "title": "Benzenesulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Benzoic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bicarbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Bisulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Bjerrum plot"
+            },
+            {
+              "ns": 0,
+              "title": "Boric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Boron trifluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Brønsted–Lowry acid–base theory"
+            },
+            {
+              "ns": 0,
+              "title": "Buffer solution"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium"
+            },
+            {
+              "ns": 0,
+              "title": "Car battery"
+            },
+            {
+              "ns": 0,
+              "title": "Carambola"
+            },
+            {
+              "ns": 0,
+              "title": "Carbocation"
+            },
+            {
+              "ns": 0,
+              "title": "Carbohydrate"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonyl"
+            },
+            {
+              "ns": 0,
+              "title": "Carborane"
+            },
+            {
+              "ns": 0,
+              "title": "Carboxyl"
+            },
+            {
+              "ns": 0,
+              "title": "Carboxylic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Catalyst"
+            },
+            {
+              "ns": 0,
+              "title": "Cell membrane"
+            },
+            {
+              "ns": 0,
+              "title": "Cell wall"
+            },
+            {
+              "ns": 0,
+              "title": "Cellular respiration"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical equilibrium"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical polarity"
+            },
+            {
+              "ns": 0,
+              "title": "Chiral Lewis acid"
+            },
+            {
+              "ns": 0,
+              "title": "Chirality (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Chloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Chloroacetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Chlorous acid"
+            },
+            {
+              "ns": 0,
+              "title": "Chromic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Citrate"
+            },
+            {
+              "ns": 0,
+              "title": "Citric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Cola"
+            },
+            {
+              "ns": 0,
+              "title": "Condensation reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Conjugate acid"
+            },
+            {
+              "ns": 0,
+              "title": "Corrosive substance"
+            },
+            {
+              "ns": 0,
+              "title": "Covalent bond"
+            },
+            {
+              "ns": 0,
+              "title": "Cytosol"
+            },
+            {
+              "ns": 0,
+              "title": "DNA"
+            },
+            {
+              "ns": 0,
+              "title": "Dehydration reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Deprotonation"
+            },
+            {
+              "ns": 0,
+              "title": "Dicarboxylic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Dichloroacetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Digestive enzyme"
+            },
+            {
+              "ns": 0,
+              "title": "Digestive enzymes"
+            },
+            {
+              "ns": 0,
+              "title": "Dissociation (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Dissociation constant"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Donor number"
+            },
+            {
+              "ns": 0,
+              "title": "ECW model"
+            },
+            {
+              "ns": 0,
+              "title": "Electron pair"
+            },
+            {
+              "ns": 0,
+              "title": "Electrophile"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Enzyme"
+            },
+            {
+              "ns": 0,
+              "title": "Equilibrium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Equilibrium constant"
+            },
+            {
+              "ns": 0,
+              "title": "Ester"
+            },
+            {
+              "ns": 0,
+              "title": "Esterification"
+            },
+            {
+              "ns": 0,
+              "title": "Ethanesulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Fatty acid"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoroacetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoroantimonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoroboric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Fluorosulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Formic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Freeware"
+            },
+            {
+              "ns": 0,
+              "title": "Frustrated Lewis pair"
+            },
+            {
+              "ns": 0,
+              "title": "Gastric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Gilbert N. Lewis"
+            },
+            {
+              "ns": 0,
+              "title": "Gluconic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Glycine"
+            },
+            {
+              "ns": 0,
+              "title": "HSAB theory"
+            },
+            {
+              "ns": 0,
+              "title": "Hammett acidity function"
+            },
+            {
+              "ns": 0,
+              "title": "Helium hydride ion"
+            },
+            {
+              "ns": 0,
+              "title": "Henderson–Hasselbalch equation"
+            },
+            {
+              "ns": 0,
+              "title": "Hexafluorophosphoric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrobromic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrochloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrofluoric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen halides"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroiodic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydron"
+            },
+            {
+              "ns": 0,
+              "title": "Hydron (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Hydronium"
+            },
+            {
+              "ns": 0,
+              "title": "Hydronium ion"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroxyl"
+            },
+            {
+              "ns": 0,
+              "title": "Hypochlorous acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hypofluorous acid"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "IUPAC"
+            },
+            {
+              "ns": 0,
+              "title": "Ibuprofen"
+            },
+            {
+              "ns": 0,
+              "title": "Inorganic"
+            },
+            {
+              "ns": 0,
+              "title": "Intracellular pH"
+            },
+            {
+              "ns": 0,
+              "title": "Ion"
+            },
+            {
+              "ns": 0,
+              "title": "Johannes Nicolaus Brønsted"
+            },
+            {
+              "ns": 0,
+              "title": "Lactic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Latin"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acid"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acid catalysis"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acids"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acids and bases"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis base"
+            },
+            {
+              "ns": 0,
+              "title": "Lipophilicity"
+            },
+            {
+              "ns": 0,
+              "title": "Litmus"
+            },
+            {
+              "ns": 0,
+              "title": "Lone pair"
+            },
+            {
+              "ns": 0,
+              "title": "Lungs"
+            },
+            {
+              "ns": 0,
+              "title": "Magic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Mammal"
+            },
+            {
+              "ns": 0,
+              "title": "Martin Lowry"
+            },
+            {
+              "ns": 0,
+              "title": "Methanesulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Micelle"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral acid"
+            },
+            {
+              "ns": 0,
+              "title": "Mole (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Neutralization (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Nitric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Non-nucleophilic base"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Organic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Organic acids"
+            },
+            {
+              "ns": 0,
+              "title": "Organic base"
+            },
+            {
+              "ns": 0,
+              "title": "Organic compound"
+            },
+            {
+              "ns": 0,
+              "title": "Oxalic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidizing agent"
+            },
+            {
+              "ns": 0,
+              "title": "P-Toluenesulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "PH"
+            },
+            {
+              "ns": 0,
+              "title": "PH indicator"
+            },
+            {
+              "ns": 0,
+              "title": "Penicillin"
+            },
+            {
+              "ns": 0,
+              "title": "Pepsin"
+            },
+            {
+              "ns": 0,
+              "title": "Pepsinogen"
+            },
+            {
+              "ns": 0,
+              "title": "Peptidoglycan"
+            },
+            {
+              "ns": 0,
+              "title": "Perchloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Phospholipid bilayer"
+            },
+            {
+              "ns": 0,
+              "title": "Phospholipids"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphoric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Phyllanthus emblica"
+            },
+            {
+              "ns": 0,
+              "title": "Pickling (metal)"
+            },
+            {
+              "ns": 0,
+              "title": "Polysaccharide"
+            },
+            {
+              "ns": 0,
+              "title": "Polystyrene"
+            },
+            {
+              "ns": 0,
+              "title": "Polystyrene sulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Potential energy"
+            },
+            {
+              "ns": 0,
+              "title": "Pro-enzyme"
+            },
+            {
+              "ns": 0,
+              "title": "Product (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Protein"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Proton affinity"
+            },
+            {
+              "ns": 0,
+              "title": "Protonation"
+            },
+            {
+              "ns": 0,
+              "title": "RNA"
+            },
+            {
+              "ns": 0,
+              "title": "Rhubarb"
+            },
+            {
+              "ns": 0,
+              "title": "Robert de Levie"
+            },
+            {
+              "ns": 0,
+              "title": "Salt (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Self-ionization of water"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Soft drink"
+            },
+            {
+              "ns": 0,
+              "title": "Solid acid"
+            },
+            {
+              "ns": 0,
+              "title": "Solute"
+            },
+            {
+              "ns": 0,
+              "title": "Solvent"
+            },
+            {
+              "ns": 0,
+              "title": "Stomach"
+            },
+            {
+              "ns": 0,
+              "title": "Strong acid"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Superacid"
+            },
+            {
+              "ns": 0,
+              "title": "Superbase"
+            },
+            {
+              "ns": 0,
+              "title": "Svante Arrhenius"
+            },
+            {
+              "ns": 0,
+              "title": "Tartaric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrafluoroborate"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Martin Lowry"
+            },
+            {
+              "ns": 0,
+              "title": "Titration"
+            },
+            {
+              "ns": 0,
+              "title": "Toluenesulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Trichloroacetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Trifluoroacetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Trifluoromethanesulfonic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Valence electron"
+            },
+            {
+              "ns": 0,
+              "title": "Ventilation (physiology)"
+            },
+            {
+              "ns": 0,
+              "title": "Vinylogous"
+            },
+            {
+              "ns": 0,
+              "title": "Weak acid"
+            },
+            {
+              "ns": 0,
+              "title": "Weak base"
+            },
+            {
+              "ns": 0,
+              "title": "Wet cell battery"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zwitterion"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357725.347793
+}

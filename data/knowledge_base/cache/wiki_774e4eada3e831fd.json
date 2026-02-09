@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "52070|0|Statically_indeterminate",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "52070": {
+          "pageid": 52070,
+          "ns": 0,
+          "title": "Arch",
+          "links": [
+            {
+              "ns": 0,
+              "title": "2nd millennium BC"
+            },
+            {
+              "ns": 0,
+              "title": "3rd millennium BC"
+            },
+            {
+              "ns": 0,
+              "title": "4th millennium BC"
+            },
+            {
+              "ns": 0,
+              "title": "Abacus (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Abutment"
+            },
+            {
+              "ns": 0,
+              "title": "Achaemenid Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Adage"
+            },
+            {
+              "ns": 0,
+              "title": "Ajanta Caves"
+            },
+            {
+              "ns": 0,
+              "title": "Al-Aqsa Mosque"
+            },
+            {
+              "ns": 0,
+              "title": "Alconétar Bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Alexander \"Greek\" Thomson"
+            },
+            {
+              "ns": 0,
+              "title": "American Journal of Archaeology"
+            },
+            {
+              "ns": 0,
+              "title": "American Scientist"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Egyptian architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greece"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Near East"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Romans"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Rome"
+            },
+            {
+              "ns": 0,
+              "title": "Andron (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Anglo-Saxon England"
+            },
+            {
+              "ns": 0,
+              "title": "Anji Bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Anno Domini"
+            },
+            {
+              "ns": 0,
+              "title": "Antechamber"
+            },
+            {
+              "ns": 0,
+              "title": "Apex (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueduct of Segovia"
+            },
+            {
+              "ns": 0,
+              "title": "Arabs"
+            },
+            {
+              "ns": 0,
+              "title": "Arcade (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Arch (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Arch bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Arch dam"
+            },
+            {
+              "ns": 0,
+              "title": "Arch of Augustus (Susa)"
+            },
+            {
+              "ns": 0,
+              "title": "Arch of Titus"
+            },
+            {
+              "ns": 0,
+              "title": "Archaeological site of Sbeitla"
+            },
+            {
+              "ns": 0,
+              "title": "Architectural style"
+            },
+            {
+              "ns": 0,
+              "title": "Architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Architrave"
+            },
+            {
+              "ns": 0,
+              "title": "Archivolt"
+            },
+            {
+              "ns": 0,
+              "title": "Arcuated"
+            },
+            {
+              "ns": 0,
+              "title": "Arkadiko Bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Arnold von Westfalen"
+            },
+            {
+              "ns": 0,
+              "title": "Ashkelon"
+            },
+            {
+              "ns": 0,
+              "title": "Assyria"
+            },
+            {
+              "ns": 0,
+              "title": "Assyrian architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Atrium (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Attic"
+            },
+            {
+              "ns": 0,
+              "title": "Auguste Mariette"
+            },
+            {
+              "ns": 0,
+              "title": "Aztec architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Back garden"
+            },
+            {
+              "ns": 0,
+              "title": "Backyard"
+            },
+            {
+              "ns": 0,
+              "title": "Bagan"
+            },
+            {
+              "ns": 0,
+              "title": "Bahia Palace"
+            },
+            {
+              "ns": 0,
+              "title": "Balconet"
+            },
+            {
+              "ns": 0,
+              "title": "Balcony"
+            },
+            {
+              "ns": 0,
+              "title": "Ballroom"
+            },
+            {
+              "ns": 0,
+              "title": "Baluster"
+            },
+            {
+              "ns": 0,
+              "title": "Barcelona"
+            },
+            {
+              "ns": 0,
+              "title": "Baroque architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Barrel vault"
+            },
+            {
+              "ns": 0,
+              "title": "Basement"
+            },
+            {
+              "ns": 0,
+              "title": "Basilica of Saint-Denis"
+            },
+            {
+              "ns": 0,
+              "title": "Basket-handle arch"
+            },
+            {
+              "ns": 0,
+              "title": "Bathroom"
+            },
+            {
+              "ns": 0,
+              "title": "Bay (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Bayeux Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "Bedroom"
+            },
+            {
+              "ns": 0,
+              "title": "Bedsit"
+            },
+            {
+              "ns": 0,
+              "title": "Beehive tombs"
+            },
+            {
+              "ns": 0,
+              "title": "Belt course"
+            },
+            {
+              "ns": 0,
+              "title": "Bending moment"
+            },
+            {
+              "ns": 0,
+              "title": "Beni Hasan"
+            },
+            {
+              "ns": 0,
+              "title": "Bhitargaon"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Billiard room"
+            },
+            {
+              "ns": 0,
+              "title": "Blind arch"
+            },
+            {
+              "ns": 0,
+              "title": "Blunt arch"
+            },
+            {
+              "ns": 0,
+              "title": "Bonus room"
+            },
+            {
+              "ns": 0,
+              "title": "Boudoir"
+            },
+            {
+              "ns": 0,
+              "title": "Bowstring arch"
+            },
+            {
+              "ns": 0,
+              "title": "Breezeway"
+            },
+            {
+              "ns": 0,
+              "title": "Bressummer"
+            },
+            {
+              "ns": 0,
+              "title": "Brick"
+            },
+            {
+              "ns": 0,
+              "title": "Brick header"
+            },
+            {
+              "ns": 0,
+              "title": "Britannia Bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Bronze Age"
+            },
+            {
+              "ns": 0,
+              "title": "Buland Darwaza"
+            },
+            {
+              "ns": 0,
+              "title": "Butler's pantry"
+            },
+            {
+              "ns": 0,
+              "title": "Buttery (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Buttress"
+            },
+            {
+              "ns": 0,
+              "title": "Buttressed"
+            },
+            {
+              "ns": 0,
+              "title": "CRC Press"
+            },
+            {
+              "ns": 0,
+              "title": "Cabinet (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Canaan"
+            },
+            {
+              "ns": 0,
+              "title": "Capsized"
+            },
+            {
+              "ns": 0,
+              "title": "Carolingian architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Carport"
+            },
+            {
+              "ns": 0,
+              "title": "Castle Acre"
+            },
+            {
+              "ns": 0,
+              "title": "Catalonia"
+            },
+            {
+              "ns": 0,
+              "title": "Catenary"
+            },
+            {
+              "ns": 0,
+              "title": "Ceiling"
+            },
+            {
+              "ns": 0,
+              "title": "Cemetery H culture"
+            },
+            {
+              "ns": 0,
+              "title": "Centering (Masonry)"
+            },
+            {
+              "ns": 0,
+              "title": "Chedgrave"
+            },
+            {
+              "ns": 0,
+              "title": "Chichester Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "Chimney"
+            },
+            {
+              "ns": 0,
+              "title": "Chinese architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Chinese glazed roof tile"
+            },
+            {
+              "ns": 0,
+              "title": "Christian architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Christian basilica"
+            },
+            {
+              "ns": 0,
+              "title": "Church of Colònia Güell"
+            },
+            {
+              "ns": 0,
+              "title": "Circumference"
+            },
+            {
+              "ns": 0,
+              "title": "Cisterns"
+            },
+            {
+              "ns": 0,
+              "title": "Cleaner"
+            },
+            {
+              "ns": 0,
+              "title": "Clear span"
+            },
+            {
+              "ns": 0,
+              "title": "Cloakroom"
+            },
+            {
+              "ns": 0,
+              "title": "Closet"
+            },
+            {
+              "ns": 0,
+              "title": "Cluny Abbey"
+            },
+            {
+              "ns": 0,
+              "title": "Colonnade"
+            },
+            {
+              "ns": 0,
+              "title": "Colosseum"
+            },
+            {
+              "ns": 0,
+              "title": "Column"
+            },
+            {
+              "ns": 0,
+              "title": "Common area"
+            },
+            {
+              "ns": 0,
+              "title": "Common room"
+            },
+            {
+              "ns": 0,
+              "title": "Compound arch"
+            },
+            {
+              "ns": 0,
+              "title": "Compression (physical)"
+            },
+            {
+              "ns": 0,
+              "title": "Concrete"
+            },
+            {
+              "ns": 0,
+              "title": "Concrete hinge"
+            },
+            {
+              "ns": 0,
+              "title": "Conical"
+            },
+            {
+              "ns": 0,
+              "title": "Conservatory (greenhouse)"
+            },
+            {
+              "ns": 0,
+              "title": "Conversation pit"
+            },
+            {
+              "ns": 0,
+              "title": "Corbel"
+            },
+            {
+              "ns": 0,
+              "title": "Corbel arch"
+            },
+            {
+              "ns": 0,
+              "title": "Cornice"
+            },
+            {
+              "ns": 0,
+              "title": "Counter-arch"
+            },
+            {
+              "ns": 0,
+              "title": "Courtyard"
+            },
+            {
+              "ns": 0,
+              "title": "Crawl space"
+            },
+            {
+              "ns": 0,
+              "title": "Ctesiphon"
+            },
+            {
+              "ns": 0,
+              "title": "Cubby-hole"
+            },
+            {
+              "ns": 0,
+              "title": "Cusped arch"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclopean masonry"
+            },
+            {
+              "ns": 0,
+              "title": "Dais"
+            },
+            {
+              "ns": 0,
+              "title": "Dead load"
+            },
+            {
+              "ns": 0,
+              "title": "Deck (building)"
+            },
+            {
+              "ns": 0,
+              "title": "Den (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Dendera"
+            },
+            {
+              "ns": 0,
+              "title": "Diani Beach"
+            },
+            {
+              "ns": 0,
+              "title": "Diaphragm arch"
+            },
+            {
+              "ns": 0,
+              "title": "Didyma"
+            },
+            {
+              "ns": 0,
+              "title": "Dining room"
+            },
+            {
+              "ns": 0,
+              "title": "Dirty kitchen"
+            },
+            {
+              "ns": 0,
+              "title": "Division (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Diwan-i-Khas (Red Fort)"
+            },
+            {
+              "ns": 0,
+              "title": "Djemila"
+            },
+            {
+              "ns": 0,
+              "title": "Doge's Palace"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dome"
+            },
+            {
+              "ns": 0,
+              "title": "Door"
+            },
+            {
+              "ns": 0,
+              "title": "Dosseret"
+            },
+            {
+              "ns": 0,
+              "title": "Drawing room"
+            },
+            {
+              "ns": 0,
+              "title": "Driveway"
+            },
+            {
+              "ns": 0,
+              "title": "Dumbwaiter"
+            },
+            {
+              "ns": 0,
+              "title": "Duplex (building)"
+            },
+            {
+              "ns": 0,
+              "title": "Dur-Sharrukin"
+            },
+            {
+              "ns": 0,
+              "title": "Durham Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "Early Christian architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Early Gothic"
+            },
+            {
+              "ns": 0,
+              "title": "Early Gothic architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Eaves"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical room"
+            },
+            {
+              "ns": 0,
+              "title": "Elevator"
+            },
+            {
+              "ns": 0,
+              "title": "Ell (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Elliptical curve"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica"
+            },
+            {
+              "ns": 0,
+              "title": "Engineered wood"
+            },
+            {
+              "ns": 0,
+              "title": "England"
+            },
+            {
+              "ns": 0,
+              "title": "English Gothic architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Entryway"
+            },
+            {
+              "ns": 0,
+              "title": "Equilateral arch"
+            },
+            {
+              "ns": 0,
+              "title": "Equilateral triangle"
+            },
+            {
+              "ns": 0,
+              "title": "Equipment room"
+            },
+            {
+              "ns": 0,
+              "title": "Escuelas Menores (Salamanca)"
+            },
+            {
+              "ns": 0,
+              "title": "Etruscans"
+            },
+            {
+              "ns": 0,
+              "title": "Falerii Novi"
+            },
+            {
+              "ns": 0,
+              "title": "Falsework"
+            },
+            {
+              "ns": 0,
+              "title": "Family room"
+            },
+            {
+              "ns": 0,
+              "title": "Filialkirche Lorenziberg"
+            },
+            {
+              "ns": 0,
+              "title": "Fireplace"
+            },
+            {
+              "ns": 0,
+              "title": "Flamboyant"
+            },
+            {
+              "ns": 0,
+              "title": "Flat arch"
+            },
+            {
+              "ns": 0,
+              "title": "Floor"
+            },
+            {
+              "ns": 0,
+              "title": "Florentine arch"
+            },
+            {
+              "ns": 0,
+              "title": "Flying arch"
+            },
+            {
+              "ns": 0,
+              "title": "Flying buttress"
+            },
+            {
+              "ns": 0,
+              "title": "Foundation (engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Four-centred arch"
+            },
+            {
+              "ns": 0,
+              "title": "French language"
+            },
+            {
+              "ns": 0,
+              "title": "Front yard"
+            },
+            {
+              "ns": 0,
+              "title": "Funicular curve"
+            },
+            {
+              "ns": 0,
+              "title": "Furnace room"
+            },
+            {
+              "ns": 0,
+              "title": "Furniture"
+            },
+            {
+              "ns": 0,
+              "title": "Gable"
+            },
+            {
+              "ns": 0,
+              "title": "Galileo"
+            },
+            {
+              "ns": 0,
+              "title": "Garage (residential)"
+            },
+            {
+              "ns": 0,
+              "title": "Garret"
+            },
+            {
+              "ns": 0,
+              "title": "Gate"
+            },
+            {
+              "ns": 0,
+              "title": "Gateway Arch"
+            },
+            {
+              "ns": 0,
+              "title": "Gaudi"
+            },
+            {
+              "ns": 0,
+              "title": "Gavaksha"
+            },
+            {
+              "ns": 0,
+              "title": "Genkan"
+            },
+            {
+              "ns": 0,
+              "title": "Giovanni Poleni"
+            },
+            {
+              "ns": 0,
+              "title": "Google Books"
+            },
+            {
+              "ns": 0,
+              "title": "Gothic architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Gothic style"
+            },
+            {
+              "ns": 0,
+              "title": "Granaries"
+            },
+            {
+              "ns": 0,
+              "title": "Great Mosque of Cordoba"
+            },
+            {
+              "ns": 0,
+              "title": "Great Mosque of Damascus"
+            },
+            {
+              "ns": 0,
+              "title": "Great Wall"
+            },
+            {
+              "ns": 0,
+              "title": "Great chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Great hall"
+            },
+            {
+              "ns": 0,
+              "title": "Great house"
+            },
+            {
+              "ns": 0,
+              "title": "Great room"
+            },
+            {
+              "ns": 0,
+              "title": "Gupta era"
+            },
+            {
+              "ns": 0,
+              "title": "Gynaeceum"
+            },
+            {
+              "ns": 0,
+              "title": "Hadrianstempel (Ephesos)"
+            },
+            {
+              "ns": 0,
+              "title": "Haft Tepe"
+            },
+            {
+              "ns": 0,
+              "title": "Hall"
+            },
+            {
+              "ns": 0,
+              "title": "Hall church"
+            },
+            {
+              "ns": 0,
+              "title": "Hallway"
+            },
+            {
+              "ns": 0,
+              "title": "Han dynasty"
+            },
+            {
+              "ns": 0,
+              "title": "Harappan architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Harem"
+            },
+            {
+              "ns": 0,
+              "title": "Hartenfels Castle"
+            },
+            {
+              "ns": 0,
+              "title": "Hearth"
+            },
+            {
+              "ns": 0,
+              "title": "Heb-sed court"
+            },
+            {
+              "ns": 0,
+              "title": "Heinrich Hübsch"
+            },
+            {
+              "ns": 0,
+              "title": "Helicoidal"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Volrath Hilprecht"
+            },
+            {
+              "ns": 0,
+              "title": "Hidden compartment"
+            },
+            {
+              "ns": 0,
+              "title": "Hindu"
+            },
+            {
+              "ns": 0,
+              "title": "Hindu architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Hinged arch bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Historic England"
+            },
+            {
+              "ns": 0,
+              "title": "History of Iran"
+            },
+            {
+              "ns": 0,
+              "title": "Hittites"
+            },
+            {
+              "ns": 0,
+              "title": "Home"
+            },
+            {
+              "ns": 0,
+              "title": "Home cinema"
+            },
+            {
+              "ns": 0,
+              "title": "Home improvement"
+            },
+            {
+              "ns": 0,
+              "title": "Home repair"
+            },
+            {
+              "ns": 0,
+              "title": "Horseshoe arch"
+            },
+            {
+              "ns": 0,
+              "title": "House"
+            },
+            {
+              "ns": 0,
+              "title": "House plan"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrostatic pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbolic cosine"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbolic curve"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Impost (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Indo-Islamic architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Inglenook"
+            },
+            {
+              "ns": 0,
+              "title": "Insula (Roman city)"
+            },
+            {
+              "ns": 0,
+              "title": "Interlaced arch"
+            },
+            {
+              "ns": 0,
+              "title": "Interlaced arches"
+            },
+            {
+              "ns": 0,
+              "title": "Internet Archive"
+            },
+            {
+              "ns": 0,
+              "title": "Interwar"
+            },
+            {
+              "ns": 0,
+              "title": "Inverted arch"
+            },
+            {
+              "ns": 0,
+              "title": "Iran"
+            },
+            {
+              "ns": 0,
+              "title": "Iranian architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Iraq"
+            },
+            {
+              "ns": 0,
+              "title": "Islamic architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Islamic conquest of India"
+            },
+            {
+              "ns": 0,
+              "title": "Israel"
+            },
+            {
+              "ns": 0,
+              "title": "Italy"
+            },
+            {
+              "ns": 0,
+              "title": "Iwan"
+            },
+            {
+              "ns": 0,
+              "title": "J. Meade Falkner"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Joggle (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Joggled arch"
+            },
+            {
+              "ns": 0,
+              "title": "John Ruskin"
+            },
+            {
+              "ns": 0,
+              "title": "Karla Caves"
+            },
+            {
+              "ns": 0,
+              "title": "Kazarma tholos tomb"
+            },
+            {
+              "ns": 0,
+              "title": "Keel arch"
+            },
+            {
+              "ns": 0,
+              "title": "Keeping room"
+            },
+            {
+              "ns": 0,
+              "title": "Kenya"
+            },
+            {
+              "ns": 0,
+              "title": "Keystone (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Khar Gerd"
+            },
+            {
+              "ns": 0,
+              "title": "Kirche St. Zeno (Bad Reichenhall)"
+            },
+            {
+              "ns": 0,
+              "title": "Kitchen"
+            },
+            {
+              "ns": 0,
+              "title": "Kitchenette"
+            },
+            {
+              "ns": 0,
+              "title": "Kosambi"
+            },
+            {
+              "ns": 0,
+              "title": "Königstor (Ḫattuša)"
+            },
+            {
+              "ns": 0,
+              "title": "Lambrequin arch"
+            },
+            {
+              "ns": 0,
+              "title": "Lanai (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Lancet arch"
+            },
+            {
+              "ns": 0,
+              "title": "Larder"
+            },
+            {
+              "ns": 0,
+              "title": "Late Gothic architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Laundry room"
+            },
+            {
+              "ns": 0,
+              "title": "Layer Marney Tower"
+            },
+            {
+              "ns": 0,
+              "title": "Levant"
+            },
+            {
+              "ns": 0,
+              "title": "Library"
+            },
+            {
+              "ns": 0,
+              "title": "Lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Lintel"
+            },
+            {
+              "ns": 0,
+              "title": "Lintel arch"
+            },
+            {
+              "ns": 0,
+              "title": "List of Roman domes"
+            },
+            {
+              "ns": 0,
+              "title": "List of architectural styles"
+            },
+            {
+              "ns": 0,
+              "title": "List of house styles"
+            },
+            {
+              "ns": 0,
+              "title": "List of house types"
+            },
+            {
+              "ns": 0,
+              "title": "Living room"
+            },
+            {
+              "ns": 0,
+              "title": "Lobby (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Loft"
+            },
+            {
+              "ns": 0,
+              "title": "Loggia"
+            },
+            {
+              "ns": 0,
+              "title": "Lomas Rishi"
+            },
+            {
+              "ns": 0,
+              "title": "Long gallery"
+            },
+            {
+              "ns": 0,
+              "title": "Lothal"
+            },
+            {
+              "ns": 0,
+              "title": "Lumber room"
+            },
+            {
+              "ns": 0,
+              "title": "Madho Sarup Vats"
+            },
+            {
+              "ns": 0,
+              "title": "Mahabodhi Temple"
+            },
+            {
+              "ns": 0,
+              "title": "Man cave"
+            },
+            {
+              "ns": 0,
+              "title": "Masonry"
+            },
+            {
+              "ns": 0,
+              "title": "Masonry course"
+            },
+            {
+              "ns": 0,
+              "title": "Maya civilization"
+            },
+            {
+              "ns": 0,
+              "title": "Mayan architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical floor"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical room"
+            },
+            {
+              "ns": 0,
+              "title": "Medieval architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Merriam-Webster"
+            },
+            {
+              "ns": 0,
+              "title": "Mesoamerican cultures"
+            },
+            {
+              "ns": 0,
+              "title": "Mixed-line arch"
+            },
+            {
+              "ns": 0,
+              "title": "Molding (decorative)"
+            },
+            {
+              "ns": 0,
+              "title": "Monreale Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "Monte Cassino"
+            },
+            {
+              "ns": 0,
+              "title": "Moorish architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Morocco"
+            },
+            {
+              "ns": 0,
+              "title": "Mortar (masonry)"
+            },
+            {
+              "ns": 0,
+              "title": "Mosque-Cathedral of Córdoba"
+            },
+            {
+              "ns": 0,
+              "title": "Mosque of Ibn Tulun"
+            },
+            {
+              "ns": 0,
+              "title": "Mud brick"
+            },
+            {
+              "ns": 0,
+              "title": "Mudéjar style"
+            },
+            {
+              "ns": 0,
+              "title": "Multi-family residential"
+            },
+            {
+              "ns": 0,
+              "title": "Muqarnas"
+            },
+            {
+              "ns": 0,
+              "title": "Mycenaean architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Mycenaeans"
+            },
+            {
+              "ns": 0,
+              "title": "Móra d'Ebre"
+            },
+            {
+              "ns": 0,
+              "title": "Narthex"
+            },
+            {
+              "ns": 0,
+              "title": "National Heritage List for England"
+            },
+            {
+              "ns": 0,
+              "title": "Nave"
+            },
+            {
+              "ns": 0,
+              "title": "Newcastle upon Tyne"
+            },
+            {
+              "ns": 0,
+              "title": "Newton (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Nippur"
+            },
+            {
+              "ns": 0,
+              "title": "Notices of the American Mathematical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Nova (American TV series)"
+            },
+            {
+              "ns": 0,
+              "title": "Nursery (room)"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ogee arch"
+            },
+            {
+              "ns": 0,
+              "title": "Orangery"
+            },
+            {
+              "ns": 0,
+              "title": "Order (mouldings)"
+            },
+            {
+              "ns": 0,
+              "title": "Ornament (art)"
+            },
+            {
+              "ns": 0,
+              "title": "Ostia Antica"
+            },
+            {
+              "ns": 0,
+              "title": "Ottoman Turkey"
+            },
+            {
+              "ns": 0,
+              "title": "Overhang (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Palace of Ukhaidhir"
+            },
+            {
+              "ns": 0,
+              "title": "Palacio de Gobierno de Tlaxcala"
+            },
+            {
+              "ns": 0,
+              "title": "Palacio de Torre Tagle"
+            },
+            {
+              "ns": 0,
+              "title": "Palau Dalmases"
+            },
+            {
+              "ns": 0,
+              "title": "Palau Güell"
+            },
+            {
+              "ns": 0,
+              "title": "Palazzo Guadagni"
+            },
+            {
+              "ns": 0,
+              "title": "Pantry"
+            },
+            {
+              "ns": 0,
+              "title": "Parabola"
+            },
+            {
+              "ns": 0,
+              "title": "Parabolic arch"
+            },
+            {
+              "ns": 0,
+              "title": "Parabolic curve"
+            },
+            {
+              "ns": 0,
+              "title": "Parlour"
+            },
+            {
+              "ns": 0,
+              "title": "Parthian Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Patio"
+            },
+            {
+              "ns": 0,
+              "title": "Pediments"
+            },
+            {
+              "ns": 0,
+              "title": "Perpendicular Gothic"
+            },
+            {
+              "ns": 0,
+              "title": "Persian arch"
+            },
+            {
+              "ns": 0,
+              "title": "Pitti Palace"
+            },
+            {
+              "ns": 0,
+              "title": "Plumbing"
+            },
+            {
+              "ns": 0,
+              "title": "Podium"
+            },
+            {
+              "ns": 0,
+              "title": "Pointed arch"
+            },
+            {
+              "ns": 0,
+              "title": "Pompeii"
+            },
+            {
+              "ns": 0,
+              "title": "Pont Du Gard"
+            },
+            {
+              "ns": 0,
+              "title": "Pont du Gard"
+            },
+            {
+              "ns": 0,
+              "title": "Ponte San Lorenzo"
+            },
+            {
+              "ns": 0,
+              "title": "Porch"
+            },
+            {
+              "ns": 0,
+              "title": "Portal (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Portico"
+            },
+            {
+              "ns": 0,
+              "title": "Post and lintel"
+            },
+            {
+              "ns": 0,
+              "title": "Pre-Romanesque"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure polygon"
+            },
+            {
+              "ns": 0,
+              "title": "Proscenium arch"
+            },
+            {
+              "ns": 0,
+              "title": "Pulpitum"
+            },
+            {
+              "ns": 0,
+              "title": "Pyu city-states"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrangle (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Que (tower)"
+            },
+            {
+              "ns": 0,
+              "title": "Quoin"
+            },
+            {
+              "ns": 0,
+              "title": "Rakhigarhi"
+            },
+            {
+              "ns": 0,
+              "title": "Ramesseum"
+            },
+            {
+              "ns": 0,
+              "title": "Ramla"
+            },
+            {
+              "ns": 0,
+              "title": "Rammed earth"
+            },
+            {
+              "ns": 0,
+              "title": "Ramping arch"
+            },
+            {
+              "ns": 0,
+              "title": "Rankine curve"
+            },
+            {
+              "ns": 0,
+              "title": "Rebar"
+            },
+            {
+              "ns": 0,
+              "title": "Rebate (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Recessed orders"
+            },
+            {
+              "ns": 0,
+              "title": "Recreation room"
+            },
+            {
+              "ns": 0,
+              "title": "Reinforced concrete frame"
+            },
+            {
+              "ns": 0,
+              "title": "Relief"
+            },
+            {
+              "ns": 0,
+              "title": "Relieving arch"
+            },
+            {
+              "ns": 0,
+              "title": "Renaissance"
+            },
+            {
+              "ns": 0,
+              "title": "Renaissance architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Rhodes Footbridge"
+            },
+            {
+              "ns": 0,
+              "title": "Rib vault"
+            },
+            {
+              "ns": 0,
+              "title": "Ribbed vault"
+            },
+            {
+              "ns": 0,
+              "title": "Rise (arch)"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Hooke"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Stephenson"
+            },
+            {
+              "ns": 0,
+              "title": "Rock (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Roman Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Roman Pantheon"
+            },
+            {
+              "ns": 0,
+              "title": "Roman Republic"
+            },
+            {
+              "ns": 0,
+              "title": "Roman aqueduct"
+            },
+            {
+              "ns": 0,
+              "title": "Roman architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Roman bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Roman conquest of Egypt"
+            },
+            {
+              "ns": 0,
+              "title": "Roman triumphal arch"
+            },
+            {
+              "ns": 0,
+              "title": "Roman villa"
+            },
+            {
+              "ns": 0,
+              "title": "Romanesque architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Romanesque style"
+            },
+            {
+              "ns": 0,
+              "title": "Roof"
+            },
+            {
+              "ns": 0,
+              "title": "Roof garden"
+            },
+            {
+              "ns": 0,
+              "title": "Roof lantern"
+            },
+            {
+              "ns": 0,
+              "title": "Roof shingle"
+            },
+            {
+              "ns": 0,
+              "title": "Room"
+            },
+            {
+              "ns": 0,
+              "title": "Root cellar"
+            },
+            {
+              "ns": 0,
+              "title": "Round arch"
+            },
+            {
+              "ns": 0,
+              "title": "Rüeggisberg"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Safe room"
+            },
+            {
+              "ns": 0,
+              "title": "Safe theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Saint-Denis Abbey"
+            },
+            {
+              "ns": 0,
+              "title": "Saint Peter's Basilica"
+            },
+            {
+              "ns": 0,
+              "title": "Salisbury Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "San Miniato al Monte"
+            },
+            {
+              "ns": 0,
+              "title": "Sant'Apollinare in Classe"
+            },
+            {
+              "ns": 0,
+              "title": "Santa Sabina"
+            },
+            {
+              "ns": 0,
+              "title": "Saqqara"
+            },
+            {
+              "ns": 0,
+              "title": "Sasanian Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Saucery"
+            },
+            {
+              "ns": 0,
+              "title": "Sauna"
+            },
+            {
+              "ns": 0,
+              "title": "Saxony"
+            },
+            {
+              "ns": 0,
+              "title": "Sbeitla"
+            },
+            {
+              "ns": 0,
+              "title": "Scaffolding"
+            },
+            {
+              "ns": 0,
+              "title": "Scalloped"
+            },
+            {
+              "ns": 0,
+              "title": "Scotland"
+            },
+            {
+              "ns": 0,
+              "title": "Screened porch"
+            },
+            {
+              "ns": 0,
+              "title": "Scullery"
+            },
+            {
+              "ns": 0,
+              "title": "Secondary suite"
+            },
+            {
+              "ns": 0,
+              "title": "Secret passage"
+            },
+            {
+              "ns": 0,
+              "title": "Segmental arch"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-basement"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-detached"
+            },
+            {
+              "ns": 0,
+              "title": "Semicircular arch"
+            },
+            {
+              "ns": 0,
+              "title": "Separating arch"
+            },
+            {
+              "ns": 0,
+              "title": "Servants' hall"
+            },
+            {
+              "ns": 0,
+              "title": "Servants' quarters"
+            },
+            {
+              "ns": 0,
+              "title": "Shed"
+            },
+            {
+              "ns": 0,
+              "title": "Shikaripura Ranganatha Rao"
+            },
+            {
+              "ns": 0,
+              "title": "Shrine"
+            },
+            {
+              "ns": 0,
+              "title": "Sicily"
+            },
+            {
+              "ns": 0,
+              "title": "Sigma Xi"
+            },
+            {
+              "ns": 0,
+              "title": "Sill plate"
+            },
+            {
+              "ns": 0,
+              "title": "Single-family detached home"
+            },
+            {
+              "ns": 0,
+              "title": "Skew arch"
+            },
+            {
+              "ns": 0,
+              "title": "Skylight"
+            },
+            {
+              "ns": 0,
+              "title": "Sleeping porch"
+            },
+            {
+              "ns": 0,
+              "title": "Smoking room"
+            },
+            {
+              "ns": 0,
+              "title": "Soffit"
+            },
+            {
+              "ns": 0,
+              "title": "Solar (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Southern France"
+            },
+            {
+              "ns": 0,
+              "title": "Southwell Minster"
+            },
+            {
+              "ns": 0,
+              "title": "Spain"
+            },
+            {
+              "ns": 0,
+              "title": "Span (engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Spandrel"
+            },
+            {
+              "ns": 0,
+              "title": "Speyer Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "Spicery"
+            },
+            {
+              "ns": 0,
+              "title": "Splayed arch"
+            },
+            {
+              "ns": 0,
+              "title": "Springer (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Squinch"
+            },
+            {
+              "ns": 0,
+              "title": "St John's Chapel, London"
+            },
+            {
+              "ns": 0,
+              "title": "St Mark's Basilica"
+            },
+            {
+              "ns": 0,
+              "title": "St Mary Goslany"
+            },
+            {
+              "ns": 0,
+              "title": "St Mary the Virgin, Silchester"
+            },
+            {
+              "ns": 0,
+              "title": "St Matthew's Church, Langford"
+            },
+            {
+              "ns": 0,
+              "title": "St Peter's Church, Walpole St Peter"
+            },
+            {
+              "ns": 0,
+              "title": "Stadium at Olympia"
+            },
+            {
+              "ns": 0,
+              "title": "Staircase"
+            },
+            {
+              "ns": 0,
+              "title": "Stairs"
+            },
+            {
+              "ns": 0,
+              "title": "State room"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669360.3540797
+}

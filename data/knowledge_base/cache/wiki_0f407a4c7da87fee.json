@@ -1,0 +1,329 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "12266": {
+          "pageid": 12266,
+          "ns": 0,
+          "title": "Genetics",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Science"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific law"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific method"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific theory"
+            },
+            {
+              "ns": 0,
+              "title": "Selection (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Selective breeding"
+            },
+            {
+              "ns": 0,
+              "title": "Self-replication"
+            },
+            {
+              "ns": 0,
+              "title": "Sequence homology"
+            },
+            {
+              "ns": 0,
+              "title": "Sex-determination system"
+            },
+            {
+              "ns": 0,
+              "title": "Sex chromosome"
+            },
+            {
+              "ns": 0,
+              "title": "Sex linkage"
+            },
+            {
+              "ns": 0,
+              "title": "Sexual reproduction"
+            },
+            {
+              "ns": 0,
+              "title": "Shoot (botany)"
+            },
+            {
+              "ns": 0,
+              "title": "Siamese (cat)"
+            },
+            {
+              "ns": 0,
+              "title": "Sickle-cell anemia"
+            },
+            {
+              "ns": 0,
+              "title": "Single-nucleotide polymorphism"
+            },
+            {
+              "ns": 0,
+              "title": "Small supernumerary marker chromosome"
+            },
+            {
+              "ns": 0,
+              "title": "Sociobiology"
+            },
+            {
+              "ns": 0,
+              "title": "Somatic mutation"
+            },
+            {
+              "ns": 0,
+              "title": "Speciation"
+            },
+            {
+              "ns": 0,
+              "title": "Sperm"
+            },
+            {
+              "ns": 0,
+              "title": "Stimulus (physiology)"
+            },
+            {
+              "ns": 0,
+              "title": "Stop codon"
+            },
+            {
+              "ns": 0,
+              "title": "Structural biology"
+            },
+            {
+              "ns": 0,
+              "title": "Structure"
+            },
+            {
+              "ns": 0,
+              "title": "Submetacentric"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic biology"
+            },
+            {
+              "ns": 0,
+              "title": "Systematics"
+            },
+            {
+              "ns": 0,
+              "title": "Systems biology"
+            },
+            {
+              "ns": 0,
+              "title": "TINF2"
+            },
+            {
+              "ns": 0,
+              "title": "Taxonomic rank"
+            },
+            {
+              "ns": 0,
+              "title": "Taxonomy (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Telocentric"
+            },
+            {
+              "ns": 0,
+              "title": "Telomere"
+            },
+            {
+              "ns": 0,
+              "title": "Telomere-binding protein"
+            },
+            {
+              "ns": 0,
+              "title": "Temperate climate"
+            },
+            {
+              "ns": 0,
+              "title": "Teratology"
+            },
+            {
+              "ns": 0,
+              "title": "The New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Hunt Morgan"
+            },
+            {
+              "ns": 0,
+              "title": "Thymine"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of biology and organic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of the history of genetics"
+            },
+            {
+              "ns": 0,
+              "title": "Tissue (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Tomoko Ohta"
+            },
+            {
+              "ns": 0,
+              "title": "Toxicology"
+            },
+            {
+              "ns": 0,
+              "title": "Transcription (genetics)"
+            },
+            {
+              "ns": 0,
+              "title": "Transcription factor"
+            },
+            {
+              "ns": 0,
+              "title": "Transfer RNA"
+            },
+            {
+              "ns": 0,
+              "title": "Transformation (genetics)"
+            },
+            {
+              "ns": 0,
+              "title": "Translation (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Trinity College, Cambridge"
+            },
+            {
+              "ns": 0,
+              "title": "Trp repressor"
+            },
+            {
+              "ns": 0,
+              "title": "Tryptophan"
+            },
+            {
+              "ns": 0,
+              "title": "Tumor suppressor"
+            },
+            {
+              "ns": 0,
+              "title": "Tumour heterogeneity"
+            },
+            {
+              "ns": 0,
+              "title": "Twin study"
+            },
+            {
+              "ns": 0,
+              "title": "UV radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Vascular plant"
+            },
+            {
+              "ns": 0,
+              "title": "Vascular tissue"
+            },
+            {
+              "ns": 0,
+              "title": "Virology"
+            },
+            {
+              "ns": 0,
+              "title": "Virophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Virus"
+            },
+            {
+              "ns": 0,
+              "title": "Walther Flemming"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Welfare biology"
+            },
+            {
+              "ns": 0,
+              "title": "White (mutation)"
+            },
+            {
+              "ns": 0,
+              "title": "Wikiversity"
+            },
+            {
+              "ns": 0,
+              "title": "Wild type"
+            },
+            {
+              "ns": 0,
+              "title": "William Bateson"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray crystallography"
+            },
+            {
+              "ns": 0,
+              "title": "X chromosome"
+            },
+            {
+              "ns": 0,
+              "title": "Xenobiology"
+            },
+            {
+              "ns": 0,
+              "title": "Xylem"
+            },
+            {
+              "ns": 0,
+              "title": "Y chromosome"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc finger"
+            },
+            {
+              "ns": 0,
+              "title": "Zoology"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770575379.4939396
+}

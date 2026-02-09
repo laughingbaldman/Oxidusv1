@@ -1,0 +1,1413 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "643769": {
+          "pageid": 643769,
+          "ns": 0,
+          "title": "Quantum tunnelling",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Abiogenesis"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute value"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustics"
+            },
+            {
+              "ns": 0,
+              "title": "Aephraim M. Steinberg"
+            },
+            {
+              "ns": 0,
+              "title": "Airy function"
+            },
+            {
+              "ns": 0,
+              "title": "Albert Einstein"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha decay"
+            },
+            {
+              "ns": 0,
+              "title": "Annalen der Physik"
+            },
+            {
+              "ns": 0,
+              "title": "Anton Zeilinger"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arnold Sommerfeld"
+            },
+            {
+              "ns": 0,
+              "title": "Arthur Compton"
+            },
+            {
+              "ns": 0,
+              "title": "Astrobiology"
+            },
+            {
+              "ns": 0,
+              "title": "Astrochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Bell test"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Black holes"
+            },
+            {
+              "ns": 0,
+              "title": "Born rule"
+            },
+            {
+              "ns": 0,
+              "title": "Bra–ket notation"
+            },
+            {
+              "ns": 0,
+              "title": "Brian Josephson"
+            },
+            {
+              "ns": 0,
+              "title": "C. V. Raman"
+            },
+            {
+              "ns": 0,
+              "title": "CHSH inequality"
+            },
+            {
+              "ns": 0,
+              "title": "Casimir effect"
+            },
+            {
+              "ns": 0,
+              "title": "Cellular respiration"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical kinetics"
+            },
+            {
+              "ns": 0,
+              "title": "Circumstellar habitable zone"
+            },
+            {
+              "ns": 0,
+              "title": "Classical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Clinton Davisson"
+            },
+            {
+              "ns": 0,
+              "title": "Complementarity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Consciousness causes collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Consistent histories"
+            },
+            {
+              "ns": 0,
+              "title": "Cooper pair"
+            },
+            {
+              "ns": 0,
+              "title": "Copenhagen interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Coulomb barrier"
+            },
+            {
+              "ns": 0,
+              "title": "DNA"
+            },
+            {
+              "ns": 0,
+              "title": "David Bohm"
+            },
+            {
+              "ns": 0,
+              "title": "David Hilbert"
+            },
+            {
+              "ns": 0,
+              "title": "Davisson–Germer experiment"
+            },
+            {
+              "ns": 0,
+              "title": "De Broglie–Bohm theory"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate energy levels"
+            },
+            {
+              "ns": 0,
+              "title": "Delayed-choice quantum eraser"
+            },
+            {
+              "ns": 0,
+              "title": "Density matrix"
+            },
+            {
+              "ns": 0,
+              "title": "Depletion layer"
+            },
+            {
+              "ns": 0,
+              "title": "Deuterium"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric barrier discharge"
+            },
+            {
+              "ns": 0,
+              "title": "Differential equation"
+            },
+            {
+              "ns": 0,
+              "title": "Dimension"
+            },
+            {
+              "ns": 0,
+              "title": "Diode"
+            },
+            {
+              "ns": 0,
+              "title": "Dirac equation"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Double-slit experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Double-well potential"
+            },
+            {
+              "ns": 0,
+              "title": "Drude-Lorentz model"
+            },
+            {
+              "ns": 0,
+              "title": "EISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Condon"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein–Podolsky–Rosen paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical conductance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron capture"
+            },
+            {
+              "ns": 0,
+              "title": "Electrons"
+            },
+            {
+              "ns": 0,
+              "title": "Elitzur–Vaidman bomb tester"
+            },
+            {
+              "ns": 0,
+              "title": "Energy level"
+            },
+            {
+              "ns": 0,
+              "title": "Enrico Fermi"
+            },
+            {
+              "ns": 0,
+              "title": "Ensemble interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Erwin Schrödinger"
+            },
+            {
+              "ns": 0,
+              "title": "Eugene Wigner"
+            },
+            {
+              "ns": 0,
+              "title": "Evanescent wave"
+            },
+            {
+              "ns": 0,
+              "title": "Evanescent wave coupling"
+            },
+            {
+              "ns": 0,
+              "title": "Event horizon"
+            },
+            {
+              "ns": 0,
+              "title": "Excited state"
+            },
+            {
+              "ns": 0,
+              "title": "Exponential function"
+            },
+            {
+              "ns": 0,
+              "title": "Faster-than-light"
+            },
+            {
+              "ns": 0,
+              "title": "Felix Bloch"
+            },
+            {
+              "ns": 0,
+              "title": "Field effect transistors"
+            },
+            {
+              "ns": 0,
+              "title": "Field electron emission"
+            },
+            {
+              "ns": 0,
+              "title": "Field emission"
+            },
+            {
+              "ns": 0,
+              "title": "Finite potential well"
+            },
+            {
+              "ns": 0,
+              "title": "Flash memory"
+            },
+            {
+              "ns": 0,
+              "title": "Formaldehyde"
+            },
+            {
+              "ns": 0,
+              "title": "Foundations of Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Francis E. Low"
+            },
+            {
+              "ns": 0,
+              "title": "Franck–Hertz experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Friedrich Hund"
+            },
+            {
+              "ns": 0,
+              "title": "George Gamow"
+            },
+            {
+              "ns": 0,
+              "title": "Gerd Binnig"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of elementary quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Ground state"
+            },
+            {
+              "ns": 0,
+              "title": "Günter Nimtz"
+            },
+            {
+              "ns": 0,
+              "title": "Half-life"
+            },
+            {
+              "ns": 0,
+              "title": "Hamiltonian (quantum mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Hamiltonian mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Hans Bethe"
+            },
+            {
+              "ns": 0,
+              "title": "Hans Kramers"
+            },
+            {
+              "ns": 0,
+              "title": "Hawking radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Heike Kamerlingh Onnes"
+            },
+            {
+              "ns": 0,
+              "title": "Heike Riel"
+            },
+            {
+              "ns": 0,
+              "title": "Heinrich Rohrer"
+            },
+            {
+              "ns": 0,
+              "title": "Heisenberg picture"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Moseley"
+            },
+            {
+              "ns": 0,
+              "title": "Herbert Winful"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Weyl"
+            },
+            {
+              "ns": 0,
+              "title": "Hidden-variable theory"
+            },
+            {
+              "ns": 0,
+              "title": "History of quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "History of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Holstein–Herring method"
+            },
+            {
+              "ns": 0,
+              "title": "Hugh Everett III"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ice"
+            },
+            {
+              "ns": 0,
+              "title": "Insulator (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Integrable system"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Interaction picture"
+            },
+            {
+              "ns": 0,
+              "title": "Interpretations of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar medium"
+            },
+            {
+              "ns": 0,
+              "title": "Introduction to quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Ion trap"
+            },
+            {
+              "ns": 0,
+              "title": "Isidor Isaac Rabi"
+            },
+            {
+              "ns": 0,
+              "title": "Isotope"
+            },
+            {
+              "ns": 0,
+              "title": "Ivar Giaever"
+            },
+            {
+              "ns": 0,
+              "title": "J. Robert Oppenheimer"
+            },
+            {
+              "ns": 0,
+              "title": "Jagdish Mehra"
+            },
+            {
+              "ns": 0,
+              "title": "Johannes Rydberg"
+            },
+            {
+              "ns": 0,
+              "title": "John Clarke (physicist)"
+            },
+            {
+              "ns": 0,
+              "title": "John M. Martinis"
+            },
+            {
+              "ns": 0,
+              "title": "John Stewart Bell"
+            },
+            {
+              "ns": 0,
+              "title": "John von Neumann"
+            },
+            {
+              "ns": 0,
+              "title": "Josephson effect"
+            },
+            {
+              "ns": 0,
+              "title": "Josephson junction"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic isotope effect"
+            },
+            {
+              "ns": 0,
+              "title": "Klein–Gordon equation"
+            },
+            {
+              "ns": 0,
+              "title": "Leggett inequality"
+            },
+            {
+              "ns": 0,
+              "title": "Leggett–Garg inequality"
+            },
+            {
+              "ns": 0,
+              "title": "Leo Esaki"
+            },
+            {
+              "ns": 0,
+              "title": "Leonid Mandelstam"
+            },
+            {
+              "ns": 0,
+              "title": "Lev Landau"
+            },
+            {
+              "ns": 0,
+              "title": "Level set"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Local hidden-variable theory"
+            },
+            {
+              "ns": 0,
+              "title": "Lothar Wolfgang Nordheim"
+            },
+            {
+              "ns": 0,
+              "title": "Louis de Broglie"
+            },
+            {
+              "ns": 0,
+              "title": "Mach–Zehnder interferometer"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic fields"
+            },
+            {
+              "ns": 0,
+              "title": "Majorana equation"
+            },
+            {
+              "ns": 0,
+              "title": "Many-worlds interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Martin Gutzwiller"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical formulation of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Matrix mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Matter wave"
+            },
+            {
+              "ns": 0,
+              "title": "Max Born"
+            },
+            {
+              "ns": 0,
+              "title": "Max Planck"
+            },
+            {
+              "ns": 0,
+              "title": "Max von Laue"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell's equations"
+            },
+            {
+              "ns": 0,
+              "title": "Measurement in quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Measurement problem"
+            },
+            {
+              "ns": 0,
+              "title": "Michel Devoret"
+            },
+            {
+              "ns": 0,
+              "title": "Michelle Simmons"
+            },
+            {
+              "ns": 0,
+              "title": "Microelectronics"
+            },
+            {
+              "ns": 0,
+              "title": "Mikhail Leontovich"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular spectra"
+            },
+            {
+              "ns": 0,
+              "title": "Multijunction solar cell"
+            },
+            {
+              "ns": 0,
+              "title": "N-type semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Nanotechnology"
+            },
+            {
+              "ns": 0,
+              "title": "Nature (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Niels Bohr"
+            },
+            {
+              "ns": 0,
+              "title": "Nobel Prize in Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleic acid double helix"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Objective-collapse theory"
+            },
+            {
+              "ns": 0,
+              "title": "Old quantum theory"
+            },
+            {
+              "ns": 0,
+              "title": "Optics"
+            },
+            {
+              "ns": 0,
+              "title": "P-type semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Pascual Jordan"
+            },
+            {
+              "ns": 0,
+              "title": "Path integral formulation"
+            },
+            {
+              "ns": 0,
+              "title": "Patrick Blackett"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Davies"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Dirac"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Ehrenfest"
+            },
+            {
+              "ns": 0,
+              "title": "Pauli equation"
+            },
+            {
+              "ns": 0,
+              "title": "Per-Olov Lowdin"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Debye"
+            },
+            {
+              "ns": 0,
+              "title": "Phase-space formulation"
+            },
+            {
+              "ns": 0,
+              "title": "Phase space"
+            },
+            {
+              "ns": 0,
+              "title": "Phase space formulation"
+            },
+            {
+              "ns": 0,
+              "title": "Phenomenon"
+            },
+            {
+              "ns": 0,
+              "title": "Phonons"
+            },
+            {
+              "ns": 0,
+              "title": "Photons"
+            },
+            {
+              "ns": 0,
+              "title": "Photosynthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review D"
+            },
+            {
+              "ns": 0,
+              "title": "Physical system"
+            },
+            {
+              "ns": 0,
+              "title": "Physics Reports"
+            },
+            {
+              "ns": 0,
+              "title": "Pieter Zeeman"
+            },
+            {
+              "ns": 0,
+              "title": "Piezoelectric sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Planck constant"
+            },
+            {
+              "ns": 0,
+              "title": "Planetary oceanography"
+            },
+            {
+              "ns": 0,
+              "title": "Popper's experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Potential barrier"
+            },
+            {
+              "ns": 0,
+              "title": "Potential energy"
+            },
+            {
+              "ns": 0,
+              "title": "Potential well"
+            },
+            {
+              "ns": 0,
+              "title": "Power series"
+            },
+            {
+              "ns": 0,
+              "title": "Proton decay"
+            },
+            {
+              "ns": 0,
+              "title": "Proton tunneling"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum Bayesianism"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum algorithm"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum biology"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum bus"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cellular automaton"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum channel"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chaos"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cloning"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum complexity theory"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum computing"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cosmology"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cryptography"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum decoherence"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum differential calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum entanglement"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum eraser experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum error correction"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum finite automaton"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum fluctuation"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum image processing"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum imaging"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum indeterminacy"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum information"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum information science"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum jump"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum key distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum logic"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum logic gate"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum machine"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum machine learning"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum metamaterial"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum metrology"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mind"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mysticism"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum network"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum neural network"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum nonlocality"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum number"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum optics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum programming"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum simulator"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum state"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum statistical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum stochastic calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum superposition"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum teleportation"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Ralph H. Fowler"
+            },
+            {
+              "ns": 0,
+              "title": "Rarita–Schwinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Rectangular potential barrier"
+            },
+            {
+              "ns": 0,
+              "title": "Redox reactions"
+            },
+            {
+              "ns": 0,
+              "title": "Reduced Planck constant"
+            },
+            {
+              "ns": 0,
+              "title": "Relational quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Resonant tunnelling diode"
+            },
+            {
+              "ns": 0,
+              "title": "Richard Feynman"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Andrews Millikan"
+            },
+            {
+              "ns": 0,
+              "title": "Ronald Wilfred Gurney"
+            },
+            {
+              "ns": 0,
+              "title": "Ronnie Bell (chemist)"
+            },
+            {
+              "ns": 0,
+              "title": "Roy J. Glauber"
+            },
+            {
+              "ns": 0,
+              "title": "Rydberg formula"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Satyendra Nath Bose"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning tunneling microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning tunnelling microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Scattering theory"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger's cat"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger's cat in popular culture"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger picture"
+            },
+            {
+              "ns": 0,
+              "title": "Semiclassical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor device"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar core"
+            },
+            {
+              "ns": 0,
+              "title": "Stern–Gerlach experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Superconducting energy gap"
+            },
+            {
+              "ns": 0,
+              "title": "Superconducting tunnel junction"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Superdeterminism"
+            },
+            {
+              "ns": 0,
+              "title": "Surface"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry in quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Tautomer"
+            },
+            {
+              "ns": 0,
+              "title": "Thermionic emission"
+            },
+            {
+              "ns": 0,
+              "title": "Thermonuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum computing and communication"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Torus"
+            },
+            {
+              "ns": 0,
+              "title": "Total energy"
+            },
+            {
+              "ns": 0,
+              "title": "Transactional interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transition state theory"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission coefficient (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission medium"
+            },
+            {
+              "ns": 0,
+              "title": "Travelling wave"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel diode"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel junction"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "Very-large-scale integration"
+            },
+            {
+              "ns": 0,
+              "title": "Vladimir Fock"
+            },
+            {
+              "ns": 0,
+              "title": "Vlsi"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage bias"
+            },
+            {
+              "ns": 0,
+              "title": "WKB approximation"
+            },
+            {
+              "ns": 0,
+              "title": "Walter Schottky"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Wave"
+            },
+            {
+              "ns": 0,
+              "title": "Wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Wave interference"
+            },
+            {
+              "ns": 0,
+              "title": "Wave packet"
+            },
+            {
+              "ns": 0,
+              "title": "Wave propagation"
+            },
+            {
+              "ns": 0,
+              "title": "Wave–particle duality"
+            },
+            {
+              "ns": 0,
+              "title": "Werner Heisenberg"
+            },
+            {
+              "ns": 0,
+              "title": "Weyl equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler's delayed-choice experiment"
+            },
+            {
+              "ns": 0,
+              "title": "White hole"
+            },
+            {
+              "ns": 0,
+              "title": "Wigner's friend"
+            },
+            {
+              "ns": 0,
+              "title": "Wigner quasiprobability distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Wien"
+            },
+            {
+              "ns": 0,
+              "title": "Willis Lamb"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfgang Pauli"
+            },
+            {
+              "ns": 0,
+              "title": "Work function"
+            },
+            {
+              "ns": 0,
+              "title": "Yakir Aharonov"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-point energy"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329109.2618065
+}

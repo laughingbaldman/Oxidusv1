@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-02-05T12:35:32.135183",
+  "thought_count": 3,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-05T12:35:02.120257",
+      "type": "analysis",
+      "content": "Response guidance: conversational_warm | Depth: establishing_connection | Focus: Building understanding",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T12:35:02.120782",
+      "type": "question",
+      "content": "Asked: emotional_gap...",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T12:35:02.121306",
+      "type": "reflection",
+      "content": "Autonomously adapted understanding of 1 concepts. Adaptation #1",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 6,
+    "analysis": 4,
+    "decision": 1,
+    "ethical_check": 1,
+    "knowledge_lookup": 0,
+    "research": 0,
+    "reflection": 2,
+    "uncertainty": 0,
+    "insight": 1,
+    "recall": 1,
+    "system": 4
+  }
+}

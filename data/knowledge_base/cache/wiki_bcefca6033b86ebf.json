@@ -1,0 +1,1689 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "6366": {
+          "pageid": 6366,
+          "ns": 0,
+          "title": "Canis Major",
+          "links": [
+            {
+              "ns": 0,
+              "title": "10 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "11 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "12 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "13 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "145 G. Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "15 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "17 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "26 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "27 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "60th parallel north"
+            },
+            {
+              "ns": 0,
+              "title": "88 modern constellations"
+            },
+            {
+              "ns": 0,
+              "title": "88 modern constellations by area"
+            },
+            {
+              "ns": 0,
+              "title": "Abū Rayḥān al-Bīrūnī"
+            },
+            {
+              "ns": 0,
+              "title": "Accretion disc"
+            },
+            {
+              "ns": 0,
+              "title": "Alfonsine tables"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Cygni variable"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Egyptian calendar"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greeks"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Rome"
+            },
+            {
+              "ns": 0,
+              "title": "Andromeda (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Anguilla (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Anser (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Antinous (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Antlia"
+            },
+            {
+              "ns": 0,
+              "title": "Apes (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Apus"
+            },
+            {
+              "ns": 0,
+              "title": "Aquarius (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Aquila (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ara (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Aranea (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Aratus"
+            },
+            {
+              "ns": 0,
+              "title": "Argo Navis"
+            },
+            {
+              "ns": 0,
+              "title": "Aries (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Asterion (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Asterism (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical unit"
+            },
+            {
+              "ns": 0,
+              "title": "Astrophysical Journal"
+            },
+            {
+              "ns": 0,
+              "title": "Auriga"
+            },
+            {
+              "ns": 0,
+              "title": "Babylon"
+            },
+            {
+              "ns": 0,
+              "title": "Babylonian star catalogues"
+            },
+            {
+              "ns": 0,
+              "title": "Bayer designation"
+            },
+            {
+              "ns": 0,
+              "title": "Beta Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Beta Cephei variable"
+            },
+            {
+              "ns": 0,
+              "title": "Beta Lyrae variable"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binary star"
+            },
+            {
+              "ns": 0,
+              "title": "Blue supergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Boötes"
+            },
+            {
+              "ns": 0,
+              "title": "Bright Star Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Brightest star"
+            },
+            {
+              "ns": 0,
+              "title": "Bufo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "CMA (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "CX Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Caelum"
+            },
+            {
+              "ns": 0,
+              "title": "Camelopardalis"
+            },
+            {
+              "ns": 0,
+              "title": "Cancer (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Cancer Minor"
+            },
+            {
+              "ns": 0,
+              "title": "Canes Venatici"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major (Chinese astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major Dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major Overdensity"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major in Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Minor"
+            },
+            {
+              "ns": 0,
+              "title": "Capricornus"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon star"
+            },
+            {
+              "ns": 0,
+              "title": "Carina (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Caroline Herschel"
+            },
+            {
+              "ns": 0,
+              "title": "Cassiopeia (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus"
+            },
+            {
+              "ns": 0,
+              "title": "Cephalus"
+            },
+            {
+              "ns": 0,
+              "title": "Cepheus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Cerberus"
+            },
+            {
+              "ns": 0,
+              "title": "Cerberus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Cetus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Chamaeleon"
+            },
+            {
+              "ns": 0,
+              "title": "Chara (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Circinus"
+            },
+            {
+              "ns": 0,
+              "title": "CiteSeerX (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Collinder 121"
+            },
+            {
+              "ns": 0,
+              "title": "Collinder 140"
+            },
+            {
+              "ns": 0,
+              "title": "Columba (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Coma Berenices"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "Corona Australis"
+            },
+            {
+              "ns": 0,
+              "title": "Corona Borealis"
+            },
+            {
+              "ns": 0,
+              "title": "Corvus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Crater (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Crux"
+            },
+            {
+              "ns": 0,
+              "title": "Custos Messium"
+            },
+            {
+              "ns": 0,
+              "title": "Cygnus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Declination"
+            },
+            {
+              "ns": 0,
+              "title": "Delphinus"
+            },
+            {
+              "ns": 0,
+              "title": "Delta Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Delta Columbae"
+            },
+            {
+              "ns": 0,
+              "title": "Delta Velorum"
+            },
+            {
+              "ns": 0,
+              "title": "Diana (mythology)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dorado"
+            },
+            {
+              "ns": 0,
+              "title": "Draco (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 489-056"
+            },
+            {
+              "ns": 0,
+              "title": "EZ Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Eclipsing binary"
+            },
+            {
+              "ns": 0,
+              "title": "Edmund Chilmead"
+            },
+            {
+              "ns": 0,
+              "title": "Emission nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Enlil"
+            },
+            {
+              "ns": 0,
+              "title": "Eos"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Equatorial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Equuleus"
+            },
+            {
+              "ns": 0,
+              "title": "Eridanus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Eta Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Eugène Delporte"
+            },
+            {
+              "ns": 0,
+              "title": "Europa (consort of Zeus)"
+            },
+            {
+              "ns": 0,
+              "title": "European Southern Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Exoplanet"
+            },
+            {
+              "ns": 0,
+              "title": "Extreme ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "FN Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "FR Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "FS Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "FU Orionis star"
+            },
+            {
+              "ns": 0,
+              "title": "FY Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Felis (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Flamsteed designation"
+            },
+            {
+              "ns": 0,
+              "title": "Former constellations"
+            },
+            {
+              "ns": 0,
+              "title": "Fornax"
+            },
+            {
+              "ns": 0,
+              "title": "Francis Baily"
+            },
+            {
+              "ns": 0,
+              "title": "Full moon"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia 1"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia DR3 2893941099963718528"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Gallus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Gemini (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Genitive case"
+            },
+            {
+              "ns": 0,
+              "title": "Globular cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Globus Aerostaticus"
+            },
+            {
+              "ns": 0,
+              "title": "Great Dog (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Grus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "HATS-70"
+            },
+            {
+              "ns": 0,
+              "title": "HD 43162"
+            },
+            {
+              "ns": 0,
+              "title": "HD 43197"
+            },
+            {
+              "ns": 0,
+              "title": "HD 43197 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 45184"
+            },
+            {
+              "ns": 0,
+              "title": "HD 45364"
+            },
+            {
+              "ns": 0,
+              "title": "HD 45364 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 45364 c"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47186"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47186 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47186 c"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47366"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47536"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47536 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 47667"
+            },
+            {
+              "ns": 0,
+              "title": "HD 54879"
+            },
+            {
+              "ns": 0,
+              "title": "HD 56405"
+            },
+            {
+              "ns": 0,
+              "title": "HD 56618"
+            },
+            {
+              "ns": 0,
+              "title": "HD 56925"
+            },
+            {
+              "ns": 0,
+              "title": "HD 57821"
+            },
+            {
+              "ns": 0,
+              "title": "HR 2501"
+            },
+            {
+              "ns": 0,
+              "title": "Hare"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Draper Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Herbig Ae/Be star"
+            },
+            {
+              "ns": 0,
+              "title": "Hercules (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hesiod"
+            },
+            {
+              "ns": 0,
+              "title": "Hippocampus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hirudo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Homer"
+            },
+            {
+              "ns": 0,
+              "title": "Honores Friderici"
+            },
+            {
+              "ns": 0,
+              "title": "Horologium (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hot Neptune"
+            },
+            {
+              "ns": 0,
+              "title": "Hydra (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrus"
+            },
+            {
+              "ns": 0,
+              "title": "IAU designated constellations"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Indus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Interacting galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "International Astronomical Union"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar dust"
+            },
+            {
+              "ns": 0,
+              "title": "Intrinsic brightness"
+            },
+            {
+              "ns": 0,
+              "title": "Iota Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Irregular variable"
+            },
+            {
+              "ns": 0,
+              "title": "Ishtar"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Johann Bayer"
+            },
+            {
+              "ns": 0,
+              "title": "Johann Elert Bode"
+            },
+            {
+              "ns": 0,
+              "title": "John Bevis"
+            },
+            {
+              "ns": 0,
+              "title": "John Flamsteed"
+            },
+            {
+              "ns": 0,
+              "title": "Jordanus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of the British Astronomical Association"
+            },
+            {
+              "ns": 0,
+              "title": "Jupiter (mythology)"
+            },
+            {
+              "ns": 0,
+              "title": "Kappa Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "LS Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "La Ricerca Folklorica"
+            },
+            {
+              "ns": 0,
+              "title": "Lacerta"
+            },
+            {
+              "ns": 0,
+              "title": "Laelaps (mythology)"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Latin"
+            },
+            {
+              "ns": 0,
+              "title": "Leo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Leo Minor"
+            },
+            {
+              "ns": 0,
+              "title": "Leo Palatinus"
+            },
+            {
+              "ns": 0,
+              "title": "Lepus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Libra (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Light-year"
+            },
+            {
+              "ns": 0,
+              "title": "Lilium (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Limax (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "List of brightest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of largest known stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of largest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of most luminous stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of stars in Canis Major"
+            },
+            {
+              "ns": 0,
+              "title": "Lists of constellations"
+            },
+            {
+              "ns": 0,
+              "title": "Lochium Funis"
+            },
+            {
+              "ns": 0,
+              "title": "Low-surface-brightness galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Lumbricus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Lupus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Lynx (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Lyra"
+            },
+            {
+              "ns": 0,
+              "title": "MUL.APIN"
+            },
+            {
+              "ns": 0,
+              "title": "Machina Electrica"
+            },
+            {
+              "ns": 0,
+              "title": "Main sequence"
+            },
+            {
+              "ns": 0,
+              "title": "Malus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Manis (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Manuchihr Globe"
+            },
+            {
+              "ns": 0,
+              "title": "Marduk"
+            },
+            {
+              "ns": 0,
+              "title": "Mashhad"
+            },
+            {
+              "ns": 0,
+              "title": "Mensa (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Merazig"
+            },
+            {
+              "ns": 0,
+              "title": "Merzem"
+            },
+            {
+              "ns": 0,
+              "title": "Mesopotamia"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 41"
+            },
+            {
+              "ns": 0,
+              "title": "Messier object"
+            },
+            {
+              "ns": 0,
+              "title": "Metallicity"
+            },
+            {
+              "ns": 0,
+              "title": "Meteor shower"
+            },
+            {
+              "ns": 0,
+              "title": "Microscopium"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way halo"
+            },
+            {
+              "ns": 0,
+              "title": "Monoceros"
+            },
+            {
+              "ns": 0,
+              "title": "Mons Maenalus"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly Notices of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Mu Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Musca"
+            },
+            {
+              "ns": 0,
+              "title": "Musca Borealis"
+            },
+            {
+              "ns": 0,
+              "title": "Māori people"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2204"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2207 and IC 2163"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2217"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2223"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2227"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2280"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2283"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2293"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2298"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2325"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2354"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2359"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2360"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2361"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2362"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2374"
+            },
+            {
+              "ns": 0,
+              "title": "NR Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Native cat"
+            },
+            {
+              "ns": 0,
+              "title": "Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron star"
+            },
+            {
+              "ns": 0,
+              "title": "New General Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "New Track Media"
+            },
+            {
+              "ns": 0,
+              "title": "Nicolas Louis de Lacaille"
+            },
+            {
+              "ns": 0,
+              "title": "Ninurta"
+            },
+            {
+              "ns": 0,
+              "title": "Noctua (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Norma (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Norma Nilotica"
+            },
+            {
+              "ns": 0,
+              "title": "Nu1 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Nu2 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Nu2 Canis Majoris b"
+            },
+            {
+              "ns": 0,
+              "title": "Nu3 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Octans"
+            },
+            {
+              "ns": 0,
+              "title": "Officina Typographica"
+            },
+            {
+              "ns": 0,
+              "title": "Omega Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron1 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron2 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Omicron Puppis"
+            },
+            {
+              "ns": 0,
+              "title": "Open cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Ophiuchus"
+            },
+            {
+              "ns": 0,
+              "title": "Orbit"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital resonance"
+            },
+            {
+              "ns": 0,
+              "title": "Orion (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "PKS 0634−20"
+            },
+            {
+              "ns": 0,
+              "title": "Patella (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Pavo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Pegasus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Perseus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Phaethon (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Phoenix (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Pi Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Pi Puppis"
+            },
+            {
+              "ns": 0,
+              "title": "Pictor"
+            },
+            {
+              "ns": 0,
+              "title": "Pisces (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Piscis Austrinus"
+            },
+            {
+              "ns": 0,
+              "title": "Polophylax"
+            },
+            {
+              "ns": 0,
+              "title": "Popular Astronomy (US magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "Pre-main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Procris"
+            },
+            {
+              "ns": 0,
+              "title": "Psalterium Georgii"
+            },
+            {
+              "ns": 0,
+              "title": "Ptolemy"
+            },
+            {
+              "ns": 0,
+              "title": "Puppis"
+            },
+            {
+              "ns": 0,
+              "title": "Pyxis"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrans Muralis"
+            },
+            {
+              "ns": 0,
+              "title": "RR Lyrae variable"
+            },
+            {
+              "ns": 0,
+              "title": "RX J0720.4-3125"
+            },
+            {
+              "ns": 0,
+              "title": "RX J0720.4−3125"
+            },
+            {
+              "ns": 0,
+              "title": "R Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Ramus Pomifer"
+            },
+            {
+              "ns": 0,
+              "title": "Rangifer (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Red hypergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Reticulum"
+            },
+            {
+              "ns": 0,
+              "title": "Right ascension"
+            },
+            {
+              "ns": 0,
+              "title": "River Tigris (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Robur Carolinum"
+            },
+            {
+              "ns": 0,
+              "title": "Rosa (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SN 1975a"
+            },
+            {
+              "ns": 0,
+              "title": "SN 1999ec"
+            },
+            {
+              "ns": 0,
+              "title": "SN 2003H"
+            },
+            {
+              "ns": 0,
+              "title": "SN 2013ai"
+            },
+            {
+              "ns": 0,
+              "title": "Sagitta"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Satellite galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Saturn"
+            },
+            {
+              "ns": 0,
+              "title": "Scarabaeus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Sceptrum Brandenburgicum"
+            },
+            {
+              "ns": 0,
+              "title": "Sceptrum et Manus Iustitiae"
+            },
+            {
+              "ns": 0,
+              "title": "Scorpius"
+            },
+            {
+              "ns": 0,
+              "title": "Sculptor (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Scutum (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Serpens"
+            },
+            {
+              "ns": 0,
+              "title": "Sextans"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-297"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-308"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-310"
+            },
+            {
+              "ns": 0,
+              "title": "Shell star"
+            },
+            {
+              "ns": 0,
+              "title": "Shoalhaven River"
+            },
+            {
+              "ns": 0,
+              "title": "Sigma Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Sirius"
+            },
+            {
+              "ns": 0,
+              "title": "Sirius A"
+            },
+            {
+              "ns": 0,
+              "title": "Sirius B"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Solarium (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "South Pole"
+            },
+            {
+              "ns": 0,
+              "title": "Southern Hemisphere"
+            },
+            {
+              "ns": 0,
+              "title": "Southern celestial hemisphere"
+            },
+            {
+              "ns": 0,
+              "title": "Spectral type"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Star formation"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar classification"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Supergiant star"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Tau Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Taurus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Taurus Poniatovii"
+            },
+            {
+              "ns": 0,
+              "title": "Telescopium"
+            },
+            {
+              "ns": 0,
+              "title": "Telescopium Herschelii"
+            },
+            {
+              "ns": 0,
+              "title": "The Astrophysical Journal Supplement Series"
+            },
+            {
+              "ns": 0,
+              "title": "Theta Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Tiamat"
+            },
+            {
+              "ns": 0,
+              "title": "Transient astronomical event"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulum"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulum Australe"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulum Minus"
+            },
+            {
+              "ns": 0,
+              "title": "Tuamotus"
+            },
+            {
+              "ns": 0,
+              "title": "Tucana"
+            },
+            {
+              "ns": 0,
+              "title": "Tunisia"
+            },
+            {
+              "ns": 0,
+              "title": "Turdus Solitarius"
+            },
+            {
+              "ns": 0,
+              "title": "UW Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Urania's Mirror"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Major"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Minor"
+            },
+            {
+              "ns": 0,
+              "title": "VY CMa"
+            },
+            {
+              "ns": 0,
+              "title": "VY Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star designation"
+            },
+            {
+              "ns": 0,
+              "title": "Vela (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Vermilion Bird"
+            },
+            {
+              "ns": 0,
+              "title": "Very Large Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Vespa (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Visual magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Volans"
+            },
+            {
+              "ns": 0,
+              "title": "Vulpecula"
+            },
+            {
+              "ns": 0,
+              "title": "WASP-64"
+            },
+            {
+              "ns": 0,
+              "title": "WISE 0713−2917"
+            },
+            {
+              "ns": 0,
+              "title": "WR 7"
+            },
+            {
+              "ns": 0,
+              "title": "W Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Wergaia"
+            },
+            {
+              "ns": 0,
+              "title": "White dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf–Rayet star"
+            },
+            {
+              "ns": 0,
+              "title": "Xi1 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Xi2 Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Z Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Zeta Canis Majoris"
+            },
+            {
+              "ns": 0,
+              "title": "Zeus"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770518280.7756925
+}

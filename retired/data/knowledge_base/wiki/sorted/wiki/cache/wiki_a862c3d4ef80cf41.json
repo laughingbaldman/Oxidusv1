@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "30906|0|Transformer_utilization_factor",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "30906": {
+          "pageid": 30906,
+          "ns": 0,
+          "title": "Transformer",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ABB"
+            },
+            {
+              "ns": 0,
+              "title": "AC power"
+            },
+            {
+              "ns": 0,
+              "title": "AC power plugs and sockets"
+            },
+            {
+              "ns": 0,
+              "title": "Acorn tube"
+            },
+            {
+              "ns": 0,
+              "title": "Air gap (magnetic)"
+            },
+            {
+              "ns": 0,
+              "title": "Allgemeine Elektricitäts-Gesellschaft"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "American Council for an Energy-Efficient Economy"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous metal transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Amplitude modulation"
+            },
+            {
+              "ns": 0,
+              "title": "Ancillary services"
+            },
+            {
+              "ns": 0,
+              "title": "Antifuse"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent power"
+            },
+            {
+              "ns": 0,
+              "title": "Arc-fault circuit interrupter"
+            },
+            {
+              "ns": 0,
+              "title": "Arc furnace"
+            },
+            {
+              "ns": 0,
+              "title": "Arc welding"
+            },
+            {
+              "ns": 0,
+              "title": "Arrhenius equation"
+            },
+            {
+              "ns": 0,
+              "title": "Audio-frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Audio and video interfaces and connectors"
+            },
+            {
+              "ns": 0,
+              "title": "Audio frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Audion"
+            },
+            {
+              "ns": 0,
+              "title": "Austin transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Australia"
+            },
+            {
+              "ns": 0,
+              "title": "Automatic generation control"
+            },
+            {
+              "ns": 0,
+              "title": "Autotransformer"
+            },
+            {
+              "ns": 0,
+              "title": "Availability factor"
+            },
+            {
+              "ns": 0,
+              "title": "Avalanche diode"
+            },
+            {
+              "ns": 0,
+              "title": "Backfeeding"
+            },
+            {
+              "ns": 0,
+              "title": "Backward-wave oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Balanced line"
+            },
+            {
+              "ns": 0,
+              "title": "Balancing authority"
+            },
+            {
+              "ns": 0,
+              "title": "Balun"
+            },
+            {
+              "ns": 0,
+              "title": "Bandwidth (signal processing)"
+            },
+            {
+              "ns": 0,
+              "title": "Base load"
+            },
+            {
+              "ns": 0,
+              "title": "Battery energy storage system"
+            },
+            {
+              "ns": 0,
+              "title": "Beam deflection tube"
+            },
+            {
+              "ns": 0,
+              "title": "Beam tetrode"
+            },
+            {
+              "ns": 0,
+              "title": "BiCMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bio-FET"
+            },
+            {
+              "ns": 0,
+              "title": "Biofuel"
+            },
+            {
+              "ns": 0,
+              "title": "Biogas"
+            },
+            {
+              "ns": 0,
+              "title": "Biomass"
+            },
+            {
+              "ns": 0,
+              "title": "Bipolar junction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Black start"
+            },
+            {
+              "ns": 0,
+              "title": "Boost converter"
+            },
+            {
+              "ns": 0,
+              "title": "Brownout (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Buchholz relay"
+            },
+            {
+              "ns": 0,
+              "title": "Buck converter"
+            },
+            {
+              "ns": 0,
+              "title": "Buck–boost converter"
+            },
+            {
+              "ns": 0,
+              "title": "Buck–boost transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Bushing (electrical)"
+            },
+            {
+              "ns": 0,
+              "title": "CMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Cam timer"
+            },
+            {
+              "ns": 0,
+              "title": "Camouflage"
+            },
+            {
+              "ns": 0,
+              "title": "Canada"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor types"
+            },
+            {
+              "ns": 0,
+              "title": "Capacity factor"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon offsets and credits"
+            },
+            {
+              "ns": 0,
+              "title": "Cascading failure"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Cavity magnetron"
+            },
+            {
+              "ns": 0,
+              "title": "Center-tapped transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Center tap"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic resonator"
+            },
+            {
+              "ns": 0,
+              "title": "Charactron"
+            },
+            {
+              "ns": 0,
+              "title": "Charge pump"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Circle diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Circuit breaker"
+            },
+            {
+              "ns": 0,
+              "title": "Coal"
+            },
+            {
+              "ns": 0,
+              "title": "Cogeneration"
+            },
+            {
+              "ns": 0,
+              "title": "Cold cathode"
+            },
+            {
+              "ns": 0,
+              "title": "Combined cycle power plant"
+            },
+            {
+              "ns": 0,
+              "title": "Compactron"
+            },
+            {
+              "ns": 0,
+              "title": "Condition monitoring of transformers"
+            },
+            {
+              "ns": 0,
+              "title": "Conductor gallop"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation of energy"
+            },
+            {
+              "ns": 0,
+              "title": "Constant-current diode"
+            },
+            {
+              "ns": 0,
+              "title": "Constant-potential transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Contingency (electrical grid)"
+            },
+            {
+              "ns": 0,
+              "title": "Coolant"
+            },
+            {
+              "ns": 0,
+              "title": "Cooling tower"
+            },
+            {
+              "ns": 0,
+              "title": "Core losses"
+            },
+            {
+              "ns": 0,
+              "title": "Cornell University"
+            },
+            {
+              "ns": 0,
+              "title": "Cost of electricity by source"
+            },
+            {
+              "ns": 0,
+              "title": "Coupling coefficient (inductors)"
+            },
+            {
+              "ns": 0,
+              "title": "Crossatron"
+            },
+            {
+              "ns": 0,
+              "title": "Crossed-field amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Current transformer"
+            },
+            {
+              "ns": 0,
+              "title": "DIAC"
+            },
+            {
+              "ns": 0,
+              "title": "Darlington transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Dekatron"
+            },
+            {
+              "ns": 0,
+              "title": "Delta-wye transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Demand factor"
+            },
+            {
+              "ns": 0,
+              "title": "Demand response"
+            },
+            {
+              "ns": 0,
+              "title": "Depletion-load NMOS logic"
+            },
+            {
+              "ns": 0,
+              "title": "Derivative"
+            },
+            {
+              "ns": 0,
+              "title": "Diffused junction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Digital potentiometer"
+            },
+            {
+              "ns": 0,
+              "title": "Diode"
+            },
+            {
+              "ns": 0,
+              "title": "Direct current"
+            },
+            {
+              "ns": 0,
+              "title": "Dispatchable generation"
+            },
+            {
+              "ns": 0,
+              "title": "Dissolved gas analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed generation"
+            },
+            {
+              "ns": 0,
+              "title": "Distribution transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dot convention"
+            },
+            {
+              "ns": 0,
+              "title": "Droop speed control"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic demand (electric power)"
+            },
+            {
+              "ns": 0,
+              "title": "E-shaped"
+            },
+            {
+              "ns": 0,
+              "title": "EFuse"
+            },
+            {
+              "ns": 0,
+              "title": "Earth-leakage circuit breaker"
+            },
+            {
+              "ns": 0,
+              "title": "Eddy current"
+            },
+            {
+              "ns": 0,
+              "title": "Edison Electric Light Company"
+            },
+            {
+              "ns": 0,
+              "title": "Electric arc"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric energy consumption"
+            },
+            {
+              "ns": 0,
+              "title": "Electric field gradient"
+            },
+            {
+              "ns": 0,
+              "title": "Electric generator"
+            },
+            {
+              "ns": 0,
+              "title": "Electric multiple unit"
+            },
+            {
+              "ns": 0,
+              "title": "Electric power"
+            },
+            {
+              "ns": 0,
+              "title": "Electric power distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Electric power quality"
+            },
+            {
+              "ns": 0,
+              "title": "Electric power system"
+            },
+            {
+              "ns": 0,
+              "title": "Electric power transmission"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical busbar system"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical contact"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical energy"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical fault"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical grid"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical insulation paper"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical load"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical network"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical reactance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical steel"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical substation"
+            },
+            {
+              "ns": 0,
+              "title": "Electricity delivery"
+            },
+            {
+              "ns": 0,
+              "title": "Electricity distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Electricity retailing"
+            },
+            {
+              "ns": 0,
+              "title": "Electrolytic detector"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic induction"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic interference"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromotive force"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic component"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Enameled wire"
+            },
+            {
+              "ns": 0,
+              "title": "Energy demand management"
+            },
+            {
+              "ns": 0,
+              "title": "Energy efficient transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Energy return on investment"
+            },
+            {
+              "ns": 0,
+              "title": "Energy storage"
+            },
+            {
+              "ns": 0,
+              "title": "Energy subsidy"
+            },
+            {
+              "ns": 0,
+              "title": "Environmental tax"
+            },
+            {
+              "ns": 0,
+              "title": "Equivalent circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Faraday's law of induction"
+            },
+            {
+              "ns": 0,
+              "title": "Feed-in tariff"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrite (magnet)"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrite core"
+            },
+            {
+              "ns": 0,
+              "title": "Field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Fin field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Fleming valve"
+            },
+            {
+              "ns": 0,
+              "title": "Floating-gate MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Fluorinated hydrocarbons"
+            },
+            {
+              "ns": 0,
+              "title": "Flyback transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Fossil fuel phase-out"
+            },
+            {
+              "ns": 0,
+              "title": "Fossil fuel power station"
+            },
+            {
+              "ns": 0,
+              "title": "Free space"
+            },
+            {
+              "ns": 0,
+              "title": "Fuse (electrical)"
+            },
+            {
+              "ns": 0,
+              "title": "Galvanic isolation"
+            },
+            {
+              "ns": 0,
+              "title": "Ganz Works"
+            },
+            {
+              "ns": 0,
+              "title": "Gas-filled tube"
+            },
+            {
+              "ns": 0,
+              "title": "General Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Generator interlock kit"
+            },
+            {
+              "ns": 0,
+              "title": "Geomagnetic storm"
+            },
+            {
+              "ns": 0,
+              "title": "Geomagnetically induced current"
+            },
+            {
+              "ns": 0,
+              "title": "George Westinghouse"
+            },
+            {
+              "ns": 0,
+              "title": "Geothermal power"
+            },
+            {
+              "ns": 0,
+              "title": "Grain boundaries"
+            },
+            {
+              "ns": 0,
+              "title": "Grid balancing"
+            },
+            {
+              "ns": 0,
+              "title": "Grid code"
+            },
+            {
+              "ns": 0,
+              "title": "Grid energy storage"
+            },
+            {
+              "ns": 0,
+              "title": "Grid strength"
+            },
+            {
+              "ns": 0,
+              "title": "Grounding transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Growler (electrical device)"
+            },
+            {
+              "ns": 0,
+              "title": "Gunn diode"
+            },
+            {
+              "ns": 0,
+              "title": "Gyrotron"
+            },
+            {
+              "ns": 0,
+              "title": "Heat exchangers"
+            },
+            {
+              "ns": 0,
+              "title": "Heterostructure barrier varactor"
+            },
+            {
+              "ns": 0,
+              "title": "High-frequency"
+            },
+            {
+              "ns": 0,
+              "title": "High-leg delta"
+            },
+            {
+              "ns": 0,
+              "title": "High-speed rail"
+            },
+            {
+              "ns": 0,
+              "title": "High-voltage direct current"
+            },
+            {
+              "ns": 0,
+              "title": "High-voltage shore connection"
+            },
+            {
+              "ns": 0,
+              "title": "High-voltage transformer fire barriers"
+            },
+            {
+              "ns": 0,
+              "title": "High voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Home energy storage"
+            },
+            {
+              "ns": 0,
+              "title": "Hot-wire barretter"
+            },
+            {
+              "ns": 0,
+              "title": "Hybrid coil"
+            },
+            {
+              "ns": 0,
+              "title": "Hybrid integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroelectricity"
+            },
+            {
+              "ns": 0,
+              "title": "I-shaped"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISFET"
+            },
+            {
+              "ns": 0,
+              "title": "Iconoscope"
+            },
+            {
+              "ns": 0,
+              "title": "Identity function"
+            },
+            {
+              "ns": 0,
+              "title": "Ignitron"
+            },
+            {
+              "ns": 0,
+              "title": "Inductance"
+            },
+            {
+              "ns": 0,
+              "title": "Induction coil"
+            },
+            {
+              "ns": 0,
+              "title": "Induction generator"
+            },
+            {
+              "ns": 0,
+              "title": "Induction motor"
+            },
+            {
+              "ns": 0,
+              "title": "Induction regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Inductive coupling"
+            },
+            {
+              "ns": 0,
+              "title": "Inductive output tube"
+            },
+            {
+              "ns": 0,
+              "title": "Inductor"
+            },
+            {
+              "ns": 0,
+              "title": "Inertial response"
+            },
+            {
+              "ns": 0,
+              "title": "Inrush current"
+            },
+            {
+              "ns": 0,
+              "title": "Instrument transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Insulated-gate bipolar transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Interconnector"
+            },
+            {
+              "ns": 0,
+              "title": "International Electrotechnical Commission"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupter"
+            },
+            {
+              "ns": 0,
+              "title": "Inverter-based resource"
+            },
+            {
+              "ns": 0,
+              "title": "Islanding"
+            },
+            {
+              "ns": 0,
+              "title": "Isolation transformer"
+            },
+            {
+              "ns": 0,
+              "title": "JFET"
+            },
+            {
+              "ns": 0,
+              "title": "John Dixon Gibbs"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Henry"
+            },
+            {
+              "ns": 0,
+              "title": "Joule heating"
+            },
+            {
+              "ns": 0,
+              "title": "K-factor (electrical engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Klystron"
+            },
+            {
+              "ns": 0,
+              "title": "Krytron"
+            },
+            {
+              "ns": 0,
+              "title": "Károly Zipernowsky"
+            },
+            {
+              "ns": 0,
+              "title": "LDMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Langley City"
+            },
+            {
+              "ns": 0,
+              "title": "Laser diode"
+            },
+            {
+              "ns": 0,
+              "title": "Leakage inductance"
+            },
+            {
+              "ns": 0,
+              "title": "Lenz's law"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting diode"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Light emitting capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Limestone Generating Station"
+            },
+            {
+              "ns": 0,
+              "title": "Linear"
+            },
+            {
+              "ns": 0,
+              "title": "Linear regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Linear variable differential transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Linearity"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid helium"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "List of electricity sectors"
+            },
+            {
+              "ns": 0,
+              "title": "List of major power outages"
+            },
+            {
+              "ns": 0,
+              "title": "Litz wire"
+            },
+            {
+              "ns": 0,
+              "title": "Load-following power plant"
+            },
+            {
+              "ns": 0,
+              "title": "Load factor (electrical)"
+            },
+            {
+              "ns": 0,
+              "title": "Load management"
+            },
+            {
+              "ns": 0,
+              "title": "Load profile"
+            },
+            {
+              "ns": 0,
+              "title": "Low-dropout regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Lucien Gaulard"
+            },
+            {
+              "ns": 0,
+              "title": "MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "MOS integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Maddox Industrial Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Magic eye tube"
+            },
+            {
+              "ns": 0,
+              "title": "Magnet wire"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic core"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic domain"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic flux"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic flux density"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic hysteresis"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic permeability"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic saturation"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetization"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetomotive force"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetostriction"
+            },
+            {
+              "ns": 0,
+              "title": "Mains electricity by country"
+            },
+            {
+              "ns": 0,
+              "title": "Mains hum"
+            },
+            {
+              "ns": 0,
+              "title": "Manitoba"
+            },
+            {
+              "ns": 0,
+              "title": "Marine current power"
+            },
+            {
+              "ns": 0,
+              "title": "Marine energy"
+            },
+            {
+              "ns": 0,
+              "title": "Maser"
+            },
+            {
+              "ns": 0,
+              "title": "Maynooth College"
+            },
+            {
+              "ns": 0,
+              "title": "McFarland & Company"
+            },
+            {
+              "ns": 0,
+              "title": "Melbourne"
+            },
+            {
+              "ns": 0,
+              "title": "Memistor"
+            },
+            {
+              "ns": 0,
+              "title": "Memory cell (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Memristor"
+            },
+            {
+              "ns": 0,
+              "title": "Memtransistor"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury-arc valve"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury-vapor lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury relay"
+            },
+            {
+              "ns": 0,
+              "title": "Merit order"
+            },
+            {
+              "ns": 0,
+              "title": "Metadyne"
+            },
+            {
+              "ns": 0,
+              "title": "Metal-oxide varistor"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Faraday"
+            },
+            {
+              "ns": 0,
+              "title": "Micro combined heat and power"
+            },
+            {
+              "ns": 0,
+              "title": "Microgeneration"
+            },
+            {
+              "ns": 0,
+              "title": "Microphone"
+            },
+            {
+              "ns": 0,
+              "title": "Mikhail Dolivo-Dobrovolsky"
+            },
+            {
+              "ns": 0,
+              "title": "Miksa Déri"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral oil"
+            },
+            {
+              "ns": 0,
+              "title": "Mitsubishi Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Mixed-signal integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Monoscope"
+            },
+            {
+              "ns": 0,
+              "title": "Multigate device"
+            },
+            {
+              "ns": 0,
+              "title": "NMOS logic"
+            },
+            {
+              "ns": 0,
+              "title": "Nameplate capacity"
+            },
+            {
+              "ns": 0,
+              "title": "Natural gas"
+            },
+            {
+              "ns": 0,
+              "title": "Negative resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Neon lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Neon sign"
+            },
+            {
+              "ns": 0,
+              "title": "Net metering"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron generator"
+            },
+            {
+              "ns": 0,
+              "title": "Nicholas Callan"
+            },
+            {
+              "ns": 0,
+              "title": "Nikola Tesla"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Nixie tube"
+            },
+            {
+              "ns": 0,
+              "title": "No-load loss"
+            },
+            {
+              "ns": 0,
+              "title": "Non-renewable resource"
+            },
+            {
+              "ns": 0,
+              "title": "Nonode"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear power"
+            },
+            {
+              "ns": 0,
+              "title": "Number of turns"
+            },
+            {
+              "ns": 0,
+              "title": "Numerical relay"
+            },
+            {
+              "ns": 0,
+              "title": "Nuvistor"
+            },
+            {
+              "ns": 0,
+              "title": "OLED"
+            },
+            {
+              "ns": 0,
+              "title": "OSTI (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ocean thermal energy conversion"
+            },
+            {
+              "ns": 0,
+              "title": "Ohm's law"
+            },
+            {
+              "ns": 0,
+              "title": "Oil shale"
+            },
+            {
+              "ns": 0,
+              "title": "Open-circuit test"
+            },
+            {
+              "ns": 0,
+              "title": "Operating temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Organic field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Organic light-emitting transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Organic semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Osmotic power"
+            },
+            {
+              "ns": 0,
+              "title": "Ottó Bláthy"
+            },
+            {
+              "ns": 0,
+              "title": "Oudin coil"
+            },
+            {
+              "ns": 0,
+              "title": "Overhead power line"
+            },
+            {
+              "ns": 0,
+              "title": "PIN diode"
+            },
+            {
+              "ns": 0,
+              "title": "PMOS logic"
+            },
+            {
+              "ns": 0,
+              "title": "Pad-mounted transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Parametric transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Parametron"
+            },
+            {
+              "ns": 0,
+              "title": "Passive component"
+            },
+            {
+              "ns": 0,
+              "title": "Passivity (engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Pavel Yablochkov"
+            },
+            {
+              "ns": 0,
+              "title": "Peak demand"
+            },
+            {
+              "ns": 0,
+              "title": "Pentagrid converter"
+            },
+            {
+              "ns": 0,
+              "title": "Pentode"
+            },
+            {
+              "ns": 0,
+              "title": "Pentode transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Per-unit system"
+            },
+            {
+              "ns": 0,
+              "title": "Permalloy"
+            },
+            {
+              "ns": 0,
+              "title": "Persistent organic pollutant"
+            },
+            {
+              "ns": 0,
+              "title": "Petroleum"
+            },
+            {
+              "ns": 0,
+              "title": "Phasor"
+            },
+            {
+              "ns": 0,
+              "title": "Photodetector"
+            },
+            {
+              "ns": 0,
+              "title": "Photodiode"
+            },
+            {
+              "ns": 0,
+              "title": "Photomultiplier tube"
+            },
+            {
+              "ns": 0,
+              "title": "Phototube"
+            },
+            {
+              "ns": 0,
+              "title": "Pigouvian tax"
+            },
+            {
+              "ns": 0,
+              "title": "Planar transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Point-contact transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Polarity (mutual inductance)"
+            },
+            {
+              "ns": 0,
+              "title": "Polychlorinated biphenyl"
+            },
+            {
+              "ns": 0,
+              "title": "Polyphase coil"
+            },
+            {
+              "ns": 0,
+              "title": "Polyphase system"
+            },
+            {
+              "ns": 0,
+              "title": "Potentiometer"
+            },
+            {
+              "ns": 0,
+              "title": "Power-flow study"
+            },
+            {
+              "ns": 0,
+              "title": "Power MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Power factor"
+            },
+            {
+              "ns": 0,
+              "title": "Power grid"
+            },
+            {
+              "ns": 0,
+              "title": "Power inverter"
+            },
+            {
+              "ns": 0,
+              "title": "Power outage"
+            },
+            {
+              "ns": 0,
+              "title": "Power rating"
+            },
+            {
+              "ns": 0,
+              "title": "Power station"
+            },
+            {
+              "ns": 0,
+              "title": "Power system protection"
+            },
+            {
+              "ns": 0,
+              "title": "Power system reliability"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure relief valve"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Printed electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable unijunction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "ProlecGE"
+            },
+            {
+              "ns": 0,
+              "title": "Protective relay"
+            },
+            {
+              "ns": 0,
+              "title": "Proximity effect (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Pulse transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Pumped-storage hydroelectricity"
+            },
+            {
+              "ns": 0,
+              "title": "Push-pull converter"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrature booster"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum circuit"
+            },
+            {
+              "ns": 0,
+              "title": "RF"
+            },
+            {
+              "ns": 0,
+              "title": "RF CMOS"
+            },
+            {
+              "ns": 0,
+              "title": "RF connector"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Radio-frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Railway electrification system"
+            },
+            {
+              "ns": 0,
+              "title": "Rankine cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Reactive power"
+            },
+            {
+              "ns": 0,
+              "title": "Real power"
+            },
+            {
+              "ns": 0,
+              "title": "Record player"
+            },
+            {
+              "ns": 0,
+              "title": "Rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Rectiformer"
+            },
+            {
+              "ns": 0,
+              "title": "Reed relay"
+            },
+            {
+              "ns": 0,
+              "title": "Relay"
+            },
+            {
+              "ns": 0,
+              "title": "Reluctance"
+            },
+            {
+              "ns": 0,
+              "title": "Remanence"
+            },
+            {
+              "ns": 0,
+              "title": "Renewable Energy Certificate (United States)"
+            },
+            {
+              "ns": 0,
+              "title": "Renewable Energy Payments"
+            },
+            {
+              "ns": 0,
+              "title": "Renewable energy"
+            },
+            {
+              "ns": 0,
+              "title": "Renewable energy commercialization"
+            },
+            {
+              "ns": 0,
+              "title": "Repeating coil"
+            },
+            {
+              "ns": 0,
+              "title": "Repowering"
+            },
+            {
+              "ns": 0,
+              "title": "Resettable fuse"
+            },
+            {
+              "ns": 0,
+              "title": "Residual-current device"
+            },
+            {
+              "ns": 0,
+              "title": "Resistivity"
+            },
+            {
+              "ns": 0,
+              "title": "Resistor"
+            },
+            {
+              "ns": 0,
+              "title": "Resolver (electrical)"
+            },
+            {
+              "ns": 0,
+              "title": "Resonant inductive coupling"
+            },
+            {
+              "ns": 0,
+              "title": "Right-hand rule"
+            },
+            {
+              "ns": 0,
+              "title": "Rolling blackout"
+            },
+            {
+              "ns": 0,
+              "title": "Root mean square"
+            },
+            {
+              "ns": 0,
+              "title": "Rotary transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Rotary variable differential transformer"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Saturable reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Saturation (magnetic)"
+            },
+            {
+              "ns": 0,
+              "title": "Schneider Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Schottky diode"
+            },
+            {
+              "ns": 0,
+              "title": "Scott-T transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Selectron tube"
+            },
+            {
+              "ns": 0,
+              "title": "Self-inductance"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor device"
+            },
+            {
+              "ns": 0,
+              "title": "Series and parallel circuits"
+            },
+            {
+              "ns": 0,
+              "title": "Severity factor"
+            },
+            {
+              "ns": 0,
+              "title": "Short-circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Short-circuit test"
+            },
+            {
+              "ns": 0,
+              "title": "Shunt (electrical)"
+            },
+            {
+              "ns": 0,
+              "title": "Siemens"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon controlled rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon steel"
+            },
+            {
+              "ns": 0,
+              "title": "Silicone"
+            },
+            {
+              "ns": 0,
+              "title": "Single-ended primary-inductor converter"
+            },
+            {
+              "ns": 0,
+              "title": "Single-wire earth return"
+            },
+            {
+              "ns": 0,
+              "title": "Sinusoidal"
+            },
+            {
+              "ns": 0,
+              "title": "Skin effect"
+            },
+            {
+              "ns": 0,
+              "title": "Smart grid"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium-vapor lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Solar power"
+            },
+            {
+              "ns": 0,
+              "title": "Solaristor"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Spark spread"
+            },
+            {
+              "ns": 0,
+              "title": "Split-pi topology"
+            },
+            {
+              "ns": 0,
+              "title": "Stacking factor"
+            },
+            {
+              "ns": 0,
+              "title": "Static induction thyristor"
+            },
+            {
+              "ns": 0,
+              "title": "Static induction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Steinmetz's equation"
+            },
+            {
+              "ns": 0,
+              "title": "Step recovery diode"
+            },
+            {
+              "ns": 0,
+              "title": "Storage tube"
+            },
+            {
+              "ns": 0,
+              "title": "Substation"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur hexafluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur hexafluoride circuit breaker"
+            },
+            {
+              "ns": 0,
+              "title": "Super grid"
+            },
+            {
+              "ns": 0,
+              "title": "Superconducting"
+            },
+            {
+              "ns": 0,
+              "title": "Sustainable biofuel"
+            },
+            {
+              "ns": 0,
+              "title": "Sutton tube"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Switch mode power supply"
+            },
+            {
+              "ns": 0,
+              "title": "Switched-mode power supplies"
+            },
+            {
+              "ns": 0,
+              "title": "Switched capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Switching regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Synchro"
+            },
+            {
+              "ns": 0,
+              "title": "TBEA"
+            },
+            {
+              "ns": 0,
+              "title": "TRIAC"
+            },
+            {
+              "ns": 0,
+              "title": "Tap changer"
+            },
+            {
+              "ns": 0,
+              "title": "Telephone"
+            },
+            {
+              "ns": 0,
+              "title": "Tesla coil"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrode"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrode transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Thermistor"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Three-dimensional integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Three-phase"
+            },
+            {
+              "ns": 0,
+              "title": "Three-phase electric power"
+            },
+            {
+              "ns": 0,
+              "title": "Thyratron"
+            },
+            {
+              "ns": 0,
+              "title": "Thyristor"
+            },
+            {
+              "ns": 0,
+              "title": "Tidal power"
+            },
+            {
+              "ns": 0,
+              "title": "Toroid (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Toroidal inductors and transformers"
+            },
+            {
+              "ns": 0,
+              "title": "Traction motor"
+            },
+            {
+              "ns": 0,
+              "title": "Trade-off"
+            },
+            {
+              "ns": 0,
+              "title": "Trancitor"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer oil"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer oil testing"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer types"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329776.5365958
+}

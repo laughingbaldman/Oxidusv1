@@ -1,0 +1,365 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "673": {
+          "pageid": 673,
+          "ns": 0,
+          "title": "Atomic number",
+          "links": [
+            {
+              "ns": 0,
+              "title": "AZE notation"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Antonius van den Broek"
+            },
+            {
+              "ns": 0,
+              "title": "Argon"
+            },
+            {
+              "ns": 0,
+              "title": "Arithmetic progression"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic mass"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic mass number"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic theory"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic weight"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binding energy"
+            },
+            {
+              "ns": 0,
+              "title": "Bohr model"
+            },
+            {
+              "ns": 0,
+              "title": "Charge number"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bonding"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical element"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical elements"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Cobalt"
+            },
+            {
+              "ns": 0,
+              "title": "Curium"
+            },
+            {
+              "ns": 0,
+              "title": "Dalton (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Discovery of chemical elements"
+            },
+            {
+              "ns": 0,
+              "title": "Discovery of the neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Dmitri Mendeleev"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Effective atomic number (compounds and mixtures)"
+            },
+            {
+              "ns": 0,
+              "title": "Effective nuclear charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electric charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron configuration"
+            },
+            {
+              "ns": 0,
+              "title": "Electron shell"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary charge"
+            },
+            {
+              "ns": 0,
+              "title": "Eric Scerri"
+            },
+            {
+              "ns": 0,
+              "title": "Ernest Rutherford"
+            },
+            {
+              "ns": 0,
+              "title": "Even and odd atomic nuclei"
+            },
+            {
+              "ns": 0,
+              "title": "Exotic atom"
+            },
+            {
+              "ns": 0,
+              "title": "Extended periodic table"
+            },
+            {
+              "ns": 0,
+              "title": "Gold"
+            },
+            {
+              "ns": 0,
+              "title": "Hafnium"
+            },
+            {
+              "ns": 0,
+              "title": "Half-life"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Moseley"
+            },
+            {
+              "ns": 0,
+              "title": "History of the periodic table"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen atom"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Iodine"
+            },
+            {
+              "ns": 0,
+              "title": "Island of stability"
+            },
+            {
+              "ns": 0,
+              "title": "Isotope"
+            },
+            {
+              "ns": 0,
+              "title": "James Chadwick"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanide"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanum"
+            },
+            {
+              "ns": 0,
+              "title": "List of chemical elements"
+            },
+            {
+              "ns": 0,
+              "title": "Lutetium"
+            },
+            {
+              "ns": 0,
+              "title": "Magic number (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Mass number"
+            },
+            {
+              "ns": 0,
+              "title": "Molar concentration"
+            },
+            {
+              "ns": 0,
+              "title": "Monoisotopic element"
+            },
+            {
+              "ns": 0,
+              "title": "Moseley's law"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron number"
+            },
+            {
+              "ns": 0,
+              "title": "Neutronium"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron–proton ratio"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleon"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclide"
+            },
+            {
+              "ns": 0,
+              "title": "Periodic table"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Protons"
+            },
+            {
+              "ns": 0,
+              "title": "Prout's hypothesis"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Rutherford model"
+            },
+            {
+              "ns": 0,
+              "title": "Spectral line"
+            },
+            {
+              "ns": 0,
+              "title": "Subscript"
+            },
+            {
+              "ns": 0,
+              "title": "Superscript"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium"
+            },
+            {
+              "ns": 0,
+              "title": "Tennessine"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Royds"
+            },
+            {
+              "ns": 0,
+              "title": "Transuranium element"
+            },
+            {
+              "ns": 0,
+              "title": "Valence shell"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Zeitschrift für Angewandte Chemie"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324326.894148
+}

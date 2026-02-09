@@ -11,3 +11,7 @@ beautifulsoup4==4.12.2
 lxml==4.9.3
 PyQt5==5.15.10
 PyQtWebEngine==5.15.7
+transformers==4.45.2
+tokenizers==0.20.1
+faiss-cpu==1.8.0.post1
+onnx==1.16.1

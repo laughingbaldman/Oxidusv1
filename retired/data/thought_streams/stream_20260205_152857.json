@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-05T15:28:57.846390",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-05T15:28:33.838291",
+      "type": "decision",
+      "content": "Switched from hybrid mode to HUMAN mode",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 2,
+    "analysis": 0,
+    "decision": 2,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 0,
+    "reflection": 1,
+    "uncertainty": 0,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

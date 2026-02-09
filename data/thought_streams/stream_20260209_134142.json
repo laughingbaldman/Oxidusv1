@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-02-09T13:41:42.128947",
+  "thought_count": 4,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:41:37.125091",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Artificial organ'? (source: Artificial organ)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:41:37.125091",
+      "type": "question",
+      "content": "How do allowed artificial, artificial, artificial heart interact or influence each other? (source: Artificial organ)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:41:37.125091",
+      "type": "question",
+      "content": "Why does this topic connect most to hope? (source: Artificial organ)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:41:37.126091",
+      "type": "question",
+      "content": "What is missing or uncertain about allowed artificial in this source? (source: Artificial organ)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 92,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 2,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

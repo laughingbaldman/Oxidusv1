@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "25312|0|Teleparallelism",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "25312": {
+          "pageid": 25312,
+          "ns": 0,
+          "title": "Quantum gravity",
+          "links": [
+            {
+              "ns": 0,
+              "title": "(2+1)-dimensional topological gravity"
+            },
+            {
+              "ns": 0,
+              "title": "ADM formalism"
+            },
+            {
+              "ns": 0,
+              "title": "AQUAL"
+            },
+            {
+              "ns": 0,
+              "title": "Abhay Ashtekar"
+            },
+            {
+              "ns": 0,
+              "title": "AdS/CFT"
+            },
+            {
+              "ns": 0,
+              "title": "AdS/CFT correspondence"
+            },
+            {
+              "ns": 0,
+              "title": "Albert Einstein"
+            },
+            {
+              "ns": 0,
+              "title": "Alcubierre drive"
+            },
+            {
+              "ns": 0,
+              "title": "Alexander Friedmann"
+            },
+            {
+              "ns": 0,
+              "title": "Alternatives to general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "An Exceptionally Simple Theory of Everything"
+            },
+            {
+              "ns": 0,
+              "title": "Annalen der Physik"
+            },
+            {
+              "ns": 0,
+              "title": "Anthony Zee"
+            },
+            {
+              "ns": 0,
+              "title": "Apsidal precession"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Aristotelian physics"
+            },
+            {
+              "ns": 0,
+              "title": "Arthur Eddington"
+            },
+            {
+              "ns": 0,
+              "title": "Ashtekar variables"
+            },
+            {
+              "ns": 0,
+              "title": "Asymptotic freedom"
+            },
+            {
+              "ns": 0,
+              "title": "Asymptotic safety"
+            },
+            {
+              "ns": 0,
+              "title": "Asymptotic safety in quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "B-modes"
+            },
+            {
+              "ns": 0,
+              "title": "BICEP and Keck Array"
+            },
+            {
+              "ns": 0,
+              "title": "BKL singularity"
+            },
+            {
+              "ns": 0,
+              "title": "BSSN formalism"
+            },
+            {
+              "ns": 0,
+              "title": "Background-independent"
+            },
+            {
+              "ns": 0,
+              "title": "Background independence"
+            },
+            {
+              "ns": 0,
+              "title": "Barton Zwiebach"
+            },
+            {
+              "ns": 0,
+              "title": "Basic Books"
+            },
+            {
+              "ns": 0,
+              "title": "Batalin–Vilkovisky formalism"
+            },
+            {
+              "ns": 0,
+              "title": "Bekenstein bound"
+            },
+            {
+              "ns": 0,
+              "title": "Bell test"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Big Bang"
+            },
+            {
+              "ns": 0,
+              "title": "Bimetric gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Biquaternion"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole complementarity"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole information paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Black holes"
+            },
+            {
+              "ns": 0,
+              "title": "Born rule"
+            },
+            {
+              "ns": 0,
+              "title": "Boson"
+            },
+            {
+              "ns": 0,
+              "title": "Bosonic string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Bousso's holographic bound"
+            },
+            {
+              "ns": 0,
+              "title": "Brans–Dicke theory"
+            },
+            {
+              "ns": 0,
+              "title": "Bra–ket notation"
+            },
+            {
+              "ns": 0,
+              "title": "Bunch–Davies vacuum"
+            },
+            {
+              "ns": 0,
+              "title": "CA-duality"
+            },
+            {
+              "ns": 0,
+              "title": "CGHS model"
+            },
+            {
+              "ns": 0,
+              "title": "CGh physics"
+            },
+            {
+              "ns": 0,
+              "title": "CP violation"
+            },
+            {
+              "ns": 0,
+              "title": "Cabibbo–Kobayashi–Maskawa matrix"
+            },
+            {
+              "ns": 0,
+              "title": "Calabi–Yau manifold"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Canonical quantization"
+            },
+            {
+              "ns": 0,
+              "title": "Canonical quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Carlo Rovelli"
+            },
+            {
+              "ns": 0,
+              "title": "Casimir effect"
+            },
+            {
+              "ns": 0,
+              "title": "Causal dynamical triangulation"
+            },
+            {
+              "ns": 0,
+              "title": "Causal fermion system"
+            },
+            {
+              "ns": 0,
+              "title": "Causal patch"
+            },
+            {
+              "ns": 0,
+              "title": "Causal sets"
+            },
+            {
+              "ns": 0,
+              "title": "Causal structure"
+            },
+            {
+              "ns": 0,
+              "title": "Charge (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Charles W. Misner"
+            },
+            {
+              "ns": 0,
+              "title": "Christopher Isham"
+            },
+            {
+              "ns": 0,
+              "title": "Classical and Quantum Gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Classical field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Classical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Color charge"
+            },
+            {
+              "ns": 0,
+              "title": "Compactification (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Complementarity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Composite gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Conformal gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Consciousness causes collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Consistent histories"
+            },
+            {
+              "ns": 0,
+              "title": "Copenhagen interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic censorship hypothesis"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic dust"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic microwave background"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmological constant"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmological constant problem"
+            },
+            {
+              "ns": 0,
+              "title": "Current Science"
+            },
+            {
+              "ns": 0,
+              "title": "DGP model"
+            },
+            {
+              "ns": 0,
+              "title": "Dark energy"
+            },
+            {
+              "ns": 0,
+              "title": "Dark matter"
+            },
+            {
+              "ns": 0,
+              "title": "David Hilbert"
+            },
+            {
+              "ns": 0,
+              "title": "Davisson–Germer experiment"
+            },
+            {
+              "ns": 0,
+              "title": "De Broglie–Bohm theory"
+            },
+            {
+              "ns": 0,
+              "title": "De Sitter relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate Higher-Order Scalar-Tensor theories"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate energy levels"
+            },
+            {
+              "ns": 0,
+              "title": "Delayed-choice quantum eraser"
+            },
+            {
+              "ns": 0,
+              "title": "Density matrix"
+            },
+            {
+              "ns": 0,
+              "title": "Dilaton"
+            },
+            {
+              "ns": 0,
+              "title": "Dirac equation"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Double-slit experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Double copy theory"
+            },
+            {
+              "ns": 0,
+              "title": "Doubly special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Dual graviton"
+            },
+            {
+              "ns": 0,
+              "title": "ER = EPR"
+            },
+            {
+              "ns": 0,
+              "title": "ESA"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Arthur Milne"
+            },
+            {
+              "ns": 0,
+              "title": "Edward N. Zalta"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Witten"
+            },
+            {
+              "ns": 0,
+              "title": "Effective field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein cross"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein field equations"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein rings"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein–Cartan theory"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein–Podolsky–Rosen paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Electric field"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Electroweak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Elitzur–Vaidman bomb tester"
+            },
+            {
+              "ns": 0,
+              "title": "Ellis wormhole"
+            },
+            {
+              "ns": 0,
+              "title": "Energy level"
+            },
+            {
+              "ns": 0,
+              "title": "Ensemble interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Entropic gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Equivalence principle"
+            },
+            {
+              "ns": 0,
+              "title": "Ernst equation"
+            },
+            {
+              "ns": 0,
+              "title": "Eternal inflation"
+            },
+            {
+              "ns": 0,
+              "title": "Euclidean quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Event horizon"
+            },
+            {
+              "ns": 0,
+              "title": "Exact solutions in general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Excited state"
+            },
+            {
+              "ns": 0,
+              "title": "F(R) gravity"
+            },
+            {
+              "ns": 0,
+              "title": "F-theory"
+            },
+            {
+              "ns": 0,
+              "title": "FRW/CFT duality"
+            },
+            {
+              "ns": 0,
+              "title": "Faddeev–Popov ghost"
+            },
+            {
+              "ns": 0,
+              "title": "Fermi's interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Fermion"
+            },
+            {
+              "ns": 0,
+              "title": "Firewall (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Force particle"
+            },
+            {
+              "ns": 0,
+              "title": "Frame-dragging"
+            },
+            {
+              "ns": 0,
+              "title": "Frame of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Franck–Hertz experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Friedmann equations"
+            },
+            {
+              "ns": 0,
+              "title": "Friedmann–Lemaître–Robertson–Walker metric"
+            },
+            {
+              "ns": 0,
+              "title": "Fritz Zwicky"
+            },
+            {
+              "ns": 0,
+              "title": "Fundamental force"
+            },
+            {
+              "ns": 0,
+              "title": "Fundamental forces"
+            },
+            {
+              "ns": 0,
+              "title": "GEO600"
+            },
+            {
+              "ns": 0,
+              "title": "Galilean invariance"
+            },
+            {
+              "ns": 0,
+              "title": "Galilean transformation"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma-ray burst"
+            },
+            {
+              "ns": 0,
+              "title": "Gauge boson"
+            },
+            {
+              "ns": 0,
+              "title": "Gauge theory"
+            },
+            {
+              "ns": 0,
+              "title": "Gauge theory gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Gauss's law for gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Gauss–Bonnet gravity"
+            },
+            {
+              "ns": 0,
+              "title": "General Relativity and Gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "General relativity"
+            },
+            {
+              "ns": 0,
+              "title": "General theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Geodesics in general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Geodetic effect"
+            },
+            {
+              "ns": 0,
+              "title": "Geometrodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Georges Lemaître"
+            },
+            {
+              "ns": 0,
+              "title": "Gibbons–Hawking–York boundary term"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of elementary quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Grand Unified Theory"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational-wave astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational-wave observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational anomaly"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational decoherence"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational field"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational interaction of antimatter"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational lens"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational redshift"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational time dilation"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational wave"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitomagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Graviton"
+            },
+            {
+              "ns": 0,
+              "title": "Gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Ground state"
+            },
+            {
+              "ns": 0,
+              "title": "Group field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Gödel metric"
+            },
+            {
+              "ns": 0,
+              "title": "Hamiltonian (quantum mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Hamilton–Jacobi–Einstein equation"
+            },
+            {
+              "ns": 0,
+              "title": "Hartle–Hawking proposal"
+            },
+            {
+              "ns": 0,
+              "title": "Hawking radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Heisenberg picture"
+            },
+            {
+              "ns": 0,
+              "title": "Hendrik Lorentz"
+            },
+            {
+              "ns": 0,
+              "title": "Henri Poincaré"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Bondi"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Weyl"
+            },
+            {
+              "ns": 0,
+              "title": "Heterotic string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Hidden-variable theory"
+            },
+            {
+              "ns": 0,
+              "title": "Hierarchy problem"
+            },
+            {
+              "ns": 0,
+              "title": "Higgs boson"
+            },
+            {
+              "ns": 0,
+              "title": "Higgs mechanism"
+            },
+            {
+              "ns": 0,
+              "title": "History of general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "History of gravitational theory"
+            },
+            {
+              "ns": 0,
+              "title": "History of quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "History of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "History of string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Holographic principle"
+            },
+            {
+              "ns": 0,
+              "title": "Howard P. Robertson"
+            },
+            {
+              "ns": 0,
+              "title": "Hořava–Lifshitz gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Hulse–Taylor binary"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbolic orthogonality"
+            },
+            {
+              "ns": 0,
+              "title": "INTEGRAL"
+            },
+            {
+              "ns": 0,
+              "title": "IR/UV mixing"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Igor Dmitriyevich Novikov"
+            },
+            {
+              "ns": 0,
+              "title": "India-based Neutrino Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Induced gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Infinite derivative gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Interaction picture"
+            },
+            {
+              "ns": 0,
+              "title": "Interior Schwarzschild metric"
+            },
+            {
+              "ns": 0,
+              "title": "International Journal of Modern Physics A"
+            },
+            {
+              "ns": 0,
+              "title": "International Journal of Theoretical Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Internet Encyclopedia of Philosophy"
+            },
+            {
+              "ns": 0,
+              "title": "Interpretations of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Introduction to general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Introduction to quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Jackiw–Teitelboim gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Jacques Distler"
+            },
+            {
+              "ns": 0,
+              "title": "Jean Zinn-Justin"
+            },
+            {
+              "ns": 0,
+              "title": "John Archibald Wheeler"
+            },
+            {
+              "ns": 0,
+              "title": "John Francis Donoghue (physicist)"
+            },
+            {
+              "ns": 0,
+              "title": "John Henry Schwarz"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Hooton Taylor Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Polchinski"
+            },
+            {
+              "ns": 0,
+              "title": "Jürgen Ehlers"
+            },
+            {
+              "ns": 0,
+              "title": "Kaluza–Klein theory"
+            },
+            {
+              "ns": 0,
+              "title": "Karl Schwarzschild"
+            },
+            {
+              "ns": 0,
+              "title": "Kasner metric"
+            },
+            {
+              "ns": 0,
+              "title": "Kerr metric"
+            },
+            {
+              "ns": 0,
+              "title": "Kerr–Newman metric"
+            },
+            {
+              "ns": 0,
+              "title": "Kip Thorne"
+            },
+            {
+              "ns": 0,
+              "title": "Klein–Gordon equation"
+            },
+            {
+              "ns": 0,
+              "title": "LIGO"
+            },
+            {
+              "ns": 0,
+              "title": "LIGO Scientific Collaboration"
+            },
+            {
+              "ns": 0,
+              "title": "LISA Pathfinder"
+            },
+            {
+              "ns": 0,
+              "title": "Laboratori Nazionali del Gran Sasso"
+            },
+            {
+              "ns": 0,
+              "title": "Ladder paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Large Hadron Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Le Sage's theory of gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Lecture Notes in Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Lee Smolin"
+            },
+            {
+              "ns": 0,
+              "title": "Lemaître–Tolman metric"
+            },
+            {
+              "ns": 0,
+              "title": "Length contraction"
+            },
+            {
+              "ns": 0,
+              "title": "Lense–Thirring precession"
+            },
+            {
+              "ns": 0,
+              "title": "Lie superalgebra"
+            },
+            {
+              "ns": 0,
+              "title": "Light cone"
+            },
+            {
+              "ns": 0,
+              "title": "Linearized gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Liouville gravity"
+            },
+            {
+              "ns": 0,
+              "title": "List of contributors to general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "List of quantum gravity researchers"
+            },
+            {
+              "ns": 0,
+              "title": "List of textbooks on relativity"
+            },
+            {
+              "ns": 0,
+              "title": "List of unsolved problems in physics"
+            },
+            {
+              "ns": 0,
+              "title": "Little string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Living Reviews in Relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Local hidden-variable theory"
+            },
+            {
+              "ns": 0,
+              "title": "Loop quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Lorentz covariance"
+            },
+            {
+              "ns": 0,
+              "title": "Lorentz transformation"
+            },
+            {
+              "ns": 0,
+              "title": "Lovelock theory of gravity"
+            },
+            {
+              "ns": 0,
+              "title": "M-theory"
+            },
+            {
+              "ns": 0,
+              "title": "MacDowell–Mansouri action"
+            },
+            {
+              "ns": 0,
+              "title": "Mach's principle"
+            },
+            {
+              "ns": 0,
+              "title": "Mach–Zehnder interferometer"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Majorana equation"
+            },
+            {
+              "ns": 0,
+              "title": "Many-worlds interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Mass in special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Massive gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Mass–energy equivalence"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical formulation of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical formulation of the Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematics of general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Matrix mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell's equations"
+            },
+            {
+              "ns": 0,
+              "title": "Measurement in quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Measurement problem"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical explanations of gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Messenger particle"
+            },
+            {
+              "ns": 0,
+              "title": "Messenger particles"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Duff (physicist)"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Green (physicist)"
+            },
+            {
+              "ns": 0,
+              "title": "Milne model"
+            },
+            {
+              "ns": 0,
+              "title": "Minimal Supersymmetric Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Minkowski diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Minkowski space"
+            },
+            {
+              "ns": 0,
+              "title": "Minkowski spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Modern Physics Letters A"
+            },
+            {
+              "ns": 0,
+              "title": "Modified Newtonian dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Multiverse"
+            },
+            {
+              "ns": 0,
+              "title": "Nanotechnology"
+            },
+            {
+              "ns": 0,
+              "title": "Nature (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Neutrino oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's law of universal gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Newtonian mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Next-to-Minimal Supersymmetric Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Non-perturbative"
+            },
+            {
+              "ns": 0,
+              "title": "Noncommutative geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Noncommutative quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Noncommutative standard model"
+            },
+            {
+              "ns": 0,
+              "title": "Nonrenormalizable"
+            },
+            {
+              "ns": 0,
+              "title": "Nonsymmetric gravitational theory"
+            },
+            {
+              "ns": 0,
+              "title": "Nordström's theory of gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Normal mode"
+            },
+            {
+              "ns": 0,
+              "title": "Numerical relativity"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Objective-collapse theory"
+            },
+            {
+              "ns": 0,
+              "title": "Old quantum theory"
+            },
+            {
+              "ns": 0,
+              "title": "Orders of magnitude (length)"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Ozsváth–Schücking metric"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Parameterized post-Newtonian formalism"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Particle physics"
+            },
+            {
+              "ns": 0,
+              "title": "Path integral formulation"
+            },
+            {
+              "ns": 0,
+              "title": "Pauli equation"
+            },
+            {
+              "ns": 0,
+              "title": "Penrose diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Penrose interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Perturbation theory"
+            },
+            {
+              "ns": 0,
+              "title": "Phase-space formulation"
+            },
+            {
+              "ns": 0,
+              "title": "Phenomenological quantum gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review A"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review D"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review Letters"
+            },
+            {
+              "ns": 0,
+              "title": "Physics Letters B"
+            },
+            {
+              "ns": 0,
+              "title": "Physics beyond the Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Physics in the medieval Islamic world"
+            },
+            {
+              "ns": 0,
+              "title": "Planck epoch"
+            },
+            {
+              "ns": 0,
+              "title": "Planck length"
+            },
+            {
+              "ns": 0,
+              "title": "Planck scale"
+            },
+            {
+              "ns": 0,
+              "title": "Planck units"
+            },
+            {
+              "ns": 0,
+              "title": "Poincaré gauge theory"
+            },
+            {
+              "ns": 0,
+              "title": "Point particle"
+            },
+            {
+              "ns": 0,
+              "title": "Poisson's equation"
+            },
+            {
+              "ns": 0,
+              "title": "Popper's experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Pp-wave spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Princeton University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of locality"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Problem of time"
+            },
+            {
+              "ns": 0,
+              "title": "Progress of Theoretical Physics Supplement"
+            },
+            {
+              "ns": 0,
+              "title": "Proper acceleration"
+            },
+            {
+              "ns": 0,
+              "title": "Proper length"
+            },
+            {
+              "ns": 0,
+              "title": "Proper time"
+            },
+            {
+              "ns": 0,
+              "title": "Pulsar timing array"
+            },
+            {
+              "ns": 0,
+              "title": "Quadratic gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Quanta Magazine"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum Bayesianism"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum Field Theory in a Nutshell"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum algorithm"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum biology"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum bus"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cellular automaton"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum channel"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chaos"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chromodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum complexity theory"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum computing"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cosmology"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cryptography"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum decoherence"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum differential calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum electrodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum entanglement"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum eraser experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum error correction"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum field theory in curved spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum finite automaton"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum fluctuation"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum fluctuations"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum foam"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum graphity"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum image processing"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum imaging"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum information"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum jump"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum key distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum logic"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum logic gate"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum machine"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum machine learning"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum metamaterial"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum metrology"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mind"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mysticism"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum network"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum neural network"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum nonlocality"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum operator"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum optics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum programming"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum simulator"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum state"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum statistical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum stochastic calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum superposition"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum teleportation"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum tunnelling"
+            },
+            {
+              "ns": 0,
+              "title": "Quark confinement"
+            },
+            {
+              "ns": 0,
+              "title": "Quark model"
+            },
+            {
+              "ns": 0,
+              "title": "RST model"
+            },
+            {
+              "ns": 0,
+              "title": "Rafael Sorkin"
+            },
+            {
+              "ns": 0,
+              "title": "Rainbow gravity theory"
+            },
+            {
+              "ns": 0,
+              "title": "Rainer Weiss"
+            },
+            {
+              "ns": 0,
+              "title": "Rapidity"
+            },
+            {
+              "ns": 0,
+              "title": "Rarita–Schwinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Raychaudhuri equation"
+            },
+            {
+              "ns": 0,
+              "title": "Regge calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Reissner–Nordström metric"
+            },
+            {
+              "ns": 0,
+              "title": "Relational quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Relational theory"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic Doppler effect"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic disk"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Relativity of simultaneity"
+            },
+            {
+              "ns": 0,
+              "title": "Renormalization"
+            },
+            {
+              "ns": 0,
+              "title": "Renormalization group"
+            },
+            {
+              "ns": 0,
+              "title": "Reports on Progress in Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Reviews of Modern Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Riemannian geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Geroch"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Kraichnan"
+            },
+            {
+              "ns": 0,
+              "title": "Roger Penrose"
+            },
+            {
+              "ns": 0,
+              "title": "Roy Kerr"
+            },
+            {
+              "ns": 0,
+              "title": "Russell Alan Hulse"
+            },
+            {
+              "ns": 0,
+              "title": "Rydberg formula"
+            },
+            {
+              "ns": 0,
+              "title": "Ryu–Takayanagi conjecture"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar theories of gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar–tensor theory"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar–tensor–vector gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Scholarpedia"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger's cat"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger's cat in popular culture"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger picture"
+            },
+            {
+              "ns": 0,
+              "title": "Schwarzschild metric"
+            },
+            {
+              "ns": 0,
+              "title": "Semiclassical gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Shape dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Shapiro time delay"
+            },
+            {
+              "ns": 0,
+              "title": "Shing-Tung Yau"
+            },
+            {
+              "ns": 0,
+              "title": "Space-time"
+            },
+            {
+              "ns": 0,
+              "title": "Space-time foam"
+            },
+            {
+              "ns": 0,
+              "title": "Spacetime"
+            },
+            {
+              "ns": 0,
+              "title": "Special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Spin foam"
+            },
+            {
+              "ns": 0,
+              "title": "Spin network"
+            },
+            {
+              "ns": 0,
+              "title": "Spinfoam"
+            },
+            {
+              "ns": 0,
+              "title": "Split supersymmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Spontaneous symmetry breaking"
+            },
+            {
+              "ns": 0,
+              "title": "Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Stanford Encyclopedia of Philosophy"
+            },
+            {
+              "ns": 0,
+              "title": "Stanley Deser"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Hawking"
+            },
+            {
+              "ns": 0,
+              "title": "Stern–Gerlach experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Steve Carlip"
+            },
+            {
+              "ns": 0,
+              "title": "Steven Weinberg"
+            },
+            {
+              "ns": 0,
+              "title": "String-net"
+            },
+            {
+              "ns": 0,
+              "title": "String (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "String landscape"
+            },
+            {
+              "ns": 0,
+              "title": "String theory"
+            },
+            {
+              "ns": 0,
+              "title": "Strong interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Subatomic particle"
+            },
+            {
+              "ns": 0,
+              "title": "Subrahmanyan Chandrasekhar"
+            },
+            {
+              "ns": 0,
+              "title": "Sudbury Neutrino Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Super-Kamiokande"
+            },
+            {
+              "ns": 0,
+              "title": "Superdeterminism"
+            },
+            {
+              "ns": 0,
+              "title": "Superfluid vacuum theory"
+            },
+            {
+              "ns": 0,
+              "title": "Supergravity"
+            },
+            {
+              "ns": 0,
+              "title": "Superstring theory"
+            },
+            {
+              "ns": 0,
+              "title": "Supersymmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Suraj N. Gupta"
+            },
+            {
+              "ns": 0,
+              "title": "Swampland (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry in quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Taub–NUT space"
+            },
+            {
+              "ns": 0,
+              "title": "Technicolor (physics)"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329107.015592
+}

@@ -1,0 +1,777 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25067088": {
+          "pageid": 25067088,
+          "ns": 0,
+          "title": "Soldering",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acetylene"
+            },
+            {
+              "ns": 0,
+              "title": "Adhesive"
+            },
+            {
+              "ns": 0,
+              "title": "Alloy"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium joining"
+            },
+            {
+              "ns": 0,
+              "title": "American English"
+            },
+            {
+              "ns": 0,
+              "title": "American Welding Society"
+            },
+            {
+              "ns": 0,
+              "title": "Anodizing"
+            },
+            {
+              "ns": 0,
+              "title": "Archive.today"
+            },
+            {
+              "ns": 0,
+              "title": "Ball grid array"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bismuth"
+            },
+            {
+              "ns": 0,
+              "title": "Body solder"
+            },
+            {
+              "ns": 0,
+              "title": "Brass"
+            },
+            {
+              "ns": 0,
+              "title": "Brass instruments"
+            },
+            {
+              "ns": 0,
+              "title": "Brazier"
+            },
+            {
+              "ns": 0,
+              "title": "Brazing"
+            },
+            {
+              "ns": 0,
+              "title": "British English"
+            },
+            {
+              "ns": 0,
+              "title": "Building code"
+            },
+            {
+              "ns": 0,
+              "title": "Came"
+            },
+            {
+              "ns": 0,
+              "title": "Came glasswork"
+            },
+            {
+              "ns": 0,
+              "title": "Capillary action"
+            },
+            {
+              "ns": 0,
+              "title": "Cast iron"
+            },
+            {
+              "ns": 0,
+              "title": "Casting"
+            },
+            {
+              "ns": 0,
+              "title": "Casting (metalworking)"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic"
+            },
+            {
+              "ns": 0,
+              "title": "Cerium"
+            },
+            {
+              "ns": 0,
+              "title": "Charcoal"
+            },
+            {
+              "ns": 0,
+              "title": "Chromium"
+            },
+            {
+              "ns": 0,
+              "title": "Circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Citric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Classification chart"
+            },
+            {
+              "ns": 0,
+              "title": "Coining (metalworking)"
+            },
+            {
+              "ns": 0,
+              "title": "Cold junction (thermocouple)"
+            },
+            {
+              "ns": 0,
+              "title": "Corrosive"
+            },
+            {
+              "ns": 0,
+              "title": "Crimp (joining)"
+            },
+            {
+              "ns": 0,
+              "title": "Desoldering"
+            },
+            {
+              "ns": 0,
+              "title": "Desoldering braid"
+            },
+            {
+              "ns": 0,
+              "title": "Diode"
+            },
+            {
+              "ns": 0,
+              "title": "Dip soldering"
+            },
+            {
+              "ns": 0,
+              "title": "Do-it-yourself"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Drawing (manufacturing)"
+            },
+            {
+              "ns": 0,
+              "title": "Drinking water"
+            },
+            {
+              "ns": 0,
+              "title": "Dry contact"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical connector"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical wiring"
+            },
+            {
+              "ns": 0,
+              "title": "Electrohydraulic forming"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic forming"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic component"
+            },
+            {
+              "ns": 0,
+              "title": "Electronics industry"
+            },
+            {
+              "ns": 0,
+              "title": "Electronics technician"
+            },
+            {
+              "ns": 0,
+              "title": "Electroplating"
+            },
+            {
+              "ns": 0,
+              "title": "Emery cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "European Community"
+            },
+            {
+              "ns": 0,
+              "title": "Eutectic"
+            },
+            {
+              "ns": 0,
+              "title": "Explosive forming"
+            },
+            {
+              "ns": 0,
+              "title": "Extrusion"
+            },
+            {
+              "ns": 0,
+              "title": "Filler metal"
+            },
+            {
+              "ns": 0,
+              "title": "Flashing (weatherproofing)"
+            },
+            {
+              "ns": 0,
+              "title": "Flashlamp"
+            },
+            {
+              "ns": 0,
+              "title": "Flux"
+            },
+            {
+              "ns": 0,
+              "title": "Flux (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Flux pen"
+            },
+            {
+              "ns": 0,
+              "title": "Forging"
+            },
+            {
+              "ns": 0,
+              "title": "Forming processes"
+            },
+            {
+              "ns": 0,
+              "title": "Gallium"
+            },
+            {
+              "ns": 0,
+              "title": "Galvanization"
+            },
+            {
+              "ns": 0,
+              "title": "Germanium"
+            },
+            {
+              "ns": 0,
+              "title": "Graphite"
+            },
+            {
+              "ns": 0,
+              "title": "Heat gun"
+            },
+            {
+              "ns": 0,
+              "title": "Heat sink"
+            },
+            {
+              "ns": 0,
+              "title": "Heat treating"
+            },
+            {
+              "ns": 0,
+              "title": "Heating element"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrochloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroforming"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Induction heating"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "JEDEC"
+            },
+            {
+              "ns": 0,
+              "title": "Jewellery"
+            },
+            {
+              "ns": 0,
+              "title": "Jewelry"
+            },
+            {
+              "ns": 0,
+              "title": "Lacquer"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanum"
+            },
+            {
+              "ns": 0,
+              "title": "Laser"
+            },
+            {
+              "ns": 0,
+              "title": "Lead"
+            },
+            {
+              "ns": 0,
+              "title": "Lens (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Liquidus"
+            },
+            {
+              "ns": 0,
+              "title": "MAPP gas"
+            },
+            {
+              "ns": 0,
+              "title": "Machining"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium"
+            },
+            {
+              "ns": 0,
+              "title": "Mass finishing"
+            },
+            {
+              "ns": 0,
+              "title": "Metal fabrication"
+            },
+            {
+              "ns": 0,
+              "title": "Metal spinning"
+            },
+            {
+              "ns": 0,
+              "title": "Metallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Metalsmith"
+            },
+            {
+              "ns": 0,
+              "title": "Metalworking"
+            },
+            {
+              "ns": 0,
+              "title": "Mild steel"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel"
+            },
+            {
+              "ns": 0,
+              "title": "Open flame"
+            },
+            {
+              "ns": 0,
+              "title": "Optical fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of metalworking"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidation"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Patina"
+            },
+            {
+              "ns": 0,
+              "title": "Peening"
+            },
+            {
+              "ns": 0,
+              "title": "Photonic curing"
+            },
+            {
+              "ns": 0,
+              "title": "Piece work"
+            },
+            {
+              "ns": 0,
+              "title": "Pine tree"
+            },
+            {
+              "ns": 0,
+              "title": "Plating"
+            },
+            {
+              "ns": 0,
+              "title": "Pliers"
+            },
+            {
+              "ns": 0,
+              "title": "Plumbing"
+            },
+            {
+              "ns": 0,
+              "title": "Polishing (metalworking)"
+            },
+            {
+              "ns": 0,
+              "title": "Press hardening"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit boards"
+            },
+            {
+              "ns": 0,
+              "title": "Printed wiring boards"
+            },
+            {
+              "ns": 0,
+              "title": "Progressive stamping"
+            },
+            {
+              "ns": 0,
+              "title": "Propane torch"
+            },
+            {
+              "ns": 0,
+              "title": "Propylene"
+            },
+            {
+              "ns": 0,
+              "title": "Punching"
+            },
+            {
+              "ns": 0,
+              "title": "Radiator"
+            },
+            {
+              "ns": 0,
+              "title": "Rain gutter"
+            },
+            {
+              "ns": 0,
+              "title": "Rare-earth elements"
+            },
+            {
+              "ns": 0,
+              "title": "Reducing agent"
+            },
+            {
+              "ns": 0,
+              "title": "Reflow soldering"
+            },
+            {
+              "ns": 0,
+              "title": "Resistive heating"
+            },
+            {
+              "ns": 0,
+              "title": "Restriction of Hazardous Substances Directive"
+            },
+            {
+              "ns": 0,
+              "title": "Rework (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Rivet"
+            },
+            {
+              "ns": 0,
+              "title": "Rolling (metalworking)"
+            },
+            {
+              "ns": 0,
+              "title": "Rosin"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sheet metal"
+            },
+            {
+              "ns": 0,
+              "title": "Silver"
+            },
+            {
+              "ns": 0,
+              "title": "Silversmith"
+            },
+            {
+              "ns": 0,
+              "title": "Sinking (metalworking)"
+            },
+            {
+              "ns": 0,
+              "title": "Solder"
+            },
+            {
+              "ns": 0,
+              "title": "Solder fatigue"
+            },
+            {
+              "ns": 0,
+              "title": "Solder mask"
+            },
+            {
+              "ns": 0,
+              "title": "Solder paste"
+            },
+            {
+              "ns": 0,
+              "title": "Solder ring fitting"
+            },
+            {
+              "ns": 0,
+              "title": "Solder sucker"
+            },
+            {
+              "ns": 0,
+              "title": "Solderability"
+            },
+            {
+              "ns": 0,
+              "title": "Soldering gun"
+            },
+            {
+              "ns": 0,
+              "title": "Soldering iron"
+            },
+            {
+              "ns": 0,
+              "title": "Solidus (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Special Operations Executive"
+            },
+            {
+              "ns": 0,
+              "title": "Spot welding"
+            },
+            {
+              "ns": 0,
+              "title": "Stained glass"
+            },
+            {
+              "ns": 0,
+              "title": "Stainless steel"
+            },
+            {
+              "ns": 0,
+              "title": "Stamping (metalworking)"
+            },
+            {
+              "ns": 0,
+              "title": "Standing wave"
+            },
+            {
+              "ns": 0,
+              "title": "Steel"
+            },
+            {
+              "ns": 0,
+              "title": "Surface-mount technology"
+            },
+            {
+              "ns": 0,
+              "title": "Surface finishing"
+            },
+            {
+              "ns": 0,
+              "title": "Surface mount"
+            },
+            {
+              "ns": 0,
+              "title": "Surface tension"
+            },
+            {
+              "ns": 0,
+              "title": "Suzanne Jenniches"
+            },
+            {
+              "ns": 0,
+              "title": "Swaging"
+            },
+            {
+              "ns": 0,
+              "title": "Tensile strength"
+            },
+            {
+              "ns": 0,
+              "title": "Terminal (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal mass"
+            },
+            {
+              "ns": 0,
+              "title": "Through-hole technology"
+            },
+            {
+              "ns": 0,
+              "title": "Tin"
+            },
+            {
+              "ns": 0,
+              "title": "Tin-silver-copper"
+            },
+            {
+              "ns": 0,
+              "title": "Tin plate"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium"
+            },
+            {
+              "ns": 0,
+              "title": "Toaster oven"
+            },
+            {
+              "ns": 0,
+              "title": "Tradesman"
+            },
+            {
+              "ns": 0,
+              "title": "Tube bending"
+            },
+            {
+              "ns": 0,
+              "title": "Ultrasonic soldering"
+            },
+            {
+              "ns": 0,
+              "title": "United States Military Standard"
+            },
+            {
+              "ns": 0,
+              "title": "Volatile organic compound"
+            },
+            {
+              "ns": 0,
+              "title": "Watt"
+            },
+            {
+              "ns": 0,
+              "title": "Wave soldering"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Welding"
+            },
+            {
+              "ns": 0,
+              "title": "Wetting"
+            },
+            {
+              "ns": 0,
+              "title": "Wetting agent"
+            },
+            {
+              "ns": 0,
+              "title": "Whisker (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Wire brush"
+            },
+            {
+              "ns": 0,
+              "title": "Wire wool"
+            },
+            {
+              "ns": 0,
+              "title": "Woodwind"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329718.9392066
+}

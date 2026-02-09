@@ -1,0 +1,381 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "145716": {
+          "pageid": 145716,
+          "ns": 0,
+          "title": "Lithosphere",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Ancient Greek language"
+            },
+            {
+              "ns": 0,
+              "title": "Asthenosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Augustus Edward Hough Love"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonate–silicate cycle"
+            },
+            {
+              "ns": 0,
+              "title": "CiteSeerX (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Climate system"
+            },
+            {
+              "ns": 0,
+              "title": "Conrad discontinuity"
+            },
+            {
+              "ns": 0,
+              "title": "Continental crust"
+            },
+            {
+              "ns": 0,
+              "title": "Continental shelves"
+            },
+            {
+              "ns": 0,
+              "title": "Core–mantle boundary"
+            },
+            {
+              "ns": 0,
+              "title": "Craton"
+            },
+            {
+              "ns": 0,
+              "title": "Crust (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Cryosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ductile"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's core"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's crust"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's inner core"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's mantle"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's outer core"
+            },
+            {
+              "ns": 0,
+              "title": "Earth and Planetary Science Letters"
+            },
+            {
+              "ns": 0,
+              "title": "Earthquake"
+            },
+            {
+              "ns": 0,
+              "title": "Elasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Fracture"
+            },
+            {
+              "ns": 0,
+              "title": "Geochemistry, Geophysics, Geosystems"
+            },
+            {
+              "ns": 0,
+              "title": "Geosphere"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Inner core"
+            },
+            {
+              "ns": 0,
+              "title": "Internal structure of Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Isotherm (contour line)"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Barrell"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of Geology"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of Geophysical Research"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of Petrology"
+            },
+            {
+              "ns": 0,
+              "title": "Kimberlite"
+            },
+            {
+              "ns": 0,
+              "title": "Kola Superdeep Borehole"
+            },
+            {
+              "ns": 0,
+              "title": "Lamproite"
+            },
+            {
+              "ns": 0,
+              "title": "Large igneous province"
+            },
+            {
+              "ns": 0,
+              "title": "Large low-shear-velocity provinces"
+            },
+            {
+              "ns": 0,
+              "title": "Lehmann discontinuity"
+            },
+            {
+              "ns": 0,
+              "title": "Lithos (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Lithosphere (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Lithosphere–asthenosphere boundary"
+            },
+            {
+              "ns": 0,
+              "title": "Lithospheric mantle"
+            },
+            {
+              "ns": 0,
+              "title": "Lower mantle"
+            },
+            {
+              "ns": 0,
+              "title": "Mafic"
+            },
+            {
+              "ns": 0,
+              "title": "Mantle (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Mantle convection"
+            },
+            {
+              "ns": 0,
+              "title": "Mesosphere (mantle)"
+            },
+            {
+              "ns": 0,
+              "title": "Microorganism"
+            },
+            {
+              "ns": 0,
+              "title": "Mid-ocean ridge"
+            },
+            {
+              "ns": 0,
+              "title": "Mineralogy"
+            },
+            {
+              "ns": 0,
+              "title": "Mohorovičić discontinuity"
+            },
+            {
+              "ns": 0,
+              "title": "Natural satellite"
+            },
+            {
+              "ns": 0,
+              "title": "Nature (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Ocean basin"
+            },
+            {
+              "ns": 0,
+              "title": "Oceanic crust"
+            },
+            {
+              "ns": 0,
+              "title": "Olivine"
+            },
+            {
+              "ns": 0,
+              "title": "Osmium"
+            },
+            {
+              "ns": 0,
+              "title": "Pearson Education"
+            },
+            {
+              "ns": 0,
+              "title": "Pedosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Peridotite"
+            },
+            {
+              "ns": 0,
+              "title": "Plasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Plate tectonics"
+            },
+            {
+              "ns": 0,
+              "title": "Reginald Aldworth Daly"
+            },
+            {
+              "ns": 0,
+              "title": "Reviews of Geophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Rhenium"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentary basin"
+            },
+            {
+              "ns": 0,
+              "title": "Solid earth"
+            },
+            {
+              "ns": 0,
+              "title": "Subcontinental lithospheric mantle"
+            },
+            {
+              "ns": 0,
+              "title": "Subduction"
+            },
+            {
+              "ns": 0,
+              "title": "Terrane"
+            },
+            {
+              "ns": 0,
+              "title": "Terrestrial planet"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal diffusivity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas H. Jordan"
+            },
+            {
+              "ns": 0,
+              "title": "Transition zone (Earth)"
+            },
+            {
+              "ns": 0,
+              "title": "Ultramafic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Upper mantle"
+            },
+            {
+              "ns": 0,
+              "title": "Vertical displacement"
+            },
+            {
+              "ns": 0,
+              "title": "Viscosity"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic pipe"
+            },
+            {
+              "ns": 0,
+              "title": "Wadati–Benioff zone"
+            },
+            {
+              "ns": 0,
+              "title": "Wiley (publisher)"
+            },
+            {
+              "ns": 0,
+              "title": "Xenolith"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324645.2732453
+}

@@ -1,0 +1,441 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25989": {
+          "pageid": 25989,
+          "ns": 0,
+          "title": "RGB color model",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Schlieren photography"
+            },
+            {
+              "ns": 0,
+              "title": "Science of photography"
+            },
+            {
+              "ns": 0,
+              "title": "Secondary color"
+            },
+            {
+              "ns": 0,
+              "title": "Selfie"
+            },
+            {
+              "ns": 0,
+              "title": "Sergey Prokudin-Gorsky"
+            },
+            {
+              "ns": 0,
+              "title": "Set (psychology)"
+            },
+            {
+              "ns": 0,
+              "title": "Shadow mask"
+            },
+            {
+              "ns": 0,
+              "title": "Shutter speed"
+            },
+            {
+              "ns": 0,
+              "title": "Simplicity (photography)"
+            },
+            {
+              "ns": 0,
+              "title": "Single-lens reflex camera"
+            },
+            {
+              "ns": 0,
+              "title": "Slide projector"
+            },
+            {
+              "ns": 0,
+              "title": "Slider (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Slit-scan photography"
+            },
+            {
+              "ns": 0,
+              "title": "Slow motion"
+            },
+            {
+              "ns": 0,
+              "title": "Snoot"
+            },
+            {
+              "ns": 0,
+              "title": "Social documentary photography"
+            },
+            {
+              "ns": 0,
+              "title": "Social perception"
+            },
+            {
+              "ns": 0,
+              "title": "Softbox"
+            },
+            {
+              "ns": 0,
+              "title": "Software"
+            },
+            {
+              "ns": 0,
+              "title": "Sony"
+            },
+            {
+              "ns": 0,
+              "title": "Space selfie"
+            },
+            {
+              "ns": 0,
+              "title": "Speech perception"
+            },
+            {
+              "ns": 0,
+              "title": "Sports photography"
+            },
+            {
+              "ns": 0,
+              "title": "Sprocket hole photography"
+            },
+            {
+              "ns": 0,
+              "title": "Stereoscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Still life photography"
+            },
+            {
+              "ns": 0,
+              "title": "Stock photography"
+            },
+            {
+              "ns": 0,
+              "title": "Stop bath"
+            },
+            {
+              "ns": 0,
+              "title": "Stopping down"
+            },
+            {
+              "ns": 0,
+              "title": "Storage (memory)"
+            },
+            {
+              "ns": 0,
+              "title": "Straight photography"
+            },
+            {
+              "ns": 0,
+              "title": "Street photography"
+            },
+            {
+              "ns": 0,
+              "title": "Strip photography"
+            },
+            {
+              "ns": 0,
+              "title": "Sub-pixel"
+            },
+            {
+              "ns": 0,
+              "title": "Subtractive color"
+            },
+            {
+              "ns": 0,
+              "title": "Sun printing"
+            },
+            {
+              "ns": 0,
+              "title": "Swivel lens"
+            },
+            {
+              "ns": 0,
+              "title": "TSL color space"
+            },
+            {
+              "ns": 0,
+              "title": "Telephoto lens"
+            },
+            {
+              "ns": 0,
+              "title": "Telephotography"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Sutton (photographer)"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Young (scientist)"
+            },
+            {
+              "ns": 0,
+              "title": "Thought"
+            },
+            {
+              "ns": 0,
+              "title": "Thought suppression"
+            },
+            {
+              "ns": 0,
+              "title": "Three-CCD camera"
+            },
+            {
+              "ns": 0,
+              "title": "Three-dimensional space"
+            },
+            {
+              "ns": 0,
+              "title": "Tilt–shift photography"
+            },
+            {
+              "ns": 0,
+              "title": "Time-lapse photography"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of photography technology"
+            },
+            {
+              "ns": 0,
+              "title": "Tintype"
+            },
+            {
+              "ns": 0,
+              "title": "Touch"
+            },
+            {
+              "ns": 0,
+              "title": "Toy camera"
+            },
+            {
+              "ns": 0,
+              "title": "Trichromacy"
+            },
+            {
+              "ns": 0,
+              "title": "Tripod (photography)"
+            },
+            {
+              "ns": 0,
+              "title": "Tripod head"
+            },
+            {
+              "ns": 0,
+              "title": "Truevision"
+            },
+            {
+              "ns": 0,
+              "title": "Truevision TGA"
+            },
+            {
+              "ns": 0,
+              "title": "Twin-lens reflex camera"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet photography"
+            },
+            {
+              "ns": 0,
+              "title": "Understanding"
+            },
+            {
+              "ns": 0,
+              "title": "Underwater photography"
+            },
+            {
+              "ns": 0,
+              "title": "VIC-20"
+            },
+            {
+              "ns": 0,
+              "title": "Vernacular photography"
+            },
+            {
+              "ns": 0,
+              "title": "Video"
+            },
+            {
+              "ns": 0,
+              "title": "Video Graphics Array"
+            },
+            {
+              "ns": 0,
+              "title": "Video RAM"
+            },
+            {
+              "ns": 0,
+              "title": "Video camera"
+            },
+            {
+              "ns": 0,
+              "title": "Video camera tube"
+            },
+            {
+              "ns": 0,
+              "title": "Video projector"
+            },
+            {
+              "ns": 0,
+              "title": "View camera"
+            },
+            {
+              "ns": 0,
+              "title": "Vignetting"
+            },
+            {
+              "ns": 0,
+              "title": "Visual anthropology"
+            },
+            {
+              "ns": 0,
+              "title": "Visual arts"
+            },
+            {
+              "ns": 0,
+              "title": "Visual perception"
+            },
+            {
+              "ns": 0,
+              "title": "Volition (psychology)"
+            },
+            {
+              "ns": 0,
+              "title": "Volume"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Web-safe colors"
+            },
+            {
+              "ns": 0,
+              "title": "Web colors"
+            },
+            {
+              "ns": 0,
+              "title": "Webcam"
+            },
+            {
+              "ns": 0,
+              "title": "Wedding photography"
+            },
+            {
+              "ns": 0,
+              "title": "White"
+            },
+            {
+              "ns": 0,
+              "title": "White point"
+            },
+            {
+              "ns": 0,
+              "title": "Wide-angle lens"
+            },
+            {
+              "ns": 0,
+              "title": "Wide-gamut RGB color space"
+            },
+            {
+              "ns": 0,
+              "title": "Wildlife photography"
+            },
+            {
+              "ns": 0,
+              "title": "Word (computer architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Xerox art"
+            },
+            {
+              "ns": 0,
+              "title": "XvYCC"
+            },
+            {
+              "ns": 0,
+              "title": "Y'UV"
+            },
+            {
+              "ns": 0,
+              "title": "YCbCr"
+            },
+            {
+              "ns": 0,
+              "title": "YCoCg"
+            },
+            {
+              "ns": 0,
+              "title": "YDbDr"
+            },
+            {
+              "ns": 0,
+              "title": "YIQ"
+            },
+            {
+              "ns": 0,
+              "title": "YJK"
+            },
+            {
+              "ns": 0,
+              "title": "YPbPr"
+            },
+            {
+              "ns": 0,
+              "title": "YUV"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow"
+            },
+            {
+              "ns": 0,
+              "title": "Young–Helmholtz theory"
+            },
+            {
+              "ns": 0,
+              "title": "Y′UV"
+            },
+            {
+              "ns": 0,
+              "title": "Zebra patterning"
+            },
+            {
+              "ns": 0,
+              "title": "Zone System"
+            },
+            {
+              "ns": 0,
+              "title": "Zone plate"
+            },
+            {
+              "ns": 0,
+              "title": "Zoom burst"
+            },
+            {
+              "ns": 0,
+              "title": "Zoom lens"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329114.3301902
+}

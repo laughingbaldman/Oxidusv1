@@ -1,0 +1,653 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "39789": {
+          "pageid": 39789,
+          "ns": 0,
+          "title": "Rotation",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Absolute rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Action (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Aircraft principal axes"
+            },
+            {
+              "ns": 0,
+              "title": "Amusement ride"
+            },
+            {
+              "ns": 0,
+              "title": "Angular displacement"
+            },
+            {
+              "ns": 0,
+              "title": "Angular frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Angular momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Angular velocity"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Archery"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Axial tilt"
+            },
+            {
+              "ns": 0,
+              "title": "Axial vector"
+            },
+            {
+              "ns": 0,
+              "title": "Axis–angle representation"
+            },
+            {
+              "ns": 0,
+              "title": "Backspin"
+            },
+            {
+              "ns": 0,
+              "title": "Baseball"
+            },
+            {
+              "ns": 0,
+              "title": "Basketball"
+            },
+            {
+              "ns": 0,
+              "title": "Baton twirling"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Carousel"
+            },
+            {
+              "ns": 0,
+              "title": "Center of mass"
+            },
+            {
+              "ns": 0,
+              "title": "Center of rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Centrifugal force (fictitious)"
+            },
+            {
+              "ns": 0,
+              "title": "Centripetal force"
+            },
+            {
+              "ns": 0,
+              "title": "Chair-O-Planes"
+            },
+            {
+              "ns": 0,
+              "title": "Characteristic polynomial"
+            },
+            {
+              "ns": 0,
+              "title": "Charybdis"
+            },
+            {
+              "ns": 0,
+              "title": "Chasles' theorem (kinematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Circular motion"
+            },
+            {
+              "ns": 0,
+              "title": "Clockwise"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation of angular momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Cricket (sport)"
+            },
+            {
+              "ns": 0,
+              "title": "Cue sports techniques"
+            },
+            {
+              "ns": 0,
+              "title": "Curve ball"
+            },
+            {
+              "ns": 0,
+              "title": "Cut-the-knot"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclone"
+            },
+            {
+              "ns": 0,
+              "title": "Displacement (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Diving (sport)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Doppler shift"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf planet"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's orbit"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenvalue"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenvalues and eigenvectors"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenvector"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopedia of Mathematics"
+            },
+            {
+              "ns": 0,
+              "title": "Equator"
+            },
+            {
+              "ns": 0,
+              "title": "Equatorial bulge"
+            },
+            {
+              "ns": 0,
+              "title": "Euler's rotation theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Euler angle"
+            },
+            {
+              "ns": 0,
+              "title": "Euler angles"
+            },
+            {
+              "ns": 0,
+              "title": "European Mathematical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Ferris wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Figure skating"
+            },
+            {
+              "ns": 0,
+              "title": "Fletching"
+            },
+            {
+              "ns": 0,
+              "title": "Flight dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Flip (acrobatic)"
+            },
+            {
+              "ns": 0,
+              "title": "Flying disc"
+            },
+            {
+              "ns": 0,
+              "title": "Football"
+            },
+            {
+              "ns": 0,
+              "title": "Four dimensional space"
+            },
+            {
+              "ns": 0,
+              "title": "Frame of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxial center"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Geographical pole"
+            },
+            {
+              "ns": 0,
+              "title": "Gimbal"
+            },
+            {
+              "ns": 0,
+              "title": "Gimbal lock"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Group (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Gymnastics"
+            },
+            {
+              "ns": 0,
+              "title": "Gyroscope"
+            },
+            {
+              "ns": 0,
+              "title": "Hockey"
+            },
+            {
+              "ns": 0,
+              "title": "Hypervolume"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Instant centre of rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Integral over time"
+            },
+            {
+              "ns": 0,
+              "title": "Intersection (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Inverse element"
+            },
+            {
+              "ns": 0,
+              "title": "Joystick"
+            },
+            {
+              "ns": 0,
+              "title": "Line of nodes"
+            },
+            {
+              "ns": 0,
+              "title": "Long-exposure photography"
+            },
+            {
+              "ns": 0,
+              "title": "Mach's principle"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematics"
+            },
+            {
+              "ns": 0,
+              "title": "Moment of inertia"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron star"
+            },
+            {
+              "ns": 0,
+              "title": "Noether's theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Nutation"
+            },
+            {
+              "ns": 0,
+              "title": "Oblate spheroid"
+            },
+            {
+              "ns": 0,
+              "title": "Obliquity of the ecliptic"
+            },
+            {
+              "ns": 0,
+              "title": "Orbit"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital plane (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital pole"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital revolution"
+            },
+            {
+              "ns": 0,
+              "title": "Orientation (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Photosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Plane figure"
+            },
+            {
+              "ns": 0,
+              "title": "Plane of rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Planet"
+            },
+            {
+              "ns": 0,
+              "title": "Pluto"
+            },
+            {
+              "ns": 0,
+              "title": "Point reflection"
+            },
+            {
+              "ns": 0,
+              "title": "Precession"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic jets"
+            },
+            {
+              "ns": 0,
+              "title": "Retrograde motion"
+            },
+            {
+              "ns": 0,
+              "title": "Right-hand rule"
+            },
+            {
+              "ns": 0,
+              "title": "Rigid body"
+            },
+            {
+              "ns": 0,
+              "title": "Roll (gymnastics)"
+            },
+            {
+              "ns": 0,
+              "title": "Roller coaster inversion"
+            },
+            {
+              "ns": 0,
+              "title": "Rolling"
+            },
+            {
+              "ns": 0,
+              "title": "Rotate (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Rotating locomotion in living systems"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation (aviation)"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation (quantity)"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation around a fixed axis"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation formalisms in three dimensions"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation group SO(3)"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation matrix"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation period"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation plane"
+            },
+            {
+              "ns": 0,
+              "title": "Rotation vector"
+            },
+            {
+              "ns": 0,
+              "title": "Rotational invariance"
+            },
+            {
+              "ns": 0,
+              "title": "Rotations in 4-dimensional Euclidean space"
+            },
+            {
+              "ns": 0,
+              "title": "Rotations in two dimensions"
+            },
+            {
+              "ns": 0,
+              "title": "Screw"
+            },
+            {
+              "ns": 0,
+              "title": "Snowboarding"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solid figure"
+            },
+            {
+              "ns": 0,
+              "title": "Somersault"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Spin bowling"
+            },
+            {
+              "ns": 0,
+              "title": "Spin move (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Spinning top"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star trail"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Sufi whirling"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Sunspots"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Table tennis"
+            },
+            {
+              "ns": 0,
+              "title": "Tennis"
+            },
+            {
+              "ns": 0,
+              "title": "Tidal locking"
+            },
+            {
+              "ns": 0,
+              "title": "Topspin"
+            },
+            {
+              "ns": 0,
+              "title": "Torque"
+            },
+            {
+              "ns": 0,
+              "title": "Translation (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Turn (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Uranus"
+            },
+            {
+              "ns": 0,
+              "title": "Venus"
+            },
+            {
+              "ns": 0,
+              "title": "Volumes"
+            },
+            {
+              "ns": 0,
+              "title": "Vortex"
+            },
+            {
+              "ns": 0,
+              "title": "Waterskiing"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfram Demonstrations Project"
+            },
+            {
+              "ns": 0,
+              "title": "Yaw, pitch, and roll"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329139.780863
+}

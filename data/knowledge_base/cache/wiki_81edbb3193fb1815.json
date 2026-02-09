@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "22194|0|Virtual_machine",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "22194": {
+          "pageid": 22194,
+          "ns": 0,
+          "title": "Operating system",
+          "links": [
+            {
+              "ns": 0,
+              "title": "80286"
+            },
+            {
+              "ns": 0,
+              "title": "ACM Computing Classification System"
+            },
+            {
+              "ns": 0,
+              "title": "ACM SIGARCH"
+            },
+            {
+              "ns": 0,
+              "title": "API"
+            },
+            {
+              "ns": 0,
+              "title": "AT&T"
+            },
+            {
+              "ns": 0,
+              "title": "Abort (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Abstraction"
+            },
+            {
+              "ns": 0,
+              "title": "Abstraction layer"
+            },
+            {
+              "ns": 0,
+              "title": "Access-control list"
+            },
+            {
+              "ns": 0,
+              "title": "Address space layout randomization"
+            },
+            {
+              "ns": 0,
+              "title": "Algorithm"
+            },
+            {
+              "ns": 0,
+              "title": "Algorithm design"
+            },
+            {
+              "ns": 0,
+              "title": "Algorithmic efficiency"
+            },
+            {
+              "ns": 0,
+              "title": "Amortization (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Analysis of algorithms"
+            },
+            {
+              "ns": 0,
+              "title": "Andrew S. Tanenbaum"
+            },
+            {
+              "ns": 0,
+              "title": "Android (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Android Automotive"
+            },
+            {
+              "ns": 0,
+              "title": "Apple Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Application programming interface"
+            },
+            {
+              "ns": 0,
+              "title": "Application security"
+            },
+            {
+              "ns": 0,
+              "title": "Application software"
+            },
+            {
+              "ns": 0,
+              "title": "Artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Assembly language"
+            },
+            {
+              "ns": 0,
+              "title": "Associative array"
+            },
+            {
+              "ns": 0,
+              "title": "Attack surface"
+            },
+            {
+              "ns": 0,
+              "title": "Augmented reality"
+            },
+            {
+              "ns": 0,
+              "title": "Automata theory"
+            },
+            {
+              "ns": 0,
+              "title": "Automated planning and scheduling"
+            },
+            {
+              "ns": 0,
+              "title": "Avionics"
+            },
+            {
+              "ns": 0,
+              "title": "BSD"
+            },
+            {
+              "ns": 0,
+              "title": "Backdoor (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Berkeley Software Distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Bionic (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Bitmap"
+            },
+            {
+              "ns": 0,
+              "title": "BlackBerry OS"
+            },
+            {
+              "ns": 0,
+              "title": "Booting"
+            },
+            {
+              "ns": 0,
+              "title": "Bounds checking"
+            },
+            {
+              "ns": 0,
+              "title": "Buffer overflow"
+            },
+            {
+              "ns": 0,
+              "title": "Bus error"
+            },
+            {
+              "ns": 0,
+              "title": "Busy waiting"
+            },
+            {
+              "ns": 0,
+              "title": "C++"
+            },
+            {
+              "ns": 0,
+              "title": "CIA triad"
+            },
+            {
+              "ns": 0,
+              "title": "CP/M"
+            },
+            {
+              "ns": 0,
+              "title": "CPU cache"
+            },
+            {
+              "ns": 0,
+              "title": "C (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Cache (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Call stack"
+            },
+            {
+              "ns": 0,
+              "title": "Central processing unit"
+            },
+            {
+              "ns": 0,
+              "title": "Channel I/O"
+            },
+            {
+              "ns": 0,
+              "title": "Checksums"
+            },
+            {
+              "ns": 0,
+              "title": "Cloud computing"
+            },
+            {
+              "ns": 0,
+              "title": "Cluster computer"
+            },
+            {
+              "ns": 0,
+              "title": "Code review"
+            },
+            {
+              "ns": 0,
+              "title": "Command-line interface"
+            },
+            {
+              "ns": 0,
+              "title": "Command line"
+            },
+            {
+              "ns": 0,
+              "title": "Communication protocol"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of user features of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "Compiler construction"
+            },
+            {
+              "ns": 0,
+              "title": "Computability theory"
+            },
+            {
+              "ns": 0,
+              "title": "Computational biology"
+            },
+            {
+              "ns": 0,
+              "title": "Computational chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Computational complexity"
+            },
+            {
+              "ns": 0,
+              "title": "Computational complexity theory"
+            },
+            {
+              "ns": 0,
+              "title": "Computational engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Computational geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Computational mathematics"
+            },
+            {
+              "ns": 0,
+              "title": "Computational physics"
+            },
+            {
+              "ns": 0,
+              "title": "Computational problem"
+            },
+            {
+              "ns": 0,
+              "title": "Computational social science"
+            },
+            {
+              "ns": 0,
+              "title": "Computer accessibility"
+            },
+            {
+              "ns": 0,
+              "title": "Computer animation"
+            },
+            {
+              "ns": 0,
+              "title": "Computer architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Computer data storage"
+            },
+            {
+              "ns": 0,
+              "title": "Computer graphics"
+            },
+            {
+              "ns": 0,
+              "title": "Computer hardware"
+            },
+            {
+              "ns": 0,
+              "title": "Computer memory"
+            },
+            {
+              "ns": 0,
+              "title": "Computer mouse"
+            },
+            {
+              "ns": 0,
+              "title": "Computer multitasking"
+            },
+            {
+              "ns": 0,
+              "title": "Computer network"
+            },
+            {
+              "ns": 0,
+              "title": "Computer program"
+            },
+            {
+              "ns": 0,
+              "title": "Computer science"
+            },
+            {
+              "ns": 0,
+              "title": "Computer security"
+            },
+            {
+              "ns": 0,
+              "title": "Computer terminal"
+            },
+            {
+              "ns": 0,
+              "title": "Computer vision"
+            },
+            {
+              "ns": 0,
+              "title": "Computing"
+            },
+            {
+              "ns": 0,
+              "title": "Computing platform"
+            },
+            {
+              "ns": 0,
+              "title": "Concurrency (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Concurrent computing"
+            },
+            {
+              "ns": 0,
+              "title": "Context switch"
+            },
+            {
+              "ns": 0,
+              "title": "Control-C"
+            },
+            {
+              "ns": 0,
+              "title": "Control-flow integrity"
+            },
+            {
+              "ns": 0,
+              "title": "Control flow"
+            },
+            {
+              "ns": 0,
+              "title": "Control theory"
+            },
+            {
+              "ns": 0,
+              "title": "Cooperative multitasking"
+            },
+            {
+              "ns": 0,
+              "title": "Crash (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Cross-validation (statistics)"
+            },
+            {
+              "ns": 0,
+              "title": "Cryptography"
+            },
+            {
+              "ns": 0,
+              "title": "Cursor (user interface)"
+            },
+            {
+              "ns": 0,
+              "title": "Cyber-physical system"
+            },
+            {
+              "ns": 0,
+              "title": "Cyberwarfare"
+            },
+            {
+              "ns": 0,
+              "title": "DBOS"
+            },
+            {
+              "ns": 0,
+              "title": "Daemon (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Data block"
+            },
+            {
+              "ns": 0,
+              "title": "Data center"
+            },
+            {
+              "ns": 0,
+              "title": "Data corruption"
+            },
+            {
+              "ns": 0,
+              "title": "Data mining"
+            },
+            {
+              "ns": 0,
+              "title": "Database"
+            },
+            {
+              "ns": 0,
+              "title": "Database index"
+            },
+            {
+              "ns": 0,
+              "title": "Decision support system"
+            },
+            {
+              "ns": 0,
+              "title": "Defragmentation"
+            },
+            {
+              "ns": 0,
+              "title": "Demand paging"
+            },
+            {
+              "ns": 0,
+              "title": "Denial of service attack"
+            },
+            {
+              "ns": 0,
+              "title": "Dependability"
+            },
+            {
+              "ns": 0,
+              "title": "Device driver"
+            },
+            {
+              "ns": 0,
+              "title": "Device drivers"
+            },
+            {
+              "ns": 0,
+              "title": "Device file"
+            },
+            {
+              "ns": 0,
+              "title": "Digital Equipment Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Digital art"
+            },
+            {
+              "ns": 0,
+              "title": "Digital library"
+            },
+            {
+              "ns": 0,
+              "title": "Digital marketing"
+            },
+            {
+              "ns": 0,
+              "title": "Direct memory access"
+            },
+            {
+              "ns": 0,
+              "title": "Directory (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Discrete mathematics"
+            },
+            {
+              "ns": 0,
+              "title": "Disk Operating System"
+            },
+            {
+              "ns": 0,
+              "title": "Disk operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Disk partitioning"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed computing"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed memory"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed shared memory"
+            },
+            {
+              "ns": 0,
+              "title": "Distributed system"
+            },
+            {
+              "ns": 0,
+              "title": "Division by zero"
+            },
+            {
+              "ns": 0,
+              "title": "Document management system"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Domain-specific language"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic device"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic random-access memory"
+            },
+            {
+              "ns": 0,
+              "title": "E-commerce"
+            },
+            {
+              "ns": 0,
+              "title": "ECos"
+            },
+            {
+              "ns": 0,
+              "title": "Educational technology"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic design automation"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic publishing"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic voting"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded system"
+            },
+            {
+              "ns": 0,
+              "title": "Energy efficiency in operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "Enterprise information system"
+            },
+            {
+              "ns": 0,
+              "title": "Enterprise server"
+            },
+            {
+              "ns": 0,
+              "title": "Enterprise software"
+            },
+            {
+              "ns": 0,
+              "title": "Enterprise system"
+            },
+            {
+              "ns": 0,
+              "title": "Event (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Exception handling"
+            },
+            {
+              "ns": 0,
+              "title": "Exokernel"
+            },
+            {
+              "ns": 0,
+              "title": "Fault tolerance"
+            },
+            {
+              "ns": 0,
+              "title": "File attribute"
+            },
+            {
+              "ns": 0,
+              "title": "File path"
+            },
+            {
+              "ns": 0,
+              "title": "File system"
+            },
+            {
+              "ns": 0,
+              "title": "File system fragmentation"
+            },
+            {
+              "ns": 0,
+              "title": "Filenames"
+            },
+            {
+              "ns": 0,
+              "title": "Fixed-priority pre-emptive scheduling"
+            },
+            {
+              "ns": 0,
+              "title": "Flash memory"
+            },
+            {
+              "ns": 0,
+              "title": "Forensic software engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Form factor (design)"
+            },
+            {
+              "ns": 0,
+              "title": "Formal language"
+            },
+            {
+              "ns": 0,
+              "title": "Formal methods"
+            },
+            {
+              "ns": 0,
+              "title": "Formal verification"
+            },
+            {
+              "ns": 0,
+              "title": "Fortran Monitor System"
+            },
+            {
+              "ns": 0,
+              "title": "Free software"
+            },
+            {
+              "ns": 0,
+              "title": "GNU General Public License"
+            },
+            {
+              "ns": 0,
+              "title": "General protection fault"
+            },
+            {
+              "ns": 0,
+              "title": "Geographic information system"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of operating systems terms"
+            },
+            {
+              "ns": 0,
+              "title": "Graphical user interface"
+            },
+            {
+              "ns": 0,
+              "title": "Graphics processing unit"
+            },
+            {
+              "ns": 0,
+              "title": "Green computing"
+            },
+            {
+              "ns": 0,
+              "title": "Hard disk drive"
+            },
+            {
+              "ns": 0,
+              "title": "Hard drive"
+            },
+            {
+              "ns": 0,
+              "title": "Hardening (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Hardware abstraction"
+            },
+            {
+              "ns": 0,
+              "title": "Hardware acceleration"
+            },
+            {
+              "ns": 0,
+              "title": "Hardware security"
+            },
+            {
+              "ns": 0,
+              "title": "Health informatics"
+            },
+            {
+              "ns": 0,
+              "title": "Heap memory"
+            },
+            {
+              "ns": 0,
+              "title": "Hexadecimal"
+            },
+            {
+              "ns": 0,
+              "title": "History of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "Hobbyist operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Home appliance"
+            },
+            {
+              "ns": 0,
+              "title": "Homebrew Computer Club"
+            },
+            {
+              "ns": 0,
+              "title": "Human-centered computing"
+            },
+            {
+              "ns": 0,
+              "title": "Human–computer interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Hybrid kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Hypervisor"
+            },
+            {
+              "ns": 0,
+              "title": "IBM"
+            },
+            {
+              "ns": 0,
+              "title": "IBM PC DOS"
+            },
+            {
+              "ns": 0,
+              "title": "IBM PC compatible"
+            },
+            {
+              "ns": 0,
+              "title": "IBSYS"
+            },
+            {
+              "ns": 0,
+              "title": "IEEE"
+            },
+            {
+              "ns": 0,
+              "title": "INT (x86 instruction)"
+            },
+            {
+              "ns": 0,
+              "title": "IOS"
+            },
+            {
+              "ns": 0,
+              "title": "IPadOS"
+            },
+            {
+              "ns": 0,
+              "title": "IPhone"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Image compression"
+            },
+            {
+              "ns": 0,
+              "title": "Industrial process control"
+            },
+            {
+              "ns": 0,
+              "title": "Information retrieval"
+            },
+            {
+              "ns": 0,
+              "title": "Information security"
+            },
+            {
+              "ns": 0,
+              "title": "Information system"
+            },
+            {
+              "ns": 0,
+              "title": "Information theory"
+            },
+            {
+              "ns": 0,
+              "title": "Inline expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Inode"
+            },
+            {
+              "ns": 0,
+              "title": "Input/output"
+            },
+            {
+              "ns": 0,
+              "title": "Input and output"
+            },
+            {
+              "ns": 0,
+              "title": "Institution of Engineering and Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Instruction pipelining"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated development environment"
+            },
+            {
+              "ns": 0,
+              "title": "Intel"
+            },
+            {
+              "ns": 0,
+              "title": "Intel Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Inter-process communication"
+            },
+            {
+              "ns": 0,
+              "title": "Interaction design"
+            },
+            {
+              "ns": 0,
+              "title": "Internet of things"
+            },
+            {
+              "ns": 0,
+              "title": "Interpreter (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupt"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupt handler"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupt request (PC architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupt vector table"
+            },
+            {
+              "ns": 0,
+              "title": "Interruptible operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Intrusion detection system"
+            },
+            {
+              "ns": 0,
+              "title": "Java (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Java (software platform)"
+            },
+            {
+              "ns": 0,
+              "title": "John Wiley & Sons"
+            },
+            {
+              "ns": 0,
+              "title": "Journaling file system"
+            },
+            {
+              "ns": 0,
+              "title": "Just enough operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Kernel (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Keyboard technology"
+            },
+            {
+              "ns": 0,
+              "title": "Kilobytes"
+            },
+            {
+              "ns": 0,
+              "title": "Knowledge representation and reasoning"
+            },
+            {
+              "ns": 0,
+              "title": "Large scale integration"
+            },
+            {
+              "ns": 0,
+              "title": "Legal settlement"
+            },
+            {
+              "ns": 0,
+              "title": "Library (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Light-weight Linux distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Linux distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Linux kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Lisp machine"
+            },
+            {
+              "ns": 0,
+              "title": "List of computer size categories"
+            },
+            {
+              "ns": 0,
+              "title": "List of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "List of pioneers in computer science"
+            },
+            {
+              "ns": 0,
+              "title": "Live CD"
+            },
+            {
+              "ns": 0,
+              "title": "Live USB"
+            },
+            {
+              "ns": 0,
+              "title": "Loadable kernel module"
+            },
+            {
+              "ns": 0,
+              "title": "Logic in computer science"
+            },
+            {
+              "ns": 0,
+              "title": "MINIX"
+            },
+            {
+              "ns": 0,
+              "title": "MOS Technology 6502"
+            },
+            {
+              "ns": 0,
+              "title": "MS-DOS"
+            },
+            {
+              "ns": 0,
+              "title": "MULTICS"
+            },
+            {
+              "ns": 0,
+              "title": "MacOS"
+            },
+            {
+              "ns": 0,
+              "title": "Machine code"
+            },
+            {
+              "ns": 0,
+              "title": "Machine learning"
+            },
+            {
+              "ns": 0,
+              "title": "Macintosh"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic disk"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic tape"
+            },
+            {
+              "ns": 0,
+              "title": "Mainframe"
+            },
+            {
+              "ns": 0,
+              "title": "Malicious software"
+            },
+            {
+              "ns": 0,
+              "title": "Manufacturing"
+            },
+            {
+              "ns": 0,
+              "title": "Map (data structure)"
+            },
+            {
+              "ns": 0,
+              "title": "Market share"
+            },
+            {
+              "ns": 0,
+              "title": "Mass storage"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical optimization"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical software"
+            },
+            {
+              "ns": 0,
+              "title": "Medical devices"
+            },
+            {
+              "ns": 0,
+              "title": "Megabytes"
+            },
+            {
+              "ns": 0,
+              "title": "Memory (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Memory address"
+            },
+            {
+              "ns": 0,
+              "title": "Memory allocation"
+            },
+            {
+              "ns": 0,
+              "title": "Memory management"
+            },
+            {
+              "ns": 0,
+              "title": "Memory management (operating systems)"
+            },
+            {
+              "ns": 0,
+              "title": "Memory paging"
+            },
+            {
+              "ns": 0,
+              "title": "Memory protection"
+            },
+            {
+              "ns": 0,
+              "title": "Memory segmentation"
+            },
+            {
+              "ns": 0,
+              "title": "Metadata"
+            },
+            {
+              "ns": 0,
+              "title": "Microchips"
+            },
+            {
+              "ns": 0,
+              "title": "Microcomputer"
+            },
+            {
+              "ns": 0,
+              "title": "Microcontroller"
+            },
+            {
+              "ns": 0,
+              "title": "Microkernel"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Windows"
+            },
+            {
+              "ns": 0,
+              "title": "Middleware"
+            },
+            {
+              "ns": 0,
+              "title": "Mnemonic"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile computing"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile device"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Model of computation"
+            },
+            {
+              "ns": 0,
+              "title": "Modeling language"
+            },
+            {
+              "ns": 0,
+              "title": "Monolithic kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Motherboard"
+            },
+            {
+              "ns": 0,
+              "title": "Mouse (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Multi-task learning"
+            },
+            {
+              "ns": 0,
+              "title": "Multicomputer"
+            },
+            {
+              "ns": 0,
+              "title": "Multikernel"
+            },
+            {
+              "ns": 0,
+              "title": "Multilevel feedback queue"
+            },
+            {
+              "ns": 0,
+              "title": "Multimedia database"
+            },
+            {
+              "ns": 0,
+              "title": "Multiprocessing"
+            },
+            {
+              "ns": 0,
+              "title": "Multiprocessor"
+            },
+            {
+              "ns": 0,
+              "title": "Multiprogramming"
+            },
+            {
+              "ns": 0,
+              "title": "Multiqueue"
+            },
+            {
+              "ns": 0,
+              "title": "Multithreading (computer architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Multiuser"
+            },
+            {
+              "ns": 0,
+              "title": "NTFS"
+            },
+            {
+              "ns": 0,
+              "title": "Natural language processing"
+            },
+            {
+              "ns": 0,
+              "title": "Network architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Network operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Network packet"
+            },
+            {
+              "ns": 0,
+              "title": "Network performance"
+            },
+            {
+              "ns": 0,
+              "title": "Network scheduler"
+            },
+            {
+              "ns": 0,
+              "title": "Network security"
+            },
+            {
+              "ns": 0,
+              "title": "Network service"
+            },
+            {
+              "ns": 0,
+              "title": "Network stack"
+            },
+            {
+              "ns": 0,
+              "title": "Networking hardware"
+            },
+            {
+              "ns": 0,
+              "title": "Non-volatile memory"
+            },
+            {
+              "ns": 0,
+              "title": "Numerical analysis"
+            },
+            {
+              "ns": 0,
+              "title": "OEM"
+            },
+            {
+              "ns": 0,
+              "title": "OS/360"
+            },
+            {
+              "ns": 0,
+              "title": "OS/360 and successors"
+            },
+            {
+              "ns": 0,
+              "title": "Object-oriented design"
+            },
+            {
+              "ns": 0,
+              "title": "Object-oriented operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Object Manager (Windows)"
+            },
+            {
+              "ns": 0,
+              "title": "Open-source software"
+            },
+            {
+              "ns": 0,
+              "title": "Operating System Projects"
+            },
+            {
+              "ns": 0,
+              "title": "Operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Operating system abstraction layer"
+            },
+            {
+              "ns": 0,
+              "title": "Operations research"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of computer science"
+            },
+            {
+              "ns": 0,
+              "title": "POSIX"
+            },
+            {
+              "ns": 0,
+              "title": "Page fault"
+            },
+            {
+              "ns": 0,
+              "title": "Paging"
+            },
+            {
+              "ns": 0,
+              "title": "Parallel computing"
+            },
+            {
+              "ns": 0,
+              "title": "Peripheral"
+            },
+            {
+              "ns": 0,
+              "title": "Personal computer"
+            },
+            {
+              "ns": 0,
+              "title": "Philosophy of artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Photograph manipulation"
+            },
+            {
+              "ns": 0,
+              "title": "Plugboard"
+            },
+            {
+              "ns": 0,
+              "title": "Polling (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Ported"
+            },
+            {
+              "ns": 0,
+              "title": "Power failure"
+            },
+            {
+              "ns": 0,
+              "title": "Preboot Execution Environment"
+            },
+            {
+              "ns": 0,
+              "title": "Preemption (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Preemptive multitasking"
+            },
+            {
+              "ns": 0,
+              "title": "Prefetching"
+            },
+            {
+              "ns": 0,
+              "title": "Prentice Hall"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of least authority"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Priority queue"
+            },
+            {
+              "ns": 0,
+              "title": "Privilege (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Privilege separation"
+            },
+            {
+              "ns": 0,
+              "title": "Probability"
+            },
+            {
+              "ns": 0,
+              "title": "Procedural programming"
+            },
+            {
+              "ns": 0,
+              "title": "Process (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Process control block"
+            },
+            {
+              "ns": 0,
+              "title": "Process identifier"
+            },
+            {
+              "ns": 0,
+              "title": "Process management (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Processor (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Processor register"
+            },
+            {
+              "ns": 0,
+              "title": "Program counter"
+            },
+            {
+              "ns": 0,
+              "title": "Programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Programming language theory"
+            },
+            {
+              "ns": 0,
+              "title": "Programming paradigm"
+            },
+            {
+              "ns": 0,
+              "title": "Programming team"
+            },
+            {
+              "ns": 0,
+              "title": "Programming tool"
+            },
+            {
+              "ns": 0,
+              "title": "Proprietary"
+            },
+            {
+              "ns": 0,
+              "title": "Protected mode"
+            },
+            {
+              "ns": 0,
+              "title": "Protection ring"
+            },
+            {
+              "ns": 0,
+              "title": "Punch card"
+            },
+            {
+              "ns": 0,
+              "title": "QNX"
+            },
+            {
+              "ns": 0,
+              "title": "Qt (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum computing"
+            },
+            {
+              "ns": 0,
+              "title": "RAM"
+            },
+            {
+              "ns": 0,
+              "title": "RIOT (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Random-access memory"
+            },
+            {
+              "ns": 0,
+              "title": "Randomized algorithm"
+            },
+            {
+              "ns": 0,
+              "title": "Readers–writers problem"
+            },
+            {
+              "ns": 0,
+              "title": "Real-time computing"
+            },
+            {
+              "ns": 0,
+              "title": "Real-time operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Record (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Redundant array of inexpensive disks"
+            },
+            {
+              "ns": 0,
+              "title": "Reinforcement learning"
+            },
+            {
+              "ns": 0,
+              "title": "Remote direct memory access"
+            },
+            {
+              "ns": 0,
+              "title": "Remote procedure call"
+            },
+            {
+              "ns": 0,
+              "title": "Rendering (computer graphics)"
+            },
+            {
+              "ns": 0,
+              "title": "Requirements analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Root directory"
+            },
+            {
+              "ns": 0,
+              "title": "Round-robin scheduling"
+            },
+            {
+              "ns": 0,
+              "title": "Rump kernel"
+            },
+            {
+              "ns": 0,
+              "title": "SCSI RDMA Protocol"
+            },
+            {
+              "ns": 0,
+              "title": "SIGBUS"
+            },
+            {
+              "ns": 0,
+              "title": "SIGSEGV"
+            },
+            {
+              "ns": 0,
+              "title": "Safety integrity level"
+            },
+            {
+              "ns": 0,
+              "title": "Scheduler (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Scheduling (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Security-focused operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Security by obscurity"
+            },
+            {
+              "ns": 0,
+              "title": "Security domain"
+            },
+            {
+              "ns": 0,
+              "title": "Security hacker"
+            },
+            {
+              "ns": 0,
+              "title": "Security service (telecommunication)"
+            },
+            {
+              "ns": 0,
+              "title": "Segmentation fault"
+            },
+            {
+              "ns": 0,
+              "title": "Segmentation violation"
+            },
+            {
+              "ns": 0,
+              "title": "Semantics (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Shell (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Shortest job next"
+            },
+            {
+              "ns": 0,
+              "title": "Signal (IPC)"
+            },
+            {
+              "ns": 0,
+              "title": "Single-board computer"
+            },
+            {
+              "ns": 0,
+              "title": "Single address space operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Smart cards"
+            },
+            {
+              "ns": 0,
+              "title": "Smart watch"
+            },
+            {
+              "ns": 0,
+              "title": "Smartphone"
+            },
+            {
+              "ns": 0,
+              "title": "Smartphones"
+            },
+            {
+              "ns": 0,
+              "title": "Social computing"
+            },
+            {
+              "ns": 0,
+              "title": "Social software"
+            },
+            {
+              "ns": 0,
+              "title": "Software"
+            },
+            {
+              "ns": 0,
+              "title": "Software bug"
+            },
+            {
+              "ns": 0,
+              "title": "Software configuration management"
+            },
+            {
+              "ns": 0,
+              "title": "Software construction"
+            },
+            {
+              "ns": 0,
+              "title": "Software deployment"
+            },
+            {
+              "ns": 0,
+              "title": "Software design"
+            },
+            {
+              "ns": 0,
+              "title": "Software development"
+            },
+            {
+              "ns": 0,
+              "title": "Software development process"
+            },
+            {
+              "ns": 0,
+              "title": "Software engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Software framework"
+            },
+            {
+              "ns": 0,
+              "title": "Software maintenance"
+            },
+            {
+              "ns": 0,
+              "title": "Software platform"
+            },
+            {
+              "ns": 0,
+              "title": "Software quality"
+            },
+            {
+              "ns": 0,
+              "title": "Software repository"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state drive"
+            },
+            {
+              "ns": 0,
+              "title": "Solid modeling"
+            },
+            {
+              "ns": 0,
+              "title": "Source code"
+            },
+            {
+              "ns": 0,
+              "title": "Speculative execution CPU vulnerabilities"
+            },
+            {
+              "ns": 0,
+              "title": "Stack-based memory allocation"
+            },
+            {
+              "ns": 0,
+              "title": "Statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Status register"
+            },
+            {
+              "ns": 0,
+              "title": "Stochastic computing"
+            },
+            {
+              "ns": 0,
+              "title": "Subdirectories"
+            },
+            {
+              "ns": 0,
+              "title": "Supercomputer"
+            },
+            {
+              "ns": 0,
+              "title": "Supercomputer operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Supervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "Supervisor mode"
+            },
+            {
+              "ns": 0,
+              "title": "Syllable Desktop"
+            },
+            {
+              "ns": 0,
+              "title": "Symbian OS"
+            },
+            {
+              "ns": 0,
+              "title": "System/360"
+            },
+            {
+              "ns": 0,
+              "title": "System Commander"
+            },
+            {
+              "ns": 0,
+              "title": "System V"
+            },
+            {
+              "ns": 0,
+              "title": "System call"
+            },
+            {
+              "ns": 0,
+              "title": "System image"
+            },
+            {
+              "ns": 0,
+              "title": "System library"
+            },
+            {
+              "ns": 0,
+              "title": "System on a chip"
+            },
+            {
+              "ns": 0,
+              "title": "System resource"
+            },
+            {
+              "ns": 0,
+              "title": "System software"
+            },
+            {
+              "ns": 0,
+              "title": "System utilities"
+            },
+            {
+              "ns": 0,
+              "title": "TCP/IP"
+            },
+            {
+              "ns": 0,
+              "title": "Tablet computer"
+            },
+            {
+              "ns": 0,
+              "title": "Teleprinter"
+            },
+            {
+              "ns": 0,
+              "title": "TempleOS"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical computer science"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of computation"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic computing"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas E. Anderson"
+            },
+            {
+              "ns": 0,
+              "title": "Thread (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Thread control block"
+            },
+            {
+              "ns": 0,
+              "title": "Time-sharing"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "TinyOS"
+            },
+            {
+              "ns": 0,
+              "title": "Touchscreen"
+            },
+            {
+              "ns": 0,
+              "title": "Trackpad"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Tree (data structure)"
+            },
+            {
+              "ns": 0,
+              "title": "Type checking"
+            },
+            {
+              "ns": 0,
+              "title": "UNIX"
+            },
+            {
+              "ns": 0,
+              "title": "UNIX System V"
+            },
+            {
+              "ns": 0,
+              "title": "USB flash drive"
+            },
+            {
+              "ns": 0,
+              "title": "USENIX"
+            },
+            {
+              "ns": 0,
+              "title": "Ubiquitous computing"
+            },
+            {
+              "ns": 0,
+              "title": "Unikernel"
+            },
+            {
+              "ns": 0,
+              "title": "University of California"
+            },
+            {
+              "ns": 0,
+              "title": "Unix-like"
+            },
+            {
+              "ns": 0,
+              "title": "Unsupervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "Usage share of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "User (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "User friendly"
+            },
+            {
+              "ns": 0,
+              "title": "User interface"
+            },
+            {
+              "ns": 0,
+              "title": "User mode"
+            },
+            {
+              "ns": 0,
+              "title": "User space and kernel space"
+            },
+            {
+              "ns": 0,
+              "title": "VAX VMS"
+            },
+            {
+              "ns": 0,
+              "title": "Very-large-scale integration"
+            },
+            {
+              "ns": 0,
+              "title": "Video game"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual file system"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770576574.553983
+}

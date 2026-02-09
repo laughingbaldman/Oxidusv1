@@ -1,0 +1,769 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "57307464": {
+          "pageid": 57307464,
+          "ns": 0,
+          "title": "Word processor",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1st Word"
+            },
+            {
+              "ns": 0,
+              "title": "AbiWord"
+            },
+            {
+              "ns": 0,
+              "title": "Ability Write"
+            },
+            {
+              "ns": 0,
+              "title": "Adobe Document Cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Adobe InCopy"
+            },
+            {
+              "ns": 0,
+              "title": "AlphaSmart"
+            },
+            {
+              "ns": 0,
+              "title": "Ami Pro"
+            },
+            {
+              "ns": 0,
+              "title": "Apache OpenOffice"
+            },
+            {
+              "ns": 0,
+              "title": "Apache OpenOffice Writer"
+            },
+            {
+              "ns": 0,
+              "title": "AppleWorks"
+            },
+            {
+              "ns": 0,
+              "title": "Apple Writer"
+            },
+            {
+              "ns": 0,
+              "title": "Apple computer"
+            },
+            {
+              "ns": 0,
+              "title": "AtariWriter"
+            },
+            {
+              "ns": 0,
+              "title": "Atari Word Processor"
+            },
+            {
+              "ns": 0,
+              "title": "Atlantis Word Processor"
+            },
+            {
+              "ns": 0,
+              "title": "BASIC"
+            },
+            {
+              "ns": 0,
+              "title": "Bank Street Writer"
+            },
+            {
+              "ns": 0,
+              "title": "Bean (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bitmap font"
+            },
+            {
+              "ns": 0,
+              "title": "Booting"
+            },
+            {
+              "ns": 0,
+              "title": "Bravo (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Buzz word"
+            },
+            {
+              "ns": 0,
+              "title": "CP/M"
+            },
+            {
+              "ns": 0,
+              "title": "CPT Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "CRT screen"
+            },
+            {
+              "ns": 0,
+              "title": "Calculator"
+            },
+            {
+              "ns": 0,
+              "title": "Calligra Words"
+            },
+            {
+              "ns": 0,
+              "title": "Canon Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Carlos Glidden"
+            },
+            {
+              "ns": 0,
+              "title": "Casio"
+            },
+            {
+              "ns": 0,
+              "title": "Charles Babbage Institute"
+            },
+            {
+              "ns": 0,
+              "title": "ChiWriter"
+            },
+            {
+              "ns": 0,
+              "title": "Christopher Latham Sholes"
+            },
+            {
+              "ns": 0,
+              "title": "Chromium (web browser)"
+            },
+            {
+              "ns": 0,
+              "title": "Collabora Online"
+            },
+            {
+              "ns": 0,
+              "title": "Collaborative real-time editor"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of early word processors"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of word processors"
+            },
+            {
+              "ns": 0,
+              "title": "Cut & Paste"
+            },
+            {
+              "ns": 0,
+              "title": "DBASE"
+            },
+            {
+              "ns": 0,
+              "title": "Davka"
+            },
+            {
+              "ns": 0,
+              "title": "Desktop publishing"
+            },
+            {
+              "ns": 0,
+              "title": "Dime (Japanese magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "DisplayWrite"
+            },
+            {
+              "ns": 0,
+              "title": "Docs (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "East Asian Gothic typeface"
+            },
+            {
+              "ns": 0,
+              "title": "EasyWriter"
+            },
+            {
+              "ns": 0,
+              "title": "Electric Pencil"
+            },
+            {
+              "ns": 0,
+              "title": "Emoji"
+            },
+            {
+              "ns": 0,
+              "title": "Evelyn Berezin"
+            },
+            {
+              "ns": 0,
+              "title": "Floppy disk"
+            },
+            {
+              "ns": 0,
+              "title": "Formatted text"
+            },
+            {
+              "ns": 0,
+              "title": "Friden Flexowriter"
+            },
+            {
+              "ns": 0,
+              "title": "Fujitsu"
+            },
+            {
+              "ns": 0,
+              "title": "Fujitsu OASYS"
+            },
+            {
+              "ns": 0,
+              "title": "Function key"
+            },
+            {
+              "ns": 0,
+              "title": "Furigana"
+            },
+            {
+              "ns": 0,
+              "title": "GNU TeXmacs"
+            },
+            {
+              "ns": 0,
+              "title": "Gaiji"
+            },
+            {
+              "ns": 0,
+              "title": "Go-oo"
+            },
+            {
+              "ns": 0,
+              "title": "Gojūon"
+            },
+            {
+              "ns": 0,
+              "title": "Google Docs"
+            },
+            {
+              "ns": 0,
+              "title": "Grey literature"
+            },
+            {
+              "ns": 0,
+              "title": "Gypsy (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Hangul (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Mill"
+            },
+            {
+              "ns": 0,
+              "title": "IBM DisplayWrite"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Displaywriter System"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Lotus Symphony"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Lotus Word Pro"
+            },
+            {
+              "ns": 0,
+              "title": "IBM MT/ST"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Personal Computer AT"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Selectric typewriter"
+            },
+            {
+              "ns": 0,
+              "title": "IDG"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ichitaro (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "InPage"
+            },
+            {
+              "ns": 0,
+              "title": "InfoWorld"
+            },
+            {
+              "ns": 0,
+              "title": "Ink ribbon"
+            },
+            {
+              "ns": 0,
+              "title": "Institute of Electrical and Electronics Engineers"
+            },
+            {
+              "ns": 0,
+              "title": "Internet"
+            },
+            {
+              "ns": 0,
+              "title": "JW-10"
+            },
+            {
+              "ns": 0,
+              "title": "JWPce"
+            },
+            {
+              "ns": 0,
+              "title": "Japanese asset price bubble"
+            },
+            {
+              "ns": 0,
+              "title": "Japanese input method"
+            },
+            {
+              "ns": 0,
+              "title": "Japanese typewriter"
+            },
+            {
+              "ns": 0,
+              "title": "Japanese writing system"
+            },
+            {
+              "ns": 0,
+              "title": "Jarte"
+            },
+            {
+              "ns": 0,
+              "title": "KWord"
+            },
+            {
+              "ns": 0,
+              "title": "Kanji"
+            },
+            {
+              "ns": 0,
+              "title": "Killer app"
+            },
+            {
+              "ns": 0,
+              "title": "King Jim"
+            },
+            {
+              "ns": 0,
+              "title": "Label printer"
+            },
+            {
+              "ns": 0,
+              "title": "Laser printing"
+            },
+            {
+              "ns": 0,
+              "title": "LibreOffice"
+            },
+            {
+              "ns": 0,
+              "title": "LibreOffice Writer"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid-crystal display"
+            },
+            {
+              "ns": 0,
+              "title": "List of word processors"
+            },
+            {
+              "ns": 0,
+              "title": "Lotus 1-2-3"
+            },
+            {
+              "ns": 0,
+              "title": "Lotus Manuscript"
+            },
+            {
+              "ns": 0,
+              "title": "LyX"
+            },
+            {
+              "ns": 0,
+              "title": "MacWrite"
+            },
+            {
+              "ns": 0,
+              "title": "Magic Desk"
+            },
+            {
+              "ns": 0,
+              "title": "Matsushita Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Mellel"
+            },
+            {
+              "ns": 0,
+              "title": "MicroPro International"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Windows"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Word"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Works"
+            },
+            {
+              "ns": 0,
+              "title": "Mimeograph"
+            },
+            {
+              "ns": 0,
+              "title": "Ming typefaces"
+            },
+            {
+              "ns": 0,
+              "title": "MultiMate"
+            },
+            {
+              "ns": 0,
+              "title": "NEC"
+            },
+            {
+              "ns": 0,
+              "title": "NHK"
+            },
+            {
+              "ns": 0,
+              "title": "NWP-20"
+            },
+            {
+              "ns": 0,
+              "title": "Nengajō"
+            },
+            {
+              "ns": 0,
+              "title": "NeoOffice"
+            },
+            {
+              "ns": 0,
+              "title": "Nisus Writer"
+            },
+            {
+              "ns": 0,
+              "title": "Nota Bene (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "OfficeSuite"
+            },
+            {
+              "ns": 0,
+              "title": "Oki Electric Industry"
+            },
+            {
+              "ns": 0,
+              "title": "Online auction"
+            },
+            {
+              "ns": 0,
+              "title": "OpenOffice.org"
+            },
+            {
+              "ns": 0,
+              "title": "Outline font"
+            },
+            {
+              "ns": 0,
+              "title": "PC World"
+            },
+            {
+              "ns": 0,
+              "title": "Pages (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "PaperClip"
+            },
+            {
+              "ns": 0,
+              "title": "Perfect Writer"
+            },
+            {
+              "ns": 0,
+              "title": "Personal computer"
+            },
+            {
+              "ns": 0,
+              "title": "Phototypesetting"
+            },
+            {
+              "ns": 0,
+              "title": "PolyEdit"
+            },
+            {
+              "ns": 0,
+              "title": "Pomera"
+            },
+            {
+              "ns": 0,
+              "title": "Postal codes in Japan"
+            },
+            {
+              "ns": 0,
+              "title": "Read-only memory"
+            },
+            {
+              "ns": 0,
+              "title": "Regular script"
+            },
+            {
+              "ns": 0,
+              "title": "Ruby character"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Samuel W. Soule"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific WorkPlace"
+            },
+            {
+              "ns": 0,
+              "title": "Scripsit"
+            },
+            {
+              "ns": 0,
+              "title": "Scrivener (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Seiko Epson"
+            },
+            {
+              "ns": 0,
+              "title": "Sharp Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Shogakukan"
+            },
+            {
+              "ns": 0,
+              "title": "Shoin (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "Shōwa era"
+            },
+            {
+              "ns": 0,
+              "title": "Smartphone"
+            },
+            {
+              "ns": 0,
+              "title": "Sony"
+            },
+            {
+              "ns": 0,
+              "title": "SpeedScript"
+            },
+            {
+              "ns": 0,
+              "title": "Sprint (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "StarOffice"
+            },
+            {
+              "ns": 0,
+              "title": "Ted (word processor)"
+            },
+            {
+              "ns": 0,
+              "title": "Tepra"
+            },
+            {
+              "ns": 0,
+              "title": "TextEdit"
+            },
+            {
+              "ns": 0,
+              "title": "TextMaker"
+            },
+            {
+              "ns": 0,
+              "title": "Text editor"
+            },
+            {
+              "ns": 0,
+              "title": "The First XLEnt Word Processor"
+            },
+            {
+              "ns": 0,
+              "title": "The Seattle Times"
+            },
+            {
+              "ns": 0,
+              "title": "Thumb-shift keyboard"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of electrical and electronic engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Toshiba"
+            },
+            {
+              "ns": 0,
+              "title": "Toshiba Science Institute"
+            },
+            {
+              "ns": 0,
+              "title": "TrueType"
+            },
+            {
+              "ns": 0,
+              "title": "Typographer (typewriter)"
+            },
+            {
+              "ns": 0,
+              "title": "USPTO"
+            },
+            {
+              "ns": 0,
+              "title": "Ulrich Steinhilper"
+            },
+            {
+              "ns": 0,
+              "title": "VisiCalc"
+            },
+            {
+              "ns": 0,
+              "title": "Volkswriter"
+            },
+            {
+              "ns": 0,
+              "title": "WPS Office"
+            },
+            {
+              "ns": 0,
+              "title": "WYSIWYG"
+            },
+            {
+              "ns": 0,
+              "title": "Wang Laboratories"
+            },
+            {
+              "ns": 0,
+              "title": "William Austin Burt"
+            },
+            {
+              "ns": 0,
+              "title": "WordGrinder"
+            },
+            {
+              "ns": 0,
+              "title": "WordPad"
+            },
+            {
+              "ns": 0,
+              "title": "WordPerfect"
+            },
+            {
+              "ns": 0,
+              "title": "WordStar"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor (electronic device)"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor program"
+            },
+            {
+              "ns": 0,
+              "title": "Xerox Alto"
+            },
+            {
+              "ns": 0,
+              "title": "Xerox PARC"
+            },
+            {
+              "ns": 0,
+              "title": "XyWrite"
+            },
+            {
+              "ns": 0,
+              "title": "Ziff Davis"
+            },
+            {
+              "ns": 0,
+              "title": "東芝"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330133.7716002
+}

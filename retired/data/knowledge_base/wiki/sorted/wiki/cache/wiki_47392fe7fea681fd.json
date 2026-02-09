@@ -1,0 +1,641 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "33691": {
+          "pageid": 33691,
+          "ns": 0,
+          "title": "Wave equation",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acoustic attenuation"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustic wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustics"
+            },
+            {
+              "ns": 0,
+              "title": "Advection equation"
+            },
+            {
+              "ns": 0,
+              "title": "Angular frequency"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bateman transform"
+            },
+            {
+              "ns": 0,
+              "title": "Bessel equation"
+            },
+            {
+              "ns": 0,
+              "title": "Bessel function"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boundary conditions"
+            },
+            {
+              "ns": 0,
+              "title": "Cartesian coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Chirp"
+            },
+            {
+              "ns": 0,
+              "title": "Classical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Coefficient"
+            },
+            {
+              "ns": 0,
+              "title": "Convolution"
+            },
+            {
+              "ns": 0,
+              "title": "D'Alembert's formula"
+            },
+            {
+              "ns": 0,
+              "title": "D'Alembert operator"
+            },
+            {
+              "ns": 0,
+              "title": "David Hilbert"
+            },
+            {
+              "ns": 0,
+              "title": "Deformation (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Delta function"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Differential operator"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Dirac delta function"
+            },
+            {
+              "ns": 0,
+              "title": "Dirac measure"
+            },
+            {
+              "ns": 0,
+              "title": "Directional derivative"
+            },
+            {
+              "ns": 0,
+              "title": "Dispersion (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Dispersion relation"
+            },
+            {
+              "ns": 0,
+              "title": "Displacement (vector)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Duhamel's principle"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenmode expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenmodes"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenvalue"
+            },
+            {
+              "ns": 0,
+              "title": "Eigenvalue equation"
+            },
+            {
+              "ns": 0,
+              "title": "Elastic (solid mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Elliptic partial differential equation"
+            },
+            {
+              "ns": 0,
+              "title": "Eric W. Weisstein"
+            },
+            {
+              "ns": 0,
+              "title": "Europhysics Letters"
+            },
+            {
+              "ns": 0,
+              "title": "FDTD"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Flyby anomaly"
+            },
+            {
+              "ns": 0,
+              "title": "Fourier component"
+            },
+            {
+              "ns": 0,
+              "title": "Fourier transform"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency-domain"
+            },
+            {
+              "ns": 0,
+              "title": "Generalized functions"
+            },
+            {
+              "ns": 0,
+              "title": "Green's function"
+            },
+            {
+              "ns": 0,
+              "title": "Green's theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Harmonics"
+            },
+            {
+              "ns": 0,
+              "title": "Heaviside step function"
+            },
+            {
+              "ns": 0,
+              "title": "Helmholtz equation"
+            },
+            {
+              "ns": 0,
+              "title": "Homogeneity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Hooke's law"
+            },
+            {
+              "ns": 0,
+              "title": "Huygens' principle"
+            },
+            {
+              "ns": 0,
+              "title": "Huygens–Fresnel principle"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbolic partial differential equation"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Improper integral"
+            },
+            {
+              "ns": 0,
+              "title": "Impulse response"
+            },
+            {
+              "ns": 0,
+              "title": "Independent variable"
+            },
+            {
+              "ns": 0,
+              "title": "Inhomogeneous electromagnetic wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Initial-value problem"
+            },
+            {
+              "ns": 0,
+              "title": "Initial conditions"
+            },
+            {
+              "ns": 0,
+              "title": "Initial value problem"
+            },
+            {
+              "ns": 0,
+              "title": "Inverse-square law"
+            },
+            {
+              "ns": 0,
+              "title": "Isotropic"
+            },
+            {
+              "ns": 0,
+              "title": "Jean-Baptiste le Rond d'Alembert"
+            },
+            {
+              "ns": 0,
+              "title": "Jean le Rond d'Alembert"
+            },
+            {
+              "ns": 0,
+              "title": "Lamé parameters"
+            },
+            {
+              "ns": 0,
+              "title": "Laplace operator"
+            },
+            {
+              "ns": 0,
+              "title": "Lars Gårding"
+            },
+            {
+              "ns": 0,
+              "title": "Lawrence C. Evans"
+            },
+            {
+              "ns": 0,
+              "title": "Leonhard Euler"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Light cone"
+            },
+            {
+              "ns": 0,
+              "title": "Linear combination"
+            },
+            {
+              "ns": 0,
+              "title": "Linear differential equation"
+            },
+            {
+              "ns": 0,
+              "title": "Linear elasticity"
+            },
+            {
+              "ns": 0,
+              "title": "Longitudinal wave"
+            },
+            {
+              "ns": 0,
+              "title": "Lorenz gauge"
+            },
+            {
+              "ns": 0,
+              "title": "MathWorld"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematics of oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell's equations"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical waves"
+            },
+            {
+              "ns": 0,
+              "title": "Method of characteristics"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Atiyah"
+            },
+            {
+              "ns": 0,
+              "title": "Multiple integral"
+            },
+            {
+              "ns": 0,
+              "title": "N-sphere"
+            },
+            {
+              "ns": 0,
+              "title": "One-way wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Ordinary differential equation"
+            },
+            {
+              "ns": 0,
+              "title": "Partial derivative"
+            },
+            {
+              "ns": 0,
+              "title": "Partial differential equation"
+            },
+            {
+              "ns": 0,
+              "title": "Petrovsky lacuna"
+            },
+            {
+              "ns": 0,
+              "title": "Phase velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Physical quantity"
+            },
+            {
+              "ns": 0,
+              "title": "Plane-wave"
+            },
+            {
+              "ns": 0,
+              "title": "Plane wave"
+            },
+            {
+              "ns": 0,
+              "title": "Point source"
+            },
+            {
+              "ns": 0,
+              "title": "Poisson kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Pulse (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Raoul Bott"
+            },
+            {
+              "ns": 0,
+              "title": "Real number"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection phase change"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Residue theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Richard Courant"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar field"
+            },
+            {
+              "ns": 0,
+              "title": "Schrodinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Second derivative"
+            },
+            {
+              "ns": 0,
+              "title": "Seismic waves"
+            },
+            {
+              "ns": 0,
+              "title": "Separation of variables"
+            },
+            {
+              "ns": 0,
+              "title": "Sign function"
+            },
+            {
+              "ns": 0,
+              "title": "Sinc function"
+            },
+            {
+              "ns": 0,
+              "title": "Sinusoidal"
+            },
+            {
+              "ns": 0,
+              "title": "Sound waves"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical coordinates"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical harmonics"
+            },
+            {
+              "ns": 0,
+              "title": "Standing wave"
+            },
+            {
+              "ns": 0,
+              "title": "Standing waves"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Wolfram"
+            },
+            {
+              "ns": 0,
+              "title": "Stiffness"
+            },
+            {
+              "ns": 0,
+              "title": "Stress (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "String vibration"
+            },
+            {
+              "ns": 0,
+              "title": "Sturm–Liouville theory"
+            },
+            {
+              "ns": 0,
+              "title": "Superposition principle"
+            },
+            {
+              "ns": 0,
+              "title": "Tension (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of elasticity"
+            },
+            {
+              "ns": 0,
+              "title": "Time-domain"
+            },
+            {
+              "ns": 0,
+              "title": "Trigonometric functions"
+            },
+            {
+              "ns": 0,
+              "title": "Ultrasound"
+            },
+            {
+              "ns": 0,
+              "title": "Vector (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Vector calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Vector field"
+            },
+            {
+              "ns": 0,
+              "title": "Vibrations of a circular membrane"
+            },
+            {
+              "ns": 0,
+              "title": "Volume element"
+            },
+            {
+              "ns": 0,
+              "title": "Wake (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Wave"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function"
+            },
+            {
+              "ns": 0,
+              "title": "Wave number"
+            },
+            {
+              "ns": 0,
+              "title": "Wave packet"
+            },
+            {
+              "ns": 0,
+              "title": "Wavevector"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler–Feynman absorber theory"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfram Demonstrations Project"
+            },
+            {
+              "ns": 0,
+              "title": "Young's modulus"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329280.556785
+}

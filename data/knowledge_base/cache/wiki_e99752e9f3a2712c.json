@@ -1,0 +1,577 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "19593040": {
+          "pageid": 19593040,
+          "ns": 0,
+          "title": "Celsius",
+          "links": [
+            {
+              "ns": 0,
+              "title": "2019 revision of the SI"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute zero"
+            },
+            {
+              "ns": 0,
+              "title": "Academy of Lyon"
+            },
+            {
+              "ns": 0,
+              "title": "Ampere"
+            },
+            {
+              "ns": 0,
+              "title": "Anders Celsius"
+            },
+            {
+              "ns": 0,
+              "title": "Angular measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical unit"
+            },
+            {
+              "ns": 0,
+              "title": "Atmosphere (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "BBC Weather"
+            },
+            {
+              "ns": 0,
+              "title": "BIPM"
+            },
+            {
+              "ns": 0,
+              "title": "Barometric pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Becquerel"
+            },
+            {
+              "ns": 0,
+              "title": "Boltzmann constant"
+            },
+            {
+              "ns": 0,
+              "title": "CGPM"
+            },
+            {
+              "ns": 0,
+              "title": "Candela"
+            },
+            {
+              "ns": 0,
+              "title": "Carl Linnaeus"
+            },
+            {
+              "ns": 0,
+              "title": "Celsius (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Centigrade (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of temperature scales"
+            },
+            {
+              "ns": 0,
+              "title": "Conversion of scales of temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Conversion of units"
+            },
+            {
+              "ns": 0,
+              "title": "Coulomb"
+            },
+            {
+              "ns": 0,
+              "title": "Dalton (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Daniel Ekström"
+            },
+            {
+              "ns": 0,
+              "title": "Day"
+            },
+            {
+              "ns": 0,
+              "title": "Decibel"
+            },
+            {
+              "ns": 0,
+              "title": "Degree (angle)"
+            },
+            {
+              "ns": 0,
+              "title": "Degree of frost"
+            },
+            {
+              "ns": 0,
+              "title": "Degree symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Delisle scale"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Don Rittner"
+            },
+            {
+              "ns": 0,
+              "title": "Dry ice"
+            },
+            {
+              "ns": 0,
+              "title": "Dyne"
+            },
+            {
+              "ns": 0,
+              "title": "Electronvolt"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica"
+            },
+            {
+              "ns": 0,
+              "title": "English language"
+            },
+            {
+              "ns": 0,
+              "title": "Fahrenheit"
+            },
+            {
+              "ns": 0,
+              "title": "Farad"
+            },
+            {
+              "ns": 0,
+              "title": "Gallium"
+            },
+            {
+              "ns": 0,
+              "title": "Gas mark"
+            },
+            {
+              "ns": 0,
+              "title": "General Conference on Weights and Measures"
+            },
+            {
+              "ns": 0,
+              "title": "Gradian"
+            },
+            {
+              "ns": 0,
+              "title": "Gray (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Hectare"
+            },
+            {
+              "ns": 0,
+              "title": "Henry (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Hertz"
+            },
+            {
+              "ns": 0,
+              "title": "Historical definitions of the SI base units"
+            },
+            {
+              "ns": 0,
+              "title": "Hour"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ITS-90"
+            },
+            {
+              "ns": 0,
+              "title": "International Bureau of Weights and Measures"
+            },
+            {
+              "ns": 0,
+              "title": "International Committee for Weights and Measures"
+            },
+            {
+              "ns": 0,
+              "title": "International System of Units"
+            },
+            {
+              "ns": 0,
+              "title": "International Temperature Scale of 1990"
+            },
+            {
+              "ns": 0,
+              "title": "Interval scale"
+            },
+            {
+              "ns": 0,
+              "title": "Jean-Pierre Christin"
+            },
+            {
+              "ns": 0,
+              "title": "Joule"
+            },
+            {
+              "ns": 0,
+              "title": "KPa"
+            },
+            {
+              "ns": 0,
+              "title": "Katal"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin scale"
+            },
+            {
+              "ns": 0,
+              "title": "Kibibyte"
+            },
+            {
+              "ns": 0,
+              "title": "Kilogram"
+            },
+            {
+              "ns": 0,
+              "title": "Leiden scale"
+            },
+            {
+              "ns": 0,
+              "title": "Liberia"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "List of metric prefixes"
+            },
+            {
+              "ns": 0,
+              "title": "Litre"
+            },
+            {
+              "ns": 0,
+              "title": "London South Bank University"
+            },
+            {
+              "ns": 0,
+              "title": "Lumen (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Lux"
+            },
+            {
+              "ns": 0,
+              "title": "Mebibyte"
+            },
+            {
+              "ns": 0,
+              "title": "Mercure de France"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury thermometer"
+            },
+            {
+              "ns": 0,
+              "title": "Metre"
+            },
+            {
+              "ns": 0,
+              "title": "Metric prefix"
+            },
+            {
+              "ns": 0,
+              "title": "Metrication in Australia"
+            },
+            {
+              "ns": 0,
+              "title": "Metrology"
+            },
+            {
+              "ns": 0,
+              "title": "Minute"
+            },
+            {
+              "ns": 0,
+              "title": "Minute and second of arc"
+            },
+            {
+              "ns": 0,
+              "title": "Mole (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "NIST"
+            },
+            {
+              "ns": 0,
+              "title": "National Institute of Standards and Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Neper"
+            },
+            {
+              "ns": 0,
+              "title": "Neuchâtel"
+            },
+            {
+              "ns": 0,
+              "title": "Newton (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Newton scale"
+            },
+            {
+              "ns": 0,
+              "title": "Non-SI units mentioned in the SI"
+            },
+            {
+              "ns": 0,
+              "title": "Normal human body temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Ohm"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of metrology and measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Pascal (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Radian"
+            },
+            {
+              "ns": 0,
+              "title": "Rankine scale"
+            },
+            {
+              "ns": 0,
+              "title": "Ratio data"
+            },
+            {
+              "ns": 0,
+              "title": "Room temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Round-trip format conversion"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Swedish Academy of Sciences"
+            },
+            {
+              "ns": 0,
+              "title": "Réaumur scale"
+            },
+            {
+              "ns": 0,
+              "title": "Rømer scale"
+            },
+            {
+              "ns": 0,
+              "title": "SI"
+            },
+            {
+              "ns": 0,
+              "title": "SI base unit"
+            },
+            {
+              "ns": 0,
+              "title": "SI derived unit"
+            },
+            {
+              "ns": 0,
+              "title": "SI unit"
+            },
+            {
+              "ns": 0,
+              "title": "Scale of temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Sea level"
+            },
+            {
+              "ns": 0,
+              "title": "Second"
+            },
+            {
+              "ns": 0,
+              "title": "Siemens (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Sievert"
+            },
+            {
+              "ns": 0,
+              "title": "Standard atmosphere (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Steradian"
+            },
+            {
+              "ns": 0,
+              "title": "Sublimation (phase transition)"
+            },
+            {
+              "ns": 0,
+              "title": "System of units of measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Terence Quinn"
+            },
+            {
+              "ns": 0,
+              "title": "Tesla (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Thermometer"
+            },
+            {
+              "ns": 0,
+              "title": "Thermometry"
+            },
+            {
+              "ns": 0,
+              "title": "Tonne"
+            },
+            {
+              "ns": 0,
+              "title": "Triple point"
+            },
+            {
+              "ns": 0,
+              "title": "Triple point of water"
+            },
+            {
+              "ns": 0,
+              "title": "Unicode"
+            },
+            {
+              "ns": 0,
+              "title": "Unicode compatibility characters"
+            },
+            {
+              "ns": 0,
+              "title": "University of Uppsala Botanical Garden"
+            },
+            {
+              "ns": 0,
+              "title": "Uppsala Astronomical Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "VSMOW"
+            },
+            {
+              "ns": 0,
+              "title": "Vienna Standard Mean Ocean Water"
+            },
+            {
+              "ns": 0,
+              "title": "Volt"
+            },
+            {
+              "ns": 0,
+              "title": "Water (properties)"
+            },
+            {
+              "ns": 0,
+              "title": "Watt"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weber (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Wedgwood scale"
+            },
+            {
+              "ns": 0,
+              "title": "YouTube video (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "°F"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770520259.2042806
+}

@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "207685": {
+          "pageid": 207685,
+          "ns": 0,
+          "title": "Cassiopeia (constellation)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Yellow dwarf star"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow hypergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Zenith"
+            },
+            {
+              "ns": 0,
+              "title": "Zeta Cassiopeiae"
+            },
+            {
+              "ns": 0,
+              "title": "Zone of Avoidance"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770520192.859111
+}

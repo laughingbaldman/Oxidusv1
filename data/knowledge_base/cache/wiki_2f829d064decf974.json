@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "Wikipedia:Vital_articles/Level/4/Computing",
+          "to": "Wikipedia:Vital articles/Level/4/Computing"
+        }
+      ],
+      "pages": {
+        "-1": {
+          "ns": 4,
+          "title": "Wikipedia:Vital articles/Level/4/Computing",
+          "missing": ""
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357713.009245
+}

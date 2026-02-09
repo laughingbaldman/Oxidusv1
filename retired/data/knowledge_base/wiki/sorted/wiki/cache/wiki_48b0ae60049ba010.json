@@ -1,0 +1,745 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "22522": {
+          "pageid": 22522,
+          "ns": 0,
+          "title": "Oscillation",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Aerodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Aeroelastic flutter"
+            },
+            {
+              "ns": 0,
+              "title": "Aircraft"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Angle of attack"
+            },
+            {
+              "ns": 0,
+              "title": "Anisotropy"
+            },
+            {
+              "ns": 0,
+              "title": "Anti-vibration compound"
+            },
+            {
+              "ns": 0,
+              "title": "Antiresonance"
+            },
+            {
+              "ns": 0,
+              "title": "Armstrong oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Arnold tongue"
+            },
+            {
+              "ns": 0,
+              "title": "Astable"
+            },
+            {
+              "ns": 0,
+              "title": "Asteroseismology"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Atlantic multidecadal oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "BIBO stability"
+            },
+            {
+              "ns": 0,
+              "title": "Bacterial Circadian Rhythms"
+            },
+            {
+              "ns": 0,
+              "title": "Beat (acoustics)"
+            },
+            {
+              "ns": 0,
+              "title": "Belousov–Zhabotinsky reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Blocking oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Bray–Liebhafsky reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Briggs–Rauscher reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Business cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Butler oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Cepheid variable"
+            },
+            {
+              "ns": 0,
+              "title": "Chandler wobble"
+            },
+            {
+              "ns": 0,
+              "title": "Christiaan Huygens"
+            },
+            {
+              "ns": 0,
+              "title": "Circadian oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Circadian rhythm"
+            },
+            {
+              "ns": 0,
+              "title": "Clapp oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Classical limit"
+            },
+            {
+              "ns": 0,
+              "title": "Climate oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Coefficient of lift"
+            },
+            {
+              "ns": 0,
+              "title": "Colpitts oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Continuum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Control theory"
+            },
+            {
+              "ns": 0,
+              "title": "Critical speed"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Cycle (music)"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclic Model"
+            },
+            {
+              "ns": 0,
+              "title": "Degrees of freedom (physics and chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Delay-line oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Double pendulum"
+            },
+            {
+              "ns": 0,
+              "title": "Driven oscillations"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic system"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamical system"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamics (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Earthquake engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Ecology"
+            },
+            {
+              "ns": 0,
+              "title": "Economics"
+            },
+            {
+              "ns": 0,
+              "title": "El Niño-Southern Oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Exponential decay"
+            },
+            {
+              "ns": 0,
+              "title": "Extended interaction oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Feedback"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Force"
+            },
+            {
+              "ns": 0,
+              "title": "Foucault pendulum"
+            },
+            {
+              "ns": 0,
+              "title": "Fourier transform"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Friction"
+            },
+            {
+              "ns": 0,
+              "title": "Function (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Generation gap"
+            },
+            {
+              "ns": 0,
+              "title": "Geology"
+            },
+            {
+              "ns": 0,
+              "title": "Geyser"
+            },
+            {
+              "ns": 0,
+              "title": "Gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Guitar"
+            },
+            {
+              "ns": 0,
+              "title": "Harmonic oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Hartley oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Helioseismology"
+            },
+            {
+              "ns": 0,
+              "title": "Helmholtz resonance"
+            },
+            {
+              "ns": 0,
+              "title": "Hidden oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Hooke's law"
+            },
+            {
+              "ns": 0,
+              "title": "Human heart"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Infinity"
+            },
+            {
+              "ns": 0,
+              "title": "Injection locking"
+            },
+            {
+              "ns": 0,
+              "title": "Insulin release oscillations"
+            },
+            {
+              "ns": 0,
+              "title": "Interval (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Isotropy"
+            },
+            {
+              "ns": 0,
+              "title": "Kepler orbit"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic energy"
+            },
+            {
+              "ns": 0,
+              "title": "Laser"
+            },
+            {
+              "ns": 0,
+              "title": "Least-squares spectral analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Lennard-Jones potential"
+            },
+            {
+              "ns": 0,
+              "title": "Lever escapement"
+            },
+            {
+              "ns": 0,
+              "title": "Limit superior and limit inferior"
+            },
+            {
+              "ns": 0,
+              "title": "Linear"
+            },
+            {
+              "ns": 0,
+              "title": "Local oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Lotka–Volterra equation"
+            },
+            {
+              "ns": 0,
+              "title": "Madden–Julian oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Malthusian"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical equilibrium"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury beating heart"
+            },
+            {
+              "ns": 0,
+              "title": "Momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Nerve cell"
+            },
+            {
+              "ns": 0,
+              "title": "Neural oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Neutral particle oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Neutrino oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron-star oscillations"
+            },
+            {
+              "ns": 0,
+              "title": "News cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's second law"
+            },
+            {
+              "ns": 0,
+              "title": "Normal mode"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Open set"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillating gene"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillation (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillator (cellular automaton)"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillator (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillator Toda"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillator phase noise"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillistor"
+            },
+            {
+              "ns": 0,
+              "title": "Pacific decadal oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Pendulum"
+            },
+            {
+              "ns": 0,
+              "title": "Period (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Periodic function"
+            },
+            {
+              "ns": 0,
+              "title": "Phase-shift oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Phase noise"
+            },
+            {
+              "ns": 0,
+              "title": "Phase shift"
+            },
+            {
+              "ns": 0,
+              "title": "Pierce oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Pilot-induced oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Potential energy"
+            },
+            {
+              "ns": 0,
+              "title": "Predator–prey"
+            },
+            {
+              "ns": 0,
+              "title": "Process control"
+            },
+            {
+              "ns": 0,
+              "title": "Puberty"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum harmonic oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum optics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Quasi-biennial oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Quasiperiodic function"
+            },
+            {
+              "ns": 0,
+              "title": "Quasiperiodicity"
+            },
+            {
+              "ns": 0,
+              "title": "RLC circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Real number"
+            },
+            {
+              "ns": 0,
+              "title": "Reciprocating motion"
+            },
+            {
+              "ns": 0,
+              "title": "Relaxation oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Resonance"
+            },
+            {
+              "ns": 0,
+              "title": "Resonator"
+            },
+            {
+              "ns": 0,
+              "title": "Rhythm"
+            },
+            {
+              "ns": 0,
+              "title": "Route flapping"
+            },
+            {
+              "ns": 0,
+              "title": "Royer oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Seasonality"
+            },
+            {
+              "ns": 0,
+              "title": "Segmentation clock"
+            },
+            {
+              "ns": 0,
+              "title": "Self-oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Self-pulsation"
+            },
+            {
+              "ns": 0,
+              "title": "Sequence"
+            },
+            {
+              "ns": 0,
+              "title": "Signal generator"
+            },
+            {
+              "ns": 0,
+              "title": "Simple harmonic motion"
+            },
+            {
+              "ns": 0,
+              "title": "Sine wave"
+            },
+            {
+              "ns": 0,
+              "title": "Sliding mode control"
+            },
+            {
+              "ns": 0,
+              "title": "Spring (device)"
+            },
+            {
+              "ns": 0,
+              "title": "Squegging"
+            },
+            {
+              "ns": 0,
+              "title": "Stability theory"
+            },
+            {
+              "ns": 0,
+              "title": "Statics"
+            },
+            {
+              "ns": 0,
+              "title": "Stiffness"
+            },
+            {
+              "ns": 0,
+              "title": "Strange attractor"
+            },
+            {
+              "ns": 0,
+              "title": "String instrument"
+            },
+            {
+              "ns": 0,
+              "title": "Structural stability"
+            },
+            {
+              "ns": 0,
+              "title": "Swing (seat)"
+            },
+            {
+              "ns": 0,
+              "title": "Tension (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic reversibility"
+            },
+            {
+              "ns": 0,
+              "title": "Time"
+            },
+            {
+              "ns": 0,
+              "title": "Torsional vibration"
+            },
+            {
+              "ns": 0,
+              "title": "Tuned mass damper"
+            },
+            {
+              "ns": 0,
+              "title": "Tuning fork"
+            },
+            {
+              "ns": 0,
+              "title": "Valve"
+            },
+            {
+              "ns": 0,
+              "title": "Vačkář oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Vibrate (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Vibrating string"
+            },
+            {
+              "ns": 0,
+              "title": "Vibration"
+            },
+            {
+              "ns": 0,
+              "title": "Vibrations (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Vibrator (mechanical)"
+            },
+            {
+              "ns": 0,
+              "title": "Voice production"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Wave"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weight"
+            },
+            {
+              "ns": 0,
+              "title": "Wien bridge oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Wilberforce pendulum"
+            },
+            {
+              "ns": 0,
+              "title": "Wing"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324755.4136379
+}

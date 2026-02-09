@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T12:00:00Z",
+  "edges": [
+    {
+      "from": "artificial intelligence",
+      "to": "ethics",
+      "relation": "influences",
+      "weight": 0.6,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/AI_ethics"
+        }
+      ]
+    },
+    {
+      "from": "psychology",
+      "to": "neuroscience",
+      "relation": "overlaps",
+      "weight": 0.4,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Neuroscience"
+        }
+      ]
+    },
+    {
+      "from": "medicine",
+      "to": "public health",
+      "relation": "includes",
+      "weight": 0.55,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Public_health"
+        }
+      ]
+    },
+    {
+      "from": "law",
+      "to": "human rights",
+      "relation": "governs",
+      "weight": 0.5,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Human_rights"
+        }
+      ]
+    },
+    {
+      "from": "engineering",
+      "to": "materials science",
+      "relation": "depends_on",
+      "weight": 0.52,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Materials_science"
+        }
+      ]
+    },
+    {
+      "from": "humanities",
+      "to": "philosophy",
+      "relation": "includes",
+      "weight": 0.45,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Humanities"
+        }
+      ]
+    },
+    {
+      "from": "economics",
+      "to": "political science",
+      "relation": "overlaps",
+      "weight": 0.4,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Political_science"
+        }
+      ]
+    },
+    {
+      "from": "mathematics",
+      "to": "physics",
+      "relation": "supports",
+      "weight": 0.6,
+      "evidence": [
+        {
+          "source_id": "wikipedia",
+          "source_url": "https://en.wikipedia.org/wiki/Mathematical_physics"
+        }
+      ]
+    }
+  ]
+}

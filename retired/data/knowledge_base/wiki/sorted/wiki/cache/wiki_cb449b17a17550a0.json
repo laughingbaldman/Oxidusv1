@@ -1,0 +1,861 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "4255718": {
+          "pageid": 4255718,
+          "ns": 0,
+          "title": "Organosilicon chemistry",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Adjuvant"
+            },
+            {
+              "ns": 0,
+              "title": "Alcohol (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Aldehyde"
+            },
+            {
+              "ns": 0,
+              "title": "Alkene"
+            },
+            {
+              "ns": 0,
+              "title": "Alkoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Alkyl"
+            },
+            {
+              "ns": 0,
+              "title": "Alkyne"
+            },
+            {
+              "ns": 0,
+              "title": "Antibonding"
+            },
+            {
+              "ns": 0,
+              "title": "Arkivoc"
+            },
+            {
+              "ns": 0,
+              "title": "Aryl"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Biochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Brook rearrangement"
+            },
+            {
+              "ns": 0,
+              "title": "Butadiene"
+            },
+            {
+              "ns": 0,
+              "title": "Carbene"
+            },
+            {
+              "ns": 0,
+              "title": "Carbenoid"
+            },
+            {
+              "ns": 0,
+              "title": "Carbocation"
+            },
+            {
+              "ns": 0,
+              "title": "Carbometalation"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon group"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonyl"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon–carbon bond"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon–hydrogen bond"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon–nitrogen bond"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon–oxygen bond"
+            },
+            {
+              "ns": 0,
+              "title": "Caulk"
+            },
+            {
+              "ns": 0,
+              "title": "Charles Friedel"
+            },
+            {
+              "ns": 0,
+              "title": "Chem. Commun."
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Chlorosilane"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclopentadiene"
+            },
+            {
+              "ns": 0,
+              "title": "Decamethylsilicocene"
+            },
+            {
+              "ns": 0,
+              "title": "Diatom"
+            },
+            {
+              "ns": 0,
+              "title": "Diethylzinc"
+            },
+            {
+              "ns": 0,
+              "title": "Dimethyldichlorosilane"
+            },
+            {
+              "ns": 0,
+              "title": "Direct process"
+            },
+            {
+              "ns": 0,
+              "title": "Disilene"
+            },
+            {
+              "ns": 0,
+              "title": "Disilyne"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Double bond"
+            },
+            {
+              "ns": 0,
+              "title": "Double bond rule"
+            },
+            {
+              "ns": 0,
+              "title": "Dow Chemical Company"
+            },
+            {
+              "ns": 0,
+              "title": "Electroluminescence"
+            },
+            {
+              "ns": 0,
+              "title": "Electronegativity"
+            },
+            {
+              "ns": 0,
+              "title": "Electrophilic"
+            },
+            {
+              "ns": 0,
+              "title": "Electrophilic substitution of unsaturated silanes"
+            },
+            {
+              "ns": 0,
+              "title": "Ethanol"
+            },
+            {
+              "ns": 0,
+              "title": "Eugene G. Rochow"
+            },
+            {
+              "ns": 0,
+              "title": "Fleming–Tamao oxidation"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Frederic Kipping"
+            },
+            {
+              "ns": 0,
+              "title": "Fungicide"
+            },
+            {
+              "ns": 0,
+              "title": "Grignard reagent"
+            },
+            {
+              "ns": 0,
+              "title": "Halide"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Helium compounds"
+            },
+            {
+              "ns": 0,
+              "title": "Herbicide"
+            },
+            {
+              "ns": 0,
+              "title": "Hexamethyldisilane"
+            },
+            {
+              "ns": 0,
+              "title": "Hiyama coupling"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrosilane"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrosilylation"
+            },
+            {
+              "ns": 0,
+              "title": "Hypervalent molecule"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Imine"
+            },
+            {
+              "ns": 0,
+              "title": "Inorganic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Insecticide"
+            },
+            {
+              "ns": 0,
+              "title": "J. Am. Chem. Soc."
+            },
+            {
+              "ns": 0,
+              "title": "James Crafts"
+            },
+            {
+              "ns": 0,
+              "title": "Ketone"
+            },
+            {
+              "ns": 0,
+              "title": "LUMO"
+            },
+            {
+              "ns": 0,
+              "title": "Metallole"
+            },
+            {
+              "ns": 0,
+              "title": "Methyl"
+            },
+            {
+              "ns": 0,
+              "title": "Methyl chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Methyllithium"
+            },
+            {
+              "ns": 0,
+              "title": "Methyltrichlorosilane"
+            },
+            {
+              "ns": 0,
+              "title": "Müller-Rochow process"
+            },
+            {
+              "ns": 0,
+              "title": "Negative hyperconjugation in silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Neon compounds"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Noncoordinating anion"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Organic Syntheses"
+            },
+            {
+              "ns": 0,
+              "title": "Organic synthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Organoactinide chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoaluminium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoaluminum compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organoantimony chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoargon chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoarsenic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoastatine chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organobarium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoberyllium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organobismuth chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoboron chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organobromine chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organocadmium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organocalcium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organocerium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organocesium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organochlorine chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organochromium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organocobalt chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organocopper chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organofluorine chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organogallium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organogermanium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organogermanium compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organogold chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organohafnium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoindium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoiodine chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoiridium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoiron chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organokrypton chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organolanthanide chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organolead chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organolead compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organolithium reagent"
+            },
+            {
+              "ns": 0,
+              "title": "Organomagnesium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organomanganese chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organomercury chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organometallic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organometallic compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organomolybdenum chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoneptunium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organonickel chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoniobium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoosmium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organopalladium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organophosphorus chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organophosphorus compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organoplatinum chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organopolonium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organopotassium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoradium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organorhenium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organorhodium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organorubidium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoruthenium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoscandium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoseaborgium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoselenium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organosilanols"
+            },
+            {
+              "ns": 0,
+              "title": "Organosilver chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organosodium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organostrontium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organosulfur chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organosulfur compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organotantalum chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organotechnetium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organotellurium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organothallium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organothorium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organotin chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organotin compound"
+            },
+            {
+              "ns": 0,
+              "title": "Organotitanium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organotungsten chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organouranium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organovanadium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoxenon chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organoyttrium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organozinc chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organozirconium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Period 3 element"
+            },
+            {
+              "ns": 0,
+              "title": "Peterson olefination"
+            },
+            {
+              "ns": 0,
+              "title": "Phenylsilatrane"
+            },
+            {
+              "ns": 0,
+              "title": "Pi orbital"
+            },
+            {
+              "ns": 0,
+              "title": "Platinum group metal"
+            },
+            {
+              "ns": 0,
+              "title": "Polydimethylsiloxane"
+            },
+            {
+              "ns": 0,
+              "title": "Protective group"
+            },
+            {
+              "ns": 0,
+              "title": "Protodesilylation"
+            },
+            {
+              "ns": 0,
+              "title": "Pyrethroid"
+            },
+            {
+              "ns": 0,
+              "title": "ResearchGate"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sakurai reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Sigma bond"
+            },
+            {
+              "ns": 0,
+              "title": "Silabenzene"
+            },
+            {
+              "ns": 0,
+              "title": "Silafluofen"
+            },
+            {
+              "ns": 0,
+              "title": "Silane"
+            },
+            {
+              "ns": 0,
+              "title": "Silanol"
+            },
+            {
+              "ns": 0,
+              "title": "Silanone"
+            },
+            {
+              "ns": 0,
+              "title": "Silatrane"
+            },
+            {
+              "ns": 0,
+              "title": "Silazane"
+            },
+            {
+              "ns": 0,
+              "title": "Silicate"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicone"
+            },
+            {
+              "ns": 0,
+              "title": "Silicone resin"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon–oxygen bond"
+            },
+            {
+              "ns": 0,
+              "title": "Siloxane"
+            },
+            {
+              "ns": 0,
+              "title": "Siloxide"
+            },
+            {
+              "ns": 0,
+              "title": "Silyl ether"
+            },
+            {
+              "ns": 0,
+              "title": "Silylene"
+            },
+            {
+              "ns": 0,
+              "title": "Silylenoid"
+            },
+            {
+              "ns": 0,
+              "title": "Silylium"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Tetra-n-butylammonium fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrachlorosilane"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrahedral molecular geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrakis(trimethylsilyl)silane"
+            },
+            {
+              "ns": 0,
+              "title": "Tetravalent"
+            },
+            {
+              "ns": 0,
+              "title": "Trimethylsilanol"
+            },
+            {
+              "ns": 0,
+              "title": "Trimethylsilyl chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tris(trimethylsilyl)silane"
+            },
+            {
+              "ns": 0,
+              "title": "UCSB"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324749.9981241
+}

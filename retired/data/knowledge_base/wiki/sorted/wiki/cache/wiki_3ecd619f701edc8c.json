@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "27772": {
+          "pageid": 27772,
+          "ns": 0,
+          "title": "Sandstone",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Worshipful Company of Masons"
+            },
+            {
+              "ns": 0,
+              "title": "Wythe"
+            },
+            {
+              "ns": 0,
+              "title": "Yorkstone"
+            },
+            {
+              "ns": 0,
+              "title": "ZTR index"
+            },
+            {
+              "ns": 0,
+              "title": "Zeolite"
+            },
+            {
+              "ns": 0,
+              "title": "Zircon"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329149.302786
+}

@@ -1,8 +1,8 @@
 # 🎯 PROJECT COMPLETION STATUS
 
-**Date**: 2024
+**Date**: 2026-02-05
 **Project**: Oxidus Knowledge Organization System
-**Status**: ✅ **COMPLETE AND DEPLOYMENT READY**
+**Status**: ⚠️ Mostly complete — knowledge ingest done; LM inference unstable
 
 ---
 
@@ -11,6 +11,26 @@
 A comprehensive **Knowledge Organization System** has been successfully designed, implemented, tested, and integrated into Oxidus. This system automatically organizes all scraped web content into an intelligent, searchable knowledge base connected to human values.
 
 **Result**: All 366,904 characters of Wikipedia data (8 major articles) are ready to be automatically organized and used by Oxidus.
+
+---
+
+## 🔁 Recent Updates (2026-02-05)
+
+- **Rebuild completed**: knowledge index rebuilt from disk — 496 texts loaded, 487 memories added.
+- **Deeper extraction**: ran a deeper-extract pass; recovered 273 previously-skipped wiki/cache files to `data/knowledge_base/normalized_deeper/`.
+- **QA run**: owner-mode QA and targeted summaries executed (`scripts/qa_loaded_texts.py`). System returned safe fallback replies when LM consults timed out.
+- **LM Studio status**: model listing works but inference has been intermittently timing out; one fallback model returned successful HTTP 200 during retries but owner-facing dialog still falls back to the internal "I'm still thinking..." message when external inference is unavailable or empty.
+- **Model pin**: default LM Studio routing is now pinned to openai/gpt-oss-20b for all response paths.
+- **Health visibility**: health checks now surface expected vs active LM Studio model matching.
+- **Relaunch**: Oxidus restarted after rebuild; service running under `launch_oxidus.py`.
+- **Current risk**: dialog responses remain null/empty for some queries because LM Studio inference is unstable — investigate LM server logs, increase timeouts, or pin a reliable local model.
+
+Next recommended actions:
+- Inspect LM Studio server logs and/or increase request timeouts.
+- Confirm /api/health reports lm_studio.model == openai/gpt-oss-20b and lm_studio.model_match == true.
+- Re-run targeted LM retry with pinned working model and confirm `safe_think()` returns non-empty outputs.
+- Rebuild index again if additional normalized files are moved into live `data/knowledge_base`.
+
 
 ---
 

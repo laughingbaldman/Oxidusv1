@@ -1,0 +1,385 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "41932": {
+          "pageid": 41932,
+          "ns": 0,
+          "title": "Accuracy and precision",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Recommender system"
+            },
+            {
+              "ns": 0,
+              "title": "Rectangular Micro QR Code"
+            },
+            {
+              "ns": 0,
+              "title": "Regression analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Reliability (statistics)"
+            },
+            {
+              "ns": 0,
+              "title": "Reliability engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Renard series"
+            },
+            {
+              "ns": 0,
+              "title": "Repeatability"
+            },
+            {
+              "ns": 0,
+              "title": "Reproducibility"
+            },
+            {
+              "ns": 0,
+              "title": "Requirements engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Result"
+            },
+            {
+              "ns": 0,
+              "title": "Reusability"
+            },
+            {
+              "ns": 0,
+              "title": "Robustness (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Romanization of Armenian"
+            },
+            {
+              "ns": 0,
+              "title": "Romanization of Georgian"
+            },
+            {
+              "ns": 0,
+              "title": "Root mean square"
+            },
+            {
+              "ns": 0,
+              "title": "Root mean square deviation"
+            },
+            {
+              "ns": 0,
+              "title": "Ruby (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SDMX"
+            },
+            {
+              "ns": 0,
+              "title": "SI"
+            },
+            {
+              "ns": 0,
+              "title": "SQL"
+            },
+            {
+              "ns": 0,
+              "title": "STEP-NC"
+            },
+            {
+              "ns": 0,
+              "title": "Salt spray test"
+            },
+            {
+              "ns": 0,
+              "title": "Sample size"
+            },
+            {
+              "ns": 0,
+              "title": "Scalability"
+            },
+            {
+              "ns": 0,
+              "title": "Science"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific method"
+            },
+            {
+              "ns": 0,
+              "title": "Sensitivity and specificity"
+            },
+            {
+              "ns": 0,
+              "title": "Shock-resistant watch"
+            },
+            {
+              "ns": 0,
+              "title": "Shoe size"
+            },
+            {
+              "ns": 0,
+              "title": "Significant figures"
+            },
+            {
+              "ns": 0,
+              "title": "Silhouette (clustering)"
+            },
+            {
+              "ns": 0,
+              "title": "Similarity measure"
+            },
+            {
+              "ns": 0,
+              "title": "Simple Features"
+            },
+            {
+              "ns": 0,
+              "title": "Simple matching coefficient"
+            },
+            {
+              "ns": 0,
+              "title": "SoftWare Hash IDentifier"
+            },
+            {
+              "ns": 0,
+              "title": "Software development security"
+            },
+            {
+              "ns": 0,
+              "title": "Software maintenance"
+            },
+            {
+              "ns": 0,
+              "title": "Software portability"
+            },
+            {
+              "ns": 0,
+              "title": "Software quality"
+            },
+            {
+              "ns": 0,
+              "title": "Software quality assurance"
+            },
+            {
+              "ns": 0,
+              "title": "Software quality control"
+            },
+            {
+              "ns": 0,
+              "title": "Software quality management"
+            },
+            {
+              "ns": 0,
+              "title": "Software sizing"
+            },
+            {
+              "ns": 0,
+              "title": "Software system safety"
+            },
+            {
+              "ns": 0,
+              "title": "Software testability"
+            },
+            {
+              "ns": 0,
+              "title": "Standard Generalized Markup Language"
+            },
+            {
+              "ns": 0,
+              "title": "Standard deviation"
+            },
+            {
+              "ns": 0,
+              "title": "Standard error (statistics)"
+            },
+            {
+              "ns": 0,
+              "title": "Standards organization"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical bias"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical classification"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical sample"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical significance"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical variability"
+            },
+            {
+              "ns": 0,
+              "title": "Statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Structural similarity index measure"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetric mean absolute percentage error"
+            },
+            {
+              "ns": 0,
+              "title": "Synonymous"
+            },
+            {
+              "ns": 0,
+              "title": "Systematic error"
+            },
+            {
+              "ns": 0,
+              "title": "Systematic errors"
+            },
+            {
+              "ns": 0,
+              "title": "TED (conference)"
+            },
+            {
+              "ns": 0,
+              "title": "TIFF/EP"
+            },
+            {
+              "ns": 0,
+              "title": "Technical standard"
+            },
+            {
+              "ns": 0,
+              "title": "Topic map"
+            },
+            {
+              "ns": 0,
+              "title": "Torx"
+            },
+            {
+              "ns": 0,
+              "title": "Traceability"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor models"
+            },
+            {
+              "ns": 0,
+              "title": "True negative"
+            },
+            {
+              "ns": 0,
+              "title": "True positive"
+            },
+            {
+              "ns": 0,
+              "title": "True value"
+            },
+            {
+              "ns": 0,
+              "title": "Trusted Platform Module"
+            },
+            {
+              "ns": 0,
+              "title": "Understandability"
+            },
+            {
+              "ns": 0,
+              "title": "Unified Modeling Language"
+            },
+            {
+              "ns": 0,
+              "title": "Universal Coded Character Set"
+            },
+            {
+              "ns": 0,
+              "title": "Usability"
+            },
+            {
+              "ns": 0,
+              "title": "Validity (statistics)"
+            },
+            {
+              "ns": 0,
+              "title": "Value (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Variability (statistics)"
+            },
+            {
+              "ns": 0,
+              "title": "Versatile Video Coding"
+            },
+            {
+              "ns": 0,
+              "title": "Vicat softening point"
+            },
+            {
+              "ns": 0,
+              "title": "Water Resistant mark"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Web Content Accessibility Guidelines"
+            },
+            {
+              "ns": 0,
+              "title": "Web search engine"
+            },
+            {
+              "ns": 0,
+              "title": "Whirlpool (hash function)"
+            },
+            {
+              "ns": 0,
+              "title": "X.500"
+            },
+            {
+              "ns": 0,
+              "title": "X3D"
+            },
+            {
+              "ns": 0,
+              "title": "XML Metadata Interchange"
+            },
+            {
+              "ns": 0,
+              "title": "Z notation"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357722.3499472
+}

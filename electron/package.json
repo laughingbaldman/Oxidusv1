@@ -1,0 +1,13 @@
+{
+  "name": "oxidus-electron",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Oxidus desktop shell (Electron)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.2.0"
+  }
+}

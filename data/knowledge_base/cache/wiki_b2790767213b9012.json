@@ -1,0 +1,129 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "3756": {
+          "pageid": 3756,
+          "ns": 0,
+          "title": "Bromine",
+          "links": [
+            {
+              "ns": 0,
+              "title": "United States"
+            },
+            {
+              "ns": 0,
+              "title": "United States Government Publishing Office"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium hexafluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Usgs.gov"
+            },
+            {
+              "ns": 0,
+              "title": "Valence electron"
+            },
+            {
+              "ns": 0,
+              "title": "Van der Waals force"
+            },
+            {
+              "ns": 0,
+              "title": "Van der Waals radius"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium bromoperoxidase"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Vinyl bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weed"
+            },
+            {
+              "ns": 0,
+              "title": "Well drilling fluids"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "Wurtz reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon dibromide"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon difluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Xylyl bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium"
+            },
+            {
+              "ns": 0,
+              "title": "Zebra mussel"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc–bromine battery"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770510484.7543402
+}

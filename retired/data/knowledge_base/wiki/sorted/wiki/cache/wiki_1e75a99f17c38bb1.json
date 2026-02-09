@@ -1,0 +1,493 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "478538": {
+          "pageid": 478538,
+          "ns": 0,
+          "title": "Particle detector",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ALICE experiment"
+            },
+            {
+              "ns": 0,
+              "title": "ATLAS experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Aleph (CERN)"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Magnetic Spectrometer"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha particle"
+            },
+            {
+              "ns": 0,
+              "title": "Antarctic Muon And Neutrino Detector Array"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Avalanche photodiode"
+            },
+            {
+              "ns": 0,
+              "title": "BaBar experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Beta particle"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Brookhaven National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Bryce DeWitt"
+            },
+            {
+              "ns": 0,
+              "title": "Bubble chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Budker Institute of Nuclear Physics"
+            },
+            {
+              "ns": 0,
+              "title": "CALICE"
+            },
+            {
+              "ns": 0,
+              "title": "CERN"
+            },
+            {
+              "ns": 0,
+              "title": "CLEO (particle detector)"
+            },
+            {
+              "ns": 0,
+              "title": "COMPASS experiment"
+            },
+            {
+              "ns": 0,
+              "title": "CUSB"
+            },
+            {
+              "ns": 0,
+              "title": "Calorimeter (particle physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Charge-coupled device"
+            },
+            {
+              "ns": 0,
+              "title": "Cherenkov detector"
+            },
+            {
+              "ns": 0,
+              "title": "Cloud chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Compact Muon Solenoid"
+            },
+            {
+              "ns": 0,
+              "title": "Condensation trails"
+            },
+            {
+              "ns": 0,
+              "title": "Cornell Electron Storage Ring"
+            },
+            {
+              "ns": 0,
+              "title": "Cornell University"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Counter (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Counting efficiency"
+            },
+            {
+              "ns": 0,
+              "title": "Cryogenic Dark Matter Search"
+            },
+            {
+              "ns": 0,
+              "title": "DAMPE"
+            },
+            {
+              "ns": 0,
+              "title": "DELPHI experiment"
+            },
+            {
+              "ns": 0,
+              "title": "DESY"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dosimeter"
+            },
+            {
+              "ns": 0,
+              "title": "Drift chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Electroscope"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary particle"
+            },
+            {
+              "ns": 0,
+              "title": "Fermi Gamma-ray Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Fermilab"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Gaseous ionization detector"
+            },
+            {
+              "ns": 0,
+              "title": "Geiger counter"
+            },
+            {
+              "ns": 0,
+              "title": "Geiger–Müller tube"
+            },
+            {
+              "ns": 0,
+              "title": "H1 (particle detector)"
+            },
+            {
+              "ns": 0,
+              "title": "HERA-B"
+            },
+            {
+              "ns": 0,
+              "title": "HERA (particle accelerator)"
+            },
+            {
+              "ns": 0,
+              "title": "HERMES experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Hermetic detector"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "International Linear Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization chamber"
+            },
+            {
+              "ns": 0,
+              "title": "JEDI"
+            },
+            {
+              "ns": 0,
+              "title": "L3 (CERN)"
+            },
+            {
+              "ns": 0,
+              "title": "LHCb"
+            },
+            {
+              "ns": 0,
+              "title": "Large Electron–Positron Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Large Hadron Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "List of particles"
+            },
+            {
+              "ns": 0,
+              "title": "Lucas cell"
+            },
+            {
+              "ns": 0,
+              "title": "Marlan Scully"
+            },
+            {
+              "ns": 0,
+              "title": "Microchannel plate detector"
+            },
+            {
+              "ns": 0,
+              "title": "Micropattern gaseous detector"
+            },
+            {
+              "ns": 0,
+              "title": "Mu2e"
+            },
+            {
+              "ns": 0,
+              "title": "Multiwire proportional chamber"
+            },
+            {
+              "ns": 0,
+              "title": "ND experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron detection"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear decay"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear emulsion"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "Onion"
+            },
+            {
+              "ns": 0,
+              "title": "Opal (CERN)"
+            },
+            {
+              "ns": 0,
+              "title": "PHENIX"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Particle"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Particle counter"
+            },
+            {
+              "ns": 0,
+              "title": "Particle physics"
+            },
+            {
+              "ns": 0,
+              "title": "Particles"
+            },
+            {
+              "ns": 0,
+              "title": "Phobos (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Photodiode"
+            },
+            {
+              "ns": 0,
+              "title": "Photographic plate"
+            },
+            {
+              "ns": 0,
+              "title": "Photomultiplier"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Proportional counter"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum optics"
+            },
+            {
+              "ns": 0,
+              "title": "RHIC"
+            },
+            {
+              "ns": 0,
+              "title": "Ring-imaging Cherenkov detector"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Clark Jones"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SLAC"
+            },
+            {
+              "ns": 0,
+              "title": "SND Experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Scintillation counter"
+            },
+            {
+              "ns": 0,
+              "title": "Scintillation detector"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor detector"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state nuclear track detector"
+            },
+            {
+              "ns": 0,
+              "title": "Spark chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Super-Kamiokande"
+            },
+            {
+              "ns": 0,
+              "title": "Super Proton Synchrotron"
+            },
+            {
+              "ns": 0,
+              "title": "Supersaturated"
+            },
+            {
+              "ns": 0,
+              "title": "Tail-pulse generator"
+            },
+            {
+              "ns": 0,
+              "title": "Tevatron"
+            },
+            {
+              "ns": 0,
+              "title": "Time-of-flight detector"
+            },
+            {
+              "ns": 0,
+              "title": "Time projection chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Transition radiation detector"
+            },
+            {
+              "ns": 0,
+              "title": "UC Irvine"
+            },
+            {
+              "ns": 0,
+              "title": "Unruh-DeWitt detector"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor"
+            },
+            {
+              "ns": 0,
+              "title": "W. G. Unruh"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "XENON"
+            },
+            {
+              "ns": 0,
+              "title": "ZEUS (particle detector)"
+            },
+            {
+              "ns": 0,
+              "title": "Čerenkov radiation"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324767.5164511
+}

@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "Wikipedia:Vital_articles/Level/3/Technology",
+          "to": "Wikipedia:Vital articles/Level/3/Technology"
+        }
+      ],
+      "pages": {
+        "22828952": {
+          "pageid": 22828952,
+          "ns": 4,
+          "title": "Wikipedia:Vital articles/Level/3/Technology"
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323560.6297193
+}

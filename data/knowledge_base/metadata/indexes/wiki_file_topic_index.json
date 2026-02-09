@@ -1,0 +1,327 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T20:09:26Z",
+  "root": "data/knowledge_base",
+  "files": [
+    {
+      "file_name": "Algorithm_d704d8af25.md",
+      "relative_path": "wiki_corpus/Algorithm_d704d8af25.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 37885,
+      "modified_utc": "2026-02-08T18:48:38Z"
+    },
+    {
+      "file_name": "Biology_aea1058d13.md",
+      "relative_path": "wiki_corpus/Biology_aea1058d13.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 72044,
+      "modified_utc": "2026-02-08T18:28:42Z"
+    },
+    {
+      "file_name": "Byte_6c19075dcb.md",
+      "relative_path": "wiki_corpus/Byte_6c19075dcb.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 24337,
+      "modified_utc": "2026-02-08T02:35:43Z"
+    },
+    {
+      "file_name": "CMYK color model_4cb1a61527.md",
+      "relative_path": "wiki_corpus/CMYK color model_4cb1a61527.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 12155,
+      "modified_utc": "2026-02-08T02:35:54Z"
+    },
+    {
+      "file_name": "Cadmium_37684c78a6.md",
+      "relative_path": "wiki_corpus/Cadmium_37684c78a6.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 35377,
+      "modified_utc": "2026-02-08T02:36:04Z"
+    },
+    {
+      "file_name": "Caesium_ef3caa4ac7.md",
+      "relative_path": "wiki_corpus/Caesium_ef3caa4ac7.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 47181,
+      "modified_utc": "2026-02-08T02:36:15Z"
+    },
+    {
+      "file_name": "Calcium carbonate_c2b48534e7.md",
+      "relative_path": "wiki_corpus/Calcium carbonate_c2b48534e7.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 39972,
+      "modified_utc": "2026-02-08T02:36:39Z"
+    },
+    {
+      "file_name": "Calcium chloride_9cec54bf3d.md",
+      "relative_path": "wiki_corpus/Calcium chloride_9cec54bf3d.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 29900,
+      "modified_utc": "2026-02-08T02:36:53Z"
+    },
+    {
+      "file_name": "Calcium_636f0dc2df.md",
+      "relative_path": "wiki_corpus/Calcium_636f0dc2df.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 39053,
+      "modified_utc": "2026-02-08T02:36:28Z"
+    },
+    {
+      "file_name": "Californium_b65a6a16e7.md",
+      "relative_path": "wiki_corpus/Californium_b65a6a16e7.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 24987,
+      "modified_utc": "2026-02-08T02:37:04Z"
+    },
+    {
+      "file_name": "Callisto (moon)_e1f4a48479.md",
+      "relative_path": "wiki_corpus/Callisto (moon)_e1f4a48479.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 42694,
+      "modified_utc": "2026-02-08T02:37:16Z"
+    },
+    {
+      "file_name": "Calorie_9fc980db2e.md",
+      "relative_path": "wiki_corpus/Calorie_9fc980db2e.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 8974,
+      "modified_utc": "2026-02-08T02:37:27Z"
+    },
+    {
+      "file_name": "Cambrian explosion_6a237e732f.md",
+      "relative_path": "wiki_corpus/Cambrian explosion_6a237e732f.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 67919,
+      "modified_utc": "2026-02-08T02:37:49Z"
+    },
+    {
+      "file_name": "Cambrian_c42c883abc.md",
+      "relative_path": "wiki_corpus/Cambrian_c42c883abc.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 49310,
+      "modified_utc": "2026-02-08T02:37:39Z"
+    },
+    {
+      "file_name": "Canis Major_87bae70ed7.md",
+      "relative_path": "wiki_corpus/Canis Major_87bae70ed7.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 32800,
+      "modified_utc": "2026-02-08T02:38:00Z"
+    },
+    {
+      "file_name": "Canopus_26cfd0a878.md",
+      "relative_path": "wiki_corpus/Canopus_26cfd0a878.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 37919,
+      "modified_utc": "2026-02-08T02:38:10Z"
+    },
+    {
+      "file_name": "Canyon_5ab895c8cc.md",
+      "relative_path": "wiki_corpus/Canyon_5ab895c8cc.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 24750,
+      "modified_utc": "2026-02-08T02:38:23Z"
+    },
+    {
+      "file_name": "Capacitance_c71f35c1d8.md",
+      "relative_path": "wiki_corpus/Capacitance_c71f35c1d8.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 43082,
+      "modified_utc": "2026-02-08T03:08:04Z"
+    },
+    {
+      "file_name": "Capella_498d713c58.md",
+      "relative_path": "wiki_corpus/Capella_498d713c58.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 34445,
+      "modified_utc": "2026-02-08T03:08:15Z"
+    },
+    {
+      "file_name": "Carbon dioxide_e6b7055451.md",
+      "relative_path": "wiki_corpus/Carbon dioxide_e6b7055451.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 74762,
+      "modified_utc": "2026-02-08T03:08:40Z"
+    },
+    {
+      "file_name": "Carbon monoxide_ceae486c09.md",
+      "relative_path": "wiki_corpus/Carbon monoxide_ceae486c09.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 50188,
+      "modified_utc": "2026-02-08T03:08:54Z"
+    },
+    {
+      "file_name": "Carbon nanotube_fd57891b5e.md",
+      "relative_path": "wiki_corpus/Carbon nanotube_fd57891b5e.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 80043,
+      "modified_utc": "2026-02-08T03:09:04Z"
+    },
+    {
+      "file_name": "Carbon_694c87c2e0.md",
+      "relative_path": "wiki_corpus/Carbon_694c87c2e0.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 58770,
+      "modified_utc": "2026-02-08T03:08:27Z"
+    },
+    {
+      "file_name": "Carbonate_230ec70c17.md",
+      "relative_path": "wiki_corpus/Carbonate_230ec70c17.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 13004,
+      "modified_utc": "2026-02-08T03:09:15Z"
+    },
+    {
+      "file_name": "Carboxylic acid_5e4c44994c.md",
+      "relative_path": "wiki_corpus/Carboxylic acid_5e4c44994c.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 36335,
+      "modified_utc": "2026-02-08T03:09:28Z"
+    },
+    {
+      "file_name": "Carina Nebula_9b0b787173.md",
+      "relative_path": "wiki_corpus/Carina Nebula_9b0b787173.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 23509,
+      "modified_utc": "2026-02-08T03:09:40Z"
+    },
+    {
+      "file_name": "Cassiopeia (constellation)_35b96be542.md",
+      "relative_path": "wiki_corpus/Cassiopeia (constellation)_35b96be542.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 30077,
+      "modified_utc": "2026-02-08T03:09:52Z"
+    },
+    {
+      "file_name": "Cast iron_557791bbea.md",
+      "relative_path": "wiki_corpus/Cast iron_557791bbea.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 25468,
+      "modified_utc": "2026-02-08T03:10:05Z"
+    },
+    {
+      "file_name": "Catalysis_23e7e2cd8f.md",
+      "relative_path": "wiki_corpus/Catalysis_23e7e2cd8f.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 36038,
+      "modified_utc": "2026-02-08T03:10:19Z"
+    },
+    {
+      "file_name": "Cave_9530bfe0e8.md",
+      "relative_path": "wiki_corpus/Cave_9530bfe0e8.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 36390,
+      "modified_utc": "2026-02-08T03:10:29Z"
+    },
+    {
+      "file_name": "Celestial mechanics_d34c682bea.md",
+      "relative_path": "wiki_corpus/Celestial mechanics_d34c682bea.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 24316,
+      "modified_utc": "2026-02-08T03:10:39Z"
+    },
+    {
+      "file_name": "Celestial sphere_bbee03494e.md",
+      "relative_path": "wiki_corpus/Celestial sphere_bbee03494e.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 15108,
+      "modified_utc": "2026-02-08T03:10:50Z"
+    },
+    {
+      "file_name": "Cell (biology)_1356180320.md",
+      "relative_path": "wiki_corpus/Cell (biology)_1356180320.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 48678,
+      "modified_utc": "2026-02-08T18:46:06Z"
+    },
+    {
+      "file_name": "Celsius_618a6bf55b.md",
+      "relative_path": "wiki_corpus/Celsius_618a6bf55b.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 16066,
+      "modified_utc": "2026-02-08T03:10:59Z"
+    },
+    {
+      "file_name": "Computer science_641ab14293.md",
+      "relative_path": "wiki_corpus/Computer science_641ab14293.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 44807,
+      "modified_utc": "2026-02-08T18:47:49Z"
+    },
+    {
+      "file_name": "Evolution_160a7e25da.md",
+      "relative_path": "wiki_corpus/Evolution_160a7e25da.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 91702,
+      "modified_utc": "2026-02-08T18:46:58Z"
+    },
+    {
+      "file_name": "Genetics_1960156c36.md",
+      "relative_path": "wiki_corpus/Genetics_1960156c36.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 52950,
+      "modified_utc": "2026-02-08T18:29:39Z"
+    },
+    {
+      "file_name": "Operating system_0fcabfe6e0.json",
+      "relative_path": "wiki_corpus/Operating system_0fcabfe6e0.json",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 52613,
+      "modified_utc": "2026-02-08T18:49:34Z"
+    },
+    {
+      "file_name": "Operating system_0fcabfe6e0.md",
+      "relative_path": "wiki_corpus/Operating system_0fcabfe6e0.md",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 50010,
+      "modified_utc": "2026-02-08T18:49:34Z"
+    },
+    {
+      "file_name": "visited.txt",
+      "relative_path": "wiki_corpus/visited.txt",
+      "topic_type": "wiki_corpus",
+      "source_type": "wiki_corpus",
+      "size_bytes": 1877,
+      "modified_utc": "2026-02-08T18:49:33Z"
+    }
+  ]
+}

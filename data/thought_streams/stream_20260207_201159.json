@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-07T20:11:59.460171",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-07T20:11:56.457426",
+      "type": "decision",
+      "content": "Chat style set to hybrid",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 56,
+    "analysis": 0,
+    "decision": 2,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 2,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

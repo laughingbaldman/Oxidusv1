@@ -1,0 +1,637 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1418": {
+          "pageid": 1418,
+          "ns": 0,
+          "title": "Absolute zero",
+          "links": [
+            {
+              "ns": 0,
+              "title": "90377 Sedna"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute Zero (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Adiabatic expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Antoine Lavoisier"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical unit"
+            },
+            {
+              "ns": 0,
+              "title": "Atmospheric refraction"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boltzmann constant"
+            },
+            {
+              "ns": 0,
+              "title": "Boomerang Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Bose–Einstein condensate"
+            },
+            {
+              "ns": 0,
+              "title": "Bose–Einstein condensation"
+            },
+            {
+              "ns": 0,
+              "title": "Bose–Einstein statistics"
+            },
+            {
+              "ns": 0,
+              "title": "CUORE"
+            },
+            {
+              "ns": 0,
+              "title": "Celsius"
+            },
+            {
+              "ns": 0,
+              "title": "Charles's law"
+            },
+            {
+              "ns": 0,
+              "title": "Charles Kittel"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical potential"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Classical element"
+            },
+            {
+              "ns": 0,
+              "title": "Cold Atom Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic microwave background"
+            },
+            {
+              "ns": 0,
+              "title": "Cryocooler"
+            },
+            {
+              "ns": 0,
+              "title": "Debye model"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate matter"
+            },
+            {
+              "ns": 0,
+              "title": "Degrees of freedom (physics and chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Derivative"
+            },
+            {
+              "ns": 0,
+              "title": "Dilution refrigerator"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein solid"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Empiricism"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Endothermic"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy"
+            },
+            {
+              "ns": 0,
+              "title": "Entropy"
+            },
+            {
+              "ns": 0,
+              "title": "Entropy (statistical thermodynamics)"
+            },
+            {
+              "ns": 0,
+              "title": "Equipartition theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Espoo"
+            },
+            {
+              "ns": 0,
+              "title": "European Space Agency"
+            },
+            {
+              "ns": 0,
+              "title": "Evaporative cooling (atomic physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Exothermic"
+            },
+            {
+              "ns": 0,
+              "title": "Fahrenheit"
+            },
+            {
+              "ns": 0,
+              "title": "Fahrenheit scale"
+            },
+            {
+              "ns": 0,
+              "title": "Femto-"
+            },
+            {
+              "ns": 0,
+              "title": "Fermi energy"
+            },
+            {
+              "ns": 0,
+              "title": "Fermi gas"
+            },
+            {
+              "ns": 0,
+              "title": "Fermion"
+            },
+            {
+              "ns": 0,
+              "title": "Fermi–Dirac statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Finland"
+            },
+            {
+              "ns": 0,
+              "title": "Future of an expanding universe"
+            },
+            {
+              "ns": 0,
+              "title": "Gas thermometer"
+            },
+            {
+              "ns": 0,
+              "title": "George Martine (physician)"
+            },
+            {
+              "ns": 0,
+              "title": "Gibbs free energy"
+            },
+            {
+              "ns": 0,
+              "title": "Guillaume Amontons"
+            },
+            {
+              "ns": 0,
+              "title": "Hagedorn temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Hampson–Linde cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Heat"
+            },
+            {
+              "ns": 0,
+              "title": "Heike Kamerlingh Onnes"
+            },
+            {
+              "ns": 0,
+              "title": "Heisenberg uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "Helium"
+            },
+            {
+              "ns": 0,
+              "title": "Helsinki University of Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Henri Victor Regnault"
+            },
+            {
+              "ns": 0,
+              "title": "Herbert Kroemer"
+            },
+            {
+              "ns": 0,
+              "title": "Hugh Chisholm"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ideal gas"
+            },
+            {
+              "ns": 0,
+              "title": "Ideal gas law"
+            },
+            {
+              "ns": 0,
+              "title": "Internal energy"
+            },
+            {
+              "ns": 0,
+              "title": "International Space Station"
+            },
+            {
+              "ns": 0,
+              "title": "International Temperature Scale of 1990"
+            },
+            {
+              "ns": 0,
+              "title": "Isentropic process"
+            },
+            {
+              "ns": 0,
+              "title": "Jacques Charles"
+            },
+            {
+              "ns": 0,
+              "title": "James Dewar"
+            },
+            {
+              "ns": 0,
+              "title": "James Prescott Joule"
+            },
+            {
+              "ns": 0,
+              "title": "Johann Heinrich Lambert"
+            },
+            {
+              "ns": 0,
+              "title": "Johannes Diderik van der Waals"
+            },
+            {
+              "ns": 0,
+              "title": "John Dalton"
+            },
+            {
+              "ns": 0,
+              "title": "John Frederick Stanford"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Louis Gay-Lussac"
+            },
+            {
+              "ns": 0,
+              "title": "Karol Olszewski"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin scale"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic energy"
+            },
+            {
+              "ns": 0,
+              "title": "LMU Munich"
+            },
+            {
+              "ns": 0,
+              "title": "Laboratori Nazionali del Gran Sasso"
+            },
+            {
+              "ns": 0,
+              "title": "Laser cooling"
+            },
+            {
+              "ns": 0,
+              "title": "Laws of physics"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid air"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid helium"
+            },
+            {
+              "ns": 0,
+              "title": "List of NOVA episodes"
+            },
+            {
+              "ns": 0,
+              "title": "Lord Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Louis Paul Cailletet"
+            },
+            {
+              "ns": 0,
+              "title": "Lowest temperature recorded on Earth"
+            },
+            {
+              "ns": 0,
+              "title": "MIT"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic refrigeration"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell relations"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell–Boltzmann statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Faraday"
+            },
+            {
+              "ns": 0,
+              "title": "Microgravity"
+            },
+            {
+              "ns": 0,
+              "title": "Microstate (statistical mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Negative temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Negative thermodynamic temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Nernst heat theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Nicolas Léonard Sadi Carnot"
+            },
+            {
+              "ns": 0,
+              "title": "Nitre"
+            },
+            {
+              "ns": 0,
+              "title": "Nobel Prize"
+            },
+            {
+              "ns": 0,
+              "title": "Nova (American TV series)"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear spin"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Orders of magnitude (temperature)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Pauli exclusion principle"
+            },
+            {
+              "ns": 0,
+              "title": "Phenomena"
+            },
+            {
+              "ns": 0,
+              "title": "Picokelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Pierre-Simon Laplace"
+            },
+            {
+              "ns": 0,
+              "title": "Planck temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Potential energy"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum harmonic oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Rankine scale"
+            },
+            {
+              "ns": 0,
+              "title": "Raoul Pictet"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Boyle"
+            },
+            {
+              "ns": 0,
+              "title": "Rubidium"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Simon Newcomb"
+            },
+            {
+              "ns": 0,
+              "title": "Specific heat capacity"
+            },
+            {
+              "ns": 0,
+              "title": "Spin (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Superfluidity"
+            },
+            {
+              "ns": 0,
+              "title": "Superfluids"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic equilibrium"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Third law of thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of low-temperature technology"
+            },
+            {
+              "ns": 0,
+              "title": "Triple point"
+            },
+            {
+              "ns": 0,
+              "title": "Ultracold atom"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "University of Bremen"
+            },
+            {
+              "ns": 0,
+              "title": "University of Hannover"
+            },
+            {
+              "ns": 0,
+              "title": "Velocities"
+            },
+            {
+              "ns": 0,
+              "title": "W. H. Freeman"
+            },
+            {
+              "ns": 0,
+              "title": "William Thomson, 1st Baron Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-point energy"
+            },
+            {
+              "ns": 0,
+              "title": "Zygmunt Wróblewski"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323561.8901849
+}

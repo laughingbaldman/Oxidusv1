@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T00:00:00Z",
+  "weights": {
+    "recency": 0.25,
+    "source_quality": 0.3,
+    "curation_level": 0.25,
+    "topic_match": 0.2
+  }
+}

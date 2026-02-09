@@ -1,0 +1,977 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "3364": {
+          "pageid": 3364,
+          "ns": 0,
+          "title": "Bit",
+          "links": [
+            {
+              "ns": 0,
+              "title": "A Mathematical Theory of Communication"
+            },
+            {
+              "ns": 0,
+              "title": "Abstract data type"
+            },
+            {
+              "ns": 0,
+              "title": "Addison-Wesley Publishing Company, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Address space"
+            },
+            {
+              "ns": 0,
+              "title": "Algebraic data type"
+            },
+            {
+              "ns": 0,
+              "title": "Algorithmic information theory"
+            },
+            {
+              "ns": 0,
+              "title": "Alphanumeric"
+            },
+            {
+              "ns": 0,
+              "title": "Any type"
+            },
+            {
+              "ns": 0,
+              "title": "Arbitrary-precision arithmetic"
+            },
+            {
+              "ns": 0,
+              "title": "Array (data type)"
+            },
+            {
+              "ns": 0,
+              "title": "Associative array"
+            },
+            {
+              "ns": 0,
+              "title": "Bar code"
+            },
+            {
+              "ns": 0,
+              "title": "Basile Bouchon"
+            },
+            {
+              "ns": 0,
+              "title": "Baud"
+            },
+            {
+              "ns": 0,
+              "title": "Bell System Technical Journal"
+            },
+            {
+              "ns": 0,
+              "title": "Bfloat16 floating-point format"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binary number"
+            },
+            {
+              "ns": 0,
+              "title": "Binary numeral system"
+            },
+            {
+              "ns": 0,
+              "title": "Binary prefix"
+            },
+            {
+              "ns": 0,
+              "title": "Bit (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Bit array"
+            },
+            {
+              "ns": 0,
+              "title": "Bit rate"
+            },
+            {
+              "ns": 0,
+              "title": "Bit string"
+            },
+            {
+              "ns": 0,
+              "title": "Bite"
+            },
+            {
+              "ns": 0,
+              "title": "Bitstream"
+            },
+            {
+              "ns": 0,
+              "title": "Bitwise operation"
+            },
+            {
+              "ns": 0,
+              "title": "Block floating point"
+            },
+            {
+              "ns": 0,
+              "title": "Boolean data type"
+            },
+            {
+              "ns": 0,
+              "title": "Bottom type"
+            },
+            {
+              "ns": 0,
+              "title": "Boxing (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Byte"
+            },
+            {
+              "ns": 0,
+              "title": "Byte Magazine"
+            },
+            {
+              "ns": 0,
+              "title": "C (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Channel capacity"
+            },
+            {
+              "ns": 0,
+              "title": "Character (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Charles Babbage"
+            },
+            {
+              "ns": 0,
+              "title": "Class (programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Claude E. Shannon"
+            },
+            {
+              "ns": 0,
+              "title": "Claude Elwood Shannon"
+            },
+            {
+              "ns": 0,
+              "title": "Communication"
+            },
+            {
+              "ns": 0,
+              "title": "Communications of the ACM"
+            },
+            {
+              "ns": 0,
+              "title": "Complex data type"
+            },
+            {
+              "ns": 0,
+              "title": "Composite data type"
+            },
+            {
+              "ns": 0,
+              "title": "Computer architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Computer program"
+            },
+            {
+              "ns": 0,
+              "title": "Computing"
+            },
+            {
+              "ns": 0,
+              "title": "Computing device"
+            },
+            {
+              "ns": 0,
+              "title": "Container (abstract data type)"
+            },
+            {
+              "ns": 0,
+              "title": "Credit card"
+            },
+            {
+              "ns": 0,
+              "title": "DNA"
+            },
+            {
+              "ns": 0,
+              "title": "Data compression"
+            },
+            {
+              "ns": 0,
+              "title": "Data storage device"
+            },
+            {
+              "ns": 0,
+              "title": "Data structure"
+            },
+            {
+              "ns": 0,
+              "title": "Data type"
+            },
+            {
+              "ns": 0,
+              "title": "Decimal"
+            },
+            {
+              "ns": 0,
+              "title": "Decimal data type"
+            },
+            {
+              "ns": 0,
+              "title": "Decimal digit"
+            },
+            {
+              "ns": 0,
+              "title": "Dependent type"
+            },
+            {
+              "ns": 0,
+              "title": "Disk storage"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Double-precision floating-point format"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic Random Access Memory"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic random-access memory"
+            },
+            {
+              "ns": 0,
+              "title": "Electric charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical polarity"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical relay"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Elevator"
+            },
+            {
+              "ns": 0,
+              "title": "Empty type"
+            },
+            {
+              "ns": 0,
+              "title": "Entropy (information theory)"
+            },
+            {
+              "ns": 0,
+              "title": "Enumerated type"
+            },
+            {
+              "ns": 0,
+              "title": "Error detection and correction"
+            },
+            {
+              "ns": 0,
+              "title": "Exception handling"
+            },
+            {
+              "ns": 0,
+              "title": "Extended precision"
+            },
+            {
+              "ns": 0,
+              "title": "Ferromagnetic"
+            },
+            {
+              "ns": 0,
+              "title": "Fixed-point arithmetic"
+            },
+            {
+              "ns": 0,
+              "title": "Flip-flop (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Floating-gate MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Floating-point arithmetic"
+            },
+            {
+              "ns": 0,
+              "title": "Frederick Phillips Brooks, Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Function type"
+            },
+            {
+              "ns": 0,
+              "title": "Fuzzy bit"
+            },
+            {
+              "ns": 0,
+              "title": "Generalized algebraic data type"
+            },
+            {
+              "ns": 0,
+              "title": "Generic programming"
+            },
+            {
+              "ns": 0,
+              "title": "Gerrit Anne Blaauw"
+            },
+            {
+              "ns": 0,
+              "title": "Gigabyte"
+            },
+            {
+              "ns": 0,
+              "title": "Half-precision floating-point format"
+            },
+            {
+              "ns": 0,
+              "title": "Hartley (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Herman Hollerith"
+            },
+            {
+              "ns": 0,
+              "title": "Hextet"
+            },
+            {
+              "ns": 0,
+              "title": "IBM"
+            },
+            {
+              "ns": 0,
+              "title": "IBM STRETCH"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Stretch"
+            },
+            {
+              "ns": 0,
+              "title": "IBM System 360"
+            },
+            {
+              "ns": 0,
+              "title": "IEC 60027"
+            },
+            {
+              "ns": 0,
+              "title": "IEC 80000-13"
+            },
+            {
+              "ns": 0,
+              "title": "IEEE 1541-2002"
+            },
+            {
+              "ns": 0,
+              "title": "IEEE Std 260.1-2004"
+            },
+            {
+              "ns": 0,
+              "title": "IRE Transactions on Electronic Computers"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Inductive type"
+            },
+            {
+              "ns": 0,
+              "title": "Information entropy"
+            },
+            {
+              "ns": 0,
+              "title": "Information theory"
+            },
+            {
+              "ns": 0,
+              "title": "Integer (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Interface (object-oriented programming)"
+            },
+            {
+              "ns": 0,
+              "title": "International Electrotechnical Commission"
+            },
+            {
+              "ns": 0,
+              "title": "International System of Units"
+            },
+            {
+              "ns": 0,
+              "title": "Intersection type"
+            },
+            {
+              "ns": 0,
+              "title": "Interval arithmetic"
+            },
+            {
+              "ns": 0,
+              "title": "Intuitionistic type theory"
+            },
+            {
+              "ns": 0,
+              "title": "Irradiance"
+            },
+            {
+              "ns": 0,
+              "title": "JEDEC memory standards"
+            },
+            {
+              "ns": 0,
+              "title": "John W. Tukey"
+            },
+            {
+              "ns": 0,
+              "title": "John Wilder Tukey"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Marie Jacquard"
+            },
+            {
+              "ns": 0,
+              "title": "Kilo-"
+            },
+            {
+              "ns": 0,
+              "title": "Kilobit"
+            },
+            {
+              "ns": 0,
+              "title": "Kilobyte"
+            },
+            {
+              "ns": 0,
+              "title": "Kind (type theory)"
+            },
+            {
+              "ns": 0,
+              "title": "LCCN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "List (abstract data type)"
+            },
+            {
+              "ns": 0,
+              "title": "Logic gate"
+            },
+            {
+              "ns": 0,
+              "title": "Long double"
+            },
+            {
+              "ns": 0,
+              "title": "MBIT"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic-core memory"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic bubble memory"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic core"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic drum"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic storage"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic strip"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic tape"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetism"
+            },
+            {
+              "ns": 0,
+              "title": "McGraw-Hill"
+            },
+            {
+              "ns": 0,
+              "title": "McGraw-Hill Book Company"
+            },
+            {
+              "ns": 0,
+              "title": "McGraw-Hill Book Company, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Megabit"
+            },
+            {
+              "ns": 0,
+              "title": "Megabyte"
+            },
+            {
+              "ns": 0,
+              "title": "Memory address"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury delay line"
+            },
+            {
+              "ns": 0,
+              "title": "Metaclass"
+            },
+            {
+              "ns": 0,
+              "title": "Metaobject"
+            },
+            {
+              "ns": 0,
+              "title": "Metric prefix"
+            },
+            {
+              "ns": 0,
+              "title": "Microscopic"
+            },
+            {
+              "ns": 0,
+              "title": "Minifloat"
+            },
+            {
+              "ns": 0,
+              "title": "Morse code"
+            },
+            {
+              "ns": 0,
+              "title": "Nat (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Natural logarithm"
+            },
+            {
+              "ns": 0,
+              "title": "Nibble"
+            },
+            {
+              "ns": 0,
+              "title": "Null-terminated string"
+            },
+            {
+              "ns": 0,
+              "title": "Object (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Octet (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Octuple-precision floating-point format"
+            },
+            {
+              "ns": 0,
+              "title": "Opaque data type"
+            },
+            {
+              "ns": 0,
+              "title": "Optical disc"
+            },
+            {
+              "ns": 0,
+              "title": "Option type"
+            },
+            {
+              "ns": 0,
+              "title": "Orders of magnitude (data)"
+            },
+            {
+              "ns": 0,
+              "title": "Paper tape"
+            },
+            {
+              "ns": 0,
+              "title": "Parallel transmission"
+            },
+            {
+              "ns": 0,
+              "title": "Parametric polymorphism"
+            },
+            {
+              "ns": 0,
+              "title": "Photolithographic"
+            },
+            {
+              "ns": 0,
+              "title": "Physical address"
+            },
+            {
+              "ns": 0,
+              "title": "Plain text"
+            },
+            {
+              "ns": 0,
+              "title": "Pointer (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Portmanteau"
+            },
+            {
+              "ns": 0,
+              "title": "Primitive data type"
+            },
+            {
+              "ns": 0,
+              "title": "Product type"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable logic array"
+            },
+            {
+              "ns": 0,
+              "title": "Punched card"
+            },
+            {
+              "ns": 0,
+              "title": "QR codes"
+            },
+            {
+              "ns": 0,
+              "title": "Quadruple-precision floating-point format"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum information"
+            },
+            {
+              "ns": 0,
+              "title": "Qubit"
+            },
+            {
+              "ns": 0,
+              "title": "Qudit"
+            },
+            {
+              "ns": 0,
+              "title": "Quetta-"
+            },
+            {
+              "ns": 0,
+              "title": "Quettabit"
+            },
+            {
+              "ns": 0,
+              "title": "Qutrit"
+            },
+            {
+              "ns": 0,
+              "title": "Ralph Hartley"
+            },
+            {
+              "ns": 0,
+              "title": "Rapid transit"
+            },
+            {
+              "ns": 0,
+              "title": "Rational data type"
+            },
+            {
+              "ns": 0,
+              "title": "Read-only memory"
+            },
+            {
+              "ns": 0,
+              "title": "Record (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Recursive data type"
+            },
+            {
+              "ns": 0,
+              "title": "Reference (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Refinement type"
+            },
+            {
+              "ns": 0,
+              "title": "Robert William Bemer"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Semaphore (programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor memory"
+            },
+            {
+              "ns": 0,
+              "title": "Semyon Korsakov"
+            },
+            {
+              "ns": 0,
+              "title": "Serial adder"
+            },
+            {
+              "ns": 0,
+              "title": "Serial computer"
+            },
+            {
+              "ns": 0,
+              "title": "Serial transmission"
+            },
+            {
+              "ns": 0,
+              "title": "Set (abstract data type)"
+            },
+            {
+              "ns": 0,
+              "title": "Shannon (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Signedness"
+            },
+            {
+              "ns": 0,
+              "title": "Single-precision floating-point format"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state drive"
+            },
+            {
+              "ns": 0,
+              "title": "State (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Stream (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "String (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Strongly typed identifier"
+            },
+            {
+              "ns": 0,
+              "title": "Subtyping"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Syllable (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "System/360"
+            },
+            {
+              "ns": 0,
+              "title": "TBIT"
+            },
+            {
+              "ns": 0,
+              "title": "Tagged union"
+            },
+            {
+              "ns": 0,
+              "title": "Telephone switches"
+            },
+            {
+              "ns": 0,
+              "title": "Teleprinter"
+            },
+            {
+              "ns": 0,
+              "title": "Ternary numeral system"
+            },
+            {
+              "ns": 0,
+              "title": "Traffic light"
+            },
+            {
+              "ns": 0,
+              "title": "Truth value"
+            },
+            {
+              "ns": 0,
+              "title": "Type class"
+            },
+            {
+              "ns": 0,
+              "title": "Type constructor"
+            },
+            {
+              "ns": 0,
+              "title": "Type conversion"
+            },
+            {
+              "ns": 0,
+              "title": "Type system"
+            },
+            {
+              "ns": 0,
+              "title": "Type theory"
+            },
+            {
+              "ns": 0,
+              "title": "Union type"
+            },
+            {
+              "ns": 0,
+              "title": "Unit of information"
+            },
+            {
+              "ns": 0,
+              "title": "Unit of measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Unit type"
+            },
+            {
+              "ns": 0,
+              "title": "Units of information"
+            },
+            {
+              "ns": 0,
+              "title": "University of Illinois Press"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Value (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Variable (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual address space"
+            },
+            {
+              "ns": 0,
+              "title": "Void type"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Warren Weaver"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Werner Buchholz"
+            },
+            {
+              "ns": 0,
+              "title": "Word (computer architecture)"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770509239.134668
+}

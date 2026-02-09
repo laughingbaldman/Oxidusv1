@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "2508": {
+          "pageid": 2508,
+          "ns": 0,
+          "title": "Artillery",
+          "links": [
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "World war"
+            },
+            {
+              "ns": 0,
+              "title": "Worm (artillery)"
+            },
+            {
+              "ns": 0,
+              "title": "Wrought-iron"
+            },
+            {
+              "ns": 0,
+              "title": "XM2001 Crusader"
+            },
+            {
+              "ns": 0,
+              "title": "Zamburak"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669698.8876736
+}

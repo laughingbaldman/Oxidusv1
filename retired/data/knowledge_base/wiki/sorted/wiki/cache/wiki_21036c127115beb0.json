@@ -1,0 +1,153 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25239": {
+          "pageid": 25239,
+          "ns": 0,
+          "title": "Quasar",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ULAS J1120+0641"
+            },
+            {
+              "ns": 0,
+              "title": "ULAS J1342+0928"
+            },
+            {
+              "ns": 0,
+              "title": "ULIRG"
+            },
+            {
+              "ns": 0,
+              "title": "Uhuru (satellite)"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra diffuse galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Ultramassive black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Unbarred lenticular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Unbarred spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Universe"
+            },
+            {
+              "ns": 0,
+              "title": "University of Nottingham"
+            },
+            {
+              "ns": 0,
+              "title": "Vertebrate"
+            },
+            {
+              "ns": 0,
+              "title": "Very-long-baseline interferometry"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Visible light"
+            },
+            {
+              "ns": 0,
+              "title": "Void (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Void galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "W. M. Keck Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Watt"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "White dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "White hole"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf-Rayet galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Wormhole"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray binary"
+            },
+            {
+              "ns": 0,
+              "title": "X-shaped radio galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "XTE J1118+480"
+            },
+            {
+              "ns": 0,
+              "title": "XTE J1650-500"
+            },
+            {
+              "ns": 0,
+              "title": "Yakov Zeldovich"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329111.5618489
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-09T13:47:27.401235",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:47:27.400234",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Attack aircraft'? (source: Attack aircraft)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 119,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 3,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

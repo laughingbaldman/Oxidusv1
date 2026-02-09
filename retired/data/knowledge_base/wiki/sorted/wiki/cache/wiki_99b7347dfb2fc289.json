@@ -1,0 +1,509 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "23473595": {
+          "pageid": 23473595,
+          "ns": 0,
+          "title": "Light-year",
+          "links": [
+            {
+              "ns": 0,
+              "title": "3C 273"
+            },
+            {
+              "ns": 0,
+              "title": "61 Cygni"
+            },
+            {
+              "ns": 0,
+              "title": "A0620-00"
+            },
+            {
+              "ns": 0,
+              "title": "Age of the universe"
+            },
+            {
+              "ns": 0,
+              "title": "Andromeda Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arthur Eddington"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical Almanac"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical constant"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical distance"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical system of units"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical unit"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Bright giant"
+            },
+            {
+              "ns": 0,
+              "title": "Canopus"
+            },
+            {
+              "ns": 0,
+              "title": "Clabon Allen"
+            },
+            {
+              "ns": 0,
+              "title": "Coherent units"
+            },
+            {
+              "ns": 0,
+              "title": "Comoving distance"
+            },
+            {
+              "ns": 0,
+              "title": "Conversion of units"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic distance ladder"
+            },
+            {
+              "ns": 0,
+              "title": "D. Harold McNamara"
+            },
+            {
+              "ns": 0,
+              "title": "David Mermin"
+            },
+            {
+              "ns": 0,
+              "title": "Distance measure"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Earth radius (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein protocol"
+            },
+            {
+              "ns": 0,
+              "title": "Elena Deza"
+            },
+            {
+              "ns": 0,
+              "title": "Ephemeris second"
+            },
+            {
+              "ns": 0,
+              "title": "Friedrich Bessel"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia BH1"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic Center"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy groups and clusters"
+            },
+            {
+              "ns": 0,
+              "title": "Gigaparsec"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 581"
+            },
+            {
+              "ns": 0,
+              "title": "Globular cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Great Attractor"
+            },
+            {
+              "ns": 0,
+              "title": "Great Wall (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Gregorian calendar"
+            },
+            {
+              "ns": 0,
+              "title": "Hayden Planetarium"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Heliometer"
+            },
+            {
+              "ns": 0,
+              "title": "Hercules–Corona Borealis Great Wall"
+            },
+            {
+              "ns": 0,
+              "title": "Hill sphere"
+            },
+            {
+              "ns": 0,
+              "title": "Hippolyte Fizeau"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble's law"
+            },
+            {
+              "ns": 0,
+              "title": "Huygens probe"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISO 80000"
+            },
+            {
+              "ns": 0,
+              "title": "Imperial units"
+            },
+            {
+              "ns": 0,
+              "title": "International Astronomical Union"
+            },
+            {
+              "ns": 0,
+              "title": "International System of Units"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar medium"
+            },
+            {
+              "ns": 0,
+              "title": "J1900.0"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph von Fraunhofer"
+            },
+            {
+              "ns": 0,
+              "title": "Julian year (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "KEK"
+            },
+            {
+              "ns": 0,
+              "title": "Kiloparsec"
+            },
+            {
+              "ns": 0,
+              "title": "Large Magellanic Cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Length"
+            },
+            {
+              "ns": 0,
+              "title": "Light-second"
+            },
+            {
+              "ns": 0,
+              "title": "Light year (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Long and short scales"
+            },
+            {
+              "ns": 0,
+              "title": "Luminiferous aether"
+            },
+            {
+              "ns": 0,
+              "title": "Luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Lunar distance"
+            },
+            {
+              "ns": 0,
+              "title": "Léon Foucault"
+            },
+            {
+              "ns": 0,
+              "title": "Megaparsec"
+            },
+            {
+              "ns": 0,
+              "title": "Messier object"
+            },
+            {
+              "ns": 0,
+              "title": "Metre"
+            },
+            {
+              "ns": 0,
+              "title": "Metric system"
+            },
+            {
+              "ns": 0,
+              "title": "Mile"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way"
+            },
+            {
+              "ns": 0,
+              "title": "MoM-z14"
+            },
+            {
+              "ns": 0,
+              "title": "Moon"
+            },
+            {
+              "ns": 0,
+              "title": "NASA"
+            },
+            {
+              "ns": 0,
+              "title": "Nanosecond"
+            },
+            {
+              "ns": 0,
+              "title": "New Horizons"
+            },
+            {
+              "ns": 0,
+              "title": "Observable universe"
+            },
+            {
+              "ns": 0,
+              "title": "Oort cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Orders of magnitude (length)"
+            },
+            {
+              "ns": 0,
+              "title": "Parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Parsec"
+            },
+            {
+              "ns": 0,
+              "title": "Petametre"
+            },
+            {
+              "ns": 0,
+              "title": "Pluto"
+            },
+            {
+              "ns": 0,
+              "title": "Popular science"
+            },
+            {
+              "ns": 0,
+              "title": "Proxima Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Public understanding of science"
+            },
+            {
+              "ns": 0,
+              "title": "Quasar"
+            },
+            {
+              "ns": 0,
+              "title": "R136a1"
+            },
+            {
+              "ns": 0,
+              "title": "Radius"
+            },
+            {
+              "ns": 0,
+              "title": "Roche sphere"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Saturn"
+            },
+            {
+              "ns": 0,
+              "title": "Significant digits"
+            },
+            {
+              "ns": 0,
+              "title": "Simon Newcomb"
+            },
+            {
+              "ns": 0,
+              "title": "Sirius"
+            },
+            {
+              "ns": 0,
+              "title": "Sloan Great Wall"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solar radius"
+            },
+            {
+              "ns": 0,
+              "title": "Space probe"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral arm"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star system"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "System of units of measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Tau Ceti"
+            },
+            {
+              "ns": 0,
+              "title": "Tau Ceti e"
+            },
+            {
+              "ns": 0,
+              "title": "Titan (moon)"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulum Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Tropical year"
+            },
+            {
+              "ns": 0,
+              "title": "Unit of length"
+            },
+            {
+              "ns": 0,
+              "title": "Unit of time"
+            },
+            {
+              "ns": 0,
+              "title": "United States customary units"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo Cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Voyager 1"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324641.2217133
+}

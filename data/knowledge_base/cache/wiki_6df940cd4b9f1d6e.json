@@ -1,0 +1,357 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "125769": {
+          "pageid": 125769,
+          "ns": 0,
+          "title": "Binding energy",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Astrophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic mass"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic orbital"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic physics"
+            },
+            {
+              "ns": 0,
+              "title": "Beta decay"
+            },
+            {
+              "ns": 0,
+              "title": "Biology"
+            },
+            {
+              "ns": 0,
+              "title": "Bond-dissociation energy"
+            },
+            {
+              "ns": 0,
+              "title": "Bond energy"
+            },
+            {
+              "ns": 0,
+              "title": "Caesium"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon-carbon bond"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial body"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical energy"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical explosion"
+            },
+            {
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Condensed matter physics"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Deuterium"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Electron binding energy"
+            },
+            {
+              "ns": 0,
+              "title": "Electronvolt"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary particle"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Energy level"
+            },
+            {
+              "ns": 0,
+              "title": "Fuel"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Gluon"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational binding energy"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational field"
+            },
+            {
+              "ns": 0,
+              "title": "Hadron"
+            },
+            {
+              "ns": 0,
+              "title": "Helium"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen-1"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen-2"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "IUPAC books"
+            },
+            {
+              "ns": 0,
+              "title": "Inelastic collision"
+            },
+            {
+              "ns": 0,
+              "title": "Internal conversion"
+            },
+            {
+              "ns": 0,
+              "title": "Internal energy"
+            },
+            {
+              "ns": 0,
+              "title": "International Union of Pure and Applied Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization energies of the elements (data page)"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization energy"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic energy"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda baryon"
+            },
+            {
+              "ns": 0,
+              "title": "Mass"
+            },
+            {
+              "ns": 0,
+              "title": "Mass defect"
+            },
+            {
+              "ns": 0,
+              "title": "Mass in special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Mass number"
+            },
+            {
+              "ns": 0,
+              "title": "Mass–energy equivalence"
+            },
+            {
+              "ns": 0,
+              "title": "Meson"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular physics"
+            },
+            {
+              "ns": 0,
+              "title": "Molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel-62"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear binding energy"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fission"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear force"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleon"
+            },
+            {
+              "ns": 0,
+              "title": "Particle"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Prout's hypothesis"
+            },
+            {
+              "ns": 0,
+              "title": "Q value (nuclear science)"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum chromodynamics binding energy"
+            },
+            {
+              "ns": 0,
+              "title": "Quark"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Relativity theory"
+            },
+            {
+              "ns": 0,
+              "title": "Rest mass"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-empirical mass formula"
+            },
+            {
+              "ns": 0,
+              "title": "Separation energy"
+            },
+            {
+              "ns": 0,
+              "title": "Strong interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Total energy"
+            },
+            {
+              "ns": 0,
+              "title": "Virial mass"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wiley-VCH"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770509218.7488415
+}

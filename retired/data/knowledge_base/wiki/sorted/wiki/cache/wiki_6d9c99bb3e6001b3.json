@@ -1,0 +1,621 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "37872": {
+          "pageid": 37872,
+          "ns": 0,
+          "title": "Beta particle",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1984 Moroccan radiation accident"
+            },
+            {
+              "ns": 0,
+              "title": "1990 Clinic of Zaragoza radiotherapy accident"
+            },
+            {
+              "ns": 0,
+              "title": "1996 San Juan de Dios radiotherapy accident"
+            },
+            {
+              "ns": 0,
+              "title": "Absorbed dose"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustic radiation force"
+            },
+            {
+              "ns": 0,
+              "title": "Acrylic glass"
+            },
+            {
+              "ns": 0,
+              "title": "Acute radiation syndrome"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha particle"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha particles"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Antiparticle"
+            },
+            {
+              "ns": 0,
+              "title": "Askaryan radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Becquerel"
+            },
+            {
+              "ns": 0,
+              "title": "Beta decay"
+            },
+            {
+              "ns": 0,
+              "title": "Beta light"
+            },
+            {
+              "ns": 0,
+              "title": "Binding energy"
+            },
+            {
+              "ns": 0,
+              "title": "Black-body radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Bone tumor"
+            },
+            {
+              "ns": 0,
+              "title": "Bremsstrahlung"
+            },
+            {
+              "ns": 0,
+              "title": "CGS"
+            },
+            {
+              "ns": 0,
+              "title": "Caesium-137"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Cherenkov radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Chronic radiation syndrome"
+            },
+            {
+              "ns": 0,
+              "title": "Cloud chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Cluster decay"
+            },
+            {
+              "ns": 0,
+              "title": "Common beta emitters"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic ray"
+            },
+            {
+              "ns": 0,
+              "title": "Coulomb"
+            },
+            {
+              "ns": 0,
+              "title": "Curie (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "DNA"
+            },
+            {
+              "ns": 0,
+              "title": "Dark radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Delta ray"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dosimetry"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's energy budget"
+            },
+            {
+              "ns": 0,
+              "title": "Effective dose (radiation)"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation and health"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron antineutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Electron irradiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electron neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Electrons"
+            },
+            {
+              "ns": 0,
+              "title": "Equivalent dose"
+            },
+            {
+              "ns": 0,
+              "title": "Erg"
+            },
+            {
+              "ns": 0,
+              "title": "Ernest Rutherford"
+            },
+            {
+              "ns": 0,
+              "title": "Eye neoplasm"
+            },
+            {
+              "ns": 0,
+              "title": "Fluorescence"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Geiger counter"
+            },
+            {
+              "ns": 0,
+              "title": "Goiânia accident"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Gray (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Half-life"
+            },
+            {
+              "ns": 0,
+              "title": "Health physics"
+            },
+            {
+              "ns": 0,
+              "title": "Heat transfer"
+            },
+            {
+              "ns": 0,
+              "title": "Helium"
+            },
+            {
+              "ns": 0,
+              "title": "Henri Becquerel"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "International System of Units"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Ionizing radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Isotope"
+            },
+            {
+              "ns": 0,
+              "title": "J. J. Thomson"
+            },
+            {
+              "ns": 0,
+              "title": "Joule"
+            },
+            {
+              "ns": 0,
+              "title": "Kilogram"
+            },
+            {
+              "ns": 0,
+              "title": "Laser safety"
+            },
+            {
+              "ns": 0,
+              "title": "Lasers and aviation safety"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Linear energy transfer"
+            },
+            {
+              "ns": 0,
+              "title": "List of civilian radiation accidents"
+            },
+            {
+              "ns": 0,
+              "title": "Mass-to-charge ratio"
+            },
+            {
+              "ns": 0,
+              "title": "MeV"
+            },
+            {
+              "ns": 0,
+              "title": "Mean free path"
+            },
+            {
+              "ns": 0,
+              "title": "Medical radiography"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave"
+            },
+            {
+              "ns": 0,
+              "title": "Mutation"
+            },
+            {
+              "ns": 0,
+              "title": "Neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Non-ionizing radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fission"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fission product"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Paper"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Particle physics"
+            },
+            {
+              "ns": 0,
+              "title": "Particle radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Phase velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphor"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphorus-32"
+            },
+            {
+              "ns": 0,
+              "title": "Photographic"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Positron"
+            },
+            {
+              "ns": 0,
+              "title": "Positron emission"
+            },
+            {
+              "ns": 0,
+              "title": "Positron emission tomography"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Quark"
+            },
+            {
+              "ns": 0,
+              "title": "Rad (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Radiant flux"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation damage"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation exposure"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation hardening"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation protection"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation therapy"
+            },
+            {
+              "ns": 0,
+              "title": "Radio wave"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive contamination"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive source"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive tracer"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactivity in the life sciences"
+            },
+            {
+              "ns": 0,
+              "title": "Radiobiology"
+            },
+            {
+              "ns": 0,
+              "title": "Radionuclide"
+            },
+            {
+              "ns": 0,
+              "title": "Roentgen (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Roentgen equivalent man"
+            },
+            {
+              "ns": 0,
+              "title": "Rutherford (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Röntgen equivalent man"
+            },
+            {
+              "ns": 0,
+              "title": "Scintillation counter"
+            },
+            {
+              "ns": 0,
+              "title": "Scintillator"
+            },
+            {
+              "ns": 0,
+              "title": "Sievert"
+            },
+            {
+              "ns": 0,
+              "title": "Specific activity"
+            },
+            {
+              "ns": 0,
+              "title": "Spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Starlight"
+            },
+            {
+              "ns": 0,
+              "title": "Statcoulomb"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium-90"
+            },
+            {
+              "ns": 0,
+              "title": "Sunlight"
+            },
+            {
+              "ns": 0,
+              "title": "Swimming pool reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Synchrotron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "TRIGA"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Tritium"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "United States Department of Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Unruh radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual particle"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless device radiation and health"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless electronic devices and health"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324344.4391413
+}

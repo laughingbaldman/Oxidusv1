@@ -1,0 +1,1229 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1164": {
+          "pageid": 1164,
+          "ns": 0,
+          "title": "Artificial intelligence",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Self-driving cars"
+            },
+            {
+              "ns": 0,
+              "title": "Self-supervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "Semantic Web"
+            },
+            {
+              "ns": 0,
+              "title": "Semantic network"
+            },
+            {
+              "ns": 0,
+              "title": "Semantic view of theories"
+            },
+            {
+              "ns": 0,
+              "title": "Semantics (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Sentience"
+            },
+            {
+              "ns": 0,
+              "title": "Sentient AI"
+            },
+            {
+              "ns": 0,
+              "title": "Sentiment analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Seppo Linnainmaa"
+            },
+            {
+              "ns": 0,
+              "title": "Seq2seq"
+            },
+            {
+              "ns": 0,
+              "title": "Sergei P. Kurdyumov"
+            },
+            {
+              "ns": 0,
+              "title": "Service robot"
+            },
+            {
+              "ns": 0,
+              "title": "Sexual grooming"
+            },
+            {
+              "ns": 0,
+              "title": "Seymour Papert"
+            },
+            {
+              "ns": 0,
+              "title": "Shane Legg"
+            },
+            {
+              "ns": 0,
+              "title": "Short-circuit evaluation"
+            },
+            {
+              "ns": 0,
+              "title": "Shun'ichi Amari"
+            },
+            {
+              "ns": 0,
+              "title": "Shun-Ichi Amari"
+            },
+            {
+              "ns": 0,
+              "title": "Sigmoid function"
+            },
+            {
+              "ns": 0,
+              "title": "Simultaneous localization and mapping"
+            },
+            {
+              "ns": 0,
+              "title": "Singapore"
+            },
+            {
+              "ns": 0,
+              "title": "Sir James Lighthill"
+            },
+            {
+              "ns": 0,
+              "title": "Siri"
+            },
+            {
+              "ns": 0,
+              "title": "Situated robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Situation calculus"
+            },
+            {
+              "ns": 0,
+              "title": "Slate Star Codex"
+            },
+            {
+              "ns": 0,
+              "title": "Slavery"
+            },
+            {
+              "ns": 0,
+              "title": "Social computing"
+            },
+            {
+              "ns": 0,
+              "title": "Social software"
+            },
+            {
+              "ns": 0,
+              "title": "Sociocybernetics"
+            },
+            {
+              "ns": 0,
+              "title": "Sociology of scientific ignorance"
+            },
+            {
+              "ns": 0,
+              "title": "Sociology of scientific knowledge"
+            },
+            {
+              "ns": 0,
+              "title": "Soft computing"
+            },
+            {
+              "ns": 0,
+              "title": "Soft robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Softmax function"
+            },
+            {
+              "ns": 0,
+              "title": "Software"
+            },
+            {
+              "ns": 0,
+              "title": "Software-defined radio"
+            },
+            {
+              "ns": 0,
+              "title": "Software configuration management"
+            },
+            {
+              "ns": 0,
+              "title": "Software construction"
+            },
+            {
+              "ns": 0,
+              "title": "Software deployment"
+            },
+            {
+              "ns": 0,
+              "title": "Software design"
+            },
+            {
+              "ns": 0,
+              "title": "Software development"
+            },
+            {
+              "ns": 0,
+              "title": "Software development process"
+            },
+            {
+              "ns": 0,
+              "title": "Software engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Software framework"
+            },
+            {
+              "ns": 0,
+              "title": "Software maintenance"
+            },
+            {
+              "ns": 0,
+              "title": "Software quality"
+            },
+            {
+              "ns": 0,
+              "title": "Software repository"
+            },
+            {
+              "ns": 0,
+              "title": "Solid modeling"
+            },
+            {
+              "ns": 0,
+              "title": "Solipsism"
+            },
+            {
+              "ns": 0,
+              "title": "Sora (text-to-video model)"
+            },
+            {
+              "ns": 0,
+              "title": "Space fountain"
+            },
+            {
+              "ns": 0,
+              "title": "Space probe"
+            },
+            {
+              "ns": 0,
+              "title": "Speaker recognition"
+            },
+            {
+              "ns": 0,
+              "title": "Speech recognition"
+            },
+            {
+              "ns": 0,
+              "title": "Speech synthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Spyware"
+            },
+            {
+              "ns": 0,
+              "title": "Stable Diffusion"
+            },
+            {
+              "ns": 0,
+              "title": "Stafford Beer"
+            },
+            {
+              "ns": 0,
+              "title": "Stanford"
+            },
+            {
+              "ns": 0,
+              "title": "Stanford.edu"
+            },
+            {
+              "ns": 0,
+              "title": "StarCraft II"
+            },
+            {
+              "ns": 0,
+              "title": "Starship Technologies"
+            },
+            {
+              "ns": 0,
+              "title": "Startups"
+            },
+            {
+              "ns": 0,
+              "title": "State space search"
+            },
+            {
+              "ns": 0,
+              "title": "Statement on AI Risk"
+            },
+            {
+              "ns": 0,
+              "title": "Statement on AI risk of extinction"
+            },
+            {
+              "ns": 0,
+              "title": "State–action–reward–state–action"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical classification"
+            },
+            {
+              "ns": 0,
+              "title": "Statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Grossberg"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Hawking"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Yablo"
+            },
+            {
+              "ns": 0,
+              "title": "Stereotype"
+            },
+            {
+              "ns": 0,
+              "title": "Steve Omohundro"
+            },
+            {
+              "ns": 0,
+              "title": "Steven Pinker"
+            },
+            {
+              "ns": 0,
+              "title": "Stochastic computing"
+            },
+            {
+              "ns": 0,
+              "title": "Stochastic gradient descent"
+            },
+            {
+              "ns": 0,
+              "title": "Strategic Computing Initiative"
+            },
+            {
+              "ns": 0,
+              "title": "Strategy game"
+            },
+            {
+              "ns": 0,
+              "title": "Street art in Tel Aviv"
+            },
+            {
+              "ns": 0,
+              "title": "Strong AI hypothesis"
+            },
+            {
+              "ns": 0,
+              "title": "Structuralism (philosophy of science)"
+            },
+            {
+              "ns": 0,
+              "title": "Stuart Dreyfus"
+            },
+            {
+              "ns": 0,
+              "title": "Stuart J. Russell"
+            },
+            {
+              "ns": 0,
+              "title": "Stuart Kauffman"
+            },
+            {
+              "ns": 0,
+              "title": "Stuart Umpleby"
+            },
+            {
+              "ns": 0,
+              "title": "Sub-symbolic"
+            },
+            {
+              "ns": 0,
+              "title": "Subjective experience"
+            },
+            {
+              "ns": 0,
+              "title": "Substance dualism"
+            },
+            {
+              "ns": 0,
+              "title": "Suffering risks"
+            },
+            {
+              "ns": 0,
+              "title": "Sui generis"
+            },
+            {
+              "ns": 0,
+              "title": "Suno AI"
+            },
+            {
+              "ns": 0,
+              "title": "Superintelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Superintelligence: Paths, Dangers, Strategies"
+            },
+            {
+              "ns": 0,
+              "title": "Supervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "Support vector machine"
+            },
+            {
+              "ns": 0,
+              "title": "Support vector machines"
+            },
+            {
+              "ns": 0,
+              "title": "Surveillance"
+            },
+            {
+              "ns": 0,
+              "title": "Susquehanna Steam Electric Station"
+            },
+            {
+              "ns": 0,
+              "title": "Swarm intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Swarm robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Symbolic AI"
+            },
+            {
+              "ns": 0,
+              "title": "Symbolic artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Symbolic programming"
+            },
+            {
+              "ns": 0,
+              "title": "Symbotic"
+            },
+            {
+              "ns": 0,
+              "title": "Synergetics (Haken)"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "System on a chip"
+            },
+            {
+              "ns": 0,
+              "title": "T5 (language model)"
+            },
+            {
+              "ns": 0,
+              "title": "TED (conference)"
+            },
+            {
+              "ns": 0,
+              "title": "Tabula rasa"
+            },
+            {
+              "ns": 0,
+              "title": "Tactile sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Taiwan"
+            },
+            {
+              "ns": 0,
+              "title": "Takeo Kanade"
+            },
+            {
+              "ns": 0,
+              "title": "Talcott Parsons"
+            },
+            {
+              "ns": 0,
+              "title": "Talen Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Taoyuan, Taiwan"
+            },
+            {
+              "ns": 0,
+              "title": "Tara Sainath"
+            },
+            {
+              "ns": 0,
+              "title": "Target acquisition"
+            },
+            {
+              "ns": 0,
+              "title": "Targeted advertising"
+            },
+            {
+              "ns": 0,
+              "title": "Tata McGraw Hill"
+            },
+            {
+              "ns": 0,
+              "title": "Tay (chatbot)"
+            },
+            {
+              "ns": 0,
+              "title": "Taylor Swift deepfake pornography controversy"
+            },
+            {
+              "ns": 0,
+              "title": "Technocracy"
+            },
+            {
+              "ns": 0,
+              "title": "Technological change"
+            },
+            {
+              "ns": 0,
+              "title": "Technological convergence"
+            },
+            {
+              "ns": 0,
+              "title": "Technological evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Technological paradigm"
+            },
+            {
+              "ns": 0,
+              "title": "Technological singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Technological unemployment"
+            },
+            {
+              "ns": 0,
+              "title": "Technology forecasting"
+            },
+            {
+              "ns": 0,
+              "title": "Technology in science fiction"
+            },
+            {
+              "ns": 0,
+              "title": "Technology readiness level"
+            },
+            {
+              "ns": 0,
+              "title": "Technology roadmap"
+            },
+            {
+              "ns": 0,
+              "title": "Technology scouting"
+            },
+            {
+              "ns": 0,
+              "title": "Teledildonics"
+            },
+            {
+              "ns": 0,
+              "title": "Telerobotics"
+            },
+            {
+              "ns": 0,
+              "title": "Temporary worker"
+            },
+            {
+              "ns": 0,
+              "title": "TensorFlow"
+            },
+            {
+              "ns": 0,
+              "title": "Terrainability"
+            },
+            {
+              "ns": 0,
+              "title": "Terrorist"
+            },
+            {
+              "ns": 0,
+              "title": "Terry Winograd"
+            },
+            {
+              "ns": 0,
+              "title": "Testability"
+            },
+            {
+              "ns": 0,
+              "title": "Text-to-image"
+            },
+            {
+              "ns": 0,
+              "title": "Text-to-image model"
+            },
+            {
+              "ns": 0,
+              "title": "Text-to-video"
+            },
+            {
+              "ns": 0,
+              "title": "Text-to-video model"
+            },
+            {
+              "ns": 0,
+              "title": "The Alignment Problem"
+            },
+            {
+              "ns": 0,
+              "title": "The Atlantic"
+            },
+            {
+              "ns": 0,
+              "title": "The Day the Earth Stood Still"
+            },
+            {
+              "ns": 0,
+              "title": "The Economist"
+            },
+            {
+              "ns": 0,
+              "title": "The Guardian"
+            },
+            {
+              "ns": 0,
+              "title": "The Guardian Weekly"
+            },
+            {
+              "ns": 0,
+              "title": "The Language Instinct"
+            },
+            {
+              "ns": 0,
+              "title": "The Last Day (novel)"
+            },
+            {
+              "ns": 0,
+              "title": "The Matrix"
+            },
+            {
+              "ns": 0,
+              "title": "The New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "The Precipice: Existential Risk and the Future of Humanity"
+            },
+            {
+              "ns": 0,
+              "title": "The Press"
+            },
+            {
+              "ns": 0,
+              "title": "The Singularity is Near"
+            },
+            {
+              "ns": 0,
+              "title": "The Society of Mind"
+            },
+            {
+              "ns": 0,
+              "title": "The Terminator"
+            },
+            {
+              "ns": 0,
+              "title": "The Wall Street Journal"
+            },
+            {
+              "ns": 0,
+              "title": "The Week"
+            },
+            {
+              "ns": 0,
+              "title": "Theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical computer science"
+            },
+            {
+              "ns": 0,
+              "title": "Theory"
+            },
+            {
+              "ns": 0,
+              "title": "Theory-ladenness"
+            },
+            {
+              "ns": 0,
+              "title": "Theory choice"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of computation"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of mind"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic computing"
+            },
+            {
+              "ns": 0,
+              "title": "Thesauri"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Aquinas"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Kuhn"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Nagel"
+            },
+            {
+              "ns": 0,
+              "title": "Thought experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Three-dimensional integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Three Laws of Robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Three Mile Island"
+            },
+            {
+              "ns": 0,
+              "title": "Théâtre D'opéra Spatial"
+            },
+            {
+              "ns": 0,
+              "title": "TikTok"
+            },
+            {
+              "ns": 0,
+              "title": "Time (magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Topological"
+            },
+            {
+              "ns": 0,
+              "title": "Topological deep learning"
+            },
+            {
+              "ns": 0,
+              "title": "Training, validation, and test data sets"
+            },
+            {
+              "ns": 0,
+              "title": "Training data"
+            },
+            {
+              "ns": 0,
+              "title": "Transfer learning"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer (deep learning architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer (machine learning model)"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Transhumanism"
+            },
+            {
+              "ns": 0,
+              "title": "Tree structure"
+            },
+            {
+              "ns": 0,
+              "title": "Trope (literature)"
+            },
+            {
+              "ns": 0,
+              "title": "Turing complete"
+            },
+            {
+              "ns": 0,
+              "title": "Turing test"
+            },
+            {
+              "ns": 0,
+              "title": "Tyler Burge"
+            },
+            {
+              "ns": 0,
+              "title": "Type physicalism"
+            },
+            {
+              "ns": 0,
+              "title": "U.S. court"
+            },
+            {
+              "ns": 0,
+              "title": "Ubiquitous computing"
+            },
+            {
+              "ns": 0,
+              "title": "Ubiquitous robot"
+            },
+            {
+              "ns": 0,
+              "title": "Udio"
+            },
+            {
+              "ns": 0,
+              "title": "Ulla Mitzdorf"
+            },
+            {
+              "ns": 0,
+              "title": "UltraRAM"
+            },
+            {
+              "ns": 0,
+              "title": "Uncanny valley"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty"
+            },
+            {
+              "ns": 0,
+              "title": "Undecidable problem"
+            },
+            {
+              "ns": 0,
+              "title": "Underdetermination"
+            },
+            {
+              "ns": 0,
+              "title": "Understanding"
+            },
+            {
+              "ns": 0,
+              "title": "Unemployment"
+            },
+            {
+              "ns": 0,
+              "title": "Unethical"
+            },
+            {
+              "ns": 0,
+              "title": "Unification (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Uniformitarianism"
+            },
+            {
+              "ns": 0,
+              "title": "Uninformed search"
+            },
+            {
+              "ns": 0,
+              "title": "United Nations"
+            },
+            {
+              "ns": 0,
+              "title": "United States"
+            },
+            {
+              "ns": 0,
+              "title": "United States National Research Council"
+            },
+            {
+              "ns": 0,
+              "title": "Unity of science"
+            },
+            {
+              "ns": 0,
+              "title": "Universal Robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Universal approximation theorem"
+            },
+            {
+              "ns": 0,
+              "title": "University of Chicago"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned aerial vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned ground vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unsupervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "Utility"
+            },
+            {
+              "ns": 0,
+              "title": "Valentin Lapa"
+            },
+            {
+              "ns": 0,
+              "title": "Valentin Turchin"
+            },
+            {
+              "ns": 0,
+              "title": "Valentino Braitenberg"
+            },
+            {
+              "ns": 0,
+              "title": "Vanishing gradient problem"
+            },
+            {
+              "ns": 0,
+              "title": "Variable and attribute (research)"
+            },
+            {
+              "ns": 0,
+              "title": "Variational autoencoder"
+            },
+            {
+              "ns": 0,
+              "title": "Vasubandhu"
+            },
+            {
+              "ns": 0,
+              "title": "Vector space"
+            },
+            {
+              "ns": 0,
+              "title": "Vehicular automation"
+            },
+            {
+              "ns": 0,
+              "title": "Veo (text-to-video model)"
+            },
+            {
+              "ns": 0,
+              "title": "Verificationism"
+            },
+            {
+              "ns": 0,
+              "title": "Vernor Vinge"
+            },
+            {
+              "ns": 0,
+              "title": "Very-large-scale integration"
+            },
+            {
+              "ns": 0,
+              "title": "Vibe coding"
+            },
+            {
+              "ns": 0,
+              "title": "Video game"
+            },
+            {
+              "ns": 0,
+              "title": "Video game console"
+            },
+            {
+              "ns": 0,
+              "title": "Videos"
+            },
+            {
+              "ns": 0,
+              "title": "Vincent van Gogh"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual assistant"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual machine"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual reality"
+            },
+            {
+              "ns": 0,
+              "title": "Vision-guided robot systems"
+            },
+            {
+              "ns": 0,
+              "title": "Vision transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Visual odometry"
+            },
+            {
+              "ns": 0,
+              "title": "Visualization (graphics)"
+            },
+            {
+              "ns": 0,
+              "title": "Vitalism"
+            },
+            {
+              "ns": 0,
+              "title": "Voiceverse NFT plagiarism scandal"
+            },
+            {
+              "ns": 0,
+              "title": "Vulnerable world hypothesis"
+            },
+            {
+              "ns": 0,
+              "title": "W. Ross Ashby"
+            },
+            {
+              "ns": 0,
+              "title": "WIPO"
+            },
+            {
+              "ns": 0,
+              "title": "Walter Bradford Cannon"
+            },
+            {
+              "ns": 0,
+              "title": "Walter Pitts"
+            },
+            {
+              "ns": 0,
+              "title": "Warren S. McCulloch"
+            },
+            {
+              "ns": 0,
+              "title": "Warren Sturgis McCulloch"
+            },
+            {
+              "ns": 0,
+              "title": "Watson (artificial intelligence software)"
+            },
+            {
+              "ns": 0,
+              "title": "WaveNet"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Waymo"
+            },
+            {
+              "ns": 0,
+              "title": "Weak artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Weapons of mass destruction"
+            },
+            {
+              "ns": 0,
+              "title": "Web search engine"
+            },
+            {
+              "ns": 0,
+              "title": "Weight initialization"
+            },
+            {
+              "ns": 0,
+              "title": "Weighting"
+            },
+            {
+              "ns": 0,
+              "title": "Wendell Wallach"
+            },
+            {
+              "ns": 0,
+              "title": "Wetware computer"
+            },
+            {
+              "ns": 0,
+              "title": "What Computers Can't Do"
+            },
+            {
+              "ns": 0,
+              "title": "Whisper (speech recognition system)"
+            },
+            {
+              "ns": 0,
+              "title": "White-collar worker"
+            },
+            {
+              "ns": 0,
+              "title": "Wilfrid Sellars"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Windelband"
+            },
+            {
+              "ns": 0,
+              "title": "Willard Van Orman Quine"
+            },
+            {
+              "ns": 0,
+              "title": "William Grey Walter"
+            },
+            {
+              "ns": 0,
+              "title": "William James"
+            },
+            {
+              "ns": 0,
+              "title": "William Stubblefield"
+            },
+            {
+              "ns": 0,
+              "title": "Willie L. Phillips"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless sensor network"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf Robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Word-sense disambiguation"
+            },
+            {
+              "ns": 0,
+              "title": "Word2vec"
+            },
+            {
+              "ns": 0,
+              "title": "Word embedding"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor"
+            },
+            {
+              "ns": 0,
+              "title": "Workplace impact of artificial intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Workplace robotics safety"
+            },
+            {
+              "ns": 0,
+              "title": "World Pensions & Investments Forum"
+            },
+            {
+              "ns": 0,
+              "title": "World Wide Web"
+            },
+            {
+              "ns": 0,
+              "title": "Yann LeCun"
+            },
+            {
+              "ns": 0,
+              "title": "Yaskawa Electric Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Yoshua Bengio"
+            },
+            {
+              "ns": 0,
+              "title": "YouTube"
+            },
+            {
+              "ns": 0,
+              "title": "Yu-Chi Ho"
+            },
+            {
+              "ns": 0,
+              "title": "Yuval Noah Harari"
+            },
+            {
+              "ns": 0,
+              "title": "Zhuang Zhou"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669582.4537973
+}

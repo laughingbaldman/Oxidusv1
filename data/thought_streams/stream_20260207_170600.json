@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-07T17:06:00.713501",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-07T17:06:00.713501",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Avalanche'? (source: Avalanche)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 8,
+    "analysis": 0,
+    "decision": 2,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 0,
+    "reflection": 0,
+    "uncertainty": 0,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

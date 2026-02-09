@@ -1,0 +1,449 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "48239": {
+          "pageid": 48239,
+          "ns": 0,
+          "title": "Celestial sphere",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Abstraction"
+            },
+            {
+              "ns": 0,
+              "title": "Anaxagoras"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek language"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent retrograde motion"
+            },
+            {
+              "ns": 0,
+              "title": "Aristarchus of Samos"
+            },
+            {
+              "ns": 0,
+              "title": "Aristotelian physics"
+            },
+            {
+              "ns": 0,
+              "title": "Aristotle"
+            },
+            {
+              "ns": 0,
+              "title": "Armillary sphere"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomer"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical Almanac"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical object"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Bernard Le Bovier de Fontenelle"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial equator"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial globe"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial pole"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial spheres"
+            },
+            {
+              "ns": 0,
+              "title": "Centre (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Circular motion"
+            },
+            {
+              "ns": 0,
+              "title": "Classical elements"
+            },
+            {
+              "ns": 0,
+              "title": "Classical planets"
+            },
+            {
+              "ns": 0,
+              "title": "Concentric objects"
+            },
+            {
+              "ns": 0,
+              "title": "Conversations on the Plurality of Worlds"
+            },
+            {
+              "ns": 0,
+              "title": "Cornell Maritime Press"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic pluralism"
+            },
+            {
+              "ns": 0,
+              "title": "Declination"
+            },
+            {
+              "ns": 0,
+              "title": "Diurnal motion"
+            },
+            {
+              "ns": 0,
+              "title": "E.W. Stephens Publishing Company"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's orbit"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Eclipse"
+            },
+            {
+              "ns": 0,
+              "title": "Ecliptic"
+            },
+            {
+              "ns": 0,
+              "title": "Ecliptic coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Empedocles"
+            },
+            {
+              "ns": 0,
+              "title": "Equator"
+            },
+            {
+              "ns": 0,
+              "title": "Equatorial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Equatorial mount"
+            },
+            {
+              "ns": 0,
+              "title": "Equidistant"
+            },
+            {
+              "ns": 0,
+              "title": "Equinox (celestial coordinates)"
+            },
+            {
+              "ns": 0,
+              "title": "Eudoxus of Cnidus"
+            },
+            {
+              "ns": 0,
+              "title": "Farnese Atlas"
+            },
+            {
+              "ns": 0,
+              "title": "Firmament"
+            },
+            {
+              "ns": 0,
+              "title": "Fixed stars"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Geocentric coordinates"
+            },
+            {
+              "ns": 0,
+              "title": "Geocentric model"
+            },
+            {
+              "ns": 0,
+              "title": "Geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Giordano Bruno"
+            },
+            {
+              "ns": 0,
+              "title": "Great circle"
+            },
+            {
+              "ns": 0,
+              "title": "Heliocentrism"
+            },
+            {
+              "ns": 0,
+              "title": "Hellenistic period"
+            },
+            {
+              "ns": 0,
+              "title": "History of astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Horizontal coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Hour angle"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Infinity"
+            },
+            {
+              "ns": 0,
+              "title": "International Celestial Reference System"
+            },
+            {
+              "ns": 0,
+              "title": "Johns Hopkins University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Jost Bürgi"
+            },
+            {
+              "ns": 0,
+              "title": "Latitude"
+            },
+            {
+              "ns": 0,
+              "title": "Lemniscate"
+            },
+            {
+              "ns": 0,
+              "title": "Library of Congress"
+            },
+            {
+              "ns": 0,
+              "title": "Line (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Longitude"
+            },
+            {
+              "ns": 0,
+              "title": "Margaret J. Osler"
+            },
+            {
+              "ns": 0,
+              "title": "Millimetre"
+            },
+            {
+              "ns": 0,
+              "title": "Moon"
+            },
+            {
+              "ns": 0,
+              "title": "Nathaniel Bowditch"
+            },
+            {
+              "ns": 0,
+              "title": "National Imagery and Mapping Agency"
+            },
+            {
+              "ns": 0,
+              "title": "Navigation"
+            },
+            {
+              "ns": 0,
+              "title": "Northern celestial hemisphere"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital plane"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital pole"
+            },
+            {
+              "ns": 0,
+              "title": "Orientation (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Parallel (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Perspective (graphical)"
+            },
+            {
+              "ns": 0,
+              "title": "Plane (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Plane of reference"
+            },
+            {
+              "ns": 0,
+              "title": "Plato"
+            },
+            {
+              "ns": 0,
+              "title": "Point (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Polar alignment"
+            },
+            {
+              "ns": 0,
+              "title": "Pole star"
+            },
+            {
+              "ns": 0,
+              "title": "Projection screen"
+            },
+            {
+              "ns": 0,
+              "title": "Projective geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Proper motion"
+            },
+            {
+              "ns": 0,
+              "title": "Ptolemy"
+            },
+            {
+              "ns": 0,
+              "title": "Radius"
+            },
+            {
+              "ns": 0,
+              "title": "Right ascension"
+            },
+            {
+              "ns": 0,
+              "title": "Shorthand"
+            },
+            {
+              "ns": 0,
+              "title": "Sky"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Southern celestial hemisphere"
+            },
+            {
+              "ns": 0,
+              "title": "Sphere"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Star chart"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Sublunary sphere"
+            },
+            {
+              "ns": 0,
+              "title": "Terrestrial Time"
+            },
+            {
+              "ns": 0,
+              "title": "Vanishing point"
+            },
+            {
+              "ns": 0,
+              "title": "W. W. Norton & Co."
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Zodiac"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770520250.2428684
+}

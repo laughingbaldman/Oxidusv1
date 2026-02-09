@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "Wikipedia:Vital_articles/Level/4/Biological_and_health_sciences",
+          "to": "Wikipedia:Vital articles/Level/4/Biological and health sciences"
+        }
+      ],
+      "pages": {
+        "58466816": {
+          "pageid": 58466816,
+          "ns": 4,
+          "title": "Wikipedia:Vital articles/Level/4/Biological and health sciences"
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770355598.4737718
+}

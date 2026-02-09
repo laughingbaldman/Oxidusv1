@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "5914": {
+          "pageid": 5914,
+          "ns": 0,
+          "title": "Catalysis",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Wilkinson's catalyst"
+            },
+            {
+              "ns": 0,
+              "title": "Zamboni pile"
+            },
+            {
+              "ns": 0,
+              "title": "Zeolite"
+            },
+            {
+              "ns": 0,
+              "title": "Zeolites"
+            },
+            {
+              "ns": 0,
+              "title": "Ziegler–Natta catalyst"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc–air battery"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc–bromine battery"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc–carbon battery"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc–cerium battery"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770520219.0985484
+}

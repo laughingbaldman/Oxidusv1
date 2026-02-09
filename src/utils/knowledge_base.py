@@ -89,7 +89,7 @@ class OxidusKnowledgeBase:
     def __init__(self, base_path: str = "data/knowledge_base"):
         self.base_path = Path(base_path)
         self.texts: Dict[str, KnowledgeText] = {}
-        self.categories = ['philosophy', 'ethics', 'psychology', 'science', 'history']
+        self.categories = ['philosophy', 'ethics', 'psychology', 'science', 'history', 'wiki']
 
         # Create directories if they don't exist
         for category in self.categories:
@@ -109,28 +109,50 @@ class OxidusKnowledgeBase:
         """Load a single text from a JSON file."""
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+                try:
+                    data = json.load(f)
+                except json.JSONDecodeError as jde:
+                    print(f"Error loading {file_path}: invalid JSON ({jde})")
+                    return
+
+            # Validate required content
+            content = data.get('content')
+            title = data.get('title') or file_path.stem
+            category = data.get('category') or (file_path.parent.name if file_path.parent else 'uncategorized')
+
+            if not content or not isinstance(content, str):
+                print(f"Skipping {file_path}: missing or invalid 'content' field")
+                return
+
+            author = data.get('author', 'Unknown')
 
             text = KnowledgeText(
-                title=data['title'],
-                author=data['author'],
-                category=data['category'],
-                content=data['content'],
+                title=title,
+                author=author,
+                category=category,
+                content=content,
                 source_url=data.get('source_url', ''),
                 publication_year=data.get('publication_year')
             )
 
-            # Restore study metadata
-            if 'study_sessions' in data:
-                text.study_sessions = data['study_sessions']
-            if 'questions_raised' in data:
-                text.questions_raised = data['questions_raised']
-            if 'insights_gained' in data:
-                text.insights_gained = data['insights_gained']
-            if 'confidence_level' in data:
-                text.confidence_level = data['confidence_level']
-            if 'last_studied' in data and data['last_studied']:
-                text.last_studied = datetime.fromisoformat(data['last_studied'])
+            # Restore study metadata if present
+            try:
+                if 'study_sessions' in data and isinstance(data['study_sessions'], list):
+                    text.study_sessions = data['study_sessions']
+                if 'questions_raised' in data and isinstance(data['questions_raised'], list):
+                    text.questions_raised = data['questions_raised']
+                if 'insights_gained' in data and isinstance(data['insights_gained'], list):
+                    text.insights_gained = data['insights_gained']
+                if 'confidence_level' in data:
+                    text.confidence_level = float(data.get('confidence_level', 0.0))
+                if 'last_studied' in data and data['last_studied']:
+                    try:
+                        text.last_studied = datetime.fromisoformat(data['last_studied'])
+                    except Exception:
+                        pass
+            except Exception:
+                # If metadata is malformed, continue without it
+                pass
 
             self.texts[text.id] = text
 

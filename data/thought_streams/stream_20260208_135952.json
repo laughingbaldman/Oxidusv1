@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-08T13:59:52.890652",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-08T13:59:51.888865",
+      "type": "decision",
+      "content": "Rebuilt knowledge index from disk",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 12,
+    "analysis": 0,
+    "decision": 2,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 1,
+    "reflection": 0,
+    "uncertainty": 0,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

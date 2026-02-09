@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "12610483|0|Windows_Mobile",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "12610483": {
+          "pageid": 12610483,
+          "ns": 0,
+          "title": "Android (operating system)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Kotlin"
+            },
+            {
+              "ns": 0,
+              "title": "Kotlin (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Kubuntu"
+            },
+            {
+              "ns": 0,
+              "title": "Kwort Linux"
+            },
+            {
+              "ns": 0,
+              "title": "LG G Pad 8.3"
+            },
+            {
+              "ns": 0,
+              "title": "LG UX"
+            },
+            {
+              "ns": 0,
+              "title": "LWN.net"
+            },
+            {
+              "ns": 0,
+              "title": "LXLE Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Landline"
+            },
+            {
+              "ns": 0,
+              "title": "Larry Page"
+            },
+            {
+              "ns": 0,
+              "title": "LeWa OS"
+            },
+            {
+              "ns": 0,
+              "title": "Lenovo smartphones"
+            },
+            {
+              "ns": 0,
+              "title": "LiMo Foundation"
+            },
+            {
+              "ns": 0,
+              "title": "Libranet"
+            },
+            {
+              "ns": 0,
+              "title": "Librarian of Congress"
+            },
+            {
+              "ns": 0,
+              "title": "Libraries of the University of Cambridge"
+            },
+            {
+              "ns": 0,
+              "title": "Lifehacker"
+            },
+            {
+              "ns": 0,
+              "title": "LinHES"
+            },
+            {
+              "ns": 0,
+              "title": "LineageOS"
+            },
+            {
+              "ns": 0,
+              "title": "Linpus Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Linus Torvalds"
+            },
+            {
+              "ns": 0,
+              "title": "Linux"
+            },
+            {
+              "ns": 0,
+              "title": "LinuxCon"
+            },
+            {
+              "ns": 0,
+              "title": "LinuxTLE"
+            },
+            {
+              "ns": 0,
+              "title": "Linux Caixa Mágica"
+            },
+            {
+              "ns": 0,
+              "title": "Linux Foundation"
+            },
+            {
+              "ns": 0,
+              "title": "Linux Lite"
+            },
+            {
+              "ns": 0,
+              "title": "Linux Mint"
+            },
+            {
+              "ns": 0,
+              "title": "Linux Router Project"
+            },
+            {
+              "ns": 0,
+              "title": "Linux distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Linux for PlayStation 2"
+            },
+            {
+              "ns": 0,
+              "title": "Linux from Scratch"
+            },
+            {
+              "ns": 0,
+              "title": "Linux kernel"
+            },
+            {
+              "ns": 0,
+              "title": "List of Android TV devices"
+            },
+            {
+              "ns": 0,
+              "title": "List of Android apps by Google"
+            },
+            {
+              "ns": 0,
+              "title": "List of Android launchers"
+            },
+            {
+              "ns": 0,
+              "title": "List of Android smartphones"
+            },
+            {
+              "ns": 0,
+              "title": "List of Google Play edition devices"
+            },
+            {
+              "ns": 0,
+              "title": "List of Linux distributions"
+            },
+            {
+              "ns": 0,
+              "title": "List of custom Android distributions"
+            },
+            {
+              "ns": 0,
+              "title": "List of features in Android"
+            },
+            {
+              "ns": 0,
+              "title": "List of free and open-source Android applications"
+            },
+            {
+              "ns": 0,
+              "title": "List of mobile app distribution platforms"
+            },
+            {
+              "ns": 0,
+              "title": "List of open-source mobile phones"
+            },
+            {
+              "ns": 0,
+              "title": "LiteOS"
+            },
+            {
+              "ns": 0,
+              "title": "Long-term support"
+            },
+            {
+              "ns": 0,
+              "title": "Lookout (company)"
+            },
+            {
+              "ns": 0,
+              "title": "Lubuntu"
+            },
+            {
+              "ns": 0,
+              "title": "LuneOS"
+            },
+            {
+              "ns": 0,
+              "title": "Lwn.net"
+            },
+            {
+              "ns": 0,
+              "title": "MCC Interim Linux"
+            },
+            {
+              "ns": 0,
+              "title": "MIT App Inventor"
+            },
+            {
+              "ns": 0,
+              "title": "MIT Technology Review"
+            },
+            {
+              "ns": 0,
+              "title": "MIUI"
+            },
+            {
+              "ns": 0,
+              "title": "MX Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Machine code"
+            },
+            {
+              "ns": 0,
+              "title": "Maemo"
+            },
+            {
+              "ns": 0,
+              "title": "Mageia"
+            },
+            {
+              "ns": 0,
+              "title": "Magic Cap"
+            },
+            {
+              "ns": 0,
+              "title": "Magisk (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetometer"
+            },
+            {
+              "ns": 0,
+              "title": "Mainline Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Malware"
+            },
+            {
+              "ns": 0,
+              "title": "Mandrake Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Mandriva Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Manjaro"
+            },
+            {
+              "ns": 0,
+              "title": "Material Design"
+            },
+            {
+              "ns": 0,
+              "title": "McAfee"
+            },
+            {
+              "ns": 0,
+              "title": "MeeGo"
+            },
+            {
+              "ns": 0,
+              "title": "Meizu"
+            },
+            {
+              "ns": 0,
+              "title": "Mer (software distribution)"
+            },
+            {
+              "ns": 0,
+              "title": "Meta Horizon OS"
+            },
+            {
+              "ns": 0,
+              "title": "MicroG"
+            },
+            {
+              "ns": 0,
+              "title": "MicroSD"
+            },
+            {
+              "ns": 0,
+              "title": "Micro consoles"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Office Mobile"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Teams"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Windows"
+            },
+            {
+              "ns": 0,
+              "title": "Middleware"
+            },
+            {
+              "ns": 0,
+              "title": "Ministry of justice"
+            },
+            {
+              "ns": 0,
+              "title": "Minix 3"
+            },
+            {
+              "ns": 0,
+              "title": "Miracle Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Mobian"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile app"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile app development"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile network operator"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile security"
+            },
+            {
+              "ns": 0,
+              "title": "Mobilinux"
+            },
+            {
+              "ns": 0,
+              "title": "Moblin"
+            },
+            {
+              "ns": 0,
+              "title": "Monolithic kernel"
+            },
+            {
+              "ns": 0,
+              "title": "MontaVista"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly active users"
+            },
+            {
+              "ns": 0,
+              "title": "MotoMagx"
+            },
+            {
+              "ns": 0,
+              "title": "Moto G (1st generation)"
+            },
+            {
+              "ns": 0,
+              "title": "Motoblur"
+            },
+            {
+              "ns": 0,
+              "title": "Motorola"
+            },
+            {
+              "ns": 0,
+              "title": "Motorola Mobility"
+            },
+            {
+              "ns": 0,
+              "title": "Motorola Xoom"
+            },
+            {
+              "ns": 0,
+              "title": "Mouse (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Multi-touch"
+            },
+            {
+              "ns": 0,
+              "title": "Musix GNU+Linux"
+            },
+            {
+              "ns": 0,
+              "title": "National Security Agency"
+            },
+            {
+              "ns": 0,
+              "title": "Native development kit"
+            },
+            {
+              "ns": 0,
+              "title": "NetBSD"
+            },
+            {
+              "ns": 0,
+              "title": "Netbook"
+            },
+            {
+              "ns": 0,
+              "title": "Network Security Toolkit"
+            },
+            {
+              "ns": 0,
+              "title": "New York City"
+            },
+            {
+              "ns": 0,
+              "title": "News ticker"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 10"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 4"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 5"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 5X"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 6"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 6P"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 7 (2012)"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 7 (2012 version)"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 7 (2013)"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus 9"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus One"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus Player"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus Q"
+            },
+            {
+              "ns": 0,
+              "title": "Nexus S"
+            },
+            {
+              "ns": 0,
+              "title": "NimbleX"
+            },
+            {
+              "ns": 0,
+              "title": "Nintendo"
+            },
+            {
+              "ns": 0,
+              "title": "Nintendo 3DS system software"
+            },
+            {
+              "ns": 0,
+              "title": "Nintendo DSi system software"
+            },
+            {
+              "ns": 0,
+              "title": "Nintendo Switch system software"
+            },
+            {
+              "ns": 0,
+              "title": "NixOS"
+            },
+            {
+              "ns": 0,
+              "title": "Nobara (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Nokia"
+            },
+            {
+              "ns": 0,
+              "title": "Nokia Asha platform"
+            },
+            {
+              "ns": 0,
+              "title": "Nokia X family"
+            },
+            {
+              "ns": 0,
+              "title": "Non-RAID drive architectures"
+            },
+            {
+              "ns": 0,
+              "title": "Non-copyleft"
+            },
+            {
+              "ns": 0,
+              "title": "Norton (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Nothing (company)"
+            },
+            {
+              "ns": 0,
+              "title": "Nothing OS"
+            },
+            {
+              "ns": 0,
+              "title": "Nothing Phone 1"
+            },
+            {
+              "ns": 0,
+              "title": "Noto fonts"
+            },
+            {
+              "ns": 0,
+              "title": "Nova (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Nvidia"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "OPhone"
+            },
+            {
+              "ns": 0,
+              "title": "OS X"
+            },
+            {
+              "ns": 0,
+              "title": "Omarchy"
+            },
+            {
+              "ns": 0,
+              "title": "OmniROM"
+            },
+            {
+              "ns": 0,
+              "title": "OnePlus"
+            },
+            {
+              "ns": 0,
+              "title": "OnePlus 10 Pro"
+            },
+            {
+              "ns": 0,
+              "title": "OnePlus 11"
+            },
+            {
+              "ns": 0,
+              "title": "One UI"
+            },
+            {
+              "ns": 0,
+              "title": "Open-source license"
+            },
+            {
+              "ns": 0,
+              "title": "Open-source software"
+            },
+            {
+              "ns": 0,
+              "title": "OpenBinder"
+            },
+            {
+              "ns": 0,
+              "title": "OpenELEC"
+            },
+            {
+              "ns": 0,
+              "title": "OpenEZX"
+            },
+            {
+              "ns": 0,
+              "title": "OpenEmbedded"
+            },
+            {
+              "ns": 0,
+              "title": "OpenGL ES 2.0"
+            },
+            {
+              "ns": 0,
+              "title": "OpenGL ES 3.0"
+            },
+            {
+              "ns": 0,
+              "title": "OpenHarmony"
+            },
+            {
+              "ns": 0,
+              "title": "OpenJDK"
+            },
+            {
+              "ns": 0,
+              "title": "OpenMandriva Lx"
+            },
+            {
+              "ns": 0,
+              "title": "OpenSUSE"
+            },
+            {
+              "ns": 0,
+              "title": "OpenSignal"
+            },
+            {
+              "ns": 0,
+              "title": "Open Automotive Alliance"
+            },
+            {
+              "ns": 0,
+              "title": "Open Enterprise Server"
+            },
+            {
+              "ns": 0,
+              "title": "Open Handset Alliance"
+            },
+            {
+              "ns": 0,
+              "title": "Open Kernel Labs"
+            },
+            {
+              "ns": 0,
+              "title": "Open Mobile Alliance"
+            },
+            {
+              "ns": 0,
+              "title": "Open source software"
+            },
+            {
+              "ns": 0,
+              "title": "Openmoko Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Oppo Find X5"
+            },
+            {
+              "ns": 0,
+              "title": "Optimus UI"
+            },
+            {
+              "ns": 0,
+              "title": "Oracle Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Oracle Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Oracle v. Google"
+            },
+            {
+              "ns": 0,
+              "title": "Orientation sensing"
+            },
+            {
+              "ns": 0,
+              "title": "Origin OS"
+            },
+            {
+              "ns": 0,
+              "title": "Original equipment manufacturer"
+            },
+            {
+              "ns": 0,
+              "title": "Out of memory"
+            },
+            {
+              "ns": 0,
+              "title": "Ouya"
+            },
+            {
+              "ns": 0,
+              "title": "Over-the-air programming"
+            },
+            {
+              "ns": 0,
+              "title": "Over-the-air update"
+            },
+            {
+              "ns": 0,
+              "title": "Overclock"
+            },
+            {
+              "ns": 0,
+              "title": "OxygenOS"
+            },
+            {
+              "ns": 0,
+              "title": "PCLinuxOS"
+            },
+            {
+              "ns": 0,
+              "title": "PC World"
+            },
+            {
+              "ns": 0,
+              "title": "Package manager"
+            },
+            {
+              "ns": 0,
+              "title": "Packet analyzer"
+            },
+            {
+              "ns": 0,
+              "title": "PalmDOS"
+            },
+            {
+              "ns": 0,
+              "title": "Palm OS"
+            },
+            {
+              "ns": 0,
+              "title": "Palo Alto, California"
+            },
+            {
+              "ns": 0,
+              "title": "Parabola GNU/Linux-libre"
+            },
+            {
+              "ns": 0,
+              "title": "Paranoid Android (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Parrot OS"
+            },
+            {
+              "ns": 0,
+              "title": "Parrot SA"
+            },
+            {
+              "ns": 0,
+              "title": "Parsix"
+            },
+            {
+              "ns": 0,
+              "title": "Patch (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Patent"
+            },
+            {
+              "ns": 0,
+              "title": "Patent troll"
+            },
+            {
+              "ns": 0,
+              "title": "Payment terminal"
+            },
+            {
+              "ns": 0,
+              "title": "Pegasus (spyware)"
+            },
+            {
+              "ns": 0,
+              "title": "Pentoo"
+            },
+            {
+              "ns": 0,
+              "title": "Peppermint OS"
+            },
+            {
+              "ns": 0,
+              "title": "Personal computer"
+            },
+            {
+              "ns": 0,
+              "title": "Petit Four"
+            },
+            {
+              "ns": 0,
+              "title": "Pinguy OS"
+            },
+            {
+              "ns": 0,
+              "title": "PixelExperience"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel (1st generation)"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel (smartphone)"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 2"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 3"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 3a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 4"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 4a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 5"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 5a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 6"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 6a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 7"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 7 Pro"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 7a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 8"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 8a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 9"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 9 Pro Fold"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel 9a"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel C"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel Fold"
+            },
+            {
+              "ns": 0,
+              "title": "Pixel Tablet"
+            },
+            {
+              "ns": 0,
+              "title": "Platypux"
+            },
+            {
+              "ns": 0,
+              "title": "PlayStation Portable system software"
+            },
+            {
+              "ns": 0,
+              "title": "PlayStation Vita system software"
+            },
+            {
+              "ns": 0,
+              "title": "Play Integrity API"
+            },
+            {
+              "ns": 0,
+              "title": "Play Store"
+            },
+            {
+              "ns": 0,
+              "title": "Poco (company)"
+            },
+            {
+              "ns": 0,
+              "title": "Pop! OS"
+            },
+            {
+              "ns": 0,
+              "title": "Porteus (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "PostmarketOS"
+            },
+            {
+              "ns": 0,
+              "title": "Power user"
+            },
+            {
+              "ns": 0,
+              "title": "Pre-installed software"
+            },
+            {
+              "ns": 0,
+              "title": "Predatory pricing"
+            },
+            {
+              "ns": 0,
+              "title": "Premium-rate telephone number"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Printer (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Privacy"
+            },
+            {
+              "ns": 0,
+              "title": "Process state"
+            },
+            {
+              "ns": 0,
+              "title": "Process virtual machine"
+            },
+            {
+              "ns": 0,
+              "title": "Programmer"
+            },
+            {
+              "ns": 0,
+              "title": "Programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Programming tool"
+            },
+            {
+              "ns": 0,
+              "title": "Project Treble"
+            },
+            {
+              "ns": 0,
+              "title": "Proprietary software"
+            },
+            {
+              "ns": 0,
+              "title": "Prototype"
+            },
+            {
+              "ns": 0,
+              "title": "Proximity sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Proxy war"
+            },
+            {
+              "ns": 0,
+              "title": "Puppy Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Purch Group"
+            },
+            {
+              "ns": 0,
+              "title": "PureOS"
+            },
+            {
+              "ns": 0,
+              "title": "Q4OS"
+            },
+            {
+              "ns": 0,
+              "title": "QEMU"
+            },
+            {
+              "ns": 0,
+              "title": "QNX"
+            },
+            {
+              "ns": 0,
+              "title": "QWERTY"
+            },
+            {
+              "ns": 0,
+              "title": "QtMoko"
+            },
+            {
+              "ns": 0,
+              "title": "Qualcomm"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz (publication)"
+            },
+            {
+              "ns": 0,
+              "title": "Qubes OS"
+            },
+            {
+              "ns": 0,
+              "title": "RED OS"
+            },
+            {
+              "ns": 0,
+              "title": "RISC-V"
+            },
+            {
+              "ns": 0,
+              "title": "ROSA Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Racing game"
+            },
+            {
+              "ns": 0,
+              "title": "Random-access memory"
+            },
+            {
+              "ns": 0,
+              "title": "Raspberry Pi OS"
+            },
+            {
+              "ns": 0,
+              "title": "Read-only memory"
+            },
+            {
+              "ns": 0,
+              "title": "Realme"
+            },
+            {
+              "ns": 0,
+              "title": "Rebasing"
+            },
+            {
+              "ns": 0,
+              "title": "Recode"
+            },
+            {
+              "ns": 0,
+              "title": "Red Hat Enterprise Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Red Hat Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Red Star OS"
+            },
+            {
+              "ns": 0,
+              "title": "Redmi K50"
+            },
+            {
+              "ns": 0,
+              "title": "Remand (court procedure)"
+            },
+            {
+              "ns": 0,
+              "title": "Remix OS"
+            },
+            {
+              "ns": 0,
+              "title": "RenderScript"
+            },
+            {
+              "ns": 0,
+              "title": "Replicant (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Repository (version control)"
+            },
+            {
+              "ns": 0,
+              "title": "Research"
+            },
+            {
+              "ns": 0,
+              "title": "Resurrection Remix OS"
+            },
+            {
+              "ns": 0,
+              "title": "Reuters"
+            },
+            {
+              "ns": 0,
+              "title": "Rich Miner"
+            },
+            {
+              "ns": 0,
+              "title": "Richard Stallman"
+            },
+            {
+              "ns": 0,
+              "title": "Robot"
+            },
+            {
+              "ns": 0,
+              "title": "Roboto"
+            },
+            {
+              "ns": 0,
+              "title": "Rocks Cluster Distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Rocky Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Rooting (Android)"
+            },
+            {
+              "ns": 0,
+              "title": "Rootkits"
+            },
+            {
+              "ns": 0,
+              "title": "Router (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Rovio Entertainment"
+            },
+            {
+              "ns": 0,
+              "title": "Runtime library"
+            },
+            {
+              "ns": 0,
+              "title": "Rust (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "S60 (software platform)"
+            },
+            {
+              "ns": 0,
+              "title": "SCOTUSBlog"
+            },
+            {
+              "ns": 0,
+              "title": "SD card"
+            },
+            {
+              "ns": 0,
+              "title": "SHR (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "SQLite"
+            },
+            {
+              "ns": 0,
+              "title": "SUSE Linux"
+            },
+            {
+              "ns": 0,
+              "title": "SUSE Linux Enterprise"
+            },
+            {
+              "ns": 0,
+              "title": "SUSE Studio"
+            },
+            {
+              "ns": 0,
+              "title": "Sabayon Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Sabily"
+            },
+            {
+              "ns": 0,
+              "title": "SafetyNet"
+            },
+            {
+              "ns": 0,
+              "title": "Sailfish OS"
+            },
+            {
+              "ns": 0,
+              "title": "Salix OS"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Experience"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Galaxy Note II"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Galaxy S3"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Galaxy S4"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Galaxy Store"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Knox"
+            },
+            {
+              "ns": 0,
+              "title": "Sandbox (computer security)"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Screencast"
+            },
+            {
+              "ns": 0,
+              "title": "Security vulnerabilities"
+            },
+            {
+              "ns": 0,
+              "title": "Series 30"
+            },
+            {
+              "ns": 0,
+              "title": "Series 30+"
+            },
+            {
+              "ns": 0,
+              "title": "Series 40"
+            },
+            {
+              "ns": 0,
+              "title": "Series 80 (software platform)"
+            },
+            {
+              "ns": 0,
+              "title": "Series 90 (software platform)"
+            },
+            {
+              "ns": 0,
+              "title": "Set-top box"
+            },
+            {
+              "ns": 0,
+              "title": "Shield Portable"
+            },
+            {
+              "ns": 0,
+              "title": "Shim (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Simple DirectMedia Layer"
+            },
+            {
+              "ns": 0,
+              "title": "Single-board computer"
+            },
+            {
+              "ns": 0,
+              "title": "Skia Graphics Engine"
+            },
+            {
+              "ns": 0,
+              "title": "Skype"
+            },
+            {
+              "ns": 0,
+              "title": "Slackware"
+            },
+            {
+              "ns": 0,
+              "title": "Slax"
+            },
+            {
+              "ns": 0,
+              "title": "SlimRoms"
+            },
+            {
+              "ns": 0,
+              "title": "Smart TV"
+            },
+            {
+              "ns": 0,
+              "title": "Smartphone"
+            },
+            {
+              "ns": 0,
+              "title": "Smartphone patent wars"
+            },
+            {
+              "ns": 0,
+              "title": "Smartwatch"
+            },
+            {
+              "ns": 0,
+              "title": "Softlanding Linux System"
+            },
+            {
+              "ns": 0,
+              "title": "Software bloat"
+            },
+            {
+              "ns": 0,
+              "title": "Software bug"
+            },
+            {
+              "ns": 0,
+              "title": "Software cracking"
+            },
+            {
+              "ns": 0,
+              "title": "Software development"
+            },
+            {
+              "ns": 0,
+              "title": "Software development kit"
+            },
+            {
+              "ns": 0,
+              "title": "Software library"
+            },
+            {
+              "ns": 0,
+              "title": "Software license"
+            },
+            {
+              "ns": 0,
+              "title": "Software piracy"
+            },
+            {
+              "ns": 0,
+              "title": "Software release life cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Software widget"
+            },
+            {
+              "ns": 0,
+              "title": "Solus (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Solution stack"
+            },
+            {
+              "ns": 0,
+              "title": "SolydXK"
+            },
+            {
+              "ns": 0,
+              "title": "Sony Ericsson Java Platform"
+            },
+            {
+              "ns": 0,
+              "title": "Sony Mobile Communications"
+            },
+            {
+              "ns": 0,
+              "title": "Sony Xperia Z Ultra"
+            },
+            {
+              "ns": 0,
+              "title": "Sophos"
+            },
+            {
+              "ns": 0,
+              "title": "Source Mage"
+            },
+            {
+              "ns": 0,
+              "title": "Source code"
+            },
+            {
+              "ns": 0,
+              "title": "South America"
+            },
+            {
+              "ns": 0,
+              "title": "SparkyLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Specification (technical standard)"
+            },
+            {
+              "ns": 0,
+              "title": "Splashtop OS"
+            },
+            {
+              "ns": 0,
+              "title": "Split screen (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Sprint Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Spyware"
+            },
+            {
+              "ns": 0,
+              "title": "StatCounter"
+            },
+            {
+              "ns": 0,
+              "title": "Statistica"
+            },
+            {
+              "ns": 0,
+              "title": "Statutory damages"
+            },
+            {
+              "ns": 0,
+              "title": "SteamOS"
+            },
+            {
+              "ns": 0,
+              "title": "Steering wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Steve Perlman (entrepreneur)"
+            },
+            {
+              "ns": 0,
+              "title": "Subway station"
+            },
+            {
+              "ns": 0,
+              "title": "Sundar Pichai"
+            },
+            {
+              "ns": 0,
+              "title": "Sunwah Linux"
+            },
+            {
+              "ns": 0,
+              "title": "SuperSU"
+            },
+            {
+              "ns": 0,
+              "title": "Superuser"
+            },
+            {
+              "ns": 0,
+              "title": "Sydney Morning Herald"
+            },
+            {
+              "ns": 0,
+              "title": "Symbian"
+            },
+            {
+              "ns": 0,
+              "title": "Symbian Foundation"
+            },
+            {
+              "ns": 0,
+              "title": "SystemRescue"
+            },
+            {
+              "ns": 0,
+              "title": "System on a chip"
+            },
+            {
+              "ns": 0,
+              "title": "T-Mobile Sidekick"
+            },
+            {
+              "ns": 0,
+              "title": "T-Mobile US"
+            },
+            {
+              "ns": 0,
+              "title": "T2 SDE"
+            },
+            {
+              "ns": 0,
+              "title": "TCL Technology"
+            },
+            {
+              "ns": 0,
+              "title": "TWRP (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Tablet computer"
+            },
+            {
+              "ns": 0,
+              "title": "Tails (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "TechCrunch"
+            },
+            {
+              "ns": 0,
+              "title": "TechRadar"
+            },
+            {
+              "ns": 0,
+              "title": "Telephone"
+            },
+            {
+              "ns": 0,
+              "title": "Tethering"
+            },
+            {
+              "ns": 0,
+              "title": "Texas Instruments"
+            },
+            {
+              "ns": 0,
+              "title": "Text messaging"
+            },
+            {
+              "ns": 0,
+              "title": "The Daily Telegraph"
+            },
+            {
+              "ns": 0,
+              "title": "The Guardian"
+            },
+            {
+              "ns": 0,
+              "title": "The Indian Express"
+            },
+            {
+              "ns": 0,
+              "title": "The Inquirer"
+            },
+            {
+              "ns": 0,
+              "title": "The New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "The Record (Bergen County)"
+            },
+            {
+              "ns": 0,
+              "title": "The Register"
+            },
+            {
+              "ns": 0,
+              "title": "The Verge"
+            },
+            {
+              "ns": 0,
+              "title": "The Wall Street Journal"
+            },
+            {
+              "ns": 0,
+              "title": "Theme (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Think Blue Linux"
+            },
+            {
+              "ns": 0,
+              "title": "ThreadX"
+            },
+            {
+              "ns": 0,
+              "title": "Timestamping (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Tiny Core Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Tizen"
+            },
+            {
+              "ns": 0,
+              "title": "TopologiLinux"
+            },
+            {
+              "ns": 0,
+              "title": "TouchWiz"
+            },
+            {
+              "ns": 0,
+              "title": "Touchscreen"
+            },
+            {
+              "ns": 0,
+              "title": "Toybox"
+            },
+            {
+              "ns": 0,
+              "title": "Tracing just-in-time compilation"
+            },
+            {
+              "ns": 0,
+              "title": "Trademark"
+            },
+            {
+              "ns": 0,
+              "title": "Trend Micro"
+            },
+            {
+              "ns": 0,
+              "title": "Trinity College Dublin"
+            },
+            {
+              "ns": 0,
+              "title": "Trisquel"
+            },
+            {
+              "ns": 0,
+              "title": "TrueNAS"
+            },
+            {
+              "ns": 0,
+              "title": "Turbolinux"
+            },
+            {
+              "ns": 0,
+              "title": "Turkix"
+            },
+            {
+              "ns": 0,
+              "title": "Twitter"
+            },
+            {
+              "ns": 0,
+              "title": "Tying (commerce)"
+            },
+            {
+              "ns": 0,
+              "title": "UBports"
+            },
+            {
+              "ns": 0,
+              "title": "UClibc"
+            },
+            {
+              "ns": 0,
+              "title": "UEFI"
+            },
+            {
+              "ns": 0,
+              "title": "UIQ"
+            },
+            {
+              "ns": 0,
+              "title": "USB"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu Budgie"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu Cinnamon"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu GNOME"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu Kylin"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu MATE"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu Studio"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu Touch"
+            },
+            {
+              "ns": 0,
+              "title": "Ubuntu Unity"
+            },
+            {
+              "ns": 0,
+              "title": "Uncom OS"
+            },
+            {
+              "ns": 0,
+              "title": "United States"
+            },
+            {
+              "ns": 0,
+              "title": "United States dollar"
+            },
+            {
+              "ns": 0,
+              "title": "Unity Operating System"
+            },
+            {
+              "ns": 0,
+              "title": "University of Cambridge"
+            },
+            {
+              "ns": 0,
+              "title": "Univision Communications"
+            },
+            {
+              "ns": 0,
+              "title": "Unix-like"
+            },
+            {
+              "ns": 0,
+              "title": "Uruk GNU/Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Usage share of operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "UserLinux"
+            },
+            {
+              "ns": 0,
+              "title": "User interface"
+            },
+            {
+              "ns": 0,
+              "title": "User space and kernel space"
+            },
+            {
+              "ns": 0,
+              "title": "Userland (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "VOX Media"
+            },
+            {
+              "ns": 0,
+              "title": "Vault 7"
+            },
+            {
+              "ns": 0,
+              "title": "VectorLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Vendor"
+            },
+            {
+              "ns": 0,
+              "title": "VentureBeat"
+            },
+            {
+              "ns": 0,
+              "title": "Verizon Wireless"
+            },
+            {
+              "ns": 0,
+              "title": "Vice Media"
+            },
+            {
+              "ns": 0,
+              "title": "Video game console"
+            },
+            {
+              "ns": 0,
+              "title": "Video game controller"
+            },
+            {
+              "ns": 0,
+              "title": "Vine Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual keyboard"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual reality"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual reality headset"
+            },
+            {
+              "ns": 0,
+              "title": "Vivo X80"
+            },
+            {
+              "ns": 0,
+              "title": "Vivo X90"
+            },
+            {
+              "ns": 0,
+              "title": "Void Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Vox Media"
+            },
+            {
+              "ns": 0,
+              "title": "Vulkan"
+            },
+            {
+              "ns": 0,
+              "title": "Vulnerability (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "WARRIOR PRIDE"
+            },
+            {
+              "ns": 0,
+              "title": "WIRED"
+            },
+            {
+              "ns": 0,
+              "title": "WatchOS"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wear OS"
+            },
+            {
+              "ns": 0,
+              "title": "Wearable computer"
+            },
+            {
+              "ns": 0,
+              "title": "Weather forecast"
+            },
+            {
+              "ns": 0,
+              "title": "WebOS"
+            },
+            {
+              "ns": 0,
+              "title": "Web app"
+            },
+            {
+              "ns": 0,
+              "title": "Web search engine"
+            },
+            {
+              "ns": 0,
+              "title": "Western world"
+            },
+            {
+              "ns": 0,
+              "title": "Whonix"
+            },
+            {
+              "ns": 0,
+              "title": "Wi-Fi"
+            },
+            {
+              "ns": 0,
+              "title": "WiFi"
+            },
+            {
+              "ns": 0,
+              "title": "Wiki"
+            },
+            {
+              "ns": 0,
+              "title": "Wind-up Knight"
+            },
+            {
+              "ns": 0,
+              "title": "Windows"
+            },
+            {
+              "ns": 0,
+              "title": "Windows 10"
+            },
+            {
+              "ns": 0,
+              "title": "Windows 10 Mobile"
+            },
+            {
+              "ns": 0,
+              "title": "Windows 11"
+            },
+            {
+              "ns": 0,
+              "title": "Windows 8"
+            },
+            {
+              "ns": 0,
+              "title": "Windows 8.1"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770668976.7199416
+}

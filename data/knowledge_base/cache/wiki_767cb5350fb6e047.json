@@ -1,0 +1,361 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "52070": {
+          "pageid": 52070,
+          "ns": 0,
+          "title": "Arch",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Statically indeterminate"
+            },
+            {
+              "ns": 0,
+              "title": "Steel"
+            },
+            {
+              "ns": 0,
+              "title": "Steel-framed"
+            },
+            {
+              "ns": 0,
+              "title": "Steel frame"
+            },
+            {
+              "ns": 0,
+              "title": "Still room"
+            },
+            {
+              "ns": 0,
+              "title": "Stilted arch"
+            },
+            {
+              "ns": 0,
+              "title": "Stone"
+            },
+            {
+              "ns": 0,
+              "title": "Stonehenge"
+            },
+            {
+              "ns": 0,
+              "title": "Storage room"
+            },
+            {
+              "ns": 0,
+              "title": "Storm cellar"
+            },
+            {
+              "ns": 0,
+              "title": "Strainer arch"
+            },
+            {
+              "ns": 0,
+              "title": "Structural analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Structure"
+            },
+            {
+              "ns": 0,
+              "title": "Studio"
+            },
+            {
+              "ns": 0,
+              "title": "Studio apartment"
+            },
+            {
+              "ns": 0,
+              "title": "Study (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Sui dynasty"
+            },
+            {
+              "ns": 0,
+              "title": "Sunroom"
+            },
+            {
+              "ns": 0,
+              "title": "Susa, Piedmont"
+            },
+            {
+              "ns": 0,
+              "title": "Suspension bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Swimming pool"
+            },
+            {
+              "ns": 0,
+              "title": "Syria"
+            },
+            {
+              "ns": 0,
+              "title": "Taq Kasra"
+            },
+            {
+              "ns": 0,
+              "title": "Technical room"
+            },
+            {
+              "ns": 0,
+              "title": "Tel Dan"
+            },
+            {
+              "ns": 0,
+              "title": "Tell Taya"
+            },
+            {
+              "ns": 0,
+              "title": "Temple of Apollo at Didyma"
+            },
+            {
+              "ns": 0,
+              "title": "Temple of Minerva Medica (nymphaeum)"
+            },
+            {
+              "ns": 0,
+              "title": "Tensile strength"
+            },
+            {
+              "ns": 0,
+              "title": "Tensile stress"
+            },
+            {
+              "ns": 0,
+              "title": "Terrace (building)"
+            },
+            {
+              "ns": 0,
+              "title": "Terraced house"
+            },
+            {
+              "ns": 0,
+              "title": "The Jerusalem Post"
+            },
+            {
+              "ns": 0,
+              "title": "The Nebuly Coat"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal contraction"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Third Dynasty"
+            },
+            {
+              "ns": 0,
+              "title": "Threshold (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Through arch bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Tie (engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Timber-framed"
+            },
+            {
+              "ns": 0,
+              "title": "Toilet (room)"
+            },
+            {
+              "ns": 0,
+              "title": "Townhouse"
+            },
+            {
+              "ns": 0,
+              "title": "Trabeated"
+            },
+            {
+              "ns": 0,
+              "title": "Transom (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Transverse arch"
+            },
+            {
+              "ns": 0,
+              "title": "Treccani"
+            },
+            {
+              "ns": 0,
+              "title": "Tree house"
+            },
+            {
+              "ns": 0,
+              "title": "Trefoil arch"
+            },
+            {
+              "ns": 0,
+              "title": "Triangular arch"
+            },
+            {
+              "ns": 0,
+              "title": "Triumphal arch"
+            },
+            {
+              "ns": 0,
+              "title": "Trumpet arch"
+            },
+            {
+              "ns": 0,
+              "title": "Truss arch bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Tubular bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Tudor arch"
+            },
+            {
+              "ns": 0,
+              "title": "Turkey"
+            },
+            {
+              "ns": 0,
+              "title": "Turret (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Two-centred arch"
+            },
+            {
+              "ns": 0,
+              "title": "Tyne Bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Umayyad architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Undercroft"
+            },
+            {
+              "ns": 0,
+              "title": "Utility room"
+            },
+            {
+              "ns": 0,
+              "title": "Vault (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Venetian Gothic"
+            },
+            {
+              "ns": 0,
+              "title": "Venice"
+            },
+            {
+              "ns": 0,
+              "title": "Veranda"
+            },
+            {
+              "ns": 0,
+              "title": "Vestibule (architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Viking architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Voussoir"
+            },
+            {
+              "ns": 0,
+              "title": "Wall"
+            },
+            {
+              "ns": 0,
+              "title": "Wardrobe"
+            },
+            {
+              "ns": 0,
+              "title": "Weighted catenary"
+            },
+            {
+              "ns": 0,
+              "title": "Wells Cathedral"
+            },
+            {
+              "ns": 0,
+              "title": "Western Asia"
+            },
+            {
+              "ns": 0,
+              "title": "Western Roman Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Wheelchair ramp"
+            },
+            {
+              "ns": 0,
+              "title": "White Mosque of Ramle"
+            },
+            {
+              "ns": 0,
+              "title": "Wikimedia Commons"
+            },
+            {
+              "ns": 0,
+              "title": "Wilfried Koch"
+            },
+            {
+              "ns": 0,
+              "title": "Window"
+            },
+            {
+              "ns": 0,
+              "title": "Wine cellar"
+            },
+            {
+              "ns": 0,
+              "title": "Wiring closet"
+            },
+            {
+              "ns": 0,
+              "title": "Workshop"
+            },
+            {
+              "ns": 0,
+              "title": "Wrought iron"
+            },
+            {
+              "ns": 0,
+              "title": "York Minster"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669360.6936984
+}

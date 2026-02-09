@@ -1,0 +1,14 @@
+{
+  "no_access_days": 180,
+  "min_age_days": 180,
+  "eligible_roots": [
+    "normalized_deeper/sorted",
+    "wiki_corpus",
+    "notes"
+  ],
+  "exclude_paths": [
+    "metadata",
+    "index"
+  ],
+  "max_candidates": 200
+}

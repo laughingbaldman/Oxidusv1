@@ -1,0 +1,313 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "261690": {
+          "pageid": 261690,
+          "ns": 0,
+          "title": "Air mass",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Adiabatic"
+            },
+            {
+              "ns": 0,
+              "title": "Air"
+            },
+            {
+              "ns": 0,
+              "title": "Air mass (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Airstream (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "American Meteorological Society"
+            },
+            {
+              "ns": 0,
+              "title": "Antarctic"
+            },
+            {
+              "ns": 0,
+              "title": "Arabian Peninsula"
+            },
+            {
+              "ns": 0,
+              "title": "Arctic"
+            },
+            {
+              "ns": 0,
+              "title": "Australia"
+            },
+            {
+              "ns": 0,
+              "title": "Bahamas"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Body of water"
+            },
+            {
+              "ns": 0,
+              "title": "Caribbean Sea"
+            },
+            {
+              "ns": 0,
+              "title": "Central United States"
+            },
+            {
+              "ns": 0,
+              "title": "Cold front"
+            },
+            {
+              "ns": 0,
+              "title": "Continental air mass"
+            },
+            {
+              "ns": 0,
+              "title": "Czech Republic"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Desert southwest"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dry line"
+            },
+            {
+              "ns": 0,
+              "title": "Equator"
+            },
+            {
+              "ns": 0,
+              "title": "Extratropical cyclone"
+            },
+            {
+              "ns": 0,
+              "title": "Florida"
+            },
+            {
+              "ns": 0,
+              "title": "Fog"
+            },
+            {
+              "ns": 0,
+              "title": "Geographical pole"
+            },
+            {
+              "ns": 0,
+              "title": "Gulf Stream"
+            },
+            {
+              "ns": 0,
+              "title": "Gulf of Alaska"
+            },
+            {
+              "ns": 0,
+              "title": "Gulf of Mexico"
+            },
+            {
+              "ns": 0,
+              "title": "Humidity"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrometeorological Prediction Center"
+            },
+            {
+              "ns": 0,
+              "title": "Korean Peninsula"
+            },
+            {
+              "ns": 0,
+              "title": "Lake-effect snow"
+            },
+            {
+              "ns": 0,
+              "title": "Latitude"
+            },
+            {
+              "ns": 0,
+              "title": "Massachusetts Institute of Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Meteorological phenomenon"
+            },
+            {
+              "ns": 0,
+              "title": "Meteorology"
+            },
+            {
+              "ns": 0,
+              "title": "Moisture"
+            },
+            {
+              "ns": 0,
+              "title": "Monsoon"
+            },
+            {
+              "ns": 0,
+              "title": "Mountain"
+            },
+            {
+              "ns": 0,
+              "title": "Occluded front"
+            },
+            {
+              "ns": 0,
+              "title": "Pacific Ocean"
+            },
+            {
+              "ns": 0,
+              "title": "Polar region"
+            },
+            {
+              "ns": 0,
+              "title": "Precipitation"
+            },
+            {
+              "ns": 0,
+              "title": "Precipitation (meteorology)"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sahara Desert"
+            },
+            {
+              "ns": 0,
+              "title": "Severe weather"
+            },
+            {
+              "ns": 0,
+              "title": "Shear line (meteorology)"
+            },
+            {
+              "ns": 0,
+              "title": "Siberia"
+            },
+            {
+              "ns": 0,
+              "title": "Solar irradiance"
+            },
+            {
+              "ns": 0,
+              "title": "Southwestern United States"
+            },
+            {
+              "ns": 0,
+              "title": "Spatial Synoptic Classification system"
+            },
+            {
+              "ns": 0,
+              "title": "Squall line"
+            },
+            {
+              "ns": 0,
+              "title": "Square mile"
+            },
+            {
+              "ns": 0,
+              "title": "Stationary front"
+            },
+            {
+              "ns": 0,
+              "title": "Stratus cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Subtropical ridge"
+            },
+            {
+              "ns": 0,
+              "title": "Surface weather analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Thunderstorm"
+            },
+            {
+              "ns": 0,
+              "title": "Tor Bergeron"
+            },
+            {
+              "ns": 0,
+              "title": "Trade wind"
+            },
+            {
+              "ns": 0,
+              "title": "Tropics"
+            },
+            {
+              "ns": 0,
+              "title": "United States Department of Commerce"
+            },
+            {
+              "ns": 0,
+              "title": "University Corporation for Atmospheric Research"
+            },
+            {
+              "ns": 0,
+              "title": "University of New Hampshire"
+            },
+            {
+              "ns": 0,
+              "title": "University of Wyoming"
+            },
+            {
+              "ns": 0,
+              "title": "Vegetation"
+            },
+            {
+              "ns": 0,
+              "title": "Volume"
+            },
+            {
+              "ns": 0,
+              "title": "Wake (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Warm front"
+            },
+            {
+              "ns": 0,
+              "title": "Weather front"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323579.6323817
+}

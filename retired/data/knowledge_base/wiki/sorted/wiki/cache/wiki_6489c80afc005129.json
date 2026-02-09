@@ -1,0 +1,1593 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "3758": {
+          "pageid": 3758,
+          "ns": 0,
+          "title": "Berkelium",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1968 Thule Air Base B-52 crash"
+            },
+            {
+              "ns": 0,
+              "title": "Actinide"
+            },
+            {
+              "ns": 0,
+              "title": "Actinium"
+            },
+            {
+              "ns": 0,
+              "title": "Actinocene"
+            },
+            {
+              "ns": 0,
+              "title": "Albert Ghiorso"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali metal"
+            },
+            {
+              "ns": 0,
+              "title": "Alkaline earth metal"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha decay"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha particle"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Americium"
+            },
+            {
+              "ns": 0,
+              "title": "Americium-241"
+            },
+            {
+              "ns": 0,
+              "title": "Americium-242"
+            },
+            {
+              "ns": 0,
+              "title": "Americium-243"
+            },
+            {
+              "ns": 0,
+              "title": "Americium-244"
+            },
+            {
+              "ns": 0,
+              "title": "Americium-245"
+            },
+            {
+              "ns": 0,
+              "title": "Americium dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Amine"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonia solution"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Angular momentum coupling"
+            },
+            {
+              "ns": 0,
+              "title": "Antiferromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Antimony"
+            },
+            {
+              "ns": 0,
+              "title": "Arco, Idaho"
+            },
+            {
+              "ns": 0,
+              "title": "Argon"
+            },
+            {
+              "ns": 0,
+              "title": "Arsenic"
+            },
+            {
+              "ns": 0,
+              "title": "Astatine"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic number"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic radius"
+            },
+            {
+              "ns": 0,
+              "title": "Barium"
+            },
+            {
+              "ns": 0,
+              "title": "Barn (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Berkeley, California"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(II) hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(II) oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(II) perchlorate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) antimonide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) arsenide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) iodate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) iodide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) oxalate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) oxybromide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) oxychloride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) oxyiodide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) oxysulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) phosphide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(III) sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(IV) fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(IV) iodate"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium(IV) oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium compounds"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelocene"
+            },
+            {
+              "ns": 0,
+              "title": "Beryllium"
+            },
+            {
+              "ns": 0,
+              "title": "Beryllocene"
+            },
+            {
+              "ns": 0,
+              "title": "Beta-stable"
+            },
+            {
+              "ns": 0,
+              "title": "Beta decay"
+            },
+            {
+              "ns": 0,
+              "title": "Beta minus decay"
+            },
+            {
+              "ns": 0,
+              "title": "Beta particle"
+            },
+            {
+              "ns": 0,
+              "title": "Beta plus decay"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bismuth"
+            },
+            {
+              "ns": 0,
+              "title": "Bismuthate"
+            },
+            {
+              "ns": 0,
+              "title": "Block (periodic table)"
+            },
+            {
+              "ns": 0,
+              "title": "Bohr magneton"
+            },
+            {
+              "ns": 0,
+              "title": "Bohrium"
+            },
+            {
+              "ns": 0,
+              "title": "Boiling point"
+            },
+            {
+              "ns": 0,
+              "title": "Boron"
+            },
+            {
+              "ns": 0,
+              "title": "Boron group"
+            },
+            {
+              "ns": 0,
+              "title": "Breeder reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Bromate"
+            },
+            {
+              "ns": 0,
+              "title": "Bromine"
+            },
+            {
+              "ns": 0,
+              "title": "Brookhaven National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Buffer solution"
+            },
+            {
+              "ns": 0,
+              "title": "Bulk modulus"
+            },
+            {
+              "ns": 0,
+              "title": "Butterworth-Heinemann"
+            },
+            {
+              "ns": 0,
+              "title": "CAS Registry Number"
+            },
+            {
+              "ns": 0,
+              "title": "Cadmium"
+            },
+            {
+              "ns": 0,
+              "title": "Caesium"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium-48"
+            },
+            {
+              "ns": 0,
+              "title": "Californium"
+            },
+            {
+              "ns": 0,
+              "title": "Californium-249"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon disulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon group"
+            },
+            {
+              "ns": 0,
+              "title": "Centrifugation"
+            },
+            {
+              "ns": 0,
+              "title": "Cerium"
+            },
+            {
+              "ns": 0,
+              "title": "Chalcogen"
+            },
+            {
+              "ns": 0,
+              "title": "Chelation"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Chernobyl disaster"
+            },
+            {
+              "ns": 0,
+              "title": "Chlorine"
+            },
+            {
+              "ns": 0,
+              "title": "Chromate and dichromate"
+            },
+            {
+              "ns": 0,
+              "title": "Chromatography"
+            },
+            {
+              "ns": 0,
+              "title": "Chromium"
+            },
+            {
+              "ns": 0,
+              "title": "Citric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Close-packing of equal spheres"
+            },
+            {
+              "ns": 0,
+              "title": "Cobalt"
+            },
+            {
+              "ns": 0,
+              "title": "Coordination number"
+            },
+            {
+              "ns": 0,
+              "title": "Copernicium"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Critical mass"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal structure"
+            },
+            {
+              "ns": 0,
+              "title": "Cubic crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Curie temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Curie–Weiss law"
+            },
+            {
+              "ns": 0,
+              "title": "Curium"
+            },
+            {
+              "ns": 0,
+              "title": "Curium-245"
+            },
+            {
+              "ns": 0,
+              "title": "Curium-246"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclopentadienyl complex"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclotron"
+            },
+            {
+              "ns": 0,
+              "title": "D-block"
+            },
+            {
+              "ns": 0,
+              "title": "Darmstadtium"
+            },
+            {
+              "ns": 0,
+              "title": "Decay product"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Dimitrovgrad, Russia"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dubna"
+            },
+            {
+              "ns": 0,
+              "title": "Dubnium"
+            },
+            {
+              "ns": 0,
+              "title": "Dysprosium"
+            },
+            {
+              "ns": 0,
+              "title": "Einsteinium"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron capture"
+            },
+            {
+              "ns": 0,
+              "title": "Electron configuration"
+            },
+            {
+              "ns": 0,
+              "title": "Electron shell"
+            },
+            {
+              "ns": 0,
+              "title": "Electronegativity"
+            },
+            {
+              "ns": 0,
+              "title": "Elution"
+            },
+            {
+              "ns": 0,
+              "title": "Enewetak Atoll"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy change of solution"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy of fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Erbium"
+            },
+            {
+              "ns": 0,
+              "title": "Europium"
+            },
+            {
+              "ns": 0,
+              "title": "F-block"
+            },
+            {
+              "ns": 0,
+              "title": "F-block groups"
+            },
+            {
+              "ns": 0,
+              "title": "Fermium"
+            },
+            {
+              "ns": 0,
+              "title": "Flerovium"
+            },
+            {
+              "ns": 0,
+              "title": "Fluorescence"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Fluorine"
+            },
+            {
+              "ns": 0,
+              "title": "Francium"
+            },
+            {
+              "ns": 0,
+              "title": "Gadolinium"
+            },
+            {
+              "ns": 0,
+              "title": "Gallium"
+            },
+            {
+              "ns": 0,
+              "title": "Germanium"
+            },
+            {
+              "ns": 0,
+              "title": "Glenn T. Seaborg"
+            },
+            {
+              "ns": 0,
+              "title": "Glovebox"
+            },
+            {
+              "ns": 0,
+              "title": "Gold"
+            },
+            {
+              "ns": 0,
+              "title": "Gram"
+            },
+            {
+              "ns": 0,
+              "title": "Group (periodic table)"
+            },
+            {
+              "ns": 0,
+              "title": "Group 10 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 11 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 12 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 3 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 4 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 5 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 6 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 7 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 8 element"
+            },
+            {
+              "ns": 0,
+              "title": "Group 9 element"
+            },
+            {
+              "ns": 0,
+              "title": "Hafnium"
+            },
+            {
+              "ns": 0,
+              "title": "Half-life"
+            },
+            {
+              "ns": 0,
+              "title": "Halide"
+            },
+            {
+              "ns": 0,
+              "title": "Halogen"
+            },
+            {
+              "ns": 0,
+              "title": "Hassium"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Helium"
+            },
+            {
+              "ns": 0,
+              "title": "Hexagonal crystal family"
+            },
+            {
+              "ns": 0,
+              "title": "High Flux Isotope Reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Holmium"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrochloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrofluoric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Idaho National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Indium"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Internal conversion"
+            },
+            {
+              "ns": 0,
+              "title": "Iodine"
+            },
+            {
+              "ns": 0,
+              "title": "Ion exchange"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization energy"
+            },
+            {
+              "ns": 0,
+              "title": "Iridium"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "Isostructural"
+            },
+            {
+              "ns": 0,
+              "title": "Isotope"
+            },
+            {
+              "ns": 0,
+              "title": "Isotopes of berkelium"
+            },
+            {
+              "ns": 0,
+              "title": "Isotopes of curium"
+            },
+            {
+              "ns": 0,
+              "title": "Ivy Mike"
+            },
+            {
+              "ns": 0,
+              "title": "Johan Gadolin"
+            },
+            {
+              "ns": 0,
+              "title": "Joint Institute for Nuclear Research"
+            },
+            {
+              "ns": 0,
+              "title": "K-alpha"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kenneth Street Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Kilogram"
+            },
+            {
+              "ns": 0,
+              "title": "Kilojoule per mole"
+            },
+            {
+              "ns": 0,
+              "title": "Krypton"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanide"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanum"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanum(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Lanthanum trifluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Lattice constant"
+            },
+            {
+              "ns": 0,
+              "title": "Lawrence Berkeley National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Lawrence Livermore National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Lawrencium"
+            },
+            {
+              "ns": 0,
+              "title": "Lead"
+            },
+            {
+              "ns": 0,
+              "title": "List of chemical element name etymologies"
+            },
+            {
+              "ns": 0,
+              "title": "List of data references for chemical elements"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Livermorium"
+            },
+            {
+              "ns": 0,
+              "title": "Lutetium"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Manganese"
+            },
+            {
+              "ns": 0,
+              "title": "Marie Curie"
+            },
+            {
+              "ns": 0,
+              "title": "Mass number"
+            },
+            {
+              "ns": 0,
+              "title": "Meitnerium"
+            },
+            {
+              "ns": 0,
+              "title": "Melting point"
+            },
+            {
+              "ns": 0,
+              "title": "Mendelevium"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (element)"
+            },
+            {
+              "ns": 0,
+              "title": "Metallocene"
+            },
+            {
+              "ns": 0,
+              "title": "Molar concentration"
+            },
+            {
+              "ns": 0,
+              "title": "Molybdenum"
+            },
+            {
+              "ns": 0,
+              "title": "Moscovium"
+            },
+            {
+              "ns": 0,
+              "title": "Nanometre"
+            },
+            {
+              "ns": 0,
+              "title": "Natural abundance"
+            },
+            {
+              "ns": 0,
+              "title": "Natural nuclear fission reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Nature Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Neodymium"
+            },
+            {
+              "ns": 0,
+              "title": "Neon"
+            },
+            {
+              "ns": 0,
+              "title": "Neptunium"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron capture"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron cross section"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron flux"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel"
+            },
+            {
+              "ns": 0,
+              "title": "Nihonium"
+            },
+            {
+              "ns": 0,
+              "title": "Niobium"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Nitric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Nobelium"
+            },
+            {
+              "ns": 0,
+              "title": "Noble gas"
+            },
+            {
+              "ns": 0,
+              "title": "Norman Greenwood"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear chain reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fission"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear isomer"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear transmutation"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear weapons testing"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclide"
+            },
+            {
+              "ns": 0,
+              "title": "OSTI (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Oak Ridge National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Octahedral molecular geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Oganesson"
+            },
+            {
+              "ns": 0,
+              "title": "Oklo"
+            },
+            {
+              "ns": 0,
+              "title": "Organoactinide chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organometallic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Orthorhombic crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Osmium"
+            },
+            {
+              "ns": 0,
+              "title": "Oxalate"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidation state"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Ozone"
+            },
+            {
+              "ns": 0,
+              "title": "P-block"
+            },
+            {
+              "ns": 0,
+              "title": "PH"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Palladium"
+            },
+            {
+              "ns": 0,
+              "title": "Paramagnetic"
+            },
+            {
+              "ns": 0,
+              "title": "Pascal (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Perchloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Period (periodic table)"
+            },
+            {
+              "ns": 0,
+              "title": "Period 1 element"
+            },
+            {
+              "ns": 0,
+              "title": "Period 2 element"
+            },
+            {
+              "ns": 0,
+              "title": "Period 3 element"
+            },
+            {
+              "ns": 0,
+              "title": "Period 4 element"
+            },
+            {
+              "ns": 0,
+              "title": "Period 5 element"
+            },
+            {
+              "ns": 0,
+              "title": "Period 6 element"
+            },
+            {
+              "ns": 0,
+              "title": "Period 7 element"
+            },
+            {
+              "ns": 0,
+              "title": "Periodic table"
+            },
+            {
+              "ns": 0,
+              "title": "Phase (matter)"
+            },
+            {
+              "ns": 0,
+              "title": "Phase transition"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Picometre"
+            },
+            {
+              "ns": 0,
+              "title": "Pierre Curie"
+            },
+            {
+              "ns": 0,
+              "title": "Platinum"
+            },
+            {
+              "ns": 0,
+              "title": "Plutonium"
+            },
+            {
+              "ns": 0,
+              "title": "Pnictogen"
+            },
+            {
+              "ns": 0,
+              "title": "Polonium"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Praseodymium"
+            },
+            {
+              "ns": 0,
+              "title": "Primordial nuclide"
+            },
+            {
+              "ns": 0,
+              "title": "Promethium"
+            },
+            {
+              "ns": 0,
+              "title": "Protactinium"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Radium"
+            },
+            {
+              "ns": 0,
+              "title": "Radon"
+            },
+            {
+              "ns": 0,
+              "title": "Rare-earth element"
+            },
+            {
+              "ns": 0,
+              "title": "Reagent"
+            },
+            {
+              "ns": 0,
+              "title": "Redox"
+            },
+            {
+              "ns": 0,
+              "title": "Research Institute of Atomic Reactors"
+            },
+            {
+              "ns": 0,
+              "title": "Rhenium"
+            },
+            {
+              "ns": 0,
+              "title": "Rhodium"
+            },
+            {
+              "ns": 0,
+              "title": "Roentgenium"
+            },
+            {
+              "ns": 0,
+              "title": "Room temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Rubidium"
+            },
+            {
+              "ns": 0,
+              "title": "Russia"
+            },
+            {
+              "ns": 0,
+              "title": "Ruthenium"
+            },
+            {
+              "ns": 0,
+              "title": "Rutherfordium"
+            },
+            {
+              "ns": 0,
+              "title": "S-block"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Samarium"
+            },
+            {
+              "ns": 0,
+              "title": "Scandium"
+            },
+            {
+              "ns": 0,
+              "title": "Seaborgium"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium"
+            },
+            {
+              "ns": 0,
+              "title": "Sesquioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Silver"
+            },
+            {
+              "ns": 0,
+              "title": "Skeleton"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Solid"
+            },
+            {
+              "ns": 0,
+              "title": "Space group"
+            },
+            {
+              "ns": 0,
+              "title": "Spectral line"
+            },
+            {
+              "ns": 0,
+              "title": "Spontaneous fission"
+            },
+            {
+              "ns": 0,
+              "title": "Standard electrode potential"
+            },
+            {
+              "ns": 0,
+              "title": "Standard enthalpy of formation"
+            },
+            {
+              "ns": 0,
+              "title": "Standard temperature and pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Stanley Gerald Thompson"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Superheavy element"
+            },
+            {
+              "ns": 0,
+              "title": "Sweden"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic element"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic radioisotope"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum"
+            },
+            {
+              "ns": 0,
+              "title": "Technetium"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium"
+            },
+            {
+              "ns": 0,
+              "title": "Tennessee"
+            },
+            {
+              "ns": 0,
+              "title": "Tennessine"
+            },
+            {
+              "ns": 0,
+              "title": "Terbium"
+            },
+            {
+              "ns": 0,
+              "title": "Thallium"
+            },
+            {
+              "ns": 0,
+              "title": "The Periodic Table of Videos"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermonuclear weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Thorium"
+            },
+            {
+              "ns": 0,
+              "title": "Three Mile Island accident"
+            },
+            {
+              "ns": 0,
+              "title": "Thulium"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of chemical element discoveries"
+            },
+            {
+              "ns": 0,
+              "title": "Tin"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium"
+            },
+            {
+              "ns": 0,
+              "title": "Transuranium element"
+            },
+            {
+              "ns": 0,
+              "title": "Tributyl phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "United States"
+            },
+            {
+              "ns": 0,
+              "title": "United States dollar"
+            },
+            {
+              "ns": 0,
+              "title": "University of California, Berkeley"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium tetrafluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Valence (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray crystallography"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterby"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium(III) fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium tetrafluoride"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324342.1154447
+}

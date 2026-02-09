@@ -1,0 +1,269 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25312": {
+          "pageid": 25312,
+          "ns": 0,
+          "title": "Quantum gravity",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Teleparallelism"
+            },
+            {
+              "ns": 0,
+              "title": "Tensor–vector–scalar gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Terrell rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Tests of general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Tevatron"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of everything"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of impetus"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas precession"
+            },
+            {
+              "ns": 0,
+              "title": "Thought experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Three Roads to Quantum Gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Time dilation"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum computing and communication"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Tolman–Oppenheimer–Volkoff equation"
+            },
+            {
+              "ns": 0,
+              "title": "Topological quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Toy model"
+            },
+            {
+              "ns": 0,
+              "title": "Trans-Planckian problem"
+            },
+            {
+              "ns": 0,
+              "title": "Transactional interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Translation operator (quantum mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Twin paradox"
+            },
+            {
+              "ns": 0,
+              "title": "Twistor string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Twistor theory"
+            },
+            {
+              "ns": 0,
+              "title": "Two-body problem in general relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Type 0 string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Type II string theory"
+            },
+            {
+              "ns": 0,
+              "title": "Type I string theory"
+            },
+            {
+              "ns": 0,
+              "title": "UV fixed point"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "Unification of theories in physics"
+            },
+            {
+              "ns": 0,
+              "title": "Universe"
+            },
+            {
+              "ns": 0,
+              "title": "University of Oregon"
+            },
+            {
+              "ns": 0,
+              "title": "Unruh effect"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum energy"
+            },
+            {
+              "ns": 0,
+              "title": "Van Stockum dust"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo interferometer"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual black hole"
+            },
+            {
+              "ns": 0,
+              "title": "W. W. Norton & Company"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Wave interference"
+            },
+            {
+              "ns": 0,
+              "title": "Wave–particle duality"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weak Gravity Conjecture"
+            },
+            {
+              "ns": 0,
+              "title": "Weak hypercharge"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Weak isospin"
+            },
+            {
+              "ns": 0,
+              "title": "Weinberg–Witten theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Weyl equation"
+            },
+            {
+              "ns": 0,
+              "title": "Weyl−Lewis−Papapetrou coordinates"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler's delayed-choice experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler–DeWitt equation"
+            },
+            {
+              "ns": 0,
+              "title": "Whitehead's theory of gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Wigner's friend"
+            },
+            {
+              "ns": 0,
+              "title": "Willem de Sitter"
+            },
+            {
+              "ns": 0,
+              "title": "World Scientific"
+            },
+            {
+              "ns": 0,
+              "title": "World line"
+            },
+            {
+              "ns": 0,
+              "title": "World sheet"
+            },
+            {
+              "ns": 0,
+              "title": "Yakov Zeldovich"
+            },
+            {
+              "ns": 0,
+              "title": "Yvonne Choquet-Bruhat"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-point energy"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329107.554591
+}

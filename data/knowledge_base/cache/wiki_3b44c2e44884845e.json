@@ -1,0 +1,601 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1839": {
+          "pageid": 1839,
+          "ns": 0,
+          "title": "Allotropy",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Allotropes of arsenic"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of boron"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of iron"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of plutonium"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropes of sulfur"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Americium"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous germanium"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous solid"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek language"
+            },
+            {
+              "ns": 0,
+              "title": "Antimony"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Austenite"
+            },
+            {
+              "ns": 0,
+              "title": "Avogadro's law"
+            },
+            {
+              "ns": 0,
+              "title": "Berkelium"
+            },
+            {
+              "ns": 0,
+              "title": "Beryllium"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Body-centered cubic"
+            },
+            {
+              "ns": 0,
+              "title": "Buckminsterfullerene"
+            },
+            {
+              "ns": 0,
+              "title": "Californium"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon nanotube"
+            },
+            {
+              "ns": 0,
+              "title": "Catenation"
+            },
+            {
+              "ns": 0,
+              "title": "Cerium"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical compound"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical element"
+            },
+            {
+              "ns": 0,
+              "title": "Close-packing of equal spheres"
+            },
+            {
+              "ns": 0,
+              "title": "Cobalt"
+            },
+            {
+              "ns": 0,
+              "title": "Coordination number"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Cubic crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Curium"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclocarbon"
+            },
+            {
+              "ns": 0,
+              "title": "Diamond"
+            },
+            {
+              "ns": 0,
+              "title": "Diamond cubic"
+            },
+            {
+              "ns": 0,
+              "title": "Diphosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dysprosium"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Face-centered cubic"
+            },
+            {
+              "ns": 0,
+              "title": "Ferromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Fullerene"
+            },
+            {
+              "ns": 0,
+              "title": "Gadolinium"
+            },
+            {
+              "ns": 0,
+              "title": "Gas"
+            },
+            {
+              "ns": 0,
+              "title": "Germanium"
+            },
+            {
+              "ns": 0,
+              "title": "Glassy carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Graphene"
+            },
+            {
+              "ns": 0,
+              "title": "Graphite"
+            },
+            {
+              "ns": 0,
+              "title": "Gray tin"
+            },
+            {
+              "ns": 0,
+              "title": "Greek language"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Hexaferrum"
+            },
+            {
+              "ns": 0,
+              "title": "Hexagonal close-packed"
+            },
+            {
+              "ns": 0,
+              "title": "Hexagonal lattice"
+            },
+            {
+              "ns": 0,
+              "title": "Hexanitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Hexazine"
+            },
+            {
+              "ns": 0,
+              "title": "Hugh Chisholm"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "IUPAC"
+            },
+            {
+              "ns": 0,
+              "title": "IUPAC books"
+            },
+            {
+              "ns": 0,
+              "title": "Indium"
+            },
+            {
+              "ns": 0,
+              "title": "International Union of Pure and Applied Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "Isomer"
+            },
+            {
+              "ns": 0,
+              "title": "Jöns Jakob Berzelius"
+            },
+            {
+              "ns": 0,
+              "title": "Linear acetylenic carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium"
+            },
+            {
+              "ns": 0,
+              "title": "Lonsdaleite"
+            },
+            {
+              "ns": 0,
+              "title": "Luis Liz-Marzán"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium"
+            },
+            {
+              "ns": 0,
+              "title": "Manganese phosphide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (element)"
+            },
+            {
+              "ns": 0,
+              "title": "Metal"
+            },
+            {
+              "ns": 0,
+              "title": "Metastability"
+            },
+            {
+              "ns": 0,
+              "title": "Molybdenum"
+            },
+            {
+              "ns": 0,
+              "title": "Monoclinic"
+            },
+            {
+              "ns": 0,
+              "title": "Nanomaterials"
+            },
+            {
+              "ns": 0,
+              "title": "Neodymium"
+            },
+            {
+              "ns": 0,
+              "title": "Neptunium"
+            },
+            {
+              "ns": 0,
+              "title": "Nickeline"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Octaazacubane"
+            },
+            {
+              "ns": 0,
+              "title": "Octaoxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidation states"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Ozone"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Paramagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Pearson symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Phase (matter)"
+            },
+            {
+              "ns": 0,
+              "title": "Phase transition"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Photochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Polonium"
+            },
+            {
+              "ns": 0,
+              "title": "Polymer"
+            },
+            {
+              "ns": 0,
+              "title": "Polymorphism (materials science)"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium"
+            },
+            {
+              "ns": 0,
+              "title": "Praseodymium"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Promethium"
+            },
+            {
+              "ns": 0,
+              "title": "Q-carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Red phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Rhombohedral"
+            },
+            {
+              "ns": 0,
+              "title": "Rubidium"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Samarium"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium"
+            },
+            {
+              "ns": 0,
+              "title": "Semimetal"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Solid"
+            },
+            {
+              "ns": 0,
+              "title": "Solid nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Spin isomers of hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Stanene"
+            },
+            {
+              "ns": 0,
+              "title": "State of matter"
+            },
+            {
+              "ns": 0,
+              "title": "Superdense carbon allotropes"
+            },
+            {
+              "ns": 0,
+              "title": "Surface-enhanced Raman scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Terbium"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrahedral molecular geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Tetranitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Tetraoxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Tin"
+            },
+            {
+              "ns": 0,
+              "title": "Tin pest"
+            },
+            {
+              "ns": 0,
+              "title": "Transuranium element"
+            },
+            {
+              "ns": 0,
+              "title": "Trinitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "Werner Heisenberg"
+            },
+            {
+              "ns": 0,
+              "title": "White phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "White tin"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Ostwald"
+            },
+            {
+              "ns": 0,
+              "title": "William B. Jensen"
+            },
+            {
+              "ns": 0,
+              "title": "Xenophagy"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357892.9656842
+}

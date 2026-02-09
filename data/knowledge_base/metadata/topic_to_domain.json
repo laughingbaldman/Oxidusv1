@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T12:00:00Z",
+  "mappings": [
+    {
+      "topic": "artificial intelligence",
+      "domain_id": "domain-technology"
+    },
+    {
+      "topic": "epistemology",
+      "domain_id": "domain-philosophy"
+    },
+    {
+      "topic": "public health",
+      "domain_id": "domain-medicine"
+    },
+    {
+      "topic": "constitutional law",
+      "domain_id": "domain-law"
+    },
+    {
+      "topic": "criminal law",
+      "domain_id": "domain-law"
+    },
+    {
+      "topic": "civil law",
+      "domain_id": "domain-law"
+    },
+    {
+      "topic": "surgery",
+      "domain_id": "domain-medicine"
+    },
+    {
+      "topic": "epidemiology",
+      "domain_id": "domain-medicine"
+    },
+    {
+      "topic": "mechanical engineering",
+      "domain_id": "domain-engineering"
+    },
+    {
+      "topic": "civil engineering",
+      "domain_id": "domain-engineering"
+    },
+    {
+      "topic": "software engineering",
+      "domain_id": "domain-engineering"
+    },
+    {
+      "topic": "robotics",
+      "domain_id": "domain-engineering"
+    },
+    {
+      "topic": "statistics",
+      "domain_id": "domain-mathematics"
+    },
+    {
+      "topic": "probability",
+      "domain_id": "domain-mathematics"
+    },
+    {
+      "topic": "marketing",
+      "domain_id": "domain-business"
+    },
+    {
+      "topic": "management",
+      "domain_id": "domain-business"
+    },
+    {
+      "topic": "climate change",
+      "domain_id": "domain-environment"
+    },
+    {
+      "topic": "conservation",
+      "domain_id": "domain-environment"
+    },
+    {
+      "topic": "agronomy",
+      "domain_id": "domain-agriculture"
+    },
+    {
+      "topic": "world religions",
+      "domain_id": "domain-religion"
+    },
+    {
+      "topic": "curriculum",
+      "domain_id": "domain-education"
+    },
+    {
+      "topic": "public policy",
+      "domain_id": "domain-politics"
+    }
+  ]
+}

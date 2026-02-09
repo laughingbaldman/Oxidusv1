@@ -1,0 +1,337 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "889722": {
+          "pageid": 889722,
+          "ns": 0,
+          "title": "Coronagraph",
+          "links": [
+            {
+              "ns": 0,
+              "title": "3D television"
+            },
+            {
+              "ns": 0,
+              "title": "Active galactic nuclei"
+            },
+            {
+              "ns": 0,
+              "title": "Adaptive optics"
+            },
+            {
+              "ns": 0,
+              "title": "Aditya-L1"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arcsecond"
+            },
+            {
+              "ns": 0,
+              "title": "Bernard Lyot"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Circumstellar disk"
+            },
+            {
+              "ns": 0,
+              "title": "Coronarography"
+            },
+            {
+              "ns": 0,
+              "title": "Diffraction"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ESA"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's atmosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Exoplanet"
+            },
+            {
+              "ns": 0,
+              "title": "Extrasolar planet"
+            },
+            {
+              "ns": 0,
+              "title": "Extrasolar planets"
+            },
+            {
+              "ns": 0,
+              "title": "Focal plane"
+            },
+            {
+              "ns": 0,
+              "title": "Fomalhaut"
+            },
+            {
+              "ns": 0,
+              "title": "Fresnel diffraction"
+            },
+            {
+              "ns": 0,
+              "title": "Glare (vision)"
+            },
+            {
+              "ns": 0,
+              "title": "HR8799"
+            },
+            {
+              "ns": 0,
+              "title": "HR 8799"
+            },
+            {
+              "ns": 0,
+              "title": "Hale Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "High Altitude Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Indian Institute of Astrophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Indian Space Research Organisation"
+            },
+            {
+              "ns": 0,
+              "title": "James Webb Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Jet Propulsion Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Jupiter"
+            },
+            {
+              "ns": 0,
+              "title": "Lagrangian point"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid crystal polymer"
+            },
+            {
+              "ns": 0,
+              "title": "List of solar telescopes"
+            },
+            {
+              "ns": 0,
+              "title": "Lyot stop"
+            },
+            {
+              "ns": 0,
+              "title": "Mark IV Coronagraph"
+            },
+            {
+              "ns": 0,
+              "title": "Mauna Loa"
+            },
+            {
+              "ns": 0,
+              "title": "Methods of detecting extrasolar planets"
+            },
+            {
+              "ns": 0,
+              "title": "Microelectronics"
+            },
+            {
+              "ns": 0,
+              "title": "Microfabrication"
+            },
+            {
+              "ns": 0,
+              "title": "Mid-Infrared Instrument"
+            },
+            {
+              "ns": 0,
+              "title": "Moon"
+            },
+            {
+              "ns": 0,
+              "title": "NASA"
+            },
+            {
+              "ns": 0,
+              "title": "Near Infrared Camera"
+            },
+            {
+              "ns": 0,
+              "title": "Near Infrared Camera and Multi-Object Spectrometer"
+            },
+            {
+              "ns": 0,
+              "title": "New Worlds Mission"
+            },
+            {
+              "ns": 0,
+              "title": "Optical vortex"
+            },
+            {
+              "ns": 0,
+              "title": "Optothermal stability"
+            },
+            {
+              "ns": 0,
+              "title": "Outer space"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PROBA-3"
+            },
+            {
+              "ns": 0,
+              "title": "Palomar Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Photometry (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Polarization (waves)"
+            },
+            {
+              "ns": 0,
+              "title": "Quasar"
+            },
+            {
+              "ns": 0,
+              "title": "Rayleigh scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Right angle"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sky"
+            },
+            {
+              "ns": 0,
+              "title": "Sky brightness"
+            },
+            {
+              "ns": 0,
+              "title": "Skylab"
+            },
+            {
+              "ns": 0,
+              "title": "Solar Maximum Mission"
+            },
+            {
+              "ns": 0,
+              "title": "Solar and Heliospheric Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Solar corona"
+            },
+            {
+              "ns": 0,
+              "title": "Solar eclipse"
+            },
+            {
+              "ns": 0,
+              "title": "Solar observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Stray light"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Sunlight"
+            },
+            {
+              "ns": 0,
+              "title": "Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Terrestrial Planet Finder"
+            },
+            {
+              "ns": 0,
+              "title": "Thomson-scattered"
+            },
+            {
+              "ns": 0,
+              "title": "Vector vortex coronagraph"
+            },
+            {
+              "ns": 0,
+              "title": "Vortex coronagraph"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wendelstein (mountain)"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330179.1638525
+}

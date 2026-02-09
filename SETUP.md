@@ -14,10 +14,28 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
+### 2b. Configure LM Studio
+Start LM Studio and enable the OpenAI-compatible API server at http://127.0.0.1:1234.
+Load the model: openai/gpt-oss-20b.
+
+Optional overrides (PowerShell example):
+```bash
+$env:OXIDUS_LM_MODEL="openai/gpt-oss-20b"
+$env:OXIDUS_LM_SIMPLE_MODEL="openai/gpt-oss-20b"
+$env:OXIDUS_LM_COMPLEX_MODEL="openai/gpt-oss-20b"
+$env:OXIDUS_LM_SECONDARY_MODEL="openai/gpt-oss-20b"
+```
+
 ### 3. Run Main Console
 ```bash
 python main.py
 ```
+
+## 3b. Run Web UI
+```bash
+python web_gui.py
+```
+Then open `http://localhost:5000` and `http://localhost:5000/admin`.
 
 ### 4. Train the Network
 ```bash

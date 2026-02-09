@@ -1,0 +1,32 @@
+schema_version: "1.0"
+updated_utc: "2026-02-08T00:00:00Z"
+
+file_naming:
+  pattern: "YYYY-MM-DD__source__topic__vNN"
+  separator: "__"
+  version_prefix: "v"
+  allowed_chars: "a-z0-9-_"
+
+required_metadata:
+  - "source_url"
+  - "source_title"
+  - "source_type"
+  - "topic_type"
+  - "license"
+  - "curator"
+  - "created_utc"
+  - "updated_utc"
+  - "lifecycle_state"
+
+curation_min_trust_tier: "secondary"
+
+allowed_extensions:
+  - ".md"
+  - ".json"
+  - ".yaml"
+  - ".txt"
+
+validation:
+  enforce_lowercase: true
+  enforce_separator: true
+  enforce_version: true

@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-02-05T13:49:09.598978",
+  "thought_count": 9,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-05T13:48:39.819632",
+      "type": "research",
+      "content": "Crawled Wikipedia: Frame of reference (physics)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:48:41.216673",
+      "type": "question",
+      "content": "I have been asked: what are you learning?",
+      "context": {
+        "context": null
+      }
+    },
+    {
+      "timestamp": "2026-02-05T13:48:41.216673",
+      "type": "recall",
+      "content": "Remembering 1 related thoughts about: growth",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:48:41.217648",
+      "type": "question",
+      "content": "What assumptions am I making about 'what are you learning?'?",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:48:41.217648",
+      "type": "question",
+      "content": "How might I misunderstand 'what are you learning?'?",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:48:46.214647",
+      "type": "research",
+      "content": "Crawled Wikipedia: Galaxy groups and clusters (physics)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:48:52.291289",
+      "type": "research",
+      "content": "Crawled Wikipedia: Gemstone (physics)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:48:58.531341",
+      "type": "research",
+      "content": "Crawled Wikipedia: Geosynchronous orbit (physics)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-05T13:49:04.596025",
+      "type": "research",
+      "content": "Crawled Wikipedia: Granite (physics)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 8,
+    "analysis": 3,
+    "decision": 3,
+    "ethical_check": 1,
+    "knowledge_lookup": 0,
+    "research": 34,
+    "reflection": 4,
+    "uncertainty": 5,
+    "insight": 1,
+    "recall": 1,
+    "system": 6
+  }
+}

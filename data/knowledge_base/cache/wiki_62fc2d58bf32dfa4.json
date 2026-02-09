@@ -1,0 +1,1005 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1327": {
+          "pageid": 1327,
+          "ns": 0,
+          "title": "Antiparticle",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Andrei Sakharov"
+            },
+            {
+              "ns": 0,
+              "title": "Annihilation"
+            },
+            {
+              "ns": 0,
+              "title": "Antibaryon"
+            },
+            {
+              "ns": 0,
+              "title": "Antihelium"
+            },
+            {
+              "ns": 0,
+              "title": "Antihydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Antimatter"
+            },
+            {
+              "ns": 0,
+              "title": "Antimatter comet"
+            },
+            {
+              "ns": 0,
+              "title": "Antimatter weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Antineutron"
+            },
+            {
+              "ns": 0,
+              "title": "Antiproton"
+            },
+            {
+              "ns": 0,
+              "title": "Antiproton decelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Antiprotonic helium"
+            },
+            {
+              "ns": 0,
+              "title": "Antiprotonic hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Anyon"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Axino"
+            },
+            {
+              "ns": 0,
+              "title": "Axion"
+            },
+            {
+              "ns": 0,
+              "title": "B meson"
+            },
+            {
+              "ns": 0,
+              "title": "Baryogenesis"
+            },
+            {
+              "ns": 0,
+              "title": "Baryon"
+            },
+            {
+              "ns": 0,
+              "title": "Baryon asymmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Beta decay"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boson"
+            },
+            {
+              "ns": 0,
+              "title": "Bottom antiquark"
+            },
+            {
+              "ns": 0,
+              "title": "Bottom eta meson"
+            },
+            {
+              "ns": 0,
+              "title": "Bottom quark"
+            },
+            {
+              "ns": 0,
+              "title": "Bound state"
+            },
+            {
+              "ns": 0,
+              "title": "C-symmetry"
+            },
+            {
+              "ns": 0,
+              "title": "CERN"
+            },
+            {
+              "ns": 0,
+              "title": "CP violation"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Canonical quantization"
+            },
+            {
+              "ns": 0,
+              "title": "Carl D. Anderson"
+            },
+            {
+              "ns": 0,
+              "title": "Carl David Anderson"
+            },
+            {
+              "ns": 0,
+              "title": "Charge (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Charge conjugation"
+            },
+            {
+              "ns": 0,
+              "title": "Charge conservation"
+            },
+            {
+              "ns": 0,
+              "title": "Chargino"
+            },
+            {
+              "ns": 0,
+              "title": "Charm antiquark"
+            },
+            {
+              "ns": 0,
+              "title": "Charm quark"
+            },
+            {
+              "ns": 0,
+              "title": "Cloud chamber"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic ray"
+            },
+            {
+              "ns": 0,
+              "title": "Curvaton"
+            },
+            {
+              "ns": 0,
+              "title": "D meson"
+            },
+            {
+              "ns": 0,
+              "title": "Dark photon"
+            },
+            {
+              "ns": 0,
+              "title": "David J. Griffiths"
+            },
+            {
+              "ns": 0,
+              "title": "Davydov soliton"
+            },
+            {
+              "ns": 0,
+              "title": "Delta baryon"
+            },
+            {
+              "ns": 0,
+              "title": "Dilaton"
+            },
+            {
+              "ns": 0,
+              "title": "Diquark"
+            },
+            {
+              "ns": 0,
+              "title": "Dirac equation"
+            },
+            {
+              "ns": 0,
+              "title": "Dirac sea"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Double-charm tetraquark"
+            },
+            {
+              "ns": 0,
+              "title": "Down antiquark"
+            },
+            {
+              "ns": 0,
+              "title": "Down quark"
+            },
+            {
+              "ns": 0,
+              "title": "Dropleton"
+            },
+            {
+              "ns": 0,
+              "title": "Dual graviton"
+            },
+            {
+              "ns": 0,
+              "title": "Eightfold way (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Electric charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron antineutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Electron hole"
+            },
+            {
+              "ns": 0,
+              "title": "Electron neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Electronvolt"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary charge"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary particle"
+            },
+            {
+              "ns": 0,
+              "title": "Emilio Segrè"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopedic Dictionary of Vietnam"
+            },
+            {
+              "ns": 0,
+              "title": "Ernst Stückelberg"
+            },
+            {
+              "ns": 0,
+              "title": "Eta meson"
+            },
+            {
+              "ns": 0,
+              "title": "Exciton"
+            },
+            {
+              "ns": 0,
+              "title": "Exotic atom"
+            },
+            {
+              "ns": 0,
+              "title": "Exotic hadron"
+            },
+            {
+              "ns": 0,
+              "title": "Exotic matter"
+            },
+            {
+              "ns": 0,
+              "title": "Faddeev–Popov ghost"
+            },
+            {
+              "ns": 0,
+              "title": "Fermion"
+            },
+            {
+              "ns": 0,
+              "title": "Feynman diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Field (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Fracton (subdimensional particle)"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Gauge boson"
+            },
+            {
+              "ns": 0,
+              "title": "Gaugino"
+            },
+            {
+              "ns": 0,
+              "title": "Ghost (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Glueball"
+            },
+            {
+              "ns": 0,
+              "title": "Gluino"
+            },
+            {
+              "ns": 0,
+              "title": "Gluon"
+            },
+            {
+              "ns": 0,
+              "title": "Graviphoton"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational interaction of antimatter"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitino"
+            },
+            {
+              "ns": 0,
+              "title": "Graviton"
+            },
+            {
+              "ns": 0,
+              "title": "Hadron"
+            },
+            {
+              "ns": 0,
+              "title": "Hamiltonian (quantum mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Heptaquark"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Weyl"
+            },
+            {
+              "ns": 0,
+              "title": "Hexaquark"
+            },
+            {
+              "ns": 0,
+              "title": "Higgs boson"
+            },
+            {
+              "ns": 0,
+              "title": "Higgsino"
+            },
+            {
+              "ns": 0,
+              "title": "History of subatomic physics"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Igor Tamm"
+            },
+            {
+              "ns": 0,
+              "title": "Inflaton"
+            },
+            {
+              "ns": 0,
+              "title": "Irreducible representation"
+            },
+            {
+              "ns": 0,
+              "title": "J/psi meson"
+            },
+            {
+              "ns": 0,
+              "title": "John Wiley & Sons"
+            },
+            {
+              "ns": 0,
+              "title": "Kaon"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda baryon"
+            },
+            {
+              "ns": 0,
+              "title": "Large Hadron Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Leptogenesis (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Lepton"
+            },
+            {
+              "ns": 0,
+              "title": "Leptoquark"
+            },
+            {
+              "ns": 0,
+              "title": "List of baryons"
+            },
+            {
+              "ns": 0,
+              "title": "List of hypothetical particles"
+            },
+            {
+              "ns": 0,
+              "title": "List of mesons"
+            },
+            {
+              "ns": 0,
+              "title": "List of particles"
+            },
+            {
+              "ns": 0,
+              "title": "List of quasiparticles"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic monopole"
+            },
+            {
+              "ns": 0,
+              "title": "Magnon"
+            },
+            {
+              "ns": 0,
+              "title": "Majorana fermion"
+            },
+            {
+              "ns": 0,
+              "title": "Majoron"
+            },
+            {
+              "ns": 0,
+              "title": "Mass"
+            },
+            {
+              "ns": 0,
+              "title": "Mass renormalization"
+            },
+            {
+              "ns": 0,
+              "title": "Massless particle"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical formulation of the Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Meson"
+            },
+            {
+              "ns": 0,
+              "title": "Mesonic molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Muon"
+            },
+            {
+              "ns": 0,
+              "title": "Muon neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Muonium"
+            },
+            {
+              "ns": 0,
+              "title": "Neutralino"
+            },
+            {
+              "ns": 0,
+              "title": "Neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleon"
+            },
+            {
+              "ns": 0,
+              "title": "Omega baryon"
+            },
+            {
+              "ns": 0,
+              "title": "Omega meson"
+            },
+            {
+              "ns": 0,
+              "title": "One-electron universe"
+            },
+            {
+              "ns": 0,
+              "title": "Onium"
+            },
+            {
+              "ns": 0,
+              "title": "Owen Chamberlain"
+            },
+            {
+              "ns": 0,
+              "title": "P-symmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Parity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Particle"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Particle annihilation"
+            },
+            {
+              "ns": 0,
+              "title": "Particle chauvinism"
+            },
+            {
+              "ns": 0,
+              "title": "Particle detector"
+            },
+            {
+              "ns": 0,
+              "title": "Particle physics"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Dirac"
+            },
+            {
+              "ns": 0,
+              "title": "Pauli exclusion principle"
+            },
+            {
+              "ns": 0,
+              "title": "Penning trap"
+            },
+            {
+              "ns": 0,
+              "title": "Pentaquark"
+            },
+            {
+              "ns": 0,
+              "title": "Perturbation theory (quantum mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Phi meson"
+            },
+            {
+              "ns": 0,
+              "title": "Phonon"
+            },
+            {
+              "ns": 0,
+              "title": "Photino"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Physical Review"
+            },
+            {
+              "ns": 0,
+              "title": "Pi meson"
+            },
+            {
+              "ns": 0,
+              "title": "Pion"
+            },
+            {
+              "ns": 0,
+              "title": "Pionium"
+            },
+            {
+              "ns": 0,
+              "title": "Plasmaron"
+            },
+            {
+              "ns": 0,
+              "title": "Plasmon"
+            },
+            {
+              "ns": 0,
+              "title": "Poincaré group"
+            },
+            {
+              "ns": 0,
+              "title": "Polariton"
+            },
+            {
+              "ns": 0,
+              "title": "Polaron"
+            },
+            {
+              "ns": 0,
+              "title": "Pomeron"
+            },
+            {
+              "ns": 0,
+              "title": "Positron"
+            },
+            {
+              "ns": 0,
+              "title": "Positron emission"
+            },
+            {
+              "ns": 0,
+              "title": "Positron emission tomography"
+            },
+            {
+              "ns": 0,
+              "title": "Positronium"
+            },
+            {
+              "ns": 0,
+              "title": "Preon"
+            },
+            {
+              "ns": 0,
+              "title": "Probability amplitude"
+            },
+            {
+              "ns": 0,
+              "title": "Proceedings of the Royal Society A"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Protonium"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum state"
+            },
+            {
+              "ns": 0,
+              "title": "Quark"
+            },
+            {
+              "ns": 0,
+              "title": "Quark model"
+            },
+            {
+              "ns": 0,
+              "title": "Quarkonium"
+            },
+            {
+              "ns": 0,
+              "title": "Quasiparticle"
+            },
+            {
+              "ns": 0,
+              "title": "R-hadron"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic Heavy Ion Collider"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic particle"
+            },
+            {
+              "ns": 0,
+              "title": "Renormalization"
+            },
+            {
+              "ns": 0,
+              "title": "Reviews of Modern Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Rho meson"
+            },
+            {
+              "ns": 0,
+              "title": "Richard Feynman"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Oppenheimer"
+            },
+            {
+              "ns": 0,
+              "title": "Roton"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar boson"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar field theory"
+            },
+            {
+              "ns": 0,
+              "title": "Sfermion"
+            },
+            {
+              "ns": 0,
+              "title": "Sigma baryon"
+            },
+            {
+              "ns": 0,
+              "title": "Skyrmion"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Standard Model"
+            },
+            {
+              "ns": 0,
+              "title": "Sterile neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Steven Weinberg"
+            },
+            {
+              "ns": 0,
+              "title": "Stop squark"
+            },
+            {
+              "ns": 0,
+              "title": "Strange antiquark"
+            },
+            {
+              "ns": 0,
+              "title": "Strange quark"
+            },
+            {
+              "ns": 0,
+              "title": "Subatomic particle"
+            },
+            {
+              "ns": 0,
+              "title": "Superatom"
+            },
+            {
+              "ns": 0,
+              "title": "Superpartner"
+            },
+            {
+              "ns": 0,
+              "title": "T-symmetry"
+            },
+            {
+              "ns": 0,
+              "title": "T meson"
+            },
+            {
+              "ns": 0,
+              "title": "Tachyon"
+            },
+            {
+              "ns": 0,
+              "title": "Tau (particle)"
+            },
+            {
+              "ns": 0,
+              "title": "Tau neutrino"
+            },
+            {
+              "ns": 0,
+              "title": "Tauonium"
+            },
+            {
+              "ns": 0,
+              "title": "Tetraquark"
+            },
+            {
+              "ns": 0,
+              "title": "Theta meson"
+            },
+            {
+              "ns": 0,
+              "title": "Time reversal symmetry"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of atomic and subatomic physics"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of particle discoveries"
+            },
+            {
+              "ns": 0,
+              "title": "Top antiquark"
+            },
+            {
+              "ns": 0,
+              "title": "Top quark"
+            },
+            {
+              "ns": 0,
+              "title": "Translational invariance"
+            },
+            {
+              "ns": 0,
+              "title": "Trion (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "True muonium"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "University of California, Berkeley"
+            },
+            {
+              "ns": 0,
+              "title": "Up antiquark"
+            },
+            {
+              "ns": 0,
+              "title": "Up quark"
+            },
+            {
+              "ns": 0,
+              "title": "Upsilon meson"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum state"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual particle"
+            },
+            {
+              "ns": 0,
+              "title": "Vladimir Fock"
+            },
+            {
+              "ns": 0,
+              "title": "W and Z bosons"
+            },
+            {
+              "ns": 0,
+              "title": "Wave–particle duality"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Weakly interacting massive particle"
+            },
+            {
+              "ns": 0,
+              "title": "Wendell Furry"
+            },
+            {
+              "ns": 0,
+              "title": "W′ and Z′ bosons"
+            },
+            {
+              "ns": 0,
+              "title": "X and Y bosons"
+            },
+            {
+              "ns": 0,
+              "title": "Xi baryon"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357912.0244172
+}

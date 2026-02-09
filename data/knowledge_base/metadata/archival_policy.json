@@ -1,0 +1,5 @@
+{
+  "archive_root": "retired/data/knowledge_base/archives",
+  "max_per_run": 200,
+  "dry_run_default": true
+}

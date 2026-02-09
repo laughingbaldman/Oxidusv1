@@ -5,12 +5,23 @@ Quick verification that all modes and question generation work correctly.
 
 import requests
 import json
+import pytest
 
 BASE_URL = "http://127.0.0.1:5000"
+
+
+def _require_server() -> None:
+    try:
+        response = requests.get(f"{BASE_URL}/api/status", timeout=2)
+        if response.status_code != 200:
+            pytest.skip("Oxidus API not ready")
+    except requests.exceptions.RequestException:
+        pytest.skip("Oxidus API not running")
 
 def test_mode_switching():
     """Test switching between HUMAN, AI, and HYBRID modes."""
     print("\n🔄 Testing Mode Switching...")
+    _require_server()
     
     modes = ["HUMAN", "AI", "HYBRID"]
     for mode in modes:
@@ -30,6 +41,7 @@ def test_mode_switching():
 def test_novel_question_generation():
     """Test generating novel questions without repetition."""
     print("\n❓ Testing Novel Question Generation...")
+    _require_server()
     
     topics = ["consciousness", "learning", "ethics"]
     
@@ -48,6 +60,7 @@ def test_novel_question_generation():
 def test_ai_response_processing():
     """Test processing AI responses and recording insights."""
     print("\n🤖 Testing AI Response Processing...")
+    _require_server()
     
     # Switch to AI mode first
     requests.post(f"{BASE_URL}/api/mode", json={"mode": "AI"})
@@ -69,6 +82,7 @@ def test_ai_response_processing():
 def test_mode_analysis():
     """Test comparing insights from different modes."""
     print("\n📊 Testing Mode Analysis...")
+    _require_server()
     
     response = requests.get(f"{BASE_URL}/api/mode-analysis")
     data = response.json()

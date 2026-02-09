@@ -1,0 +1,553 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25202": {
+          "pageid": 25202,
+          "ns": 0,
+          "title": "Quantum mechanics",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Reduced density matrix"
+            },
+            {
+              "ns": 0,
+              "title": "Regularization (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Relational quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Resonant frequencies"
+            },
+            {
+              "ns": 0,
+              "title": "Richard Feynman"
+            },
+            {
+              "ns": 0,
+              "title": "Robert A. Millikan"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Andrews Millikan"
+            },
+            {
+              "ns": 0,
+              "title": "Robert B. Leighton"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Hooke"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Resnick"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Spekkens"
+            },
+            {
+              "ns": 0,
+              "title": "Roger Penrose"
+            },
+            {
+              "ns": 0,
+              "title": "Roland Omnès"
+            },
+            {
+              "ns": 0,
+              "title": "Roy J. Glauber"
+            },
+            {
+              "ns": 0,
+              "title": "Rydberg formula"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Samuel Goudsmit"
+            },
+            {
+              "ns": 0,
+              "title": "Satyendra Nath Bose"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning tunneling microscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning tunnelling microscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Scattering theory"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger's cat"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger's cat in popular culture"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger equation"
+            },
+            {
+              "ns": 0,
+              "title": "Schrödinger picture"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific theory"
+            },
+            {
+              "ns": 0,
+              "title": "Self-adjoint operator"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Separable space"
+            },
+            {
+              "ns": 0,
+              "title": "Sheldon Glashow"
+            },
+            {
+              "ns": 0,
+              "title": "Sir George Paget Thomson"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state physics"
+            },
+            {
+              "ns": 0,
+              "title": "Solvay Conference"
+            },
+            {
+              "ns": 0,
+              "title": "Space"
+            },
+            {
+              "ns": 0,
+              "title": "Spacetime topology"
+            },
+            {
+              "ns": 0,
+              "title": "Special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Specific heat"
+            },
+            {
+              "ns": 0,
+              "title": "Spectral line"
+            },
+            {
+              "ns": 0,
+              "title": "Spin (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Spin foam"
+            },
+            {
+              "ns": 0,
+              "title": "Spin network"
+            },
+            {
+              "ns": 0,
+              "title": "Square-integrable"
+            },
+            {
+              "ns": 0,
+              "title": "Standard deviation"
+            },
+            {
+              "ns": 0,
+              "title": "Standing wave"
+            },
+            {
+              "ns": 0,
+              "title": "Stanford Encyclopedia of Philosophy"
+            },
+            {
+              "ns": 0,
+              "title": "Stationary state"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Hawking"
+            },
+            {
+              "ns": 0,
+              "title": "Stern–Gerlach experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Steven Weinberg"
+            },
+            {
+              "ns": 0,
+              "title": "String (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "String theory"
+            },
+            {
+              "ns": 0,
+              "title": "Strong interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Strong nuclear force"
+            },
+            {
+              "ns": 0,
+              "title": "Subatomic"
+            },
+            {
+              "ns": 0,
+              "title": "Subatomic particle"
+            },
+            {
+              "ns": 0,
+              "title": "Submicroscopic"
+            },
+            {
+              "ns": 0,
+              "title": "Superconducting magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductors"
+            },
+            {
+              "ns": 0,
+              "title": "Superdense coding"
+            },
+            {
+              "ns": 0,
+              "title": "Superdeterminism"
+            },
+            {
+              "ns": 0,
+              "title": "Superfluid"
+            },
+            {
+              "ns": 0,
+              "title": "Superposition principle"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetry in quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Tensor product"
+            },
+            {
+              "ns": 0,
+              "title": "The Character of Physical Law"
+            },
+            {
+              "ns": 0,
+              "title": "The Demon-Haunted World"
+            },
+            {
+              "ns": 0,
+              "title": "The Feynman Lectures on Physics"
+            },
+            {
+              "ns": 0,
+              "title": "The New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "The Optical Society"
+            },
+            {
+              "ns": 0,
+              "title": "The Physics Teacher"
+            },
+            {
+              "ns": 0,
+              "title": "The Quantum Universe"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Theories of gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of Everything"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of everything"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Samuel Kuhn"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Young (scientist)"
+            },
+            {
+              "ns": 0,
+              "title": "Thought experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Time"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of fundamental physics discoveries"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum computing and communication"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Total energy"
+            },
+            {
+              "ns": 0,
+              "title": "Transactional interpretation"
+            },
+            {
+              "ns": 0,
+              "title": "Transformation theory (quantum mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transnational College"
+            },
+            {
+              "ns": 0,
+              "title": "Trigonometry"
+            },
+            {
+              "ns": 0,
+              "title": "Tsung-Dao Lee"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel diode"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Two-state quantum system"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "Unitarity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Vibration"
+            },
+            {
+              "ns": 0,
+              "title": "Victor Stenger"
+            },
+            {
+              "ns": 0,
+              "title": "Vladimir Fock"
+            },
+            {
+              "ns": 0,
+              "title": "Vlatko Vedral"
+            },
+            {
+              "ns": 0,
+              "title": "WKB approximation"
+            },
+            {
+              "ns": 0,
+              "title": "Wave"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Wave interference"
+            },
+            {
+              "ns": 0,
+              "title": "Wave packet"
+            },
+            {
+              "ns": 0,
+              "title": "Wave theory of light"
+            },
+            {
+              "ns": 0,
+              "title": "Wavefunction collapse"
+            },
+            {
+              "ns": 0,
+              "title": "Wave–particle duality"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Weak nuclear force"
+            },
+            {
+              "ns": 0,
+              "title": "Werner Heisenberg"
+            },
+            {
+              "ns": 0,
+              "title": "Weyl equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wheeler's delayed-choice experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Wigner's friend"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Röntgen"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Wien"
+            },
+            {
+              "ns": 0,
+              "title": "William Shockley"
+            },
+            {
+              "ns": 0,
+              "title": "Willis Lamb"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfgang Pauli"
+            },
+            {
+              "ns": 0,
+              "title": "Work (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Yakir Aharonov"
+            },
+            {
+              "ns": 0,
+              "title": "Yang Chen-Ning"
+            },
+            {
+              "ns": 0,
+              "title": "Yoichiro Nambu"
+            },
+            {
+              "ns": 0,
+              "title": "Young's interference experiment"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-point energy"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329108.521413
+}

@@ -1,0 +1,713 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "45010": {
+          "pageid": 45010,
+          "ns": 0,
+          "title": "Oil shale",
+          "links": [
+            {
+              "ns": 0,
+              "title": "RAND Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Rapakivi granite"
+            },
+            {
+              "ns": 0,
+              "title": "Refining"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection seismology"
+            },
+            {
+              "ns": 0,
+              "title": "Reliance Industries"
+            },
+            {
+              "ns": 0,
+              "title": "Repsol"
+            },
+            {
+              "ns": 0,
+              "title": "Reservoir modeling"
+            },
+            {
+              "ns": 0,
+              "title": "Reservoir simulation"
+            },
+            {
+              "ns": 0,
+              "title": "Retort"
+            },
+            {
+              "ns": 0,
+              "title": "Rhomb porphyry"
+            },
+            {
+              "ns": 0,
+              "title": "Rhyodacite"
+            },
+            {
+              "ns": 0,
+              "title": "Rhyolite"
+            },
+            {
+              "ns": 0,
+              "title": "Rodingite"
+            },
+            {
+              "ns": 0,
+              "title": "Ronald Reagan"
+            },
+            {
+              "ns": 0,
+              "title": "Room and pillar mining"
+            },
+            {
+              "ns": 0,
+              "title": "Rosneft"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Dutch Shell"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SOCAR"
+            },
+            {
+              "ns": 0,
+              "title": "Saipem"
+            },
+            {
+              "ns": 0,
+              "title": "San Francisco Chronicle"
+            },
+            {
+              "ns": 0,
+              "title": "Sandstone"
+            },
+            {
+              "ns": 0,
+              "title": "Sapropel"
+            },
+            {
+              "ns": 0,
+              "title": "Saudi Aramco"
+            },
+            {
+              "ns": 0,
+              "title": "Schist"
+            },
+            {
+              "ns": 0,
+              "title": "Schlumberger"
+            },
+            {
+              "ns": 0,
+              "title": "Science (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Scoria"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentary rock"
+            },
+            {
+              "ns": 0,
+              "title": "Seismic inversion"
+            },
+            {
+              "ns": 0,
+              "title": "Seismic source"
+            },
+            {
+              "ns": 0,
+              "title": "Serpentinite"
+            },
+            {
+              "ns": 0,
+              "title": "Seven Sisters (oil companies)"
+            },
+            {
+              "ns": 0,
+              "title": "Shale"
+            },
+            {
+              "ns": 0,
+              "title": "Shale band"
+            },
+            {
+              "ns": 0,
+              "title": "Shale gas"
+            },
+            {
+              "ns": 0,
+              "title": "Shale oil"
+            },
+            {
+              "ns": 0,
+              "title": "Shale oil extraction"
+            },
+            {
+              "ns": 0,
+              "title": "Shell Oil"
+            },
+            {
+              "ns": 0,
+              "title": "Shell plc"
+            },
+            {
+              "ns": 0,
+              "title": "Shengli Oil Field"
+            },
+            {
+              "ns": 0,
+              "title": "Shonkinite"
+            },
+            {
+              "ns": 0,
+              "title": "Shoshonite"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sillamäe"
+            },
+            {
+              "ns": 0,
+              "title": "Siltstone"
+            },
+            {
+              "ns": 0,
+              "title": "Sinopec"
+            },
+            {
+              "ns": 0,
+              "title": "Skarn"
+            },
+            {
+              "ns": 0,
+              "title": "Slate"
+            },
+            {
+              "ns": 0,
+              "title": "Snam"
+            },
+            {
+              "ns": 0,
+              "title": "Soapstone"
+            },
+            {
+              "ns": 0,
+              "title": "Society of Petroleum Engineers"
+            },
+            {
+              "ns": 0,
+              "title": "Soda ash"
+            },
+            {
+              "ns": 0,
+              "title": "Solubility"
+            },
+            {
+              "ns": 0,
+              "title": "Sonangol Group"
+            },
+            {
+              "ns": 0,
+              "title": "Sonatrach"
+            },
+            {
+              "ns": 0,
+              "title": "Sour crude oil"
+            },
+            {
+              "ns": 0,
+              "title": "Sovite"
+            },
+            {
+              "ns": 0,
+              "title": "Spent shale"
+            },
+            {
+              "ns": 0,
+              "title": "Spore"
+            },
+            {
+              "ns": 0,
+              "title": "Squeeze job"
+            },
+            {
+              "ns": 0,
+              "title": "Standard Oil"
+            },
+            {
+              "ns": 0,
+              "title": "Steam injection (oil industry)"
+            },
+            {
+              "ns": 0,
+              "title": "Steam turbine"
+            },
+            {
+              "ns": 0,
+              "title": "Stuart Oil Shale Project"
+            },
+            {
+              "ns": 0,
+              "title": "Submersible pump"
+            },
+            {
+              "ns": 0,
+              "title": "Subsea 7"
+            },
+            {
+              "ns": 0,
+              "title": "Suevite"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur"
+            },
+            {
+              "ns": 0,
+              "title": "Suncor Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Sunoco"
+            },
+            {
+              "ns": 0,
+              "title": "Surface mining"
+            },
+            {
+              "ns": 0,
+              "title": "Surgutneftegas"
+            },
+            {
+              "ns": 0,
+              "title": "Sweet crude oil"
+            },
+            {
+              "ns": 0,
+              "title": "Swing producer"
+            },
+            {
+              "ns": 0,
+              "title": "Syenite"
+            },
+            {
+              "ns": 0,
+              "title": "Sylvinite"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic Liquid Fuels Program"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic crude"
+            },
+            {
+              "ns": 0,
+              "title": "TC Energy"
+            },
+            {
+              "ns": 0,
+              "title": "TNK-BP"
+            },
+            {
+              "ns": 0,
+              "title": "TPAO"
+            },
+            {
+              "ns": 0,
+              "title": "Tachylite"
+            },
+            {
+              "ns": 0,
+              "title": "Tachylyte"
+            },
+            {
+              "ns": 0,
+              "title": "Taconite"
+            },
+            {
+              "ns": 0,
+              "title": "Talc carbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Tallinn Technical University"
+            },
+            {
+              "ns": 0,
+              "title": "Tapis crude"
+            },
+            {
+              "ns": 0,
+              "title": "Tasmanite"
+            },
+            {
+              "ns": 0,
+              "title": "TechnipFMC"
+            },
+            {
+              "ns": 0,
+              "title": "Tectonite"
+            },
+            {
+              "ns": 0,
+              "title": "Tephriphonolite"
+            },
+            {
+              "ns": 0,
+              "title": "Tephrite"
+            },
+            {
+              "ns": 0,
+              "title": "Teschenite"
+            },
+            {
+              "ns": 0,
+              "title": "Theralite"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal decomposition"
+            },
+            {
+              "ns": 0,
+              "title": "Tight oil"
+            },
+            {
+              "ns": 0,
+              "title": "Tillite"
+            },
+            {
+              "ns": 0,
+              "title": "Ton"
+            },
+            {
+              "ns": 0,
+              "title": "Tonalite"
+            },
+            {
+              "ns": 0,
+              "title": "Torbanite"
+            },
+            {
+              "ns": 0,
+              "title": "TotalEnergies"
+            },
+            {
+              "ns": 0,
+              "title": "Tracer use in the oil industry"
+            },
+            {
+              "ns": 0,
+              "title": "Trachyandesite"
+            },
+            {
+              "ns": 0,
+              "title": "Trachybasalt"
+            },
+            {
+              "ns": 0,
+              "title": "Trachyte"
+            },
+            {
+              "ns": 0,
+              "title": "Trafigura"
+            },
+            {
+              "ns": 0,
+              "title": "Transocean"
+            },
+            {
+              "ns": 0,
+              "title": "Travertine"
+            },
+            {
+              "ns": 0,
+              "title": "Troctolite"
+            },
+            {
+              "ns": 0,
+              "title": "Trondhjemite"
+            },
+            {
+              "ns": 0,
+              "title": "Tufa"
+            },
+            {
+              "ns": 0,
+              "title": "Tuff"
+            },
+            {
+              "ns": 0,
+              "title": "Tullow Oil"
+            },
+            {
+              "ns": 0,
+              "title": "Turbidite"
+            },
+            {
+              "ns": 0,
+              "title": "Tüpraş"
+            },
+            {
+              "ns": 0,
+              "title": "US dollars"
+            },
+            {
+              "ns": 0,
+              "title": "Unakite"
+            },
+            {
+              "ns": 0,
+              "title": "Unconventional (oil & gas) reservoir"
+            },
+            {
+              "ns": 0,
+              "title": "Unconventional (oil and gas) reservoir"
+            },
+            {
+              "ns": 0,
+              "title": "Unconventional oil"
+            },
+            {
+              "ns": 0,
+              "title": "Underbalanced drilling"
+            },
+            {
+              "ns": 0,
+              "title": "Underground mining (soft rock)"
+            },
+            {
+              "ns": 0,
+              "title": "United States Department of Energy"
+            },
+            {
+              "ns": 0,
+              "title": "United States Department of the Interior"
+            },
+            {
+              "ns": 0,
+              "title": "United States Environmental Protection Agency"
+            },
+            {
+              "ns": 0,
+              "title": "United States Geological Survey"
+            },
+            {
+              "ns": 0,
+              "title": "United States House of Representatives"
+            },
+            {
+              "ns": 0,
+              "title": "University of Kentucky"
+            },
+            {
+              "ns": 0,
+              "title": "University of Southampton"
+            },
+            {
+              "ns": 0,
+              "title": "University of Wollongong"
+            },
+            {
+              "ns": 0,
+              "title": "Upgrader"
+            },
+            {
+              "ns": 0,
+              "title": "Upstream (petroleum industry)"
+            },
+            {
+              "ns": 0,
+              "title": "Urals oil"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Utah"
+            },
+            {
+              "ns": 0,
+              "title": "Valaris Limited"
+            },
+            {
+              "ns": 0,
+              "title": "Valero Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor"
+            },
+            {
+              "ns": 0,
+              "title": "Variolite"
+            },
+            {
+              "ns": 0,
+              "title": "Varve"
+            },
+            {
+              "ns": 0,
+              "title": "Viru Keemia Grupp"
+            },
+            {
+              "ns": 0,
+              "title": "Vitol"
+            },
+            {
+              "ns": 0,
+              "title": "Wackestone"
+            },
+            {
+              "ns": 0,
+              "title": "Wad (mineral)"
+            },
+            {
+              "ns": 0,
+              "title": "Waste management"
+            },
+            {
+              "ns": 0,
+              "title": "Water injection (oil production)"
+            },
+            {
+              "ns": 0,
+              "title": "Water pollution"
+            },
+            {
+              "ns": 0,
+              "title": "Water resources"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weatherford International"
+            },
+            {
+              "ns": 0,
+              "title": "Websterite"
+            },
+            {
+              "ns": 0,
+              "title": "Wehrlite"
+            },
+            {
+              "ns": 0,
+              "title": "Well intervention"
+            },
+            {
+              "ns": 0,
+              "title": "Well logging"
+            },
+            {
+              "ns": 0,
+              "title": "West Texas Intermediate"
+            },
+            {
+              "ns": 0,
+              "title": "Western Canada Sedimentary Basin"
+            },
+            {
+              "ns": 0,
+              "title": "Western Canadian Select"
+            },
+            {
+              "ns": 0,
+              "title": "Western United States"
+            },
+            {
+              "ns": 0,
+              "title": "Weymouth, Dorset"
+            },
+            {
+              "ns": 0,
+              "title": "Whiteschist"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "World Energy Council"
+            },
+            {
+              "ns": 0,
+              "title": "World Energy Outlook"
+            },
+            {
+              "ns": 0,
+              "title": "World Heritage Site"
+            },
+            {
+              "ns": 0,
+              "title": "World Petroleum Council"
+            },
+            {
+              "ns": 0,
+              "title": "World War I"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "World energy consumption"
+            },
+            {
+              "ns": 0,
+              "title": "Wyoming"
+            },
+            {
+              "ns": 0,
+              "title": "YPF"
+            },
+            {
+              "ns": 0,
+              "title": "Yield (chemistry)"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324740.2932653
+}

@@ -1,0 +1,1549 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1368": {
+          "pageid": 1368,
+          "ns": 0,
+          "title": "Assembly language",
+          "links": [
+            {
+              "ns": 0,
+              "title": "A-Natural"
+            },
+            {
+              "ns": 0,
+              "title": "ALGOL"
+            },
+            {
+              "ns": 0,
+              "title": "AMD"
+            },
+            {
+              "ns": 0,
+              "title": "APEXC"
+            },
+            {
+              "ns": 0,
+              "title": "ARM architecture family"
+            },
+            {
+              "ns": 0,
+              "title": "AT&T syntax"
+            },
+            {
+              "ns": 0,
+              "title": "AV1"
+            },
+            {
+              "ns": 0,
+              "title": "AVX2"
+            },
+            {
+              "ns": 0,
+              "title": "Abstraction (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Ada (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Addison Wesley"
+            },
+            {
+              "ns": 0,
+              "title": "Addressing mode"
+            },
+            {
+              "ns": 0,
+              "title": "Almquist shell"
+            },
+            {
+              "ns": 0,
+              "title": "Andrew Donald Booth"
+            },
+            {
+              "ns": 0,
+              "title": "Apple II"
+            },
+            {
+              "ns": 0,
+              "title": "Application-specific integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Application programming"
+            },
+            {
+              "ns": 0,
+              "title": "Assembler (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Assembly language assembler"
+            },
+            {
+              "ns": 0,
+              "title": "Atari 2600"
+            },
+            {
+              "ns": 0,
+              "title": "Atari 8-bit computers"
+            },
+            {
+              "ns": 0,
+              "title": "Autocoder"
+            },
+            {
+              "ns": 0,
+              "title": "BASIC"
+            },
+            {
+              "ns": 0,
+              "title": "BIOS"
+            },
+            {
+              "ns": 0,
+              "title": "Barebox"
+            },
+            {
+              "ns": 0,
+              "title": "Bartlett Publishing"
+            },
+            {
+              "ns": 0,
+              "title": "Basic Linear Algebra Subprograms"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bijection"
+            },
+            {
+              "ns": 0,
+              "title": "Binary arithmetic"
+            },
+            {
+              "ns": 0,
+              "title": "Binary code"
+            },
+            {
+              "ns": 0,
+              "title": "Binary file"
+            },
+            {
+              "ns": 0,
+              "title": "Birkbeck, University of London"
+            },
+            {
+              "ns": 0,
+              "title": "Birkbeck College, London"
+            },
+            {
+              "ns": 0,
+              "title": "Bit"
+            },
+            {
+              "ns": 0,
+              "title": "BitBake"
+            },
+            {
+              "ns": 0,
+              "title": "Bit field"
+            },
+            {
+              "ns": 0,
+              "title": "Board support package"
+            },
+            {
+              "ns": 0,
+              "title": "Booting"
+            },
+            {
+              "ns": 0,
+              "title": "Bootloader"
+            },
+            {
+              "ns": 0,
+              "title": "Buildroot"
+            },
+            {
+              "ns": 0,
+              "title": "Burroughs MCP"
+            },
+            {
+              "ns": 0,
+              "title": "BusyBox"
+            },
+            {
+              "ns": 0,
+              "title": "C++"
+            },
+            {
+              "ns": 0,
+              "title": "CICS"
+            },
+            {
+              "ns": 0,
+              "title": "COBOL"
+            },
+            {
+              "ns": 0,
+              "title": "CP/M"
+            },
+            {
+              "ns": 0,
+              "title": "CPU pipeline"
+            },
+            {
+              "ns": 0,
+              "title": "CRC Press"
+            },
+            {
+              "ns": 0,
+              "title": "C (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Central processing unit"
+            },
+            {
+              "ns": 0,
+              "title": "Character set"
+            },
+            {
+              "ns": 0,
+              "title": "Circular shift"
+            },
+            {
+              "ns": 0,
+              "title": "Class (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Cliff Click"
+            },
+            {
+              "ns": 0,
+              "title": "Closed platform"
+            },
+            {
+              "ns": 0,
+              "title": "Code generation (compiler)"
+            },
+            {
+              "ns": 0,
+              "title": "Columbia University"
+            },
+            {
+              "ns": 0,
+              "title": "Comment (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Commodore 64"
+            },
+            {
+              "ns": 0,
+              "title": "Communication Access Programming Language"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of assemblers"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of lightweight web browsers"
+            },
+            {
+              "ns": 0,
+              "title": "Compiled language"
+            },
+            {
+              "ns": 0,
+              "title": "Compiler"
+            },
+            {
+              "ns": 0,
+              "title": "Compiler optimization"
+            },
+            {
+              "ns": 0,
+              "title": "Computer Science Press, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Computer architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Computer reservation system"
+            },
+            {
+              "ns": 0,
+              "title": "Computer science"
+            },
+            {
+              "ns": 0,
+              "title": "Computer virus"
+            },
+            {
+              "ns": 0,
+              "title": "Concept-14 macro set"
+            },
+            {
+              "ns": 0,
+              "title": "Conditional (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Constant (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Consumer electronics"
+            },
+            {
+              "ns": 0,
+              "title": "CreateSpace Independent Publishing"
+            },
+            {
+              "ns": 0,
+              "title": "Crippleware"
+            },
+            {
+              "ns": 0,
+              "title": "Cross compiler"
+            },
+            {
+              "ns": 0,
+              "title": "Custom firmware"
+            },
+            {
+              "ns": 0,
+              "title": "Cyrix"
+            },
+            {
+              "ns": 0,
+              "title": "DOS/360 and successors"
+            },
+            {
+              "ns": 0,
+              "title": "Das U-Boot"
+            },
+            {
+              "ns": 0,
+              "title": "Data structure"
+            },
+            {
+              "ns": 0,
+              "title": "Data structure alignment"
+            },
+            {
+              "ns": 0,
+              "title": "David John Wheeler"
+            },
+            {
+              "ns": 0,
+              "title": "David Wheeler (computer scientist)"
+            },
+            {
+              "ns": 0,
+              "title": "Debugging"
+            },
+            {
+              "ns": 0,
+              "title": "Decimal"
+            },
+            {
+              "ns": 0,
+              "title": "Decompiler"
+            },
+            {
+              "ns": 0,
+              "title": "Defective by Design"
+            },
+            {
+              "ns": 0,
+              "title": "Demoscene"
+            },
+            {
+              "ns": 0,
+              "title": "Device driver"
+            },
+            {
+              "ns": 0,
+              "title": "Dietlibc"
+            },
+            {
+              "ns": 0,
+              "title": "Digital Signal Processor"
+            },
+            {
+              "ns": 0,
+              "title": "Directive (programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Disassembler"
+            },
+            {
+              "ns": 0,
+              "title": "Discrete cosine transform"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Don't-care term"
+            },
+            {
+              "ns": 0,
+              "title": "Doom (1993 video game)"
+            },
+            {
+              "ns": 0,
+              "title": "EDSAC"
+            },
+            {
+              "ns": 0,
+              "title": "EPROM"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Ellis Horowitz"
+            },
+            {
+              "ns": 0,
+              "title": "Ellis Horwood Limited"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded C"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded C++"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded GLIBC"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded Java"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded database"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded hypervisor"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded software"
+            },
+            {
+              "ns": 0,
+              "title": "Embedded system"
+            },
+            {
+              "ns": 0,
+              "title": "Erratum"
+            },
+            {
+              "ns": 0,
+              "title": "Esoteric programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Executive Systems Problem Oriented Language"
+            },
+            {
+              "ns": 0,
+              "title": "Expression (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "FASM"
+            },
+            {
+              "ns": 0,
+              "title": "FORTRAN"
+            },
+            {
+              "ns": 0,
+              "title": "Field-programmable gate array"
+            },
+            {
+              "ns": 0,
+              "title": "Fifth-generation programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Filename extension"
+            },
+            {
+              "ns": 0,
+              "title": "Firmware"
+            },
+            {
+              "ns": 0,
+              "title": "First-generation language"
+            },
+            {
+              "ns": 0,
+              "title": "First-generation programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Fly-by-wire"
+            },
+            {
+              "ns": 0,
+              "title": "Fortran"
+            },
+            {
+              "ns": 0,
+              "title": "Forward reference"
+            },
+            {
+              "ns": 0,
+              "title": "Fourth-generation programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Fred Brooks"
+            },
+            {
+              "ns": 0,
+              "title": "GNU Assembler"
+            },
+            {
+              "ns": 0,
+              "title": "GOTO"
+            },
+            {
+              "ns": 0,
+              "title": "Garbage collection (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "GitHub"
+            },
+            {
+              "ns": 0,
+              "title": "Graphing calculator"
+            },
+            {
+              "ns": 0,
+              "title": "HLASM"
+            },
+            {
+              "ns": 0,
+              "title": "Hacking of consumer electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Harlan Mills"
+            },
+            {
+              "ns": 0,
+              "title": "Herman Goldstine"
+            },
+            {
+              "ns": 0,
+              "title": "Hexadecimal"
+            },
+            {
+              "ns": 0,
+              "title": "High-level assembler"
+            },
+            {
+              "ns": 0,
+              "title": "High-level programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Homebrew (video games)"
+            },
+            {
+              "ns": 0,
+              "title": "IA-32"
+            },
+            {
+              "ns": 0,
+              "title": "IBM"
+            },
+            {
+              "ns": 0,
+              "title": "IBM-compatible PC"
+            },
+            {
+              "ns": 0,
+              "title": "IBM 650"
+            },
+            {
+              "ns": 0,
+              "title": "IBM 700/7000 series"
+            },
+            {
+              "ns": 0,
+              "title": "IBM Airline Control Program"
+            },
+            {
+              "ns": 0,
+              "title": "IBM PC compatible"
+            },
+            {
+              "ns": 0,
+              "title": "IBM System/360"
+            },
+            {
+              "ns": 0,
+              "title": "IBM System/370"
+            },
+            {
+              "ns": 0,
+              "title": "IBM mainframe"
+            },
+            {
+              "ns": 0,
+              "title": "IEEE Annals of the History of Computing"
+            },
+            {
+              "ns": 0,
+              "title": "IOS jailbreaking"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Identifier"
+            },
+            {
+              "ns": 0,
+              "title": "Idris (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Imperative programming"
+            },
+            {
+              "ns": 0,
+              "title": "Information Processing Language"
+            },
+            {
+              "ns": 0,
+              "title": "Inheritance (object-oriented programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Inline assembler"
+            },
+            {
+              "ns": 0,
+              "title": "Inline assembly"
+            },
+            {
+              "ns": 0,
+              "title": "Inline expansion"
+            },
+            {
+              "ns": 0,
+              "title": "Input/output"
+            },
+            {
+              "ns": 0,
+              "title": "Institute for Advanced Study"
+            },
+            {
+              "ns": 0,
+              "title": "Institute of Electrical and Electronics Engineers"
+            },
+            {
+              "ns": 0,
+              "title": "Instruction scheduling"
+            },
+            {
+              "ns": 0,
+              "title": "Instruction set architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Instruction set simulator"
+            },
+            {
+              "ns": 0,
+              "title": "Intel 8080A"
+            },
+            {
+              "ns": 0,
+              "title": "Intel Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Intel hex"
+            },
+            {
+              "ns": 0,
+              "title": "Intel syntax"
+            },
+            {
+              "ns": 0,
+              "title": "Interactive Disassembler"
+            },
+            {
+              "ns": 0,
+              "title": "International Business Machines Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Internet of things"
+            },
+            {
+              "ns": 0,
+              "title": "Interpreted language"
+            },
+            {
+              "ns": 0,
+              "title": "Interpreter (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupt"
+            },
+            {
+              "ns": 0,
+              "title": "Interrupt handler"
+            },
+            {
+              "ns": 0,
+              "title": "Intrinsic function"
+            },
+            {
+              "ns": 0,
+              "title": "Job control language"
+            },
+            {
+              "ns": 0,
+              "title": "Job stream"
+            },
+            {
+              "ns": 0,
+              "title": "John Gregory Markoff"
+            },
+            {
+              "ns": 0,
+              "title": "John Socha"
+            },
+            {
+              "ns": 0,
+              "title": "John Wiley & Sons"
+            },
+            {
+              "ns": 0,
+              "title": "John von Neumann"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of the American Medical Informatics Association"
+            },
+            {
+              "ns": 0,
+              "title": "Jump-sizing"
+            },
+            {
+              "ns": 0,
+              "title": "Kathleen Booth"
+            },
+            {
+              "ns": 0,
+              "title": "Kathleen Hylda Valerie Britten"
+            },
+            {
+              "ns": 0,
+              "title": "LCCN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Label (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Library (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Light-weight Linux distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Linear algebra"
+            },
+            {
+              "ns": 0,
+              "title": "Linker (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Linux for mobile devices"
+            },
+            {
+              "ns": 0,
+              "title": "Linux kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Linux on embedded systems"
+            },
+            {
+              "ns": 0,
+              "title": "Lisp (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "List of open-source hardware"
+            },
+            {
+              "ns": 0,
+              "title": "Little man computer"
+            },
+            {
+              "ns": 0,
+              "title": "Loader (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Loop unrolling"
+            },
+            {
+              "ns": 0,
+              "title": "Lotus 1-2-3"
+            },
+            {
+              "ns": 0,
+              "title": "Low-level programming language"
+            },
+            {
+              "ns": 0,
+              "title": "LwIP"
+            },
+            {
+              "ns": 0,
+              "title": "MC6800"
+            },
+            {
+              "ns": 0,
+              "title": "MISRA C"
+            },
+            {
+              "ns": 0,
+              "title": "MOV (x86 instruction)"
+            },
+            {
+              "ns": 0,
+              "title": "MS-DOS"
+            },
+            {
+              "ns": 0,
+              "title": "Machine code"
+            },
+            {
+              "ns": 0,
+              "title": "Machine language"
+            },
+            {
+              "ns": 0,
+              "title": "Macro (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Macro assembler"
+            },
+            {
+              "ns": 0,
+              "title": "Macro instruction"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic-tape data storage"
+            },
+            {
+              "ns": 0,
+              "title": "Martin Campbell-Kelly"
+            },
+            {
+              "ns": 0,
+              "title": "Maurice Vincent Wilkes"
+            },
+            {
+              "ns": 0,
+              "title": "Maurice Wilkes"
+            },
+            {
+              "ns": 0,
+              "title": "Memory footprint"
+            },
+            {
+              "ns": 0,
+              "title": "Memory location"
+            },
+            {
+              "ns": 0,
+              "title": "Memory management"
+            },
+            {
+              "ns": 0,
+              "title": "Memory paging"
+            },
+            {
+              "ns": 0,
+              "title": "Metaprogramming"
+            },
+            {
+              "ns": 0,
+              "title": "MicroPython"
+            },
+            {
+              "ns": 0,
+              "title": "Microassembler"
+            },
+            {
+              "ns": 0,
+              "title": "Microcode"
+            },
+            {
+              "ns": 0,
+              "title": "Microcontroller"
+            },
+            {
+              "ns": 0,
+              "title": "Microsoft Corp."
+            },
+            {
+              "ns": 0,
+              "title": "Mnemonic"
+            },
+            {
+              "ns": 0,
+              "title": "Morgan Kaufmann Publishers"
+            },
+            {
+              "ns": 0,
+              "title": "Mortal Kombat (1992 video game)"
+            },
+            {
+              "ns": 0,
+              "title": "Motorola"
+            },
+            {
+              "ns": 0,
+              "title": "Motorola S-record"
+            },
+            {
+              "ns": 0,
+              "title": "Musl"
+            },
+            {
+              "ns": 0,
+              "title": "NBA Jam (1993 video game)"
+            },
+            {
+              "ns": 0,
+              "title": "NEC Pinwriter"
+            },
+            {
+              "ns": 0,
+              "title": "NEC V20"
+            },
+            {
+              "ns": 0,
+              "title": "NEC V30"
+            },
+            {
+              "ns": 0,
+              "title": "NOP (code)"
+            },
+            {
+              "ns": 0,
+              "title": "Namespace"
+            },
+            {
+              "ns": 0,
+              "title": "Neon (instruction set)"
+            },
+            {
+              "ns": 0,
+              "title": "Netwide Assembler"
+            },
+            {
+              "ns": 0,
+              "title": "Nibble"
+            },
+            {
+              "ns": 0,
+              "title": "Nintendo Entertainment System"
+            },
+            {
+              "ns": 0,
+              "title": "No Silver Bullet"
+            },
+            {
+              "ns": 0,
+              "title": "No Starch Press"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "OS/360 and successors"
+            },
+            {
+              "ns": 0,
+              "title": "Object-oriented programming"
+            },
+            {
+              "ns": 0,
+              "title": "Object (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Object code"
+            },
+            {
+              "ns": 0,
+              "title": "Offset (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Ohio State University"
+            },
+            {
+              "ns": 0,
+              "title": "Opcode"
+            },
+            {
+              "ns": 0,
+              "title": "Open-source robotics"
+            },
+            {
+              "ns": 0,
+              "title": "OpenEmbedded"
+            },
+            {
+              "ns": 0,
+              "title": "Operand"
+            },
+            {
+              "ns": 0,
+              "title": "Operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Operating system kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Optimizing compiler"
+            },
+            {
+              "ns": 0,
+              "title": "PL/I"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Parameter (computer programming)"
+            },
+            {
+              "ns": 0,
+              "title": "Pascal (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Peephole optimization"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Norton"
+            },
+            {
+              "ns": 0,
+              "title": "Pig Latin"
+            },
+            {
+              "ns": 0,
+              "title": "PlayStation 3 Jailbreak"
+            },
+            {
+              "ns": 0,
+              "title": "Polymorphism (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Porting"
+            },
+            {
+              "ns": 0,
+              "title": "Pre-processor"
+            },
+            {
+              "ns": 0,
+              "title": "Preemptive multitasking"
+            },
+            {
+              "ns": 0,
+              "title": "Prentice-Hall"
+            },
+            {
+              "ns": 0,
+              "title": "Prentice Hall"
+            },
+            {
+              "ns": 0,
+              "title": "Processor (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Processor register"
+            },
+            {
+              "ns": 0,
+              "title": "Programmer (hardware)"
+            },
+            {
+              "ns": 0,
+              "title": "Programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Programming language generations"
+            },
+            {
+              "ns": 0,
+              "title": "Programming paradigm"
+            },
+            {
+              "ns": 0,
+              "title": "Programming productivity"
+            },
+            {
+              "ns": 0,
+              "title": "Programming tool"
+            },
+            {
+              "ns": 0,
+              "title": "Proprietary firmware"
+            },
+            {
+              "ns": 0,
+              "title": "Punched card"
+            },
+            {
+              "ns": 0,
+              "title": "Punched tape"
+            },
+            {
+              "ns": 0,
+              "title": "RISC architectures"
+            },
+            {
+              "ns": 0,
+              "title": "ROM hacking"
+            },
+            {
+              "ns": 0,
+              "title": "Ralph E. Griswold"
+            },
+            {
+              "ns": 0,
+              "title": "Randall Hyde"
+            },
+            {
+              "ns": 0,
+              "title": "Raspberry Pi"
+            },
+            {
+              "ns": 0,
+              "title": "Read-only memory"
+            },
+            {
+              "ns": 0,
+              "title": "Real-time computing"
+            },
+            {
+              "ns": 0,
+              "title": "Real-time operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Register (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Retrogaming"
+            },
+            {
+              "ns": 0,
+              "title": "Reverse engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Rooting (Android)"
+            },
+            {
+              "ns": 0,
+              "title": "Run-time system"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SDS 9 Series"
+            },
+            {
+              "ns": 0,
+              "title": "SDS Sigma series"
+            },
+            {
+              "ns": 0,
+              "title": "SNOBOL4"
+            },
+            {
+              "ns": 0,
+              "title": "SPARC International"
+            },
+            {
+              "ns": 0,
+              "title": "Second-generation programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Sega Saturn"
+            },
+            {
+              "ns": 0,
+              "title": "Self-documenting code"
+            },
+            {
+              "ns": 0,
+              "title": "Simon & Schuster International Group"
+            },
+            {
+              "ns": 0,
+              "title": "Single-board computer"
+            },
+            {
+              "ns": 0,
+              "title": "Single instruction, multiple data"
+            },
+            {
+              "ns": 0,
+              "title": "Software portability"
+            },
+            {
+              "ns": 0,
+              "title": "Source code"
+            },
+            {
+              "ns": 0,
+              "title": "Spaghetti code"
+            },
+            {
+              "ns": 0,
+              "title": "Speedcode"
+            },
+            {
+              "ns": 0,
+              "title": "Sperry Univac"
+            },
+            {
+              "ns": 0,
+              "title": "Stack (abstract data type)"
+            },
+            {
+              "ns": 0,
+              "title": "Stack Exchange Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Stand-alone shell"
+            },
+            {
+              "ns": 0,
+              "title": "Stanley Gill"
+            },
+            {
+              "ns": 0,
+              "title": "Stanley J. Gill"
+            },
+            {
+              "ns": 0,
+              "title": "Statement (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Stored-program computer"
+            },
+            {
+              "ns": 0,
+              "title": "Structured programming"
+            },
+            {
+              "ns": 0,
+              "title": "Subroutine"
+            },
+            {
+              "ns": 0,
+              "title": "Support programs for OS/360 and successors"
+            },
+            {
+              "ns": 0,
+              "title": "Symbolic Optimal Assembly Program"
+            },
+            {
+              "ns": 0,
+              "title": "Syntax (programming languages)"
+            },
+            {
+              "ns": 0,
+              "title": "System call"
+            },
+            {
+              "ns": 0,
+              "title": "System generation"
+            },
+            {
+              "ns": 0,
+              "title": "System on a chip"
+            },
+            {
+              "ns": 0,
+              "title": "Systems programming"
+            },
+            {
+              "ns": 0,
+              "title": "TIOBE Software"
+            },
+            {
+              "ns": 0,
+              "title": "TIOBE index"
+            },
+            {
+              "ns": 0,
+              "title": "TMS34010"
+            },
+            {
+              "ns": 0,
+              "title": "The New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "The Preparation of Programs for an Electronic Digital Computer"
+            },
+            {
+              "ns": 0,
+              "title": "Third-generation programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Timing attack"
+            },
+            {
+              "ns": 0,
+              "title": "Tomash Publishers"
+            },
+            {
+              "ns": 0,
+              "title": "Toybox"
+            },
+            {
+              "ns": 0,
+              "title": "Transaction Processing Facility"
+            },
+            {
+              "ns": 0,
+              "title": "Translator (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Trusting trust"
+            },
+            {
+              "ns": 0,
+              "title": "Turbo Assembler"
+            },
+            {
+              "ns": 0,
+              "title": "Turbo Pascal"
+            },
+            {
+              "ns": 0,
+              "title": "Turing completeness"
+            },
+            {
+              "ns": 0,
+              "title": "Type system"
+            },
+            {
+              "ns": 0,
+              "title": "Typed assembly language"
+            },
+            {
+              "ns": 0,
+              "title": "UClibc"
+            },
+            {
+              "ns": 0,
+              "title": "UEFI"
+            },
+            {
+              "ns": 0,
+              "title": "UNIVAC 1100/2200 series"
+            },
+            {
+              "ns": 0,
+              "title": "University of North Carolina at Chapel Hill"
+            },
+            {
+              "ns": 0,
+              "title": "University of Virginia"
+            },
+            {
+              "ns": 0,
+              "title": "Unix"
+            },
+            {
+              "ns": 0,
+              "title": "Unstructured programming"
+            },
+            {
+              "ns": 0,
+              "title": "Utility software"
+            },
+            {
+              "ns": 0,
+              "title": "VM (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Vendor lock-in"
+            },
+            {
+              "ns": 0,
+              "title": "Very high-level programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Video game"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual machine"
+            },
+            {
+              "ns": 0,
+              "title": "Visual Basic"
+            },
+            {
+              "ns": 0,
+              "title": "W. H. Freeman and Company"
+            },
+            {
+              "ns": 0,
+              "title": "Whitesmiths"
+            },
+            {
+              "ns": 0,
+              "title": "Whitespace character"
+            },
+            {
+              "ns": 0,
+              "title": "WikiWikiWeb"
+            },
+            {
+              "ns": 0,
+              "title": "Wiley (publisher)"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Embedded Compact"
+            },
+            {
+              "ns": 0,
+              "title": "Windows IoT"
+            },
+            {
+              "ns": 0,
+              "title": "X264"
+            },
+            {
+              "ns": 0,
+              "title": "X86"
+            },
+            {
+              "ns": 0,
+              "title": "X86 assembly language"
+            },
+            {
+              "ns": 0,
+              "title": "Yocto Project"
+            },
+            {
+              "ns": 0,
+              "title": "Z80 instruction set"
+            },
+            {
+              "ns": 0,
+              "title": "ZX Spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Zilog Z80"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669729.8949358
+}

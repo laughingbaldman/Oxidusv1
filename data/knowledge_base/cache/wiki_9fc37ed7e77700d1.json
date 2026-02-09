@@ -1,0 +1,453 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "4230": {
+          "pageid": 4230,
+          "ns": 0,
+          "title": "Cell (biology)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Proteinoplast"
+            },
+            {
+              "ns": 0,
+              "title": "Protist"
+            },
+            {
+              "ns": 0,
+              "title": "Protist locomotion"
+            },
+            {
+              "ns": 0,
+              "title": "Pseudopeptidoglycan"
+            },
+            {
+              "ns": 0,
+              "title": "Pseudopodia"
+            },
+            {
+              "ns": 0,
+              "title": "Pseudopodium"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroptosis"
+            },
+            {
+              "ns": 0,
+              "title": "RNA"
+            },
+            {
+              "ns": 0,
+              "title": "RNA polymerase"
+            },
+            {
+              "ns": 0,
+              "title": "RNA world hypothesis"
+            },
+            {
+              "ns": 0,
+              "title": "Radial spoke"
+            },
+            {
+              "ns": 0,
+              "title": "Receptor (biochemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Recycling endosome"
+            },
+            {
+              "ns": 0,
+              "title": "Red algae"
+            },
+            {
+              "ns": 0,
+              "title": "Red blood cell"
+            },
+            {
+              "ns": 0,
+              "title": "Reducing agent"
+            },
+            {
+              "ns": 0,
+              "title": "Reproduction"
+            },
+            {
+              "ns": 0,
+              "title": "Reproductive cloning"
+            },
+            {
+              "ns": 0,
+              "title": "Reprogramming"
+            },
+            {
+              "ns": 0,
+              "title": "Respiratory epithelium"
+            },
+            {
+              "ns": 0,
+              "title": "Ribosome"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Hooke"
+            },
+            {
+              "ns": 0,
+              "title": "Rough endoplasmic reticulum"
+            },
+            {
+              "ns": 0,
+              "title": "Rudolf Virchow"
+            },
+            {
+              "ns": 0,
+              "title": "S-layer"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "S phase"
+            },
+            {
+              "ns": 0,
+              "title": "Sarcolemma"
+            },
+            {
+              "ns": 0,
+              "title": "Sarcoplasm"
+            },
+            {
+              "ns": 0,
+              "title": "Science (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Secrete"
+            },
+            {
+              "ns": 0,
+              "title": "Secretion"
+            },
+            {
+              "ns": 0,
+              "title": "Secretory"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentation"
+            },
+            {
+              "ns": 0,
+              "title": "Selective breeding"
+            },
+            {
+              "ns": 0,
+              "title": "Selective pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Selectively permeable"
+            },
+            {
+              "ns": 0,
+              "title": "Self-replication"
+            },
+            {
+              "ns": 0,
+              "title": "Semipermeable membrane"
+            },
+            {
+              "ns": 0,
+              "title": "Sex chromosomes"
+            },
+            {
+              "ns": 0,
+              "title": "Sexual reproduction"
+            },
+            {
+              "ns": 0,
+              "title": "Single-celled"
+            },
+            {
+              "ns": 0,
+              "title": "Single-celled organism"
+            },
+            {
+              "ns": 0,
+              "title": "Skeletal muscle cell"
+            },
+            {
+              "ns": 0,
+              "title": "Skin"
+            },
+            {
+              "ns": 0,
+              "title": "Slime mold"
+            },
+            {
+              "ns": 0,
+              "title": "Smooth endoplasmic reticulum"
+            },
+            {
+              "ns": 0,
+              "title": "Solenocyte"
+            },
+            {
+              "ns": 0,
+              "title": "Somatic cell"
+            },
+            {
+              "ns": 0,
+              "title": "Speciation"
+            },
+            {
+              "ns": 0,
+              "title": "Species"
+            },
+            {
+              "ns": 0,
+              "title": "Spectroscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Spindle apparatus"
+            },
+            {
+              "ns": 0,
+              "title": "Spindle pole body"
+            },
+            {
+              "ns": 0,
+              "title": "Spirochete"
+            },
+            {
+              "ns": 0,
+              "title": "Spitzenkörper"
+            },
+            {
+              "ns": 0,
+              "title": "Spliceosome"
+            },
+            {
+              "ns": 0,
+              "title": "Sponge"
+            },
+            {
+              "ns": 0,
+              "title": "Staining"
+            },
+            {
+              "ns": 0,
+              "title": "Stem cell"
+            },
+            {
+              "ns": 0,
+              "title": "Stem cells"
+            },
+            {
+              "ns": 0,
+              "title": "Streptococci"
+            },
+            {
+              "ns": 0,
+              "title": "Stromatolites"
+            },
+            {
+              "ns": 0,
+              "title": "Symbiogenesis"
+            },
+            {
+              "ns": 0,
+              "title": "Syncytium"
+            },
+            {
+              "ns": 0,
+              "title": "Syngamy"
+            },
+            {
+              "ns": 0,
+              "title": "Tannosome"
+            },
+            {
+              "ns": 0,
+              "title": "Telomere"
+            },
+            {
+              "ns": 0,
+              "title": "Terminologia Histologica"
+            },
+            {
+              "ns": 0,
+              "title": "Tertiary structure"
+            },
+            {
+              "ns": 0,
+              "title": "Test (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Testate amoebae"
+            },
+            {
+              "ns": 0,
+              "title": "The Inner Life of the Cell"
+            },
+            {
+              "ns": 0,
+              "title": "Theodor Schwann"
+            },
+            {
+              "ns": 0,
+              "title": "Therapeutic cloning"
+            },
+            {
+              "ns": 0,
+              "title": "Thermoplasma"
+            },
+            {
+              "ns": 0,
+              "title": "Thiomargarita magnifica"
+            },
+            {
+              "ns": 0,
+              "title": "Three domain system"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of biotechnology"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Tissue (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Tissue culture"
+            },
+            {
+              "ns": 0,
+              "title": "Tissue repair"
+            },
+            {
+              "ns": 0,
+              "title": "Totipotent"
+            },
+            {
+              "ns": 0,
+              "title": "Transcription (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Transcription (genetics)"
+            },
+            {
+              "ns": 0,
+              "title": "Transfer RNA"
+            },
+            {
+              "ns": 0,
+              "title": "Translation (biology)"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission electron microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Triploblast"
+            },
+            {
+              "ns": 0,
+              "title": "Tubulin"
+            },
+            {
+              "ns": 0,
+              "title": "Undulipodium"
+            },
+            {
+              "ns": 0,
+              "title": "University of Berlin"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuole"
+            },
+            {
+              "ns": 0,
+              "title": "Vault (organelle)"
+            },
+            {
+              "ns": 0,
+              "title": "Vertebrate"
+            },
+            {
+              "ns": 0,
+              "title": "Vesicle (biology and chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Virology"
+            },
+            {
+              "ns": 0,
+              "title": "Virus"
+            },
+            {
+              "ns": 0,
+              "title": "Voltaic pile"
+            },
+            {
+              "ns": 0,
+              "title": "Vorticella"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weibel–Palade body"
+            },
+            {
+              "ns": 0,
+              "title": "White blood cell"
+            },
+            {
+              "ns": 0,
+              "title": "Wound healing"
+            },
+            {
+              "ns": 0,
+              "title": "XVIVO"
+            },
+            {
+              "ns": 0,
+              "title": "Xanthophyll"
+            },
+            {
+              "ns": 0,
+              "title": "Zygote"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770575434.2936895
+}

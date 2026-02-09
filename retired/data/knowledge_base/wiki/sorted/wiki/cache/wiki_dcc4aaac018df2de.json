@@ -1,0 +1,729 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "140459": {
+          "pageid": 140459,
+          "ns": 0,
+          "title": "Base (chemistry)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acceptor number"
+            },
+            {
+              "ns": 0,
+              "title": "Acid"
+            },
+            {
+              "ns": 0,
+              "title": "Acid strength"
+            },
+            {
+              "ns": 0,
+              "title": "Acidic oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Acidity function"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base extraction"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base homeostasis"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base titration"
+            },
+            {
+              "ns": 0,
+              "title": "Activity (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Adduct"
+            },
+            {
+              "ns": 0,
+              "title": "Alchemical"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali metal"
+            },
+            {
+              "ns": 0,
+              "title": "Alkaline earth metal"
+            },
+            {
+              "ns": 0,
+              "title": "Alkoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Amine"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Amphoterism"
+            },
+            {
+              "ns": 0,
+              "title": "Animism"
+            },
+            {
+              "ns": 0,
+              "title": "Antacid"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous solution"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous solutions"
+            },
+            {
+              "ns": 0,
+              "title": "Arrhenius base"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic orbital"
+            },
+            {
+              "ns": 0,
+              "title": "Azanide"
+            },
+            {
+              "ns": 0,
+              "title": "Azanide ion"
+            },
+            {
+              "ns": 0,
+              "title": "Barium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Barium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Base-richness"
+            },
+            {
+              "ns": 0,
+              "title": "Base (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Basic oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Beaker (glassware)"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boron trifluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Brønsted base"
+            },
+            {
+              "ns": 0,
+              "title": "Brønsted–Lowry acid–base theory"
+            },
+            {
+              "ns": 0,
+              "title": "Buffer solution"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbanion"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Catalyst"
+            },
+            {
+              "ns": 0,
+              "title": "Causticity"
+            },
+            {
+              "ns": 0,
+              "title": "Cesium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical equilibrium"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Chiral Lewis acid"
+            },
+            {
+              "ns": 0,
+              "title": "Conjugate base"
+            },
+            {
+              "ns": 0,
+              "title": "Coordination complex"
+            },
+            {
+              "ns": 0,
+              "title": "Copper(II) hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Degree of ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Derivative (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Dissociate"
+            },
+            {
+              "ns": 0,
+              "title": "Dissociation constant"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Donor number"
+            },
+            {
+              "ns": 0,
+              "title": "Double bond"
+            },
+            {
+              "ns": 0,
+              "title": "ECW model"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron pair"
+            },
+            {
+              "ns": 0,
+              "title": "Equilibrium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Equilibrium constant"
+            },
+            {
+              "ns": 0,
+              "title": "Fatty acid"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrous hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Frustrated Lewis pair"
+            },
+            {
+              "ns": 0,
+              "title": "G. N. Lewis"
+            },
+            {
+              "ns": 0,
+              "title": "Gilbert N. Lewis"
+            },
+            {
+              "ns": 0,
+              "title": "Guanidine"
+            },
+            {
+              "ns": 0,
+              "title": "Guillaume-François Rouelle"
+            },
+            {
+              "ns": 0,
+              "title": "Hammett acidity function"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrides"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrochloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen cation"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogenation"
+            },
+            {
+              "ns": 0,
+              "title": "Hydron (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Hydronium"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Inorganic nonaqueous solvent"
+            },
+            {
+              "ns": 0,
+              "title": "Insoluble"
+            },
+            {
+              "ns": 0,
+              "title": "Ionizable"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Iron(II) hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Lead(II) hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Leveling effect"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acid catalysis"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acids and bases"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis base"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis theory"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium bis(trimethylsilyl)amide"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium diethylamide"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium diisopropylamide"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium monoxide anion"
+            },
+            {
+              "ns": 0,
+              "title": "Litmus paper"
+            },
+            {
+              "ns": 0,
+              "title": "Lone pair"
+            },
+            {
+              "ns": 0,
+              "title": "Louis Lémery"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Meerwein-Ponndorf-Verley reduction"
+            },
+            {
+              "ns": 0,
+              "title": "Meta-diethynylbenzene dianion"
+            },
+            {
+              "ns": 0,
+              "title": "Metal oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Metal–halogen exchange"
+            },
+            {
+              "ns": 0,
+              "title": "Michael reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral acid"
+            },
+            {
+              "ns": 0,
+              "title": "N-Butyllithium"
+            },
+            {
+              "ns": 0,
+              "title": "NaOH"
+            },
+            {
+              "ns": 0,
+              "title": "Neutralization (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Nitric oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Non-nucleophilic base"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Organic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Organic base"
+            },
+            {
+              "ns": 0,
+              "title": "Ortho-diethynylbenzene dianion"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "PH"
+            },
+            {
+              "ns": 0,
+              "title": "PH indicator"
+            },
+            {
+              "ns": 0,
+              "title": "Para-diethynylbenzene dianion"
+            },
+            {
+              "ns": 0,
+              "title": "Paracelsus"
+            },
+            {
+              "ns": 0,
+              "title": "Perchloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium fluoride on alumina"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Precipitate"
+            },
+            {
+              "ns": 0,
+              "title": "Protic solvent"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Proton affinity"
+            },
+            {
+              "ns": 0,
+              "title": "Protonation"
+            },
+            {
+              "ns": 0,
+              "title": "Rayon"
+            },
+            {
+              "ns": 0,
+              "title": "Resonance (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Rubidium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Salt (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Saturated solution"
+            },
+            {
+              "ns": 0,
+              "title": "Self-ionization of water"
+            },
+            {
+              "ns": 0,
+              "title": "Silver hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Soap"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium amide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bicarbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium carbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Solid acid"
+            },
+            {
+              "ns": 0,
+              "title": "Solubility"
+            },
+            {
+              "ns": 0,
+              "title": "Solvation"
+            },
+            {
+              "ns": 0,
+              "title": "Solvent"
+            },
+            {
+              "ns": 0,
+              "title": "Stoichiometry"
+            },
+            {
+              "ns": 0,
+              "title": "Stomach acid"
+            },
+            {
+              "ns": 0,
+              "title": "Strong acid"
+            },
+            {
+              "ns": 0,
+              "title": "Strong base"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Superacid"
+            },
+            {
+              "ns": 0,
+              "title": "Superbase"
+            },
+            {
+              "ns": 0,
+              "title": "Suspension (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Svante Arrhenius"
+            },
+            {
+              "ns": 0,
+              "title": "Table salt"
+            },
+            {
+              "ns": 0,
+              "title": "Taste"
+            },
+            {
+              "ns": 0,
+              "title": "Tetramethylammonium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Tin(II) hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Titration"
+            },
+            {
+              "ns": 0,
+              "title": "Transition metal"
+            },
+            {
+              "ns": 0,
+              "title": "Unshared pair"
+            },
+            {
+              "ns": 0,
+              "title": "Weak acid"
+            },
+            {
+              "ns": 0,
+              "title": "Weak base"
+            },
+            {
+              "ns": 0,
+              "title": "William B. Jensen"
+            },
+            {
+              "ns": 0,
+              "title": "Zeolite"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc hydroxide"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324336.8497956
+}

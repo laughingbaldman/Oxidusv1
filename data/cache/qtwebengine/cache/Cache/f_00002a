@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OXIDUS Admin - Forge Edition</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Share Tech Mono', monospace;
+            background:
+                radial-gradient(120% 140% at 10% 0%, rgba(224, 112, 43, 0.18), transparent 55%),
+                radial-gradient(120% 140% at 100% 30%, rgba(198, 161, 90, 0.16), transparent 60%),
+                linear-gradient(135deg, #0d0c0b 0%, #181310 45%, #22170e 100%);
+            color: #e4dfd1;
+            min-height: 100vh;
+            padding: 24px;
+            position: relative;
+            overflow: hidden;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image:
+                linear-gradient(transparent 0, transparent 27px, rgba(255, 255, 255, 0.03) 28px),
+                linear-gradient(90deg, transparent 0, transparent 27px, rgba(255, 255, 255, 0.03) 28px);
+            background-size: 28px 28px;
+            opacity: 0.35;
+            pointer-events: none;
+            z-index: 0;
+        }
+        body::after {
+            content: '';
+            position: fixed;
+            left: -10%;
+            top: -20%;
+            width: 120%;
+            height: 60%;
+            background: radial-gradient(ellipse at top, rgba(224, 112, 43, 0.25), transparent 70%);
+            opacity: 0.45;
+            animation: forgeGlow 8s ease-in-out infinite;
+            pointer-events: none;
+            z-index: 0;
+        }
+        @keyframes forgeGlow {
+            0%, 100% { opacity: 0.35; transform: translateY(0); }
+            50% { opacity: 0.6; transform: translateY(-12px); }
+        }
+        .admin-shell {
+            max-width: 1200px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+        .title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #e9b76c;
+            margin-bottom: 12px;
+            text-shadow: 0 0 14px rgba(198, 161, 90, 0.45);
+            font-family: 'Cinzel', serif;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            position: relative;
+            z-index: 1;
+        }
+        .title-accent {
+            font-size: 13px;
+            color: #e9b76c;
+        }
+        .subtitle {
+            color: #a69b8f;
+            font-size: 11px;
+            margin-bottom: 18px;
+        }
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+        .forge-nav {
+            width: 100%;
+            background: rgba(14, 13, 12, 0.92);
+            border-bottom: 1px solid #3c2f24;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 0;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
+            margin-bottom: 24px;
+        }
+        .forge-nav-list {
+            display: flex;
+            gap: 24px;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        .nav-button {
+            background: transparent;
+            color: #c6a15a;
+            font-size: 12px;
+            border: 1px solid transparent;
+            box-shadow: none;
+            padding: 16px 20px;
+            letter-spacing: 2px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+        }
+        .nav-button:hover {
+            border-color: #c6a15a;
+            color: #f0c77d;
+            box-shadow: inset 0 0 10px rgba(198, 161, 90, 0.2);
+        }
+        .nav-button.active {
+            border-color: #e0702b;
+            color: #f5d49a;
+            background: linear-gradient(135deg, rgba(224, 112, 43, 0.2), rgba(198, 161, 90, 0.08));
+            box-shadow: inset 0 0 14px rgba(224, 112, 43, 0.25);
+        }
+        .nav-button:focus-visible {
+            outline: 2px solid #c6a15a;
+            outline-offset: 2px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 22px;
+            position: relative;
+            z-index: 1;
+        }
+        .panel {
+            background: linear-gradient(145deg, rgba(20, 18, 16, 0.96), rgba(30, 24, 20, 0.9));
+            border: 1px solid #3c2f24;
+            border-top: 2px solid #c6a15a;
+            border-radius: 10px;
+            padding: 18px;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+        }
+        .panel.hero {
+            grid-column: 1 / -1;
+        }
+        .panel-header {
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #4a3a2c;
+            color: #c6a15a;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .status-line {
+            font-size: 11px;
+            color: #e4dfd1;
+            margin-bottom: 6px;
+        }
+        .button-row {
+            display: flex;
+            gap: 8px;
+            margin-top: 8px;
+        }
+        button {
+            flex: 1;
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid transparent;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: #2a2622;
+            color: #e4dfd1;
+            transition: all 0.3s ease;
+        }
+        button:hover {
+            border-color: #c6a15a;
+            box-shadow: inset 0 0 10px rgba(198, 161, 90, 0.2);
+        }
+        .btn-primary {
+            background: linear-gradient(135deg, #e0702b, #c65b24);
+            color: #140e0a;
+            border-color: #e0702b;
+        }
+        .btn-secondary {
+            background: linear-gradient(135deg, #3f4348, #2b2f34);
+            color: #e4dfd1;
+            border-color: #5b5145;
+        }
+        .btn-danger {
+            background: linear-gradient(135deg, #a83b2d, #7d2c24);
+            color: #140e0a;
+            border-color: #a83b2d;
+        }
+        input {
+            width: 100%;
+            padding: 6px;
+            margin-top: 6px;
+            background: #141210;
+            border: 1px solid #4a3b2d;
+            color: #e4dfd1;
+            border-radius: 3px;
+            font-size: 11px;
+            font-family: inherit;
+        }
+        .note {
+            font-size: 10px;
+            color: #9a9084;
+            margin-top: 8px;
+        }
+        .auth-row {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            margin-top: 10px;
+        }
+        .auth-input {
+            flex: 1;
+        }
+        .auth-status {
+            font-size: 10px;
+            color: #b7ad9f;
+            margin-top: 6px;
+        }
+        .maintenance-output {
+            margin-top: 10px;
+            max-height: 200px;
+            overflow-y: auto;
+            background: #141210;
+            border: 1px solid #4a3b2d;
+            border-radius: 4px;
+            padding: 8px;
+            font-size: 10px;
+            white-space: pre-wrap;
+            color: #b7ad9f;
+        }
+        .maintenance-input {
+            margin-top: 6px;
+        }
+        @media (max-width: 900px) {
+            .forge-nav-list {
+                gap: 12px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="admin-shell">
+        <div class="title">OXIDUS Admin Panel<br><span class="title-accent">Heart: <b>gpt-oss-120b</b> (LM Studio)</span></div>
+        <div class="subtitle">Secure control console for system oversight and knowledge workflows.</div>
+
+        <nav class="forge-nav">
+            <ul class="forge-nav-list">
+                <li><a class="nav-button" href="/?tab=conversationTab">Conversation</a></li>
+                <li><a class="nav-button" href="/?tab=knowledgeTab">Knowledge</a></li>
+                <li><a class="nav-button" href="/?tab=thoughtsTab">Thoughts</a></li>
+                <li><a class="nav-button active" href="/admin">Admin</a></li>
+            </ul>
+        </nav>
+
+        <div class="grid">
+        <div class="panel hero">
+            <div class="panel-header">System Status</div>
+            <div class="status-line">Chat Style: <span id="chatStyle">...</span></div>
+            <div class="status-line">LM Studio: <span id="lmStatus">...</span></div>
+            <div class="status-line">MemryX: <span id="memryxStatus">...</span></div>
+            <div class="status-line">Knowledge Sources: <span id="knowledgeSources">0</span></div>
+            <div class="status-line">Conversation Messages: <span id="conversationCount">0</span></div>
+            <div class="status-line">Crawler: <span id="crawlerStatus">...</span></div>
+            <div class="status-line">Last Maintenance: <span id="lastMaintenance">none</span></div>
+            <div class="auth-row">
+                <label class="sr-only" for="adminTokenInput">Admin token</label>
+                <input id="adminTokenInput" class="auth-input" type="password" placeholder="Admin token" title="Admin token" />
+                <button class="btn-secondary" onclick="saveAdminToken()">Unlock</button>
+            </div>
+            <div class="auth-status" id="authStatus">Admin locked</div>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">Conversation</div>
+            <div class="button-row">
+                <button class="btn-danger" onclick="clearConversation()">Clear</button>
+                <button class="btn-secondary" onclick="setChatStyle('hybrid')">Guided</button>
+                <button class="btn-secondary" onclick="setChatStyle('user_led')">User-led</button>
+            </div>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">Wikipedia Crawl</div>
+            <label class="sr-only" for="domains">Crawl domains</label>
+            <input id="domains" value="physics, biology, engineering, computing" placeholder="physics, biology, engineering" title="Crawl domains" />
+            <label class="sr-only" for="depth">Crawl depth</label>
+            <input id="depth" type="number" min="0" max="5" value="2" placeholder="2" title="Crawl depth" />
+            <div class="button-row">
+                <button class="btn-primary" onclick="startCrawl()">Start</button>
+                <button class="btn-secondary" onclick="stopCrawl()">Stop</button>
+                <button class="btn-secondary" onclick="refreshStatus()">Refresh</button>
+            </div>
+            <div class="note">No cap mode runs until you stop it.</div>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">Knowledge Reset</div>
+            <div class="button-row">
+                <button class="btn-danger" onclick="resetKnowledge()">Reset Knowledge</button>
+            </div>
+            <div class="note">Deletes wiki corpus and resets organizer.</div>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">Server Control</div>
+            <div class="button-row">
+                <button class="btn-secondary" onclick="restartServer()">Restart</button>
+                <button class="btn-danger" onclick="shutdownServer()">Shutdown</button>
+            </div>
+            <div class="note">Restart will relaunch the server and keep data.</div>
+        </div>
+        <div class="panel">
+            <div class="panel-header">Cleanup</div>
+            <label class="sr-only" for="cleanupIncludeRetired">Include retired data</label>
+            <div class="status-line">
+                <input id="cleanupIncludeRetired" type="checkbox" /> Include retired data
+            </div>
+            <label class="sr-only" for="cleanupDryRun">Dry run</label>
+            <div class="status-line">
+                <input id="cleanupDryRun" type="checkbox" checked /> Dry run (recommended)
+            </div>
+            <div class="button-row">
+                <button class="btn-danger" onclick="runCleanup()">Run Cleanup</button>
+            </div>
+            <div class="note">Dry run previews deletions. Disable dry run to apply.</div>
+            <div class="auth-status" id="cleanupStatus">No cleanup run yet.</div>
+        </div>
+        <div class="panel">
+            <div class="panel-header">Maintenance & QA</div>
+            <div class="status-line">Use confirm for tasks that move or rewrite files.</div>
+            <div class="status-line">
+                <label for="maintenanceConfirm">
+                    <input id="maintenanceConfirm" type="checkbox" title="Confirm destructive tasks" /> Confirm destructive tasks
+                </label>
+            </div>
+
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMaintenance('scan_knowledge_files')">Scan Knowledge</button>
+                <button class="btn-secondary" onclick="runMaintenance('export_missing_content_list')">Export Missing</button>
+            </div>
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMaintenance('normalize_wiki_cache')">Normalize Wiki Cache</button>
+                <button class="btn-secondary" onclick="runMaintenance('deeper_extract_skipped')">Recover Skipped</button>
+            </div>
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMaintenance('run_rebuild_smoke')">Rebuild + Smoke</button>
+                <button class="btn-secondary" onclick="runMaintenance('qa_loaded_texts')">QA Loaded Texts</button>
+            </div>
+
+            <input id="thoughtStreamInput" class="maintenance-input" placeholder="Thought stream file (optional)" />
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMaintenance('normalize_thought_stream')">Normalize Thought Stream</button>
+            </div>
+
+            <input id="refineSrcInput" class="maintenance-input" placeholder="Uncategorized src dir" />
+            <input id="refineRootInput" class="maintenance-input" placeholder="Knowledge root dir" />
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMaintenance('refine_uncategorized')">Refine Uncategorized</button>
+                <button class="btn-secondary" onclick="runMaintenance('nlp_refine')">NLP Refine</button>
+            </div>
+
+            <input id="sortSourceInput" class="maintenance-input" placeholder="Sort source dir" />
+            <input id="sortOutInput" class="maintenance-input" placeholder="Sort output dir" />
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMaintenance('sort_knowledge')">Sort Knowledge</button>
+            </div>
+
+            <div class="maintenance-output" id="maintenanceOutput">No maintenance run yet.</div>
+        </div>
+        <div class="panel">
+            <div class="panel-header">Integrity & Coverage</div>
+            <div class="status-line">Audits scripts, directories, and component availability.</div>
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runIntegrityAudit()">Run Integrity Audit</button>
+            </div>
+            <div class="maintenance-output" id="integrityOutput">No integrity audit run yet.</div>
+        </div>
+        <div class="panel">
+            <div class="panel-header">MemryX Indexing</div>
+            <div class="status-line">Build embeddings and index knowledge with MX3.</div>
+            <div class="status-line">Model: <span id="memryxModel">...</span></div>
+            <div class="status-line">ONNX: <span id="memryxOnnx">...</span></div>
+            <div class="status-line">DFP: <span id="memryxDfp">...</span></div>
+            <input id="memryxBatchSize" class="maintenance-input" placeholder="Batch size (default 32)" />
+            <input id="memryxMaxTokens" class="maintenance-input" placeholder="Max tokens (default 256)" />
+            <input id="memryxNumChips" class="maintenance-input" placeholder="Chips to use (default 2)" />
+            <input id="memryxDeviceIds" class="maintenance-input" placeholder="Device IDs (default 0,1)" />
+            <label class="status-line" for="memryxPreferAsync">
+                <input id="memryxPreferAsync" type="checkbox" checked /> Prefer Async (max throughput)
+            </label>
+            <div class="button-row">
+                <button class="btn-primary" onclick="startMemryxIndexing()">Run Indexing</button>
+                <button class="btn-secondary" onclick="refreshMemryxIndexing()">Refresh Status</button>
+            </div>
+            <div class="maintenance-output" id="memryxIndexOutput">No indexing run yet.</div>
+        </div>
+        <div class="panel">
+            <div class="panel-header">MemryX Benchmark</div>
+            <div class="status-line">Verify MX3 devices are visible.</div>
+            <div class="button-row">
+                <button class="btn-secondary" onclick="runMemryxBenchmark()">Run MX Bench</button>
+                <button class="btn-secondary" onclick="runMemryxDeviceTest()">List Devices</button>
+            </div>
+            <div class="maintenance-output" id="memryxBenchOutput">No benchmark run yet.</div>
+        </div>
+        </div>
+    </div>
+
+    <script>
+        let adminPoller = null;
+
+        function getAdminToken() {
+            return localStorage.getItem('oxidusAdminToken')
+                || sessionStorage.getItem('oxidusAdminToken')
+                || '';
+        }
+
+        function adminHeaders() {
+            const token = getAdminToken();
+            return token ? { 'X-Oxidus-Admin-Token': token } : {};
+        }
+
+        function setAuthStatus(message, isSuccess) {
+            const status = document.getElementById('authStatus');
+            status.textContent = message;
+            status.style.color = isSuccess ? '#e9b76c' : '#b84a34';
+        }
+
+        function saveAdminToken() {
+            const input = document.getElementById('adminTokenInput');
+            const token = input.value.trim();
+            if (!token) {
+                setAuthStatus('Admin token required', false);
+                return;
+            }
+            localStorage.setItem('oxidusAdminToken', token);
+            sessionStorage.setItem('oxidusAdminToken', token);
+            input.value = '';
+            setAuthStatus('Admin unlocked', true);
+            startAdminPolling();
+        }
+
+        function startAdminPolling() {
+            if (adminPoller) {
+                return;
+            }
+            refreshStatus();
+            refreshMemryxIndexing();
+            adminPoller = setInterval(refreshStatus, 4000);
+        }
+
+        async function refreshStatus() {
+            const response = await fetch('/api/admin/status', {
+                headers: adminHeaders()
+            });
+            const data = await response.json();
+            if (data.error) {
+                setAuthStatus(data.error, false);
+                return;
+            }
+            document.getElementById('chatStyle').textContent = data.chat_style || 'unknown';
+            document.getElementById('knowledgeSources').textContent = data.knowledge_sources || 0;
+            document.getElementById('conversationCount').textContent = data.conversation_messages || 0;
+
+            const lastMaintenance = data.last_maintenance || {};
+            if (lastMaintenance.task) {
+                const suffix = lastMaintenance.success ? 'ok' : 'failed';
+                document.getElementById('lastMaintenance').textContent = `${lastMaintenance.task} (${suffix})`;
+            } else {
+                document.getElementById('lastMaintenance').textContent = 'none';
+            }
+
+            const lm = data.lm_studio || {};
+            document.getElementById('lmStatus').textContent = lm.available ? 'online' : 'offline';
+
+            const memryx = data.memryx || {};
+            if (memryx.installed) {
+                const binding = memryx.module_importable ? 'ready' : 'missing binding';
+                document.getElementById('memryxStatus').textContent = `${binding}`;
+            } else {
+                document.getElementById('memryxStatus').textContent = 'not installed';
+            }
+
+            const crawler = data.crawler || {};
+            if (crawler.success) {
+                const running = crawler.running ? 'running' : 'idle';
+                document.getElementById('crawlerStatus').textContent = `${running} | crawled ${crawler.pages_crawled || 0}`;
+            } else {
+                document.getElementById('crawlerStatus').textContent = 'unavailable';
+            }
+        }
+
+        async function runIntegrityAudit() {
+            const output = document.getElementById('integrityOutput');
+            output.textContent = 'Running integrity audit...';
+
+            const response = await fetch('/api/admin/integrity', {
+                headers: adminHeaders()
+            });
+            const data = await response.json();
+
+            if (data.error) {
+                output.textContent = data.error;
+                output.style.color = '#b84a34';
+                return;
+            }
+
+            const missing = (data.missing_scripts || []).join(', ') || 'none';
+            const unregistered = (data.unregistered_scripts || []).join(', ') || 'none';
+            const dirs = data.dir_status || {};
+            const components = data.components || {};
+
+            const dirLines = Object.keys(dirs)
+                .map(key => `${key}: ${dirs[key] ? 'ok' : 'missing'}`)
+                .join('\n');
+            const componentLines = Object.keys(components)
+                .map(key => `${key}: ${components[key] ? 'ok' : 'missing'}`)
+                .join('\n');
+
+            output.style.color = '#e9b76c';
+            output.textContent = [
+                `Scripts total: ${data.scripts_total || 0}`,
+                `Maintenance tasks: ${data.tasks_total || 0}`,
+                `Missing scripts: ${missing}`,
+                `Unregistered scripts: ${unregistered}`,
+                '--- Directories ---',
+                dirLines,
+                '--- Components ---',
+                componentLines
+            ].join('\n');
+        }
+
+        async function startMemryxIndexing() {
+            const output = document.getElementById('memryxIndexOutput');
+            output.textContent = 'Starting MemryX indexing...';
+
+            const batchSize = document.getElementById('memryxBatchSize').value.trim();
+            const maxTokens = document.getElementById('memryxMaxTokens').value.trim();
+            const numChips = document.getElementById('memryxNumChips').value.trim();
+            const deviceIdsRaw = document.getElementById('memryxDeviceIds').value.trim();
+            const preferAsync = document.getElementById('memryxPreferAsync').checked;
+
+            const payload = {
+                prefer_async: preferAsync
+            };
+            if (batchSize) payload.batch_size = parseInt(batchSize, 10);
+            if (maxTokens) payload.max_tokens = parseInt(maxTokens, 10);
+            if (numChips) payload.num_chips = parseInt(numChips, 10);
+            if (deviceIdsRaw) {
+                payload.device_ids = deviceIdsRaw.split(',').map(v => parseInt(v.trim(), 10)).filter(v => !Number.isNaN(v));
+            }
+
+            const response = await fetch('/api/admin/indexing/start', {
+                method: 'POST',
+                headers: { ...adminHeaders(), 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+            const data = await response.json();
+            if (!response.ok) {
+                output.textContent = data.error || 'Failed to start indexing.';
+                output.style.color = '#b84a34';
+                return;
+            }
+            output.style.color = '#e9b76c';
+            output.textContent = data.message || 'Indexing started.';
+            refreshMemryxIndexing();
+        }
+
+        async function refreshMemryxIndexing() {
+            const output = document.getElementById('memryxIndexOutput');
+            const response = await fetch('/api/admin/indexing/status', {
+                headers: adminHeaders()
+            });
+            const data = await response.json();
+            if (data.error) {
+                output.textContent = data.error;
+                output.style.color = '#b84a34';
+                return;
+            }
+
+            document.getElementById('memryxModel').textContent = data.model_id || 'unknown';
+            document.getElementById('memryxOnnx').textContent = data.onnx_path || 'unknown';
+            document.getElementById('memryxDfp').textContent = data.dfp_path || 'unknown';
+
+            const defaults = data.defaults || {};
+            if (!document.getElementById('memryxBatchSize').value && defaults.batch_size) {
+                document.getElementById('memryxBatchSize').value = defaults.batch_size;
+            }
+            if (!document.getElementById('memryxMaxTokens').value && defaults.max_tokens) {
+                document.getElementById('memryxMaxTokens').value = defaults.max_tokens;
+            }
+            if (!document.getElementById('memryxNumChips').value && defaults.num_chips) {
+                document.getElementById('memryxNumChips').value = defaults.num_chips;
+            }
+            if (!document.getElementById('memryxDeviceIds').value && defaults.device_ids) {
+                document.getElementById('memryxDeviceIds').value = defaults.device_ids.join(',');
+            }
+
+            if (data.running) {
+                output.style.color = '#e9b76c';
+                output.textContent = 'Indexing in progress...';
+                return;
+            }
+            if (data.last_error) {
+                output.style.color = '#b84a34';
+                output.textContent = data.last_error;
+                return;
+            }
+            if (data.last_result) {
+                const result = data.last_result;
+                output.style.color = '#e9b76c';
+                output.textContent = `Indexed ${result.vectors} vectors | ${result.dimensions} dim | ${result.indexed_at}`;
+                return;
+            }
+            output.style.color = '#b7ad9f';
+            output.textContent = 'No indexing run yet.';
+        }
+
+        async function runMemryxBenchmark() {
+            const output = document.getElementById('memryxBenchOutput');
+            output.textContent = 'Running mx_bench --hello...';
+
+            const response = await fetch('/api/admin/memryx/benchmark', {
+                method: 'POST',
+                headers: adminHeaders()
+            });
+            const data = await response.json();
+            if (!response.ok || data.error) {
+                output.style.color = '#b84a34';
+                output.textContent = data.error || 'Benchmark failed.';
+                return;
+            }
+            output.style.color = '#e9b76c';
+            output.textContent = [data.stdout, data.stderr].filter(Boolean).join('\n');
+        }
+
+        async function runMemryxDeviceTest() {
+            const output = document.getElementById('memryxBenchOutput');
+            output.textContent = 'Querying MX3 device IDs...';
+
+            const response = await fetch('/api/admin/memryx/devices', {
+                headers: adminHeaders()
+            });
+            const data = await response.json();
+            if (!response.ok || data.error) {
+                output.style.color = '#b84a34';
+                output.textContent = data.error || 'Device query failed.';
+                return;
+            }
+            const ids = data.device_ids || [];
+            const source = data.source || 'unknown';
+            output.style.color = '#e9b76c';
+            output.textContent = ids.length ? `Device IDs (${source}): ${ids.join(', ')}` : `No devices found (${source}).`;
+        }
+
+        async function clearConversation() {
+            await fetch('/api/admin/clear-conversation', {
+                method: 'POST',
+                headers: adminHeaders()
+            });
+            await refreshStatus();
+        }
+
+        async function setChatStyle(style) {
+            await fetch('/api/chat-style', {
+                method: 'POST',
+                headers: { ...adminHeaders(), 'Content-Type': 'application/json' },
+                body: JSON.stringify({ style: style })
+            });
+            await refreshStatus();
+        }
+
+        async function startCrawl() {
+            const domains = document.getElementById('domains').value
+                .split(',')
+                .map(d => d.trim())
+                .filter(Boolean);
+            const depth = parseInt(document.getElementById('depth').value || '2', 10);
+            await fetch('/api/wiki-crawl/start', {
+                method: 'POST',
+                headers: { ...adminHeaders(), 'Content-Type': 'application/json' },
+                body: JSON.stringify({ domains: domains, max_depth: depth, max_pages: null })
+            });
+            await refreshStatus();
+        }
+
+        async function stopCrawl() {
+            await fetch('/api/wiki-crawl/stop', {
+                method: 'POST',
+                headers: adminHeaders()
+            });
+            await refreshStatus();
+        }
+
+        async function resetKnowledge() {
+            await fetch('/api/admin/reset-knowledge', {
+                method: 'POST',
+                headers: adminHeaders()
+            });
+            await refreshStatus();
+        }
+
+        async function shutdownServer() {
+            await fetch('/api/admin/shutdown', {
+                method: 'POST',
+                headers: adminHeaders()
+            });
+        }
+
+        async function restartServer() {
+            await fetch('/api/admin/restart', {
+                method: 'POST',
+                headers: adminHeaders()
+            });
+        }
+
+        async function runCleanup() {
+            const includeRetired = document.getElementById('cleanupIncludeRetired').checked;
+            const dryRun = document.getElementById('cleanupDryRun').checked;
+            const payload = {
+                include_retired: includeRetired,
+                dry_run: dryRun,
+                confirm: !dryRun
+            };
+
+            const response = await fetch('/api/admin/cleanup-external', {
+                method: 'POST',
+                headers: { ...adminHeaders(), 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const data = await response.json();
+            const status = document.getElementById('cleanupStatus');
+            if (data.error) {
+                status.textContent = data.error;
+                status.style.color = '#b84a34';
+                return;
+            }
+
+            const summary = `Removed files: ${data.removed_files} | Missing dirs: ${data.missing_dirs} | Dry run: ${data.dry_run}`;
+            status.textContent = summary;
+            status.style.color = '#e9b76c';
+        }
+
+        async function runMaintenance(task) {
+            const confirm = document.getElementById('maintenanceConfirm').checked;
+            const payload = {
+                task: task,
+                confirm: confirm
+            };
+
+            if (task === 'normalize_thought_stream') {
+                const inputPath = document.getElementById('thoughtStreamInput').value.trim();
+                if (inputPath) payload.input_path = inputPath;
+            }
+
+            if (task === 'refine_uncategorized') {
+                const src = document.getElementById('refineSrcInput').value.trim();
+                const root = document.getElementById('refineRootInput').value.trim();
+                if (src) payload.src = src;
+                if (root) payload.root = root;
+            }
+
+            if (task === 'nlp_refine') {
+                const root = document.getElementById('refineRootInput').value.trim();
+                if (root) payload.root = root;
+            }
+
+            if (task === 'sort_knowledge') {
+                const source = document.getElementById('sortSourceInput').value.trim();
+                const outDir = document.getElementById('sortOutInput').value.trim();
+                if (source) payload.source = source;
+                if (outDir) payload.out = outDir;
+            }
+
+            const output = document.getElementById('maintenanceOutput');
+            output.textContent = 'Running task...';
+
+            const response = await fetch('/api/admin/maintenance/run', {
+                method: 'POST',
+                headers: { ...adminHeaders(), 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const data = await response.json();
+            if (data.error) {
+                output.textContent = data.error;
+                output.style.color = '#b84a34';
+                return;
+            }
+
+            const stdout = data.stdout || '';
+            const stderr = data.stderr || '';
+            output.style.color = '#e9b76c';
+            output.textContent = [stdout, stderr].filter(Boolean).join('\n');
+        }
+
+        if (getAdminToken()) {
+            setAuthStatus('Admin token loaded', true);
+            startAdminPolling();
+        } else {
+            setAuthStatus('Admin locked', false);
+        }
+    </script>
+</body>
+</html>

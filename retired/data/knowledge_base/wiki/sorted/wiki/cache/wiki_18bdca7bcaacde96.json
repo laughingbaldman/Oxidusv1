@@ -1,0 +1,477 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "8378": {
+          "pageid": 8378,
+          "ns": 0,
+          "title": "Dipole",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1,2-dichloroethene"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Ampere"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek language"
+            },
+            {
+              "ns": 0,
+              "title": "Angular frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic number"
+            },
+            {
+              "ns": 0,
+              "title": "Axial multipole moments"
+            },
+            {
+              "ns": 0,
+              "title": "Bar magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Bond dipole moment"
+            },
+            {
+              "ns": 0,
+              "title": "Boron trifluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon monoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical polarity"
+            },
+            {
+              "ns": 0,
+              "title": "Cis–trans isomerism"
+            },
+            {
+              "ns": 0,
+              "title": "Compass"
+            },
+            {
+              "ns": 0,
+              "title": "Complex conjugate"
+            },
+            {
+              "ns": 0,
+              "title": "Cyanamide"
+            },
+            {
+              "ns": 0,
+              "title": "Cylindrical multipole moments"
+            },
+            {
+              "ns": 0,
+              "title": "David J. Griffiths"
+            },
+            {
+              "ns": 0,
+              "title": "Debye"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate energy level"
+            },
+            {
+              "ns": 0,
+              "title": "Degree (angle)"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric constant"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole antenna"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole model of the Earth's magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole moments of molecules"
+            },
+            {
+              "ns": 0,
+              "title": "Double bond"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Electret"
+            },
+            {
+              "ns": 0,
+              "title": "Electric charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric dipole"
+            },
+            {
+              "ns": 0,
+              "title": "Electric dipole moment"
+            },
+            {
+              "ns": 0,
+              "title": "Electric field"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical dipole moment"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron charge"
+            },
+            {
+              "ns": 0,
+              "title": "Electron density"
+            },
+            {
+              "ns": 0,
+              "title": "Electron electric dipole moment"
+            },
+            {
+              "ns": 0,
+              "title": "Electronegativity"
+            },
+            {
+              "ns": 0,
+              "title": "Electrostatic potential"
+            },
+            {
+              "ns": 0,
+              "title": "Electrostatics"
+            },
+            {
+              "ns": 0,
+              "title": "Euclidean vector"
+            },
+            {
+              "ns": 0,
+              "title": "Force"
+            },
+            {
+              "ns": 0,
+              "title": "Fundamental particle"
+            },
+            {
+              "ns": 0,
+              "title": "Gradient"
+            },
+            {
+              "ns": 0,
+              "title": "Henry (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Hermitian adjoint"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen cyanide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Indian Ocean Dipole"
+            },
+            {
+              "ns": 0,
+              "title": "Intermolecular force"
+            },
+            {
+              "ns": 0,
+              "title": "Intrinsic and extrinsic properties"
+            },
+            {
+              "ns": 0,
+              "title": "Inversion in a point"
+            },
+            {
+              "ns": 0,
+              "title": "Ionic bonding"
+            },
+            {
+              "ns": 0,
+              "title": "Ionic compound"
+            },
+            {
+              "ns": 0,
+              "title": "Joule"
+            },
+            {
+              "ns": 0,
+              "title": "Laplace expansion (potential)"
+            },
+            {
+              "ns": 0,
+              "title": "Laplace–Runge–Lenz vector"
+            },
+            {
+              "ns": 0,
+              "title": "London dispersion force"
+            },
+            {
+              "ns": 0,
+              "title": "Magnet"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic dipole"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic dipole moment"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic dipole–dipole interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic moment"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic monopole"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular solid"
+            },
+            {
+              "ns": 0,
+              "title": "Molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Multipole expansion"
+            },
+            {
+              "ns": 0,
+              "title": "North pole"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford English Dictionary"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Ozone"
+            },
+            {
+              "ns": 0,
+              "title": "Parity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Permeability (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Permittivity of free space"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Debye"
+            },
+            {
+              "ns": 0,
+              "title": "Phosgene"
+            },
+            {
+              "ns": 0,
+              "title": "Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Polarizability"
+            },
+            {
+              "ns": 0,
+              "title": "Polarization density"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Poynting vector"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrupole"
+            },
+            {
+              "ns": 0,
+              "title": "Radian"
+            },
+            {
+              "ns": 0,
+              "title": "Rayleigh scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Retarded potential"
+            },
+            {
+              "ns": 0,
+              "title": "Right hand grip rule"
+            },
+            {
+              "ns": 0,
+              "title": "SI"
+            },
+            {
+              "ns": 0,
+              "title": "Solid harmonics"
+            },
+            {
+              "ns": 0,
+              "title": "South pole"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical harmonic"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical multipole moments"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical wave"
+            },
+            {
+              "ns": 0,
+              "title": "Spin (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Spin magnetic moment"
+            },
+            {
+              "ns": 0,
+              "title": "Stark effect"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Wolfram"
+            },
+            {
+              "ns": 0,
+              "title": "Subtropical Indian Ocean Dipole"
+            },
+            {
+              "ns": 0,
+              "title": "Tesla (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Torque"
+            },
+            {
+              "ns": 0,
+              "title": "Torus"
+            },
+            {
+              "ns": 0,
+              "title": "Unit vector"
+            },
+            {
+              "ns": 0,
+              "title": "Unitary operator"
+            },
+            {
+              "ns": 0,
+              "title": "Vector potential"
+            },
+            {
+              "ns": 0,
+              "title": "Water vapor"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfram Demonstrations Project"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324447.7172973
+}

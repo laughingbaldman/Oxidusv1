@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T12:30:00Z",
+  "targets": {
+    "science": 120,
+    "history": 60,
+    "philosophy": 60,
+    "psychology": 60,
+    "ethics": 40,
+    "humanities": 60,
+    "arts": 40,
+    "economics": 40,
+    "law": 40,
+    "medicine": 60,
+    "engineering": 60,
+    "technology": 60,
+    "geography": 40,
+    "languages": 40,
+    "social_science": 50,
+    "mathematics": 60,
+    "business": 40,
+    "environment": 50,
+    "agriculture": 30,
+    "religion": 40,
+    "education": 40,
+    "politics": 40
+  }
+}

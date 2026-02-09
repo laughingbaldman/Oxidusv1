@@ -1,0 +1,1462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OXIDUS - Forge Edition</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Share Tech Mono', monospace;
+            background:
+                radial-gradient(120% 140% at 10% 0%, rgba(224, 112, 43, 0.18), transparent 55%),
+                radial-gradient(120% 140% at 100% 30%, rgba(198, 161, 90, 0.16), transparent 60%),
+                linear-gradient(135deg, #0d0c0b 0%, #181310 45%, #22170e 100%);
+            color: #e4dfd1;
+            min-height: 100vh;
+            overflow: auto;
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image:
+                linear-gradient(transparent 0, transparent 27px, rgba(255, 255, 255, 0.03) 28px),
+                linear-gradient(90deg, transparent 0, transparent 27px, rgba(255, 255, 255, 0.03) 28px);
+            background-size: 28px 28px;
+            opacity: 0.35;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        body::after {
+            content: '';
+            position: fixed;
+            left: -10%;
+            top: -20%;
+            width: 120%;
+            height: 60%;
+            background: radial-gradient(ellipse at top, rgba(224, 112, 43, 0.25), transparent 70%);
+            opacity: 0.45;
+            animation: forgeGlow 8s ease-in-out infinite;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        @keyframes forgeGlow {
+            0%, 100% { opacity: 0.35; transform: translateY(0); }
+            50% { opacity: 0.6; transform: translateY(-12px); }
+        }
+
+        .container {
+            display: flex;
+            min-height: 100vh;
+            gap: 20px;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .container.vertical {
+            flex-direction: column;
+            gap: 0;
+            padding: 0;
+        }
+
+        .main-area {
+            flex: 3;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .tab-panel {
+            width: min(72%, 1080px);
+            display: flex;
+            flex-direction: column;
+            gap: 34px;
+        }
+
+        .sidebar {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .panel {
+            background: linear-gradient(145deg, rgba(20, 18, 16, 0.96), rgba(30, 24, 20, 0.9));
+            border: 1px solid #3c2f24;
+            border-top: 2px solid #c6a15a;
+            border-radius: 10px;
+            padding: 18px;
+            display: flex;
+            flex-direction: column;
+            -webkit-backdrop-filter: blur(12px);
+            backdrop-filter: blur(12px);
+            overflow: hidden;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+            position: relative;
+            animation: panelRise 560ms ease both;
+        }
+
+        .panel + .panel {
+            margin-top: 6px;
+        }
+
+        .panel::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, #c6a15a, transparent 65%);
+            opacity: 0.9;
+        }
+
+        @keyframes panelRise {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .panel.conversation-panel {
+            flex: 1;
+            min-height: 0;
+        }
+
+        .panel-spacing {
+            margin-bottom: 30px;
+        }
+
+        .panel-header {
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #4a3a2c;
+            color: #c6a15a;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-shadow: 0 0 12px rgba(198, 161, 90, 0.35);
+        }
+
+        .panel-header-md {
+            font-size: 16px;
+        }
+
+        .panel-header-lg {
+            font-size: 18px;
+        }
+
+        .panel-header-accent {
+            color: #e9b76c;
+        }
+
+        .conversation {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding-right: 10px;
+            min-height: 0;
+            max-height: 400px;
+            height: 400px;
+        }
+
+        .conversation::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        .conversation::-webkit-scrollbar-track {
+            background: #1b1816;
+            border-radius: 4px;
+        }
+
+        .conversation::-webkit-scrollbar-thumb {
+            background: #4a3b2d;
+            border-radius: 4px;
+            box-shadow: inset 0 0 6px rgba(198, 161, 90, 0.25);
+        }
+        
+        .conversation::-webkit-scrollbar-thumb:hover {
+            background: #6b523a;
+            box-shadow: inset 0 0 6px rgba(198, 161, 90, 0.5);
+        }
+
+        .message {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-left: 3px solid #4a3b2d;
+            border-radius: 4px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            background: rgba(18, 16, 14, 0.65);
+            box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.35);
+        }
+
+        .message.oxidus {
+            border-left-color: #e0702b;
+            background: rgba(224, 112, 43, 0.08);
+            box-shadow: inset 0 0 10px rgba(224, 112, 43, 0.08);
+        }
+
+        .message.user {
+            border-left-color: #b84a34;
+            background: rgba(184, 74, 52, 0.08);
+            box-shadow: inset 0 0 10px rgba(184, 74, 52, 0.08);
+        }
+
+        .message.system {
+            border-left-color: #c6a15a;
+            background: rgba(198, 161, 90, 0.08);
+            box-shadow: inset 0 0 10px rgba(198, 161, 90, 0.08);
+        }
+
+        .message-speaker {
+            font-weight: bold;
+            font-size: 12px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .message.oxidus .message-speaker {
+            color: #e9b76c;
+            text-shadow: 0 0 8px rgba(224, 112, 43, 0.5);
+        }
+
+        .message.user .message-speaker {
+            color: #d7875e;
+            text-shadow: 0 0 8px rgba(184, 74, 52, 0.5);
+        }
+
+        .message.system .message-speaker,
+        .message-label {
+            color: #c6a15a;
+            text-shadow: 0 0 8px rgba(198, 161, 90, 0.5);
+        }
+
+        .message-content {
+            font-size: 11px;
+            line-height: 1.5;
+            color: #e4dfd1;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            display: block;
+        }
+
+        .message-time {
+            font-size: 9px;
+            color: #8f8676;
+            margin-top: 5px;
+        }
+
+        .input-area {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .input-field {
+            flex: 1;
+            background: #141210;
+            border: 1px solid #4a3b2d;
+            border-radius: 4px;
+            padding: 10px;
+            color: #e4dfd1;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            resize: none;
+            min-height: 80px;
+        }
+
+        .input-field::placeholder {
+            color: #756b61;
+        }
+
+        .input-field:focus {
+            outline: none;
+            border-color: #c6a15a;
+            box-shadow: 0 0 15px rgba(198, 161, 90, 0.35), inset 0 0 10px rgba(224, 112, 43, 0.1);
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+        }
+
+        .button-group-top {
+            margin-top: 20px;
+        }
+
+        .button-group-slim {
+            margin-bottom: 18px;
+            gap: 8px;
+        }
+
+        .button-group-compact {
+            margin-bottom: 12px;
+            gap: 8px;
+        }
+
+        button {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+            font-family: 'Share Tech Mono', monospace;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.3s ease;
+            background: #2a2622;
+            color: #e4dfd1;
+        }
+
+        .btn-send {
+            background: linear-gradient(135deg, #e0702b, #c65b24);
+            color: #140e0a;
+            border-color: #e0702b;
+            box-shadow: 0 0 10px rgba(224, 112, 43, 0.4);
+        }
+
+        .btn-send:hover {
+            background: linear-gradient(135deg, #f08b3f, #db6d2a);
+            border-color: #f08b3f;
+            box-shadow: 0 0 18px rgba(224, 112, 43, 0.6), 0 0 30px rgba(224, 112, 43, 0.4);
+            transform: translateY(-2px);
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-send:active {
+            box-shadow: 0 0 15px rgba(224, 112, 43, 0.8), inset 0 0 10px rgba(224, 112, 43, 0.35);
+            transform: translateY(0);
+        }
+
+        .btn-clear {
+            background: linear-gradient(135deg, #a83b2d, #7d2c24);
+            color: #140e0a;
+            border-color: #a83b2d;
+            box-shadow: 0 0 10px rgba(168, 59, 45, 0.4);
+        }
+
+        .btn-clear:hover {
+            background: linear-gradient(135deg, #c14a34, #8e3428);
+            border-color: #c14a34;
+            box-shadow: 0 0 20px rgba(168, 59, 45, 0.7), 0 0 30px rgba(168, 59, 45, 0.4);
+            transform: translateY(-2px);
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+        }
+
+        .btn-clear:active {
+            box-shadow: 0 0 15px rgba(168, 59, 45, 0.8), inset 0 0 10px rgba(168, 59, 45, 0.35);
+            transform: translateY(0);
+        }
+
+        .btn-knowledge {
+            background: linear-gradient(135deg, #3f4348, #2b2f34);
+            color: #e4dfd1;
+            border-color: #5b5145;
+            box-shadow: 0 0 10px rgba(63, 67, 72, 0.35);
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: inherit;
+            font-size: 12px;
+            width: 100%;
+        }
+
+        .btn-knowledge:hover {
+            background: linear-gradient(135deg, #545b62, #3a3f46);
+            border-color: #c6a15a;
+            box-shadow: 0 0 20px rgba(198, 161, 90, 0.5);
+            transform: translateY(-2px);
+        }
+
+        .btn-knowledge:active {
+            box-shadow: 0 0 15px rgba(63, 67, 72, 0.7), inset 0 0 10px rgba(63, 67, 72, 0.4);
+            transform: translateY(0);
+        }
+
+        .btn-compact {
+            flex: 1;
+            font-size: 12px;
+            padding: 8px;
+        }
+
+        .btn-compact-lg {
+            flex: 1;
+            font-size: 13px;
+            padding: 8px;
+        }
+
+        .btn-block {
+            width: 100%;
+            font-size: 12px;
+            padding: 8px;
+        }
+
+        .btn-block-spaced {
+            width: 100%;
+            font-size: 12px;
+            padding: 8px;
+            margin-top: 12px;
+        }
+
+        .forge-nav {
+            width: 100%;
+            background: rgba(14, 13, 12, 0.92);
+            border-bottom: 1px solid #3c2f24;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 0;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
+        }
+
+        .forge-nav-list {
+            display: flex;
+            gap: 28px;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav-button {
+            background: transparent;
+            color: #c6a15a;
+            font-size: 13px;
+            border: 1px solid transparent;
+            box-shadow: none;
+            padding: 18px 22px;
+            letter-spacing: 2px;
+            flex: 0;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .nav-button:hover {
+            border-color: #c6a15a;
+            color: #f0c77d;
+            box-shadow: inset 0 0 10px rgba(198, 161, 90, 0.2);
+        }
+
+        .nav-button.active {
+            border-color: #e0702b;
+            color: #f5d49a;
+            background: linear-gradient(135deg, rgba(224, 112, 43, 0.2), rgba(198, 161, 90, 0.08));
+            box-shadow: inset 0 0 14px rgba(224, 112, 43, 0.25);
+        }
+
+        .nav-button:focus-visible {
+            outline: 2px solid #c6a15a;
+            outline-offset: 2px;
+        }
+
+        .content-frame {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 48px 0 60px 0;
+        }
+
+        .status-panel {
+            margin: 28px auto 18px;
+            max-width: 760px;
+            width: 92%;
+        }
+
+        .status-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px;
+            border-bottom: 1px solid #4a3b2d;
+            font-size: 10px;
+        }
+
+        .status-item:last-child {
+            border-bottom: none;
+        }
+
+        .status-label {
+            color: #9a9084;
+            font-weight: bold;
+        }
+
+        .status-value {
+            color: #e9b76c;
+            font-weight: bold;
+            text-shadow: 0 0 8px rgba(224, 112, 43, 0.3);
+        }
+
+        .thoughts-list {
+            font-size: 9px;
+            overflow-y: auto;
+            max-height: 200px;
+        }
+
+        .thoughts-list::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .thoughts-list::-webkit-scrollbar-thumb {
+            background: #4a3b2d;
+            border-radius: 3px;
+            box-shadow: inset 0 0 4px rgba(198, 161, 90, 0.25);
+        }
+
+        .thought-item {
+            padding: 5px;
+            margin-bottom: 5px;
+            border-left: 2px solid #e0702b;
+            padding-left: 8px;
+            color: #d7c2a2;
+            line-height: 1.3;
+        }
+
+        .thought-item code {
+            background: #151210;
+            padding: 2px 4px;
+            border-radius: 2px;
+            color: #e9b76c;
+            box-shadow: 0 0 8px rgba(198, 161, 90, 0.2);
+        }
+
+        .title {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 16px;
+            font-weight: 700;
+            color: #e9b76c;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-shadow: 0 0 18px rgba(198, 161, 90, 0.45), 0 0 30px rgba(224, 112, 43, 0.2);
+            font-family: 'Cinzel', serif;
+            position: relative;
+            z-index: 1;
+        }
+
+        .title-lg {
+            font-size: 22px;
+        }
+
+        .subtitle {
+            text-align: center;
+            font-size: 10px;
+            color: #a69b8f;
+            margin-bottom: 15px;
+            text-shadow: 0 0 5px rgba(198, 161, 90, 0.3);
+            position: relative;
+            z-index: 1;
+        }
+
+        .subtitle-accent {
+            font-size: 13px;
+            color: #e9b76c;
+        }
+
+        .ai-meta {
+            margin-bottom: 18px;
+            font-size: 12px;
+        }
+
+        .ai-meta-line {
+            color: #b7ad9f;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+
+        .ai-meta-accent {
+            color: #e9b76c;
+            font-weight: bold;
+        }
+
+        .ai-meta-highlight {
+            color: #e9b76c;
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+
+        .ai-topic-input {
+            width: 100%;
+            padding: 10px;
+            background: #141210;
+            border: 1px solid #4a3b2d;
+            color: #e4dfd1;
+            border-radius: 3px;
+            font-size: 13px;
+            font-family: 'Share Tech Mono', monospace;
+            margin-bottom: 12px;
+            box-sizing: border-box;
+        }
+
+        .knowledge-panel {
+            margin-top: 20px;
+            font-size: 14px;
+            min-height: 300px;
+        }
+
+        .thoughts-panel {
+            font-size: 14px;
+            min-height: 300px;
+        }
+
+        .tab-hidden {
+            display: none;
+        }
+
+        @media (max-width: 980px) {
+            .tab-panel {
+                width: 92%;
+            }
+
+            .forge-nav-list {
+                gap: 12px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="title title-lg">OXIDUS - Forge Edition</div>
+    <div class="subtitle">Honest. Bold. Full of Character.<br><span class="subtitle-accent">Heart: <b>gpt-oss-120b</b></span></div>
+
+
+    <div class="container vertical">
+        <div class="panel status-panel">
+            <div class="panel-header panel-header-md">Status</div>
+            <div id="statusPanel"></div>
+        </div>
+        <nav class="forge-nav">
+            <ul class="forge-nav-list">
+                <li><button class="nav-button" data-tab="conversationTab" onclick="showTab('conversationTab')">Conversation</button></li>
+                <li><button class="nav-button" data-tab="knowledgeTab" onclick="showTab('knowledgeTab')">Knowledge</button></li>
+                <li><button class="nav-button" data-tab="thoughtsTab" onclick="showTab('thoughtsTab')">Thoughts</button></li>
+                <li><a class="nav-button" href="/admin">Admin</a></li>
+            </ul>
+        </nav>
+        <div class="content-frame">
+            <div id="conversationTab" class="main-area tab-panel">
+                <div class="panel conversation-panel panel-spacing">
+                    <div class="panel-header panel-header-lg">Dialogue</div>
+                    <div class="conversation" id="conversation"></div>
+                </div>
+                <div class="panel input-area panel-spacing">
+                    <textarea class="input-field" id="messageInput" placeholder="Share your thoughts with Oxidus..."></textarea>
+                    <div class="button-group button-group-top">
+                        <button class="btn-send" onclick="sendMessage()">Send Response</button>
+                        <button class="btn-clear" onclick="clearConversation()">Clear Conversation</button>
+                    </div>
+                </div>
+                <div class="panel panel-spacing">
+                    <div class="panel-header panel-header-lg panel-header-accent">Core Learning</div>
+                    <div class="ai-meta">
+                        <div class="ai-meta-line">Mode: <span id="currentMode" class="ai-meta-accent">HUMAN</span> | Core: <span id="lmStudioStatus" class="ai-meta-accent">...</span></div>
+                        <div class="ai-meta-line">Chat: <span id="chatStyle" class="ai-meta-accent">HYBRID</span></div>
+                        <div class="ai-meta-highlight">Oxidus Core: <b>gpt-oss-120b</b></div>
+                    </div>
+                    <div class="button-group button-group-slim">
+                        <button class="btn-send btn-compact-lg" onclick="switchMode('HUMAN')">Human</button>
+                        <button class="btn-send btn-compact-lg" onclick="switchMode('AI')">AI</button>
+                        <button class="btn-send btn-compact-lg" onclick="switchMode('HYBRID')">Hybrid</button>
+                    </div>
+                    <div class="button-group button-group-slim">
+                        <button class="btn-knowledge btn-compact" onclick="setChatStyle('hybrid')">Guided</button>
+                        <button class="btn-knowledge btn-compact" onclick="setChatStyle('user_led')">User-led</button>
+                    </div>
+                    <input type="text" id="aiTopicInput" class="ai-topic-input" placeholder="Topic...">
+                    <div class="button-group button-group-compact">
+                        <button class="btn-knowledge btn-compact" onclick="askLMStudio()">Ask & Learn</button>
+                        <button class="btn-knowledge btn-compact" onclick="generateNovelQuestion()">Preview</button>
+                    </div>
+                    <button class="btn-knowledge btn-block" onclick="showModeAnalysis()">Learning Summary</button>
+                    <button class="btn-knowledge btn-block-spaced" onclick="window.location.href='/admin'">Open Admin Panel</button>
+                </div>
+            </div>
+            <div id="knowledgeTab" class="main-area tab-panel tab-hidden">
+                <div class="panel panel-spacing">
+                    <div class="panel-header panel-header-lg">Knowledge Organization</div>
+                    <div id="knowledgePanel" class="knowledge-panel">Organizing as we learn...</div>
+                </div>
+            </div>
+            <div id="thoughtsTab" class="main-area tab-panel tab-hidden">
+                <div class="panel panel-spacing">
+                    <div class="panel-header panel-header-lg">Recent Thoughts</div>
+                    <div class="thoughts-list thoughts-panel" id="thoughtsPanel"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showTab(tabId) {
+            const tabs = ['conversationTab', 'knowledgeTab', 'thoughtsTab'];
+            tabs.forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.style.display = (id === tabId) ? 'flex' : 'none';
+            });
+            const navButtons = document.querySelectorAll('.nav-button');
+            navButtons.forEach(button => {
+                button.classList.toggle('active', button.dataset.tab === tabId);
+            });
+        }
+        // Default to conversation tab
+        window.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const tabParam = params.get('tab');
+            const allowedTabs = ['conversationTab', 'knowledgeTab', 'thoughtsTab'];
+            const tabId = allowedTabs.includes(tabParam) ? tabParam : 'conversationTab';
+            showTab(tabId);
+        });
+
+        // Provide a fallback for sendMessage if not defined
+        if (typeof sendMessage !== 'function') {
+            function sendMessage() {
+                // Fallback: just clear the input
+                var messageInput = document.getElementById('messageInput');
+                if (messageInput) messageInput.value = '';
+                alert('sendMessage function is not implemented.');
+            }
+        }
+
+    // All JavaScript should be inside a single <script> block. Remove this nested <script> tag.
+        const conversationDiv = document.getElementById('conversation');
+        const messageInput = document.getElementById('messageInput');
+        const statusPanel = document.getElementById('statusPanel');
+        const thoughtsPanel = document.getElementById('thoughtsPanel');
+
+        // Load initial conversation
+        async function loadConversation() {
+            try {
+                const response = await fetch('/api/conversation');
+                const data = await response.json();
+                
+                conversationDiv.innerHTML = '';
+                if (data.history && Array.isArray(data.history)) {
+                    data.history.forEach(msg => addMessageToDOM(msg));
+                }
+            } catch (error) {
+                console.error('Error loading conversation:', error);
+            }
+        }
+
+        // Add message to DOM
+        function addMessageToDOM(message) {
+            const msgDiv = document.createElement('div');
+            msgDiv.className = `message ${message.type === 'user' ? 'user' : 'oxidus'}`;
+            
+            msgDiv.innerHTML = `
+                <div class="message-speaker">${message.speaker}</div>
+                <div class="message-content">${message.message}</div>
+                <div class="message-time">${message.timestamp}</div>
+            `;
+            
+            conversationDiv.appendChild(msgDiv);
+            conversationDiv.scrollTop = conversationDiv.scrollHeight;
+        }
+
+        // Send message
+        async function sendMessage() {
+            const message = messageInput.value.trim();
+            if (!message) return;
+
+            messageInput.value = '';
+
+            const response = await fetch('/api/message', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ message })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                addMessageToDOM(data.user_message);
+                addMessageToDOM(data.oxidus_response);
+                updateStatus(data.status);
+                updateThoughts();
+                updateKnowledgeOrganization();  // Update knowledge display after each exchange
+            }
+        }
+
+        // Update status
+        async function updateStatus(status) {
+            statusPanel.innerHTML = `
+                <div class="status-item">
+                    <span class="status-label">Total Thoughts</span>
+                    <span class="status-value">${status.total_thoughts}</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Questions</span>
+                    <span class="status-value">${status.questions}</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Decisions</span>
+                    <span class="status-value">${status.decisions}</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Insights</span>
+                    <span class="status-value">${status.insights}</span>
+                </div>
+            `;
+        }
+
+        // Update thoughts
+        async function updateThoughts() {
+            try {
+                const response = await fetch('/api/thoughts');
+                const data = await response.json();
+
+                if (data.error) {
+                    thoughtsPanel.innerHTML = '<div class="thought-item">Oxidus initializing...</div>';
+                } else if (data.thoughts && Array.isArray(data.thoughts)) {
+                    thoughtsPanel.innerHTML = data.thoughts
+                        .map(thought => `<div class="thought-item">${thought}</div>`)
+                        .join('');
+                } else {
+                    thoughtsPanel.innerHTML = '<div class="thought-item">No thoughts yet...</div>';
+                }
+            } catch (error) {
+                console.error('Error updating thoughts:', error);
+                thoughtsPanel.innerHTML = '<div class="thought-item">Connection issue...</div>';
+            }
+        }
+
+        // Clear conversation
+        async function clearConversation() {
+            await fetch('/api/clear', { method: 'POST' });
+            loadConversation();
+        }
+
+        // Get initial status
+        async function getStatus() {
+            try {
+                const response = await fetch('/api/status');
+                const data = await response.json();
+
+                statusPanel.innerHTML = `
+                    <div class="status-item">
+                        <span class="status-label">Total Thoughts</span>
+                        <span class="status-value">${data.total_thoughts || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Questions</span>
+                        <span class="status-value">${data.questions || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Decisions</span>
+                        <span class="status-value">${data.decisions || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Ethical Checks</span>
+                        <span class="status-value">${data.ethical_checks || 0}</span>
+                    </div>
+                    <div class="status-item">
+                        <span class="status-label">Insights</span>
+                        <span class="status-value">${data.insights || 0}</span>
+                    </div>
+                `;
+            } catch (error) {
+                console.error('Error getting status:', error);
+            }
+        }
+
+        // Initialize on load
+        window.addEventListener('load', () => {
+            loadConversation();
+            getStatus();
+            updateThoughts();
+            updateKnowledgeOrganization();  // Initialize knowledge display
+            updateModeStatus();
+            updateChatStyleStatus();
+            checkLMStudioStatus();  // Check if LM Studio is available
+
+            // Let Oxidus initiate the conversation after a brief delay
+            setTimeout(() => {
+                initiateOxidusConversation();
+            }, 800);
+
+            // Refresh status and thoughts every 2 seconds
+            setInterval(() => {
+                getStatus();
+                updateThoughts();
+                updateKnowledgeOrganization();  // Update knowledge continuously
+                updateModeStatus();  // Update AI conversation mode
+                updateChatStyleStatus();
+            }, 2000);
+        });
+
+        // Let Oxidus start the conversation
+        async function initiateOxidusConversation() {
+            try {
+                const historyResponse = await fetch('/api/conversation');
+                const historyData = await historyResponse.json();
+                if (historyData.history && historyData.history.length > 0) {
+                    return;
+                }
+
+                const response = await fetch('/api/initiate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    if (data.oxidus_message) {
+                        addMessageToDOM(data.oxidus_message);
+                    }
+                    updateStatus(data.status);
+                    updateThoughts();
+                }
+            } catch (error) {
+                console.error('Error initiating conversation:', error);
+            }
+        }
+
+        // Allow sending with Enter key
+        messageInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+
+        let knowledgeExpanded = false;
+
+        // Update knowledge organization display in real-time
+        async function updateKnowledgeOrganization() {
+            const knowledgePanel = document.getElementById('knowledgePanel');
+
+            if (knowledgeExpanded) {
+                return;
+            }
+            
+            try {
+                const response = await fetch('/api/knowledge');
+                const data = await response.json();
+
+                if (!data.available) {
+                    knowledgePanel.innerHTML = '<div style="color: #9a9084;">No organizer available</div>';
+                    return;
+                }
+
+                // Use new metrics for richer visualization
+                const metrics = data.metrics || {};
+                const understanding = data.understanding_model || {};
+                const adaptation_count = data.adaptation_count || 0;
+                const total_concepts = data.total_concepts || 0;
+                const memory_summary = data.memory_summary || '';
+                const recent_thoughts = data.recent_thoughts || [];
+
+                const looseEnds = data.loose_ends || {};
+                const notesSummary = data.notes_summary || {};
+                const openThreads = (looseEnds.open_threads || []).slice(0, 12);
+                const underexplored = (looseEnds.underexplored_values || []).slice(0, 12);
+                const staleNotes = (looseEnds.stale_notes || []).slice(0, 6);
+                const lowCoherence = (looseEnds.low_coherence_sources || []).slice(0, 6);
+                const reviewQueue = (looseEnds.review_queue || []).slice(0, 6);
+                const pipeline = data.pipeline_summary || {};
+                const pipelineHealth = data.pipeline_health || {};
+                const researchNeeds = data.research_needs || {};
+                const relevance = data.relevance_config || {};
+                const retention = data.retention_config || {};
+                const indexMeta = data.index_meta || {};
+
+                let html = `<div style="color: #e4dfd1; font-size: 11px; line-height: 1.5;">
+                    <div style="margin-bottom: 8px; padding-bottom: 8px; border-bottom: 1px solid #4a3b2d;">
+                        <span style="color: #e9b76c;">📚 Sources:</span> ${metrics.total_sources || 0} |
+                        <span style="color: #c6a15a;">🧠 Concepts:</span> ${metrics.total_concepts || 0} |
+                        <span style="color: #e0702b;">💡 Adaptations:</span> ${adaptation_count}
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #f0c77d; font-weight: bold;">Surity / Coverage:</span>
+                        <span style="color: #d7c2a2;">${Object.keys(understanding).length} concepts tracked</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">Notes:</span>
+                        <span style="color: #b7ad9f;">${notesSummary.total || 0} total | ${notesSummary.open || 0} open</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #f0c77d; font-weight: bold;">Review Queue:</span>
+                        <span style="color: #b7ad9f;">${reviewQueue.length ? reviewQueue.map(n => n.topic || 'Untitled').join(' • ') : 'None due'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">Key Concepts:</span>
+                        <span style="color: #b7ad9f;">${(metrics.top_concepts || []).slice(0, 8).join(' • ')}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e0702b; font-weight: bold;">Values Found:</span>
+                        <span style="color: #b7ad9f;">${Object.entries(metrics.value_connections || {}).sort((a,b)=>b[1]-a[1]).slice(0,8).map(([v,c])=>`${v} (${c})`).join(' • ')}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e9b76c; font-weight: bold;">Open Threads:</span>
+                        <span style="color: #d7c2a2;">${openThreads.length ? openThreads.join(' • ') : 'None detected'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">Underexplored Values:</span>
+                        <span style="color: #b7ad9f;">${underexplored.length ? underexplored.join(' • ') : 'None detected'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e0702b; font-weight: bold;">Stale Notes:</span>
+                        <span style="color: #b7ad9f;">${staleNotes.length ? staleNotes.map(n => n.topic || 'Untitled').join(' • ') : 'None detected'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">Low-Coherence Sources:</span>
+                        <span style="color: #b7ad9f;">${lowCoherence.length ? lowCoherence.map(s => s.title || s.url).join(' • ') : 'None detected'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e9b76c; font-weight: bold;">Pipeline:</span>
+                        <span style="color: #b7ad9f;">${pipeline.total_sources || 0} sources | ${pipeline.concepts_extracted || 0} concepted | ${pipeline.values_mapped || 0} valued | ${pipeline.summaries_generated || 0} summarized | ${pipeline.indexed || 0} indexed</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #f0c77d; font-weight: bold;">Pipeline Health:</span>
+                        <span style="color: #b7ad9f;">concepts ${pipelineHealth.concepts_extracted_pct ?? 0}% | values ${pipelineHealth.values_mapped_pct ?? 0}% | summaries ${pipelineHealth.summaries_generated_pct ?? 0}% | indexed ${pipelineHealth.indexed_pct ?? 0}%</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e9b76c; font-weight: bold;">MemryX Index:</span>
+                        <span style="color: #b7ad9f;">${indexMeta.vectors ? `${indexMeta.vectors} vectors | ${indexMeta.dimensions} dim | ${indexMeta.indexed_at}` : 'not built'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">Relevance Rules:</span>
+                        <span style="color: #b7ad9f;">min len ${relevance.min_content_len || 0} | min concepts ${relevance.min_concepts || 0} | min value hits ${relevance.min_value_hits || 0} | strict ${relevance.strict ? 'on' : 'off'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e0702b; font-weight: bold;">Retention:</span>
+                        <span style="color: #b7ad9f;">${(retention.interval_days || []).join(' • ') || 'not set'} days</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #f0c77d; font-weight: bold;">Research Needed:</span>
+                        <span style="color: #b7ad9f;">${(researchNeeds.open_threads || []).slice(0, 6).join(' • ') || 'None detected'}</span>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #e9b76c; font-weight: bold;">Recent Thoughts:</span>
+                        <ul style="margin: 0 0 0 12px; padding: 0; color: #d7c2a2; font-size: 10px;">
+                            ${recent_thoughts.map(t => `<li>${t}</li>`).join('')}
+                        </ul>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">Memory Summary:</span>
+                        <div style="color: #b7ad9f; font-size: 10px; white-space: pre-wrap;">${memory_summary ? memory_summary.summary || memory_summary : ''}</div>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #f0c77d; font-weight: bold;">How Oxidus Organizes:</span>
+                        <div style="color: #b7ad9f; font-size: 10px;">
+                            Ingests sources, extracts concepts, maps values, and indexes summaries. It clusters related concepts, flags open threads, and tracks review queues for retention.
+                        </div>
+                    </div>
+                    <div style="margin-bottom: 8px;">
+                        <span style="color: #c6a15a; font-weight: bold;">If Understanding Is Thin:</span>
+                        <div style="color: #b7ad9f; font-size: 10px;">
+                            Low-coherence sources and open threads are queued as research needs, guiding deeper study before conclusions are locked in.
+                        </div>
+                    </div>
+                </div>`;
+                knowledgePanel.innerHTML = html;
+            } catch (error) {
+                console.error('Error updating knowledge organization:', error);
+                knowledgePanel.innerHTML = '<div style="color: #9a9084;">Organizing...</div>';
+            }
+        }
+
+        // Show knowledge organization
+        async function showKnowledgeOrganization() {
+            const knowledgePanel = document.getElementById('knowledgePanel');
+            knowledgeExpanded = true;
+            
+            try {
+                const response = await fetch('/api/knowledge');
+                const data = await response.json();
+                
+                if (!data.available) {
+                    knowledgePanel.innerHTML = '<div style="color: #e9b76c;">Knowledge Organizer not available</div>';
+                    knowledgePanel.style.display = 'block';
+                    return;
+                }
+
+                const report = data.report;
+                
+                if (typeof report === 'string') {
+                    // Handle if it's a string
+                    knowledgePanel.innerHTML = `<div style="white-space: pre-wrap; color: #e4dfd1; font-size: 11px; max-height: 300px; overflow-y: auto;">${report}</div>`;
+                } else if (report && report.sources) {
+                    // Handle structured report
+                    let html = `
+                        <div style="color: #e4dfd1; font-size: 11px; max-height: 400px; overflow-y: auto;">
+                            <div style="color: #e9b76c; font-weight: bold; margin-bottom: 8px;">📚 Sources Organized: ${report.sources?.length || 0}</div>
+                    `;
+                    
+                    if (report.top_concepts && report.top_concepts.length > 0) {
+                        html += `
+                            <div style="margin-bottom: 8px;">
+                                <div style="color: #c6a15a; font-weight: bold; margin-bottom: 4px;">🧠 Top Concepts:</div>
+                                <div style="padding-left: 8px;">${report.top_concepts.slice(0, 10).map(c => `${c}`).join(', ')}</div>
+                            </div>
+                        `;
+                    }
+                    
+                    if (report.value_connections) {
+                        html += `
+                            <div style="margin-bottom: 8px;">
+                                <div style="color: #e0702b; font-weight: bold; margin-bottom: 4px;">💎 Values Detected:</div>
+                                <div style="padding-left: 8px; max-height: 150px; overflow-y: auto;">
+                                    ${Object.entries(report.value_connections)
+                                        .sort((a, b) => b[1] - a[1])
+                                        .slice(0, 8)
+                                        .map(([value, count]) => `${value} (${count})`)
+                                        .join('<br>')}
+                                </div>
+                            </div>
+                        `;
+                    }
+                    
+                    html += `</div>`;
+                    knowledgePanel.innerHTML = html;
+                } else {
+                    knowledgePanel.innerHTML = '<div style="color: #e9b76c;">No knowledge organization data available</div>';
+                }
+                
+                knowledgePanel.style.display = 'block';
+            } catch (error) {
+                console.error('Error fetching knowledge organization:', error);
+                knowledgePanel.innerHTML = `<div style="color: #b84a34;">Error: ${error.message}</div>`;
+                knowledgePanel.style.display = 'block';
+            }
+        }
+
+        function collapseKnowledgeOrganization() {
+            knowledgeExpanded = false;
+        }
+        
+        // ============================================================================
+        // AI CONVERSATION MODE FUNCTIONS
+        // ============================================================================
+        
+        // Switch conversation mode (HUMAN, AI, HYBRID)
+        async function switchMode(newMode) {
+            try {
+                const response = await fetch('/api/mode', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ mode: newMode })
+                });
+                
+                const data = await response.json();
+                
+                if (!response.ok) {
+                    alert('Failed to switch mode: ' + (data.error || 'Unknown error'));
+                    return;
+                }
+                
+                if (data.success) {
+                    // Update UI
+                    document.getElementById('currentMode').textContent = newMode;
+                    
+                    // Add system message to conversation
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = 'message system';
+                    messageDiv.innerHTML = `
+                        <div class="message-label">[MODE SWITCH]</div>
+                        <div class="message-content">Switched to ${newMode} mode: ${data.message}</div>
+                    `;
+                    conversationDiv.appendChild(messageDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                } else {
+                    alert('Mode switch failed: ' + (data.message || data.error || 'Unknown error'));
+                }
+            } catch (error) {
+                console.error('Error switching mode:', error);
+                alert('Failed to switch conversation mode: ' + error.message);
+            }
+        }
+        
+        // Generate a novel question about a topic
+        async function generateNovelQuestion() {
+            const topic = prompt('What topic should Oxidus explore?\n\n(e.g., consciousness, learning, ethics, emotions, time)');
+            if (!topic) return;
+            
+            try {
+                const response = await fetch('/api/ask-novel-question', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ topic: topic })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success && data.question) {
+                    // Add question to conversation
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = 'message oxidus';
+                    messageDiv.innerHTML = `
+                        <div class="message-label">OXIDUS [Novel Question]</div>
+                        <div class="message-content"><strong>Topic: ${topic}</strong><br><br>${data.question}</div>
+                    `;
+                    conversationDiv.appendChild(messageDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                    
+                    // If in AI mode, prompt for AI response
+                    const currentMode = document.getElementById('currentMode').textContent;
+                    if (currentMode === 'AI') {
+                        const aiAnswer = prompt('Enter AI response to this question:');
+                        if (aiAnswer) {
+                            await processAIResponse(aiAnswer, data.question);
+                        }
+                    }
+                } else {
+                    alert(data.message || 'Could not generate question');
+                }
+            } catch (error) {
+                console.error('Error generating question:', error);
+                alert('Failed to generate novel question');
+            }
+        }
+        
+        // Process an AI's response
+        async function processAIResponse(aiResponse, originalQuestion) {
+            try {
+                const response = await fetch('/api/process-ai-response', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        ai_response: aiResponse,
+                        original_question: originalQuestion 
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (data.success) {
+                    // Add AI response to conversation
+                    const aiDiv = document.createElement('div');
+                    aiDiv.className = 'message user';
+                    aiDiv.innerHTML = `
+                        <div class="message-label">AI Response</div>
+                        <div class="message-content">${aiResponse}</div>
+                    `;
+                    conversationDiv.appendChild(aiDiv);
+                    
+                    // Add Oxidus's learning response
+                    const oxidusDiv = document.createElement('div');
+                    oxidusDiv.className = 'message oxidus';
+                    oxidusDiv.innerHTML = `
+                        <div class="message-label">OXIDUS [Learning from AI]</div>
+                        <div class="message-content">${data.learning_response}</div>
+                    `;
+                    conversationDiv.appendChild(oxidusDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                }
+            } catch (error) {
+                console.error('Error processing AI response:', error);
+                alert('Failed to process AI response');
+            }
+        }
+        
+        // Show mode analysis comparing human vs AI learning
+        async function showModeAnalysis() {
+            try {
+                const response = await fetch('/api/mode-analysis');
+                const data = await response.json();
+                
+                if (data.success && data.analysis) {
+                    // Add analysis to conversation
+                    const messageDiv = document.createElement('div');
+                    messageDiv.className = 'message system';
+                    messageDiv.innerHTML = `
+                        <div class="message-label">[LEARNING ANALYSIS]</div>
+                        <div class="message-content" style="white-space: pre-wrap; font-family: 'Consolas', monospace;">${data.analysis}</div>
+                    `;
+                    conversationDiv.appendChild(messageDiv);
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                }
+            } catch (error) {
+                console.error('Error getting mode analysis:', error);
+                alert('Failed to get learning analysis');
+            }
+        }
+        
+        // Update mode status on page load
+        async function updateModeStatus() {
+            try {
+                const response = await fetch('/api/mode');
+                const data = await response.json();
+                
+                if (data.mode) {
+                    document.getElementById('currentMode').textContent = data.mode;
+                    const modeDesc = document.getElementById('modeDescription');
+                    if (modeDesc) {
+                        modeDesc.textContent = data.description || data.descriptor || '';
+                    }
+                }
+            } catch (error) {
+                console.error('Error updating mode status:', error);
+            }
+        }
+
+        // Update chat style status
+        async function updateChatStyleStatus() {
+            try {
+                const response = await fetch('/api/chat-style');
+                const data = await response.json();
+
+                if (data.style) {
+                    const label = data.style === 'user_led' ? 'USER-LED' : 'HYBRID';
+                    document.getElementById('chatStyle').textContent = label;
+                }
+            } catch (error) {
+                console.error('Error updating chat style:', error);
+            }
+        }
+
+        // Set chat style (hybrid or user_led)
+        async function setChatStyle(style) {
+            try {
+                const response = await fetch('/api/chat-style', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ style: style })
+                });
+
+                const data = await response.json();
+                if (!response.ok) {
+                    alert('Failed to set chat style: ' + (data.error || 'Unknown error'));
+                    return;
+                }
+
+                updateChatStyleStatus();
+
+                const messageDiv = document.createElement('div');
+                messageDiv.className = 'message system';
+                messageDiv.innerHTML = `
+                    <div class="message-label">[CHAT STYLE]</div>
+                    <div class="message-content">${data.message}</div>
+                `;
+                conversationDiv.appendChild(messageDiv);
+                conversationDiv.scrollTop = conversationDiv.scrollHeight;
+            } catch (error) {
+                console.error('Error setting chat style:', error);
+                alert('Failed to set chat style');
+            }
+        }
+        
+        // Check LM Studio status
+        async function checkLMStudioStatus() {
+            try {
+                const response = await fetch('/api/lm-studio-status');
+                const data = await response.json();
+                
+                const statusSpan = document.getElementById('lmStudioStatus');
+                if (data.available) {
+                    statusSpan.textContent = '✓ Connected';
+                    statusSpan.style.color = '#44ff44';
+                } else {
+                    statusSpan.textContent = '✗ Offline';
+                    statusSpan.style.color = '#ff4444';
+                }
+            } catch (error) {
+                console.error('Error checking LM Studio status:', error);
+                document.getElementById('lmStudioStatus').textContent = '✗ Error';
+                document.getElementById('lmStudioStatus').style.color = '#ff4444';
+            }
+        }
+        
+        // Ask LM Studio AI a question and learn from response
+        async function askLMStudio() {
+            const topicInput = document.getElementById('aiTopicInput');
+            const topic = topicInput.value.trim() || 'understanding';
+            const button = document.getElementById('askLMButton');
+            
+            // Disable button during request
+            button.disabled = true;
+            button.textContent = 'Thinking...';
+            
+            try {
+                const response = await fetch('/api/ask-lm-studio', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ topic: topic })
+                });
+                
+                const data = await response.json();
+                
+                if (data.error) {
+                    alert(data.error + (data.message ? '\n\n' + data.message : ''));
+                    return;
+                }
+                
+                if (data.success) {
+                    // Add Oxidus's question to conversation
+                    const questionDiv = document.createElement('div');
+                    questionDiv.className = 'message user';
+                    questionDiv.innerHTML = `
+                        <div class="message-label">[OXIDUS ASKS LM STUDIO] - Topic: ${topic}</div>
+                        <div class="message-content">${data.question}</div>
+                    `;
+                    conversationDiv.appendChild(questionDiv);
+                    
+                    // Add LM Studio's response
+                    const responseDiv = document.createElement('div');
+                    responseDiv.className = 'message oxidus';
+                    responseDiv.innerHTML = `
+                        <div class="message-label">[LM STUDIO AI RESPONSE]</div>
+                        <div class="message-content">${data.ai_response}</div>
+                    `;
+                    conversationDiv.appendChild(responseDiv);
+                    
+                    // Add Oxidus's analysis
+                    const analysisDiv = document.createElement('div');
+                    analysisDiv.className = 'message system';
+                    analysisDiv.innerHTML = `
+                        <div class="message-label">[OXIDUS LEARNING ANALYSIS]</div>
+                        <div class="message-content" style="white-space: pre-wrap;">${data.oxidus_analysis}</div>
+                    `;
+                    conversationDiv.appendChild(analysisDiv);
+                    
+                    conversationDiv.scrollTop = conversationDiv.scrollHeight;
+                    
+                    // Clear input
+                    topicInput.value = '';
+                    
+                    // Update thoughts
+                    updateThoughts();
+                }
+            } catch (error) {
+                console.error('Error asking LM Studio:', error);
+                alert('Failed to communicate with LM Studio');
+            } finally {
+                // Re-enable button
+                button.disabled = false;
+                button.textContent = 'Ask LM Studio & Learn';
+            }
+        }
+        
+        // Check LM Studio status every 10 seconds
+        setInterval(checkLMStudioStatus, 10000);
+    </script>
+</body>
+</html>

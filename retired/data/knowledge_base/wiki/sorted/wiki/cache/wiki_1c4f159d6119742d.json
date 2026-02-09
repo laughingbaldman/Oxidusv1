@@ -1,0 +1,541 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "41863": {
+          "pageid": 41863,
+          "ns": 0,
+          "title": "Waveguide",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Absolute value"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustic waveguide"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustics"
+            },
+            {
+              "ns": 0,
+              "title": "Advanced Photon Source"
+            },
+            {
+              "ns": 0,
+              "title": "Allies of World War II"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Argonne National Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Arnold Sommerfeld"
+            },
+            {
+              "ns": 0,
+              "title": "Bell Labs"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boundary conditions"
+            },
+            {
+              "ns": 0,
+              "title": "Bragg reflection"
+            },
+            {
+              "ns": 0,
+              "title": "Cartesian coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Cave"
+            },
+            {
+              "ns": 0,
+              "title": "Characteristic impedance"
+            },
+            {
+              "ns": 0,
+              "title": "Circuit theory"
+            },
+            {
+              "ns": 0,
+              "title": "Circular polarization"
+            },
+            {
+              "ns": 0,
+              "title": "Coaxial"
+            },
+            {
+              "ns": 0,
+              "title": "Cutoff frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Cutoff wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric constant"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric waveguide"
+            },
+            {
+              "ns": 0,
+              "title": "Digital delay line"
+            },
+            {
+              "ns": 0,
+              "title": "Digital waveguide synthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Earth–ionosphere waveguide"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Mills Purcell"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical conduction"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical impedance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistance and conductance"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic wave"
+            },
+            {
+              "ns": 0,
+              "title": "Extremely high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Flap attenuator"
+            },
+            {
+              "ns": 0,
+              "title": "George C. Southworth"
+            },
+            {
+              "ns": 0,
+              "title": "Guided wave testing"
+            },
+            {
+              "ns": 0,
+              "title": "Hans Bethe"
+            },
+            {
+              "ns": 0,
+              "title": "Harry Boot"
+            },
+            {
+              "ns": 0,
+              "title": "Helmholtz equation"
+            },
+            {
+              "ns": 0,
+              "title": "Horn (acoustic)"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Impedance matching"
+            },
+            {
+              "ns": 0,
+              "title": "Index of refraction"
+            },
+            {
+              "ns": 0,
+              "title": "Inverse square law"
+            },
+            {
+              "ns": 0,
+              "title": "J. J. Thomson"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Jagadish Chandra Bose"
+            },
+            {
+              "ns": 0,
+              "title": "James Baker-Jarvis"
+            },
+            {
+              "ns": 0,
+              "title": "Jeffrey Goldstone"
+            },
+            {
+              "ns": 0,
+              "title": "John R. Carson"
+            },
+            {
+              "ns": 0,
+              "title": "John Randall (physicist)"
+            },
+            {
+              "ns": 0,
+              "title": "John Strutt, 3rd Baron Rayleigh"
+            },
+            {
+              "ns": 0,
+              "title": "Julian Schwinger"
+            },
+            {
+              "ns": 0,
+              "title": "Ku band"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Light pipe"
+            },
+            {
+              "ns": 0,
+              "title": "Linear polarization"
+            },
+            {
+              "ns": 0,
+              "title": "Loudspeaker"
+            },
+            {
+              "ns": 0,
+              "title": "Lumped element model"
+            },
+            {
+              "ns": 0,
+              "title": "MIT"
+            },
+            {
+              "ns": 0,
+              "title": "Magdalena Salazar Palma"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetron"
+            },
+            {
+              "ns": 0,
+              "title": "Medical ultrasonography"
+            },
+            {
+              "ns": 0,
+              "title": "Microstrip"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave oven"
+            },
+            {
+              "ns": 0,
+              "title": "Microwaves"
+            },
+            {
+              "ns": 0,
+              "title": "Mode (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Nathan Marcuvitz"
+            },
+            {
+              "ns": 0,
+              "title": "Nondestructive testing"
+            },
+            {
+              "ns": 0,
+              "title": "Ohm"
+            },
+            {
+              "ns": 0,
+              "title": "Oliver Lodge"
+            },
+            {
+              "ns": 0,
+              "title": "Optical fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Optical waveguide"
+            },
+            {
+              "ns": 0,
+              "title": "Optics"
+            },
+            {
+              "ns": 0,
+              "title": "Orthomode transducer"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Permittivity"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Debye"
+            },
+            {
+              "ns": 0,
+              "title": "Phasor"
+            },
+            {
+              "ns": 0,
+              "title": "Photonic-crystal fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Pipe organ"
+            },
+            {
+              "ns": 0,
+              "title": "Polarization (waves)"
+            },
+            {
+              "ns": 0,
+              "title": "Power (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Prism (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Propagation mode"
+            },
+            {
+              "ns": 0,
+              "title": "Radar"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation Laboratory (MIT)"
+            },
+            {
+              "ns": 0,
+              "title": "Radio-frequency waveguide"
+            },
+            {
+              "ns": 0,
+              "title": "Radio wave"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection coefficient"
+            },
+            {
+              "ns": 0,
+              "title": "Robert H. Dicke"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Jaffe (physicist)"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SOFAR channel"
+            },
+            {
+              "ns": 0,
+              "title": "Sallie Pero Mead"
+            },
+            {
+              "ns": 0,
+              "title": "Siemens & Halske"
+            },
+            {
+              "ns": 0,
+              "title": "Sound"
+            },
+            {
+              "ns": 0,
+              "title": "Standing wave ratio"
+            },
+            {
+              "ns": 0,
+              "title": "Stethoscope"
+            },
+            {
+              "ns": 0,
+              "title": "Stimulated Brillouin scattering"
+            },
+            {
+              "ns": 0,
+              "title": "String instruments"
+            },
+            {
+              "ns": 0,
+              "title": "Stripline"
+            },
+            {
+              "ns": 0,
+              "title": "Telecommunications Research Establishment"
+            },
+            {
+              "ns": 0,
+              "title": "Tin can telephone"
+            },
+            {
+              "ns": 0,
+              "title": "Total internal reflection"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission line"
+            },
+            {
+              "ns": 0,
+              "title": "Transverse mode"
+            },
+            {
+              "ns": 0,
+              "title": "Ultrasonic machining"
+            },
+            {
+              "ns": 0,
+              "title": "Vibrating strings"
+            },
+            {
+              "ns": 0,
+              "title": "Wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wave propagation"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide (acoustics)"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide (radio frequency)"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide cutoff frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide filter"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide flange"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Whale sound"
+            },
+            {
+              "ns": 0,
+              "title": "Wilmer L. Barrow"
+            },
+            {
+              "ns": 0,
+              "title": "Wind instruments"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330113.595747
+}

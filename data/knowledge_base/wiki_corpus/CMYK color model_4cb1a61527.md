@@ -1,0 +1,456 @@
+---
+title: "CMYK color model"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/CMYK_color_model"
+source: "wikipedia"
+timestamp: "2026-02-07T19:35:54.618481"
+content_length: 3922
+links_count: 381
+---
+
+The CMYK color model is a subtractive color model used in color printing as well as describing the printing process. The abbreviation CMYK refers to the four color components used in printing: cyan, magenta, yellow, and black (the key plate).
+In subtractive models, inks reduce the amount of light reflected from a white or light background. White is the color of the substrate, and black results from the combination of inks. This contrasts with additive color models (e.g., RGB color model), where colors are produced by emitting light, white results from combining all primary colors, and black represents the absence of light. The addition of black ink reduces ink consumption and produces more consistent dark tones compared to using cyan, magenta, and yellow alone.
+The CMYK printing process was first implemented in the 1890s for color newspaper illustrations and comic strips.
+
+
+== Halftoning ==
+
+Halftoning (or screening) allows a printer to produce continuous tones by varying the size and spacing of small ink dots. This creates the perception of intermediate colors between the primary inks. For example, 20% coverage of magenta ink produces a pink tone rather than full magenta.
+Without halftoning, CMYK inks would only produce eight colors: the three primaries (cyan, magenta, yellow), the three secondaries (red, green, blue), white, and black.
+
+
+== Comparison to CMY ==
+
+CMYK is an extension of the CMY model, which omits black ink. Black ink is added in four-color printing for several practical reasons:
+
+The "key" (K) plate provides outlines and text with higher precision than using three inks alone.
+Using black ink reduces ink consumption and drying time, preventing paper distortion or tearing.
+Combining 100% cyan, magenta, and yellow produces a dark but imperfect black; black ink produces more consistent dark tones.
+Black ink is more cost-effective than combining three colored inks.
+A dark area printed with CMY and then overlaid with black is referred to as rich black.
+Techniques such as under color removal, under color addition, and gray component replacement determine the amount of black ink relative to other inks.
+
+
+== Other printer color models ==
+CMYK contrasts with spot color printing, where specific inks produce fixed colors. Some presses can combine process and spot colors. High-quality printed materials often require full-color process printing, sometimes augmented with spot colors or metallic inks.
+Extended gamut systems (e.g., CMYKOG Hexachrome) increase the range of reproducible colors beyond standard CMYK.
+
+
+== Comparison with RGB displays ==
+
+RGB displays emit light and produce additive colors, while CMYK inks absorb light and produce subtractive colors. Each model has a distinct color gamut; colors visible on one may not be reproducible on the other.
+
+
+=== Spectrum of printed paper ===
+The CMYK model codes for absorption of light. Cyan absorbs red, magenta absorbs green, and yellow absorbs blue. Black ideally absorbs all wavelengths.
+
+
+== Conversion ==
+RGB and CMYK are device-dependent; no universal formula converts between them. Color management systems using ICC profiles are required to map between devices accurately. Conversion depends on device gamuts, rendering intents, and factors such as dot gain and Neugebauer primaries.
+Predefined printing standards, such as Specifications for Web Offset Publications, include ICC profiles for software and operating systems.
+
+
+== See also ==
+CMY color model
+CcMmYK color model
+Cycolor
+RGB color model
+Gray component replacement
+Jacob Christoph Le Blon
+Specifications for Web Offset Publications
+Color management
+Technicolor
+
+
+== References ==
+
+
+== External links ==
+
+XCmyk – Windows software for CMYK-RGB conversion
+RGB to CMYK converter – Online conversion tool
+Color Space Fundamentals – Animated illustration of RGB vs CMYK
+ICC profile registry – Standard CMYK profiles, paper types, and separation limits
+
+## Links
+- 35 mm equivalent focal length
+- Abstract photography
+- Academy Color Encoding System
+- Active-pixel sensor
+- Additive color
+- Adobe RGB color space
+- Aerial photography
+- Afocal photography
+- Aircraft spotting
+- Albumen print
+- Ambrotype
+- Angle of view (photography)
+- Anthotype
+- Aperture
+- Architectural photography
+- Astrophotography
+- Autochrome Lumière
+- Backscatter (photography)
+- Banquet photography
+- Beauty dish
+- Black
+- Black-and-white
+- Bleach bypass
+- Blur (photographic effect)
+- Bokeh
+- Box camera
+- Bracketing
+- Brenizer method
+- Burst mode (photography)
+- C-41 process
+- CAM16
+- CIECAM02
+- CIECAM16
+- CIELAB color space
+- CIELUV
+- CIE 1931 color space
+- CIE 1960 color space
+- CIE 1964 color space
+- CMYK (EP)
+- CMY color model
+- Calotype
+- Camera
+- Camera lens
+- Camera obscura
+- Camera phone
+- Candid photography
+- Carbon print
+- CcMmYK color model
+- Charge-coupled device
+- Chromatic aberration
+- Chromogenic print
+- Circle of confusion
+- Clipping (photography)
+- Cloudscape photography
+- Collodion process
+- ColorADD
+- Color appearance model
+- Color balance
+- Color management
+- Color model
+- Color photography
+- Color print film
+- Color printing
+- Color space
+- Color temperature
+- Coloroid
+- Colour Index International
+- Combination printing
+- Comparison of digital and film photography
+- Composition (visual arts)
+- Conceptual photography
+- Conservation and restoration of film
+- Conservation and restoration of photographic plates
+- Conservation and restoration of photographs
+- Conservation photography
+- Contre-jour
+- Crittercam
+- Cross processing
+- Cucoloris
+- Cyan
+- Cyanotype
+- Cycolor
+- DCI-P3
+- DIC Corporation
+- Daguerreotype
+- Darkroom
+- Depth of field
+- Depth of focus
+- Diagonal method
+- Digiscoping
+- Digital camera
+- Digital camera back
+- Digital image processing
+- Digital photography
+- Digital single-lens reflex camera
+- Documentary photography
+- Doi (identifier)
+- Dot gain
+- Dufaycolor
+- Dye coupler
+- E-6 process
+- Eclipse photography
+- Enlarger
+- Erotic photography
+- Exposing to the right
+- Exposure (photography)
+- Exposure compensation
+- Exposure value
+- F-number
+- Fashion photography
+- Federal Standard 595
+- Field camera
+- Fill flash
+- Film base
+- Film format
+- Film holder
+- Film photography
+- Film scanner
+- Film speed
+- Film stock
+- Fine-art photography
+- Fire photography
+- Fireworks photography
+- Fisheye lens
+- Flash (photography)
+- Flash synchronization
+- Focal length
+- Focus stacking
+- Forensic photography
+- Foveon X3 sensor
+- Framing (visual arts)
+- Gelatin silver process
+- Glamour photography
+- Gobo (lighting)
+- Golden triangle (composition)
+- Gray component replacement
+- Guide number
+- Gum printing
+- HCL color space
+- HKS (colour system)
+- HSL and HSV
+- HWB color model
+- Halftone
+- Hand-colouring of photographs
+- Harris shutter
+- Headroom (photographic framing)
+- Heliography
+- Hexachrome
+- High-speed photography
+- History of photography
+- Holography
+- Hot shoe
+- Hyperfocal distance
+- ICAM (color appearance model)
+- ICC profile
+- ICtCp
+- ISBN (identifier)
+- ISCC–NBS system
+- Image sensor
+- Image sharing
+- Impossible color
+- Infrared photography
+- Instant camera
+- Instant film
+- Intentional camera movement
+- International Commission on Illumination
+- JIS Z8102
+- Jacob Christoph Le Blon
+- K-14 process
+- Kirlian photography
+- Kite aerial photography
+- LMS color space
+- Landscape photography
+- Large format
+- Lead room
+- Lens flare
+- Lens hood
+- Light field camera
+- Lippmann plate
+- List of Norwegian photographers
+- List of Polish photographers
+- List of RAL colors
+- List of color spaces and their uses
+- List of discontinued photographic films
+- List of dyes
+- List of largest photographs
+- List of most expensive photographs
+- List of museums devoted to one photographer
+- List of photographers
+- List of photographic equipment makers
+- List of photographic films
+- List of photographic processes
+- List of photographs considered the most important
+- List of photography periodicals
+- List of street photographers
+- List of women photographers
+- Lo-fi photography
+- Lomography
+- Long-exposure photography
+- Long-focus lens
+- Luminogram
+- MYB (gene)
+- Macro photography
+- Magenta
+- Medium format
+- Metering mode
+- Miniature faking
+- Mirrorless camera
+- Monochrome photography
+- Monolight
+- Monopod
+- Mordançage
+- Movie projector
+- Multi-exposure HDR capture
+- Multiple exposure
+- Multiplexed Analogue Components
+- Munsell color system
+- NTSC
+- Natural Color System
+- Nature photography
+- Neues Sehen
+- News Media Alliance
+- Night photography
+- Nude photography
+- OSA-UCS
+- Oklab color space
+- Ostwald color system
+- PAL
+- Painted photography backdrops
+- Panning (camera)
+- Panoramic photography
+- Pantone
+- Perspective distortion
+- Photo response non-uniformity
+- Photogram
+- Photograph
+- Photograph manipulation
+- Photographic developer
+- Photographic film
+- Photographic filter
+- Photographic fixer
+- Photographic plate
+- Photographic print toning
+- Photographic printing
+- Photographic processing
+- Photography
+- Photography and the law
+- Photography in Albania
+- Photography in Bangladesh
+- Photography in Canada
+- Photography in China
+- Photography in Denmark
+- Photography in Greece
+- Photography in India
+- Photography in Japan
+- Photography in Korea
+- Photography in Luxembourg
+- Photography in Norway
+- Photography in Serbia
+- Photography in Slovenia
+- Photography in Sudan
+- Photography in Taiwan
+- Photography in Turkey
+- Photography in Ukraine
+- Photography in Uzbekistan
+- Photography in Vietnam
+- Photography in the Philippines
+- Photography in the United States
+- Photogravure
+- Photojournalism
+- Photomontage
+- Pictorialism
+- Pigeon photography
+- Pinhole camera
+- Pixel
+- Polaroid art
+- Pornography
+- Portrait photography
+- Post-mortem photography
+- Practical Color Coordinate System
+- Press camera
+- Primary color
+- Prime lens
+- Print permanence
+- ProPhoto RGB color space
+- Push processing
+- RAL colour standard
+- RGB color model
+- RGB color spaces
+- RG color models
+- RYB color model
+- Rangefinder camera
+- Rec. 2020
+- Rec. 2100
+- Rec. 601
+- Rec. 709
+- Reciprocity (photography)
+- Red-eye effect
+- Redscale
+- Reflector (photography)
+- Rephotography
+- Reversal film
+- Rg chromaticity
+- Rollout photography
+- Ruins photography
+- Rule of thirds
+- SECAM
+- SRGB
+- Sabattier effect
+- Safelight
+- Salt print
+- Say cheese
+- ScRGB
+- Scanography
+- Schlieren photography
+- Science of photography
+- Selfie
+- Shutter speed
+- Simplicity (photography)
+- Single-lens reflex camera
+- Slide projector
+- Slit-scan photography
+- Slow motion
+- Snoot
+- Social documentary photography
+- Softbox
+- Space selfie
+- Specifications for Web Offset Publications
+- Sports photography
+- Spot color
+- Sprocket hole photography
+- Stereoscopy
+- Still life photography
+- Stock photography
+- Stop bath
+- Stopping down
+- Straight photography
+- Street photography
+- Strip photography
+- Sun printing
+- Swivel lens
+- TSL color space
+- Technicolor
+- Telephoto lens
+- Three-CCD camera
+- Tilt–shift photography
+- Time-lapse photography
+- Timeline of photography technology
+- Tintype
+- Toy camera
+- Tripod (photography)
+- Tripod head
+- Twin-lens reflex camera
+- Ultraviolet photography
+- Under color addition
+- Under color removal
+- Underwater photography
+- Vernacular photography
+- View camera
+- Vignetting
+- Visual anthropology
+- Visual arts
+- Wedding photography
+- Wide-angle lens
+- Wide-gamut RGB color space
+- Wildlife photography
+- Xerox art
+- XvYCC
+- YCbCr
+- YCoCg
+- YDbDr
+- YIQ
+- YJK
+- YPbPr
+- Yellow
+- Y′UV
+- Zebra patterning
+- Zone System
+- Zone plate
+- Zoom burst
+- Zoom lens

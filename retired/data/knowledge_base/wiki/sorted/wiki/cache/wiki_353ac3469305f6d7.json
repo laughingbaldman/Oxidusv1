@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "914432|0|NGC_5793",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "914432": {
+          "pageid": 914432,
+          "ns": 0,
+          "title": "Omega Centauri",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "2M1207"
+            },
+            {
+              "ns": 0,
+              "title": "2M1207b"
+            },
+            {
+              "ns": 0,
+              "title": "2MASS J11263991−5003550"
+            },
+            {
+              "ns": 0,
+              "title": "2 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "3 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "47 Tucanae"
+            },
+            {
+              "ns": 0,
+              "title": "4 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Abell S740"
+            },
+            {
+              "ns": 0,
+              "title": "Advanced Camera for Surveys"
+            },
+            {
+              "ns": 0,
+              "title": "Almagest"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri A"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri B"
+            },
+            {
+              "ns": 0,
+              "title": "Andromeda Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Antennae Galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arp 271"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical catalog"
+            },
+            {
+              "ns": 0,
+              "title": "BPM 37093"
+            },
+            {
+              "ns": 0,
+              "title": "BV Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "B Centauri b"
+            },
+            {
+              "ns": 0,
+              "title": "Bayer designation"
+            },
+            {
+              "ns": 0,
+              "title": "Beta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boomerang Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Bright Star Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "C3 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "CD−34 8618"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 71"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 72"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 73"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 74"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 75"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 76"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 77"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 78"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 79"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 81"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 82"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 83"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 84"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 85"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 86"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 87"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 88"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell 89"
+            },
+            {
+              "ns": 0,
+              "title": "Caldwell catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major Overdensity"
+            },
+            {
+              "ns": 0,
+              "title": "Carina Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Cat's Eye Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Catalogue of Nebulae and Clusters of Stars"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus A"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus Cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus X-3"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus in Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Center of mass"
+            },
+            {
+              "ns": 0,
+              "title": "Centre de données astronomiques de Strasbourg"
+            },
+            {
+              "ns": 0,
+              "title": "Cerro Pachón"
+            },
+            {
+              "ns": 0,
+              "title": "Chi Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Coalsack Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "Crescent Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "DY Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "D Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "David Merritt"
+            },
+            {
+              "ns": 0,
+              "title": "Declination"
+            },
+            {
+              "ns": 0,
+              "title": "Delta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Distance (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Double Cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 269-57"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 325-4"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 383-76"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 444-46"
+            },
+            {
+              "ns": 0,
+              "title": "E Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Edmond Halley"
+            },
+            {
+              "ns": 0,
+              "title": "Epoch (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Eskimo Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Eta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Exoplanet"
+            },
+            {
+              "ns": 0,
+              "title": "F Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Fimbulthul stream"
+            },
+            {
+              "ns": 0,
+              "title": "Flamsteed designation"
+            },
+            {
+              "ns": 0,
+              "title": "Fleming 1"
+            },
+            {
+              "ns": 0,
+              "title": "Fourcade-Figueroa Object"
+            },
+            {
+              "ns": 0,
+              "title": "G292.0+01.8"
+            },
+            {
+              "ns": 0,
+              "title": "G306.3-0.9"
+            },
+            {
+              "ns": 0,
+              "title": "GW190521"
+            },
+            {
+              "ns": 0,
+              "title": "G Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia BH2"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Gemini Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Gigayear"
+            },
+            {
+              "ns": 0,
+              "title": "Globular cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Guillaume Bigourdan"
+            },
+            {
+              "ns": 0,
+              "title": "Gum 41"
+            },
+            {
+              "ns": 0,
+              "title": "HD 100453"
+            },
+            {
+              "ns": 0,
+              "title": "HD 100673"
+            },
+            {
+              "ns": 0,
+              "title": "HD 100825"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101570"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101581"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101584"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101930"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101930 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102117"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102117 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102350"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102365"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102776"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102964"
+            },
+            {
+              "ns": 0,
+              "title": "HD 103197"
+            },
+            {
+              "ns": 0,
+              "title": "HD 103197 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 105382"
+            },
+            {
+              "ns": 0,
+              "title": "HD 107914"
+            },
+            {
+              "ns": 0,
+              "title": "HD 108063"
+            },
+            {
+              "ns": 0,
+              "title": "HD 108236"
+            },
+            {
+              "ns": 0,
+              "title": "HD 108541"
+            },
+            {
+              "ns": 0,
+              "title": "HD 109749"
+            },
+            {
+              "ns": 0,
+              "title": "HD 109749 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 110073"
+            },
+            {
+              "ns": 0,
+              "title": "HD 110113"
+            },
+            {
+              "ns": 0,
+              "title": "HD 110458"
+            },
+            {
+              "ns": 0,
+              "title": "HD 111597"
+            },
+            {
+              "ns": 0,
+              "title": "HD 111915"
+            },
+            {
+              "ns": 0,
+              "title": "HD 111968"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113538"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113538 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113538 c"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113703"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113766"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114386"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114386 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114613"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114729"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114729 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114837"
+            },
+            {
+              "ns": 0,
+              "title": "HD 115310"
+            },
+            {
+              "ns": 0,
+              "title": "HD 115600"
+            },
+            {
+              "ns": 0,
+              "title": "HD 116243"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117207"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117207 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117440"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117618"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117618 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117939"
+            },
+            {
+              "ns": 0,
+              "title": "HD 119921"
+            },
+            {
+              "ns": 0,
+              "title": "HD 120987"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121056"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121228"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121474"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121504"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121504 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 123569"
+            },
+            {
+              "ns": 0,
+              "title": "HD 124448"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125072"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125288"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125595"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125628"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125823"
+            },
+            {
+              "ns": 0,
+              "title": "HD 129116"
+            },
+            {
+              "ns": 0,
+              "title": "HD 129456"
+            },
+            {
+              "ns": 0,
+              "title": "HD 129685"
+            },
+            {
+              "ns": 0,
+              "title": "HD 131399"
+            },
+            {
+              "ns": 0,
+              "title": "HD 97413"
+            },
+            {
+              "ns": 0,
+              "title": "HD 98176"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 65426"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 65426 b"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 67522"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 67522 b"
+            },
+            {
+              "ns": 0,
+              "title": "HR 4796"
+            },
+            {
+              "ns": 0,
+              "title": "HR 5171"
+            },
+            {
+              "ns": 0,
+              "title": "H Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Helix Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Draper Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Herschel 400 Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Hyades (star cluster)"
+            },
+            {
+              "ns": 0,
+              "title": "IC 1613"
+            },
+            {
+              "ns": 0,
+              "title": "IC 2391"
+            },
+            {
+              "ns": 0,
+              "title": "IC 2602"
+            },
+            {
+              "ns": 0,
+              "title": "IC 2944"
+            },
+            {
+              "ns": 0,
+              "title": "IC 3370"
+            },
+            {
+              "ns": 0,
+              "title": "IC 342"
+            },
+            {
+              "ns": 0,
+              "title": "IC 405"
+            },
+            {
+              "ns": 0,
+              "title": "IC 4214"
+            },
+            {
+              "ns": 0,
+              "title": "IC 4329A"
+            },
+            {
+              "ns": 0,
+              "title": "IC 5146"
+            },
+            {
+              "ns": 0,
+              "title": "IRAS 13208−6020"
+            },
+            {
+              "ns": 0,
+              "title": "IRAS 13224−3809"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Intermediate-mass black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Iota Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Iris Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "J1144−4308"
+            },
+            {
+              "ns": 0,
+              "title": "J1407b"
+            },
+            {
+              "ns": 0,
+              "title": "J Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "James Dunlop"
+            },
+            {
+              "ns": 0,
+              "title": "Jean-Philippe de Cheseaux"
+            },
+            {
+              "ns": 0,
+              "title": "Jewel Box (star cluster)"
+            },
+            {
+              "ns": 0,
+              "title": "Johann Bayer"
+            },
+            {
+              "ns": 0,
+              "title": "K Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Kappa Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Kapteyn's Star"
+            },
+            {
+              "ns": 0,
+              "title": "LEDA 677373"
+            },
+            {
+              "ns": 0,
+              "title": "Lacaille"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Light-year"
+            },
+            {
+              "ns": 0,
+              "title": "List of NGC objects"
+            },
+            {
+              "ns": 0,
+              "title": "List of NGC objects (5001–6000)"
+            },
+            {
+              "ns": 0,
+              "title": "List of globular clusters"
+            },
+            {
+              "ns": 0,
+              "title": "List of largest known star clusters"
+            },
+            {
+              "ns": 0,
+              "title": "List of stars in Centaurus"
+            },
+            {
+              "ns": 0,
+              "title": "Local Group"
+            },
+            {
+              "ns": 0,
+              "title": "M Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Mayall II"
+            },
+            {
+              "ns": 0,
+              "title": "Melotte catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 3"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 5"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 53"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 54"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 63"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 83"
+            },
+            {
+              "ns": 0,
+              "title": "Messier object"
+            },
+            {
+              "ns": 0,
+              "title": "Metallicity"
+            },
+            {
+              "ns": 0,
+              "title": "Michel Mayor"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly Notices of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Moon"
+            },
+            {
+              "ns": 0,
+              "title": "Mu Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1097"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1261"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1275"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 147"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 185"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1851"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 188"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2244"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2261"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2360"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2362"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2403"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2419"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 246"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 247"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2477"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2506"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2516"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2775"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2867"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 300"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3115"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3132"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3195"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3201"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3242"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3532"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3557"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 362"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3626"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3749"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3766"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3783"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3918"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 40"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4230"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4236"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4244"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4372"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4444"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4449"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4559"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4565"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 457"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4603"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4609"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4622"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4631"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4650A"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4683"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4696"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4697"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4706"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4709"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4729"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4730"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4743"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4744"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4833"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4889"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4909"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4930"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4945"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4976"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5001"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5002"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5003"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5004"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5005"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5008"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5010"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5011"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5011A"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5018"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5020"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5023"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5026"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5030"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5032"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5033"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5034"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5042"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5050"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5053"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5054"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5064"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5068"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5078"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5082"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5084"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5085"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5087"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5090"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5090 and NGC 5091"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5091"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5098"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5101"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5102"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5112"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5114"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5121"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5134"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5135"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5136"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5137"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5138"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5140"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5141"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5142"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5143"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5144"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5161"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5162"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5164"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5170"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5177"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5189"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5195"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5198"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5201"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5204"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5206"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5223"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5229"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5235"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5238"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5247"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5248"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5251"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5252"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5253"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5256"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5257"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5258"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5260"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5264"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5266"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5273"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5278"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5279"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5281"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5286"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5291"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5300"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5307"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5308"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5314"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5315"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5316"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5322"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5331"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5334"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5335"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5343"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5363"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5364"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5371"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5377"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5384"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5390"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5394"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5395"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5398"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5408"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5410"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5416"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5419"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5422"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5448"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5455"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5460"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5461"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5466"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5468"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5470"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5471"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5473"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5474"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5475"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5477"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5483"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5485"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5486"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5490"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5493"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5495"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 55"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5500"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5501"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5502"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5504"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5506"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5508"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5514"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5523"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5529"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5530"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5532"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5533"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5535"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5539"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5541"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5544"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5545"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5548"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5557"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5559"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5566"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5575"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5579"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5582"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5584"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5585"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 559"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5597"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5601"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5605"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5609"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5613"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5614"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5615"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5617"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5619"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5626"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5629"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5630"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5634"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5640"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5641"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5643"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5653"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5662"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5665"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5668"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5676"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5678"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5679 Group"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5682"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5683"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5694"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5701"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5705"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5713"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5714"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5719"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5728"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5746"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5749"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5750"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5752"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5753"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5754"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5755"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5765"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5774"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5775"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5777"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5784"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5790"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5792"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324742.146869
+}

@@ -1,0 +1,557 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "3755": {
+          "pageid": 3755,
+          "ns": 0,
+          "title": "Boron",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Reducing agent"
+            },
+            {
+              "ns": 0,
+              "title": "Refractory"
+            },
+            {
+              "ns": 0,
+              "title": "Regiochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Resonances"
+            },
+            {
+              "ns": 0,
+              "title": "Rhenium"
+            },
+            {
+              "ns": 0,
+              "title": "Rhenium diboride"
+            },
+            {
+              "ns": 0,
+              "title": "Rhodium"
+            },
+            {
+              "ns": 0,
+              "title": "Rhombohedral"
+            },
+            {
+              "ns": 0,
+              "title": "Rio Tinto Borax Mine"
+            },
+            {
+              "ns": 0,
+              "title": "Rio Tinto Group"
+            },
+            {
+              "ns": 0,
+              "title": "Rock (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Roentgenium"
+            },
+            {
+              "ns": 0,
+              "title": "Rubidium"
+            },
+            {
+              "ns": 0,
+              "title": "Ruthenium"
+            },
+            {
+              "ns": 0,
+              "title": "Rutherfordium"
+            },
+            {
+              "ns": 0,
+              "title": "S-Adenosyl methionine"
+            },
+            {
+              "ns": 0,
+              "title": "S-block"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SLC4A11"
+            },
+            {
+              "ns": 0,
+              "title": "SR-71 Blackbird"
+            },
+            {
+              "ns": 0,
+              "title": "Salt"
+            },
+            {
+              "ns": 0,
+              "title": "Samarium"
+            },
+            {
+              "ns": 0,
+              "title": "Sasso Pisano"
+            },
+            {
+              "ns": 0,
+              "title": "Sassolite"
+            },
+            {
+              "ns": 0,
+              "title": "Saturn V"
+            },
+            {
+              "ns": 0,
+              "title": "Scandium"
+            },
+            {
+              "ns": 0,
+              "title": "Schott AG"
+            },
+            {
+              "ns": 0,
+              "title": "Scram"
+            },
+            {
+              "ns": 0,
+              "title": "Seaborgium"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-empirical mass formula"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silver"
+            },
+            {
+              "ns": 0,
+              "title": "Single event upset"
+            },
+            {
+              "ns": 0,
+              "title": "Skylab"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium borocaptate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium borohydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium perborate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium percarbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tetraborate"
+            },
+            {
+              "ns": 0,
+              "title": "Soffioni"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solid"
+            },
+            {
+              "ns": 0,
+              "title": "Sorangium cellulosum"
+            },
+            {
+              "ns": 0,
+              "title": "SpaceX"
+            },
+            {
+              "ns": 0,
+              "title": "SpaceflightNow"
+            },
+            {
+              "ns": 0,
+              "title": "Specific heat capacity"
+            },
+            {
+              "ns": 0,
+              "title": "Spectral line"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of sound"
+            },
+            {
+              "ns": 0,
+              "title": "Stable isotope"
+            },
+            {
+              "ns": 0,
+              "title": "Standard atomic weight"
+            },
+            {
+              "ns": 0,
+              "title": "Standard temperature and pressure"
+            },
+            {
+              "ns": 0,
+              "title": "State-owned company"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar nucleosynthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Steroid"
+            },
+            {
+              "ns": 0,
+              "title": "Steven A. Benner"
+            },
+            {
+              "ns": 0,
+              "title": "Streptomyces"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium"
+            },
+            {
+              "ns": 0,
+              "title": "Strunz classification"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Superhard materials"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Suzuki coupling"
+            },
+            {
+              "ns": 0,
+              "title": "Suzuki reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic radioisotope"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum"
+            },
+            {
+              "ns": 0,
+              "title": "Tartrolon"
+            },
+            {
+              "ns": 0,
+              "title": "Tavaborole"
+            },
+            {
+              "ns": 0,
+              "title": "Technetium"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium"
+            },
+            {
+              "ns": 0,
+              "title": "Tennessine"
+            },
+            {
+              "ns": 0,
+              "title": "Terbium"
+            },
+            {
+              "ns": 0,
+              "title": "Testosterone"
+            },
+            {
+              "ns": 0,
+              "title": "Tetraacetyl diborate"
+            },
+            {
+              "ns": 0,
+              "title": "Tetraborane"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrafluoroborate"
+            },
+            {
+              "ns": 0,
+              "title": "Tetragonal"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrahydroxyborate"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrahydroxydiboron"
+            },
+            {
+              "ns": 0,
+              "title": "Tetranitratoborate"
+            },
+            {
+              "ns": 0,
+              "title": "Thallium"
+            },
+            {
+              "ns": 0,
+              "title": "The Periodic Table of Videos"
+            },
+            {
+              "ns": 0,
+              "title": "Theranostic"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal neutron"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal shock"
+            },
+            {
+              "ns": 0,
+              "title": "Thorium"
+            },
+            {
+              "ns": 0,
+              "title": "Thulium"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of chemical element discoveries"
+            },
+            {
+              "ns": 0,
+              "title": "Tin"
+            },
+            {
+              "ns": 0,
+              "title": "Tincal"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium diboride"
+            },
+            {
+              "ns": 0,
+              "title": "Tooth bleaching"
+            },
+            {
+              "ns": 0,
+              "title": "Triethylborane"
+            },
+            {
+              "ns": 0,
+              "title": "Trigonal crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Trimethylaluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Trimethylborane"
+            },
+            {
+              "ns": 0,
+              "title": "Trimethylborate"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Turbojet"
+            },
+            {
+              "ns": 0,
+              "title": "Turkey"
+            },
+            {
+              "ns": 0,
+              "title": "Turkish language"
+            },
+            {
+              "ns": 0,
+              "title": "Ulexite"
+            },
+            {
+              "ns": 0,
+              "title": "United States"
+            },
+            {
+              "ns": 0,
+              "title": "United States Geological Survey"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Usgs.gov"
+            },
+            {
+              "ns": 0,
+              "title": "Valence electron"
+            },
+            {
+              "ns": 0,
+              "title": "Van der Waals radius"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Vickers hardness"
+            },
+            {
+              "ns": 0,
+              "title": "Vitamin D"
+            },
+            {
+              "ns": 0,
+              "title": "Volcano"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "William N. Lipscomb"
+            },
+            {
+              "ns": 0,
+              "title": "Wine"
+            },
+            {
+              "ns": 0,
+              "title": "Wood preservative"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zip fuel"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium diboride"
+            },
+            {
+              "ns": 0,
+              "title": "Zone melting"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770509349.8272436
+}

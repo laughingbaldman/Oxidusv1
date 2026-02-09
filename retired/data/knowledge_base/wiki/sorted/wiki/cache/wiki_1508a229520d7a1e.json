@@ -1,0 +1,1213 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "98132": {
+          "pageid": 98132,
+          "ns": 0,
+          "title": "Radio wave",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1984 Moroccan radiation accident"
+            },
+            {
+              "ns": 0,
+              "title": "1990 Clinic of Zaragoza radiotherapy accident"
+            },
+            {
+              "ns": 0,
+              "title": "1996 San Juan de Dios radiotherapy accident"
+            },
+            {
+              "ns": 0,
+              "title": "AM broadcast band"
+            },
+            {
+              "ns": 0,
+              "title": "A Dynamical Theory of the Electromagnetic Field"
+            },
+            {
+              "ns": 0,
+              "title": "Absorption (electromagnetic radiation)"
+            },
+            {
+              "ns": 0,
+              "title": "Acceleration"
+            },
+            {
+              "ns": 0,
+              "title": "Acoustic radiation force"
+            },
+            {
+              "ns": 0,
+              "title": "Acute radiation syndrome"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha particle"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Antenna (radio)"
+            },
+            {
+              "ns": 0,
+              "title": "Askaryan radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical radio source"
+            },
+            {
+              "ns": 0,
+              "title": "Atom"
+            },
+            {
+              "ns": 0,
+              "title": "Audio signal"
+            },
+            {
+              "ns": 0,
+              "title": "Background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Bandpass filter"
+            },
+            {
+              "ns": 0,
+              "title": "Beta particle"
+            },
+            {
+              "ns": 0,
+              "title": "Black-body radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Black body radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Blackbody radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Blue"
+            },
+            {
+              "ns": 0,
+              "title": "Bremsstrahlung"
+            },
+            {
+              "ns": 0,
+              "title": "Broadcasting"
+            },
+            {
+              "ns": 0,
+              "title": "C band (IEEE)"
+            },
+            {
+              "ns": 0,
+              "title": "Call-in"
+            },
+            {
+              "ns": 0,
+              "title": "Carrier wave"
+            },
+            {
+              "ns": 0,
+              "title": "Cataract"
+            },
+            {
+              "ns": 0,
+              "title": "Cell phone"
+            },
+            {
+              "ns": 0,
+              "title": "Charged particle"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Cherenkov radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Chronic radiation syndrome"
+            },
+            {
+              "ns": 0,
+              "title": "Circularly polarized"
+            },
+            {
+              "ns": 0,
+              "title": "Classical electromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Cluster decay"
+            },
+            {
+              "ns": 0,
+              "title": "Coherence (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Communication with submarines"
+            },
+            {
+              "ns": 0,
+              "title": "Communications satellite"
+            },
+            {
+              "ns": 0,
+              "title": "Computer"
+            },
+            {
+              "ns": 0,
+              "title": "Cordless phone"
+            },
+            {
+              "ns": 0,
+              "title": "Cornell University"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic background radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic ray"
+            },
+            {
+              "ns": 0,
+              "title": "Cyan"
+            },
+            {
+              "ns": 0,
+              "title": "DNA damage"
+            },
+            {
+              "ns": 0,
+              "title": "Dark radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Demodulator"
+            },
+            {
+              "ns": 0,
+              "title": "Diathermy"
+            },
+            {
+              "ns": 0,
+              "title": "Diffract"
+            },
+            {
+              "ns": 0,
+              "title": "Diffraction"
+            },
+            {
+              "ns": 0,
+              "title": "Digital signal"
+            },
+            {
+              "ns": 0,
+              "title": "Dipole antenna"
+            },
+            {
+              "ns": 0,
+              "title": "Dish antenna"
+            },
+            {
+              "ns": 0,
+              "title": "Display device"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dosimetry"
+            },
+            {
+              "ns": 0,
+              "title": "Earphone"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's energy budget"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric field"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic interference"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation and health"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic wave"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary particle"
+            },
+            {
+              "ns": 0,
+              "title": "Extreme ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Extremely high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Extremely low frequency"
+            },
+            {
+              "ns": 0,
+              "title": "FM broadcasting"
+            },
+            {
+              "ns": 0,
+              "title": "Fading"
+            },
+            {
+              "ns": 0,
+              "title": "Far field"
+            },
+            {
+              "ns": 0,
+              "title": "Far infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Far ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Faraday cage"
+            },
+            {
+              "ns": 0,
+              "title": "Field strength"
+            },
+            {
+              "ns": 0,
+              "title": "Frequencies"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Gigahertz"
+            },
+            {
+              "ns": 0,
+              "title": "Goiânia accident"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Green"
+            },
+            {
+              "ns": 0,
+              "title": "Ground stations"
+            },
+            {
+              "ns": 0,
+              "title": "Ground wave"
+            },
+            {
+              "ns": 0,
+              "title": "Guglielmo Marconi"
+            },
+            {
+              "ns": 0,
+              "title": "H band (infrared)"
+            },
+            {
+              "ns": 0,
+              "title": "Half-life"
+            },
+            {
+              "ns": 0,
+              "title": "Half-wave dipole"
+            },
+            {
+              "ns": 0,
+              "title": "Hard X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "Health physics"
+            },
+            {
+              "ns": 0,
+              "title": "Heat transfer"
+            },
+            {
+              "ns": 0,
+              "title": "Heinrich Hertz"
+            },
+            {
+              "ns": 0,
+              "title": "Hertz"
+            },
+            {
+              "ns": 0,
+              "title": "High-energy X-rays"
+            },
+            {
+              "ns": 0,
+              "title": "High frequency"
+            },
+            {
+              "ns": 0,
+              "title": "History of radio"
+            },
+            {
+              "ns": 0,
+              "title": "Horizon"
+            },
+            {
+              "ns": 0,
+              "title": "Horizontally polarized"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperthermia therapy"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ITU"
+            },
+            {
+              "ns": 0,
+              "title": "In phase"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Interference (wave propagation)"
+            },
+            {
+              "ns": 0,
+              "title": "International Agency for Research on Cancer"
+            },
+            {
+              "ns": 0,
+              "title": "International Telecommunication Union"
+            },
+            {
+              "ns": 0,
+              "title": "Internet radio"
+            },
+            {
+              "ns": 0,
+              "title": "Internet talk radio"
+            },
+            {
+              "ns": 0,
+              "title": "Ionizing"
+            },
+            {
+              "ns": 0,
+              "title": "Ionizing radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Ionosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Ions"
+            },
+            {
+              "ns": 0,
+              "title": "J band (infrared)"
+            },
+            {
+              "ns": 0,
+              "title": "James Clerk Maxwell"
+            },
+            {
+              "ns": 0,
+              "title": "Joule"
+            },
+            {
+              "ns": 0,
+              "title": "K band (IEEE)"
+            },
+            {
+              "ns": 0,
+              "title": "K band (infrared)"
+            },
+            {
+              "ns": 0,
+              "title": "Ka band"
+            },
+            {
+              "ns": 0,
+              "title": "Karl Rawer"
+            },
+            {
+              "ns": 0,
+              "title": "Kilohertz"
+            },
+            {
+              "ns": 0,
+              "title": "Ku band"
+            },
+            {
+              "ns": 0,
+              "title": "L band"
+            },
+            {
+              "ns": 0,
+              "title": "L band (infrared)"
+            },
+            {
+              "ns": 0,
+              "title": "Laser"
+            },
+            {
+              "ns": 0,
+              "title": "Laser safety"
+            },
+            {
+              "ns": 0,
+              "title": "Lasers and aviation safety"
+            },
+            {
+              "ns": 0,
+              "title": "Left circular polarization"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Lightning"
+            },
+            {
+              "ns": 0,
+              "title": "Line-of-sight propagation"
+            },
+            {
+              "ns": 0,
+              "title": "Linear energy transfer"
+            },
+            {
+              "ns": 0,
+              "title": "List of civilian radiation accidents"
+            },
+            {
+              "ns": 0,
+              "title": "List of most-listened-to radio programs"
+            },
+            {
+              "ns": 0,
+              "title": "Longwave"
+            },
+            {
+              "ns": 0,
+              "title": "Loudspeaker"
+            },
+            {
+              "ns": 0,
+              "title": "Low frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Lyman-alpha"
+            },
+            {
+              "ns": 0,
+              "title": "M band (infrared)"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Maser"
+            },
+            {
+              "ns": 0,
+              "title": "Maxwell's equations"
+            },
+            {
+              "ns": 0,
+              "title": "Medical applications of radio frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Medical radiography"
+            },
+            {
+              "ns": 0,
+              "title": "Medium frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Medium wave"
+            },
+            {
+              "ns": 0,
+              "title": "Megahertz"
+            },
+            {
+              "ns": 0,
+              "title": "Microphone"
+            },
+            {
+              "ns": 0,
+              "title": "Microprocessor"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave oven"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave radio relay"
+            },
+            {
+              "ns": 0,
+              "title": "Microwaves"
+            },
+            {
+              "ns": 0,
+              "title": "Middle ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Millimeter wave"
+            },
+            {
+              "ns": 0,
+              "title": "Modulation"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular electron transition"
+            },
+            {
+              "ns": 0,
+              "title": "Molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Monopole antenna"
+            },
+            {
+              "ns": 0,
+              "title": "Multipath propagation"
+            },
+            {
+              "ns": 0,
+              "title": "Music radio"
+            },
+            {
+              "ns": 0,
+              "title": "NASA"
+            },
+            {
+              "ns": 0,
+              "title": "NRAO"
+            },
+            {
+              "ns": 0,
+              "title": "N band"
+            },
+            {
+              "ns": 0,
+              "title": "National Association of Broadcasters"
+            },
+            {
+              "ns": 0,
+              "title": "Near-infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Near ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Negative charge"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Nobel Prize in Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Non-ionizing radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fission"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear weapon"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Orange (colour)"
+            },
+            {
+              "ns": 0,
+              "title": "Over-the-horizon radar"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Particle radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Permeability (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Permittivity"
+            },
+            {
+              "ns": 0,
+              "title": "Photometric system"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Planck's relation"
+            },
+            {
+              "ns": 0,
+              "title": "Polar molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Polarization (waves)"
+            },
+            {
+              "ns": 0,
+              "title": "Positive charge"
+            },
+            {
+              "ns": 0,
+              "title": "Q band"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanical"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum superposition"
+            },
+            {
+              "ns": 0,
+              "title": "Radar"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation damage"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation exposure"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation hardening"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation protection"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation therapy"
+            },
+            {
+              "ns": 0,
+              "title": "Radio"
+            },
+            {
+              "ns": 0,
+              "title": "Radio Wave 96.5"
+            },
+            {
+              "ns": 0,
+              "title": "Radio Waves (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Radio amateur"
+            },
+            {
+              "ns": 0,
+              "title": "Radio astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Radio band"
+            },
+            {
+              "ns": 0,
+              "title": "Radio communication"
+            },
+            {
+              "ns": 0,
+              "title": "Radio frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Radio frequency engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Radio navigation"
+            },
+            {
+              "ns": 0,
+              "title": "Radio noise"
+            },
+            {
+              "ns": 0,
+              "title": "Radio propagation"
+            },
+            {
+              "ns": 0,
+              "title": "Radio receiver"
+            },
+            {
+              "ns": 0,
+              "title": "Radio signal"
+            },
+            {
+              "ns": 0,
+              "title": "Radio spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Radio station"
+            },
+            {
+              "ns": 0,
+              "title": "Radio tower"
+            },
+            {
+              "ns": 0,
+              "title": "Radio transmitter"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive contamination"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive source"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactivity in the life sciences"
+            },
+            {
+              "ns": 0,
+              "title": "Radiobiology"
+            },
+            {
+              "ns": 0,
+              "title": "Radionuclide"
+            },
+            {
+              "ns": 0,
+              "title": "Red"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Refraction"
+            },
+            {
+              "ns": 0,
+              "title": "Resistivity"
+            },
+            {
+              "ns": 0,
+              "title": "Resonant frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Resonator"
+            },
+            {
+              "ns": 0,
+              "title": "Right circular polarization"
+            },
+            {
+              "ns": 0,
+              "title": "Right hand rule"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "S band"
+            },
+            {
+              "ns": 0,
+              "title": "Satellite radio"
+            },
+            {
+              "ns": 0,
+              "title": "Satellites"
+            },
+            {
+              "ns": 0,
+              "title": "Shortwave"
+            },
+            {
+              "ns": 0,
+              "title": "Shortwave radio"
+            },
+            {
+              "ns": 0,
+              "title": "Sievert"
+            },
+            {
+              "ns": 0,
+              "title": "Skin depth"
+            },
+            {
+              "ns": 0,
+              "title": "Skywave"
+            },
+            {
+              "ns": 0,
+              "title": "Soft X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "Space heater"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Spin (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Standing wave"
+            },
+            {
+              "ns": 0,
+              "title": "Starlight"
+            },
+            {
+              "ns": 0,
+              "title": "Sunlight"
+            },
+            {
+              "ns": 0,
+              "title": "Super high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Super low frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Surface wave"
+            },
+            {
+              "ns": 0,
+              "title": "Synchrotron radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Talk radio"
+            },
+            {
+              "ns": 0,
+              "title": "Television broadcasting"
+            },
+            {
+              "ns": 0,
+              "title": "Television transmitter"
+            },
+            {
+              "ns": 0,
+              "title": "Terahertz band"
+            },
+            {
+              "ns": 0,
+              "title": "Terahertz radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Transmitter"
+            },
+            {
+              "ns": 0,
+              "title": "Tremendously high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Tuned circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Tuning fork"
+            },
+            {
+              "ns": 0,
+              "title": "US EPA"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra-high-energy gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra low frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet A"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet B"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet C"
+            },
+            {
+              "ns": 0,
+              "title": "Unruh radiation"
+            },
+            {
+              "ns": 0,
+              "title": "V band"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Vertical polarization"
+            },
+            {
+              "ns": 0,
+              "title": "Very-high-energy gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Very high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Very low frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Video camera"
+            },
+            {
+              "ns": 0,
+              "title": "Video signal"
+            },
+            {
+              "ns": 0,
+              "title": "Violet (color)"
+            },
+            {
+              "ns": 0,
+              "title": "Visible spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "WHO"
+            },
+            {
+              "ns": 0,
+              "title": "W band"
+            },
+            {
+              "ns": 0,
+              "title": "Walkie-talkie"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguide"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless device radiation and health"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless electronic devices and health"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless network"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "X band"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329117.8643672
+}

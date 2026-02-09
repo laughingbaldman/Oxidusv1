@@ -1,0 +1,637 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "41698": {
+          "pageid": 41698,
+          "ns": 0,
+          "title": "Shield",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Alder"
+            },
+            {
+              "ns": 0,
+              "title": "Arrow"
+            },
+            {
+              "ns": 0,
+              "title": "Aspis"
+            },
+            {
+              "ns": 0,
+              "title": "Assegai"
+            },
+            {
+              "ns": 0,
+              "title": "Attica"
+            },
+            {
+              "ns": 0,
+              "title": "Austronesian peoples"
+            },
+            {
+              "ns": 0,
+              "title": "Aztec"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic shield"
+            },
+            {
+              "ns": 0,
+              "title": "Barbarian Invasions"
+            },
+            {
+              "ns": 0,
+              "title": "Baron"
+            },
+            {
+              "ns": 0,
+              "title": "Battersea Shield"
+            },
+            {
+              "ns": 0,
+              "title": "Bayon"
+            },
+            {
+              "ns": 0,
+              "title": "Borneo"
+            },
+            {
+              "ns": 0,
+              "title": "Botany Bay"
+            },
+            {
+              "ns": 0,
+              "title": "Botswana"
+            },
+            {
+              "ns": 0,
+              "title": "Brick"
+            },
+            {
+              "ns": 0,
+              "title": "British Museum"
+            },
+            {
+              "ns": 0,
+              "title": "Bronze Age"
+            },
+            {
+              "ns": 0,
+              "title": "Buckler"
+            },
+            {
+              "ns": 0,
+              "title": "Bullet resistant"
+            },
+            {
+              "ns": 0,
+              "title": "Bulletproof"
+            },
+            {
+              "ns": 0,
+              "title": "Cameroon"
+            },
+            {
+              "ns": 0,
+              "title": "Club (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Coat of arms"
+            },
+            {
+              "ns": 0,
+              "title": "Crossbow"
+            },
+            {
+              "ns": 0,
+              "title": "Dayak people"
+            },
+            {
+              "ns": 0,
+              "title": "Deir el-Bahari"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Duke"
+            },
+            {
+              "ns": 0,
+              "title": "Enarmes"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopaedia Aethiopica"
+            },
+            {
+              "ns": 0,
+              "title": "Fir"
+            },
+            {
+              "ns": 0,
+              "title": "Firing port"
+            },
+            {
+              "ns": 0,
+              "title": "Fragmentation (weaponry)"
+            },
+            {
+              "ns": 0,
+              "title": "Glagwa"
+            },
+            {
+              "ns": 0,
+              "title": "Greco-Persian Wars"
+            },
+            {
+              "ns": 0,
+              "title": "Guige"
+            },
+            {
+              "ns": 0,
+              "title": "Gun shield"
+            },
+            {
+              "ns": 0,
+              "title": "Gunpowder"
+            },
+            {
+              "ns": 0,
+              "title": "Hand-to-hand combat"
+            },
+            {
+              "ns": 0,
+              "title": "Hatshepsut"
+            },
+            {
+              "ns": 0,
+              "title": "Heater shield"
+            },
+            {
+              "ns": 0,
+              "title": "Heavy infantry"
+            },
+            {
+              "ns": 0,
+              "title": "Heraldic"
+            },
+            {
+              "ns": 0,
+              "title": "Heraldic shield"
+            },
+            {
+              "ns": 0,
+              "title": "High Middle Ages"
+            },
+            {
+              "ns": 0,
+              "title": "Hittites"
+            },
+            {
+              "ns": 0,
+              "title": "Hoplite"
+            },
+            {
+              "ns": 0,
+              "title": "Hoplites"
+            },
+            {
+              "ns": 0,
+              "title": "Human shield"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Igbo people"
+            },
+            {
+              "ns": 0,
+              "title": "Indonesia"
+            },
+            {
+              "ns": 0,
+              "title": "Iron Age"
+            },
+            {
+              "ns": 0,
+              "title": "Islam in the Philippines"
+            },
+            {
+              "ns": 0,
+              "title": "Jousting"
+            },
+            {
+              "ns": 0,
+              "title": "Kayan people (Myanmar)"
+            },
+            {
+              "ns": 0,
+              "title": "Kenyah people"
+            },
+            {
+              "ns": 0,
+              "title": "Kevlar"
+            },
+            {
+              "ns": 0,
+              "title": "Khmer Empire"
+            },
+            {
+              "ns": 0,
+              "title": "King"
+            },
+            {
+              "ns": 0,
+              "title": "Kite shield"
+            },
+            {
+              "ns": 0,
+              "title": "Knight"
+            },
+            {
+              "ns": 0,
+              "title": "Knights"
+            },
+            {
+              "ns": 0,
+              "title": "Lance"
+            },
+            {
+              "ns": 0,
+              "title": "Late Neolithic"
+            },
+            {
+              "ns": 0,
+              "title": "Leather"
+            },
+            {
+              "ns": 0,
+              "title": "Lesotho"
+            },
+            {
+              "ns": 0,
+              "title": "Lexan"
+            },
+            {
+              "ns": 0,
+              "title": "Light infantry"
+            },
+            {
+              "ns": 0,
+              "title": "Limpopo"
+            },
+            {
+              "ns": 0,
+              "title": "Little-leaf Linden"
+            },
+            {
+              "ns": 0,
+              "title": "Lombardy"
+            },
+            {
+              "ns": 0,
+              "title": "Lumad"
+            },
+            {
+              "ns": 0,
+              "title": "Makrolon"
+            },
+            {
+              "ns": 0,
+              "title": "Malay people"
+            },
+            {
+              "ns": 0,
+              "title": "Malaysia"
+            },
+            {
+              "ns": 0,
+              "title": "Men-at-arms"
+            },
+            {
+              "ns": 0,
+              "title": "Mercenaries"
+            },
+            {
+              "ns": 0,
+              "title": "Metal"
+            },
+            {
+              "ns": 0,
+              "title": "Middle Ages"
+            },
+            {
+              "ns": 0,
+              "title": "Mixtec"
+            },
+            {
+              "ns": 0,
+              "title": "Molotov cocktails"
+            },
+            {
+              "ns": 0,
+              "title": "Moro people"
+            },
+            {
+              "ns": 0,
+              "title": "Mycenaean Greece"
+            },
+            {
+              "ns": 0,
+              "title": "Mylar"
+            },
+            {
+              "ns": 0,
+              "title": "National Archaeological Museum, Athens"
+            },
+            {
+              "ns": 0,
+              "title": "National Institute of Justice"
+            },
+            {
+              "ns": 0,
+              "title": "New Wilmington"
+            },
+            {
+              "ns": 0,
+              "title": "Ngaju people"
+            },
+            {
+              "ns": 0,
+              "title": "Nguba"
+            },
+            {
+              "ns": 0,
+              "title": "Nguni people"
+            },
+            {
+              "ns": 0,
+              "title": "Nguni shield"
+            },
+            {
+              "ns": 0,
+              "title": "Nias"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ot Danum people"
+            },
+            {
+              "ns": 0,
+              "title": "Parma (shield)"
+            },
+            {
+              "ns": 0,
+              "title": "Pavise"
+            },
+            {
+              "ns": 0,
+              "title": "Pedi people"
+            },
+            {
+              "ns": 0,
+              "title": "Pennsylvania"
+            },
+            {
+              "ns": 0,
+              "title": "Personal armour"
+            },
+            {
+              "ns": 0,
+              "title": "Phalanx"
+            },
+            {
+              "ns": 0,
+              "title": "Philippines"
+            },
+            {
+              "ns": 0,
+              "title": "Plate armour"
+            },
+            {
+              "ns": 0,
+              "title": "Police"
+            },
+            {
+              "ns": 0,
+              "title": "Populus"
+            },
+            {
+              "ns": 0,
+              "title": "Qauata"
+            },
+            {
+              "ns": 0,
+              "title": "Ramses II"
+            },
+            {
+              "ns": 0,
+              "title": "Rattan shield"
+            },
+            {
+              "ns": 0,
+              "title": "Rawhide (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Red-figure pottery"
+            },
+            {
+              "ns": 0,
+              "title": "Republic of the Congo"
+            },
+            {
+              "ns": 0,
+              "title": "Riot control"
+            },
+            {
+              "ns": 0,
+              "title": "Riot shield"
+            },
+            {
+              "ns": 0,
+              "title": "Rodeleros"
+            },
+            {
+              "ns": 0,
+              "title": "Roman legionaries"
+            },
+            {
+              "ns": 0,
+              "title": "Roromaraugi"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Albert Memorial Museum"
+            },
+            {
+              "ns": 0,
+              "title": "SWAT"
+            },
+            {
+              "ns": 0,
+              "title": "Schiltron"
+            },
+            {
+              "ns": 0,
+              "title": "Scottish Highland"
+            },
+            {
+              "ns": 0,
+              "title": "Scottish clans"
+            },
+            {
+              "ns": 0,
+              "title": "Scutum (shield)"
+            },
+            {
+              "ns": 0,
+              "title": "Sherden"
+            },
+            {
+              "ns": 0,
+              "title": "Shield (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Shield boss"
+            },
+            {
+              "ns": 0,
+              "title": "Shield wall"
+            },
+            {
+              "ns": 0,
+              "title": "Shields (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Sinjska alka"
+            },
+            {
+              "ns": 0,
+              "title": "Sling (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Sotho people"
+            },
+            {
+              "ns": 0,
+              "title": "Spear"
+            },
+            {
+              "ns": 0,
+              "title": "Special Warfare Combatant-craft Crewmen"
+            },
+            {
+              "ns": 0,
+              "title": "Strapped shield"
+            },
+            {
+              "ns": 0,
+              "title": "Swashbuckler"
+            },
+            {
+              "ns": 0,
+              "title": "Tacuinum Sanitatis"
+            },
+            {
+              "ns": 0,
+              "title": "Taming (shield)"
+            },
+            {
+              "ns": 0,
+              "title": "Targe"
+            },
+            {
+              "ns": 0,
+              "title": "Testudo formation"
+            },
+            {
+              "ns": 0,
+              "title": "Thorsberg moor"
+            },
+            {
+              "ns": 0,
+              "title": "Tournament (medieval)"
+            },
+            {
+              "ns": 0,
+              "title": "Tswana people"
+            },
+            {
+              "ns": 0,
+              "title": "U.S. Navy"
+            },
+            {
+              "ns": 0,
+              "title": "Viking Age arms and armour"
+            },
+            {
+              "ns": 0,
+              "title": "Visayans"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weapons sacrifice"
+            },
+            {
+              "ns": 0,
+              "title": "Westminster College (Pennsylvania)"
+            },
+            {
+              "ns": 0,
+              "title": "Wicker"
+            },
+            {
+              "ns": 0,
+              "title": "Wood"
+            },
+            {
+              "ns": 0,
+              "title": "Yetholm-type shields"
+            },
+            {
+              "ns": 0,
+              "title": "Zulu Kingdom"
+            },
+            {
+              "ns": 0,
+              "title": "Zulu people"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329703.667752
+}

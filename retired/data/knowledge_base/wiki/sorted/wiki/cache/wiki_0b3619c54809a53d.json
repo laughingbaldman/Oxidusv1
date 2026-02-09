@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "265112": {
+          "pageid": 265112,
+          "ns": 0,
+          "title": "Improvised explosive device",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Zionist political violence"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329540.4817307
+}

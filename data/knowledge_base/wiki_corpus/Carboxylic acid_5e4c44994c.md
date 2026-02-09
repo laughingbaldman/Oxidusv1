@@ -1,0 +1,1058 @@
+---
+title: "Carboxylic acid"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Carboxylic_acid"
+source: "wikipedia"
+timestamp: "2026-02-07T20:09:28.131189"
+content_length: 15784
+links_count: 900
+---
+
+In organic chemistry, a carboxylic acid is an organic acid that contains a carboxyl group (−C(=O)−OH) attached to an R-group. The general formula of a carboxylic acid is often written as R−COOH or R−CO2H, sometimes as R−C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), or hydrogen, or other groups. Carboxylic acids occur widely. Important examples include the amino acids and fatty acids. Deprotonation of a carboxylic acid gives a carboxylate anion.
+
+
+== Examples and nomenclature ==
+Carboxylic acids are commonly identified by their trivial names. They often have the suffix -ic acid. IUPAC-recommended names also exist; in this system, carboxylic acids have an -oic acid suffix. For example, butyric acid (CH3CH2CH2CO2H) is butanoic acid by IUPAC guidelines. For nomenclature of complex molecules containing a carboxylic acid, the carboxyl can be considered position one of the parent chain even if there are other substituents, such as 3-chloropropanoic acid. Alternately, it can be named as a "carboxy" or "carboxylic acid" substituent on another parent structure, such as 2-carboxyfuran.
+The carboxylate anion (R−COO− or R−CO−2) of a carboxylic acid is usually named with the suffix -ate, in keeping with the general pattern of -ic acid and -ate for a conjugate acid and its conjugate base, respectively. For example, the conjugate base of acetic acid is acetate.
+Carbonic acid, which occurs in bicarbonate buffer systems in nature, is not generally classed as one of the carboxylic acids, despite it having a moiety that looks like a COOH group.
+
+
+== Physical properties ==
+
+
+=== Solubility ===
+Carboxylic acids are polar. Because they are both hydrogen-bond acceptors (the carbonyl −C(=O)−) and hydrogen-bond donors (the hydroxyl −OH), they also participate in hydrogen bonding. Together, the hydroxyl and carbonyl group form the functional group carboxyl. Carboxylic acids usually exist as dimers in nonpolar media due to their tendency to "self-associate". Smaller carboxylic acids (1 to 5 carbons) are soluble in water, whereas bigger carboxylic acids have limited solubility due to the increasing hydrophobic nature of the alkyl chain. These longer chain acids tend to be soluble in less-polar solvents such as ethers and alcohols. Aqueous sodium hydroxide and carboxylic acids, even hydrophobic ones, react to yield water-soluble sodium salts. For example, enanthic acid has a low solubility in water (0.2 g/L), but its sodium salt is very soluble in water.
+
+
+=== Boiling points ===
+Carboxylic acids tend to have higher boiling points than water, because of their greater surface areas and their tendency to form stabilized dimers through hydrogen bonds. For boiling to occur, either the dimer bonds must be broken or the entire dimer arrangement must be vaporized, increasing the enthalpy of vaporization requirements significantly.
+
+
+=== Acidity ===
+Carboxylic acids are Brønsted–Lowry acids because they are proton (H+) donors. They are the most common type of organic acid.
+Carboxylic acids are typically weak acids, meaning that they only partially dissociate into [H3O]+ cations and R−CO−2 anions in neutral aqueous solution. For example, at room temperature, in a 1-molar solution of acetic acid, only 0.001% of the acid are dissociated (i.e. 10−5 moles out of 1 mol). Electron-withdrawing substituents such as trifluoromethyl (−CF3) give stronger acids (the pKa of acetic acid is 4.76 whereas trifluoroacetic acid, with a trifluoromethyl substituent, has a pKa of 0.23). Electron-donating substituents give weaker acids (the pKa of formic acid is 3.75 whereas acetic acid, with a methyl substituent, has a pKa of 4.76)
+
+Deprotonation of carboxylic acids gives carboxylate anions; these are resonance stabilized, because the negative charge is delocalized over the two oxygen atoms, increasing the stability of the anion. Each of the carbon–oxygen bonds in the carboxylate anion has a partial double-bond character. The carbonyl carbon's partial positive charge is also weakened by the −1/2 negative charges on the 2 oxygen atoms.
+
+
+=== Odour ===
+Carboxylic acids often have strong sour odours. Esters of carboxylic acids tend to have fruity, pleasant odours, and many are used in perfume.
+
+
+=== Characterization ===
+Carboxylic acids are readily identified as such by infrared spectroscopy. They exhibit a sharp band associated with vibration of the C=O carbonyl bond (νC=O) between 1680 and 1725 cm−1. A characteristic νO–H band appears as a broad peak in the 2500 to 3000 cm−1 region. By 1H NMR spectrometry, the hydroxyl hydrogen appears in the 10–13 ppm region, although it is often either broadened or not observed owing to exchange with traces of water.
+
+
+== Occurrence and applications ==
+Many carboxylic acids are produced industrially on a large scale. They are also frequently found in nature. Esters of fatty acids are the main components of lipids and polyamides of aminocarboxylic acids are the main components of proteins.
+Carboxylic acids are used in the production of polymers, pharmaceuticals, solvents, and food additives. Industrially important carboxylic acids include acetic acid (component of vinegar, precursor to solvents and coatings), acrylic and methacrylic acids (precursors to polymers, adhesives), adipic acid (polymers), citric acid (a flavor and preservative in food and beverages), ethylenediaminetetraacetic acid (chelating agent), fatty acids (coatings), maleic acid (polymers), propionic acid (food preservative), terephthalic acid (polymers). Important carboxylate salts are soaps.
+
+
+== Synthesis ==
+
+
+=== Industrial routes ===
+In contrast to methods used on a laboratory scale, industrial routes to carboxylic acids often require specialized equipment for high pressures and high temperatures.
+
+Carbonylation of alcohols as illustrated by the Cativa process for the production of acetic acid. Formic acid is prepared by a different carbonylation pathway, also starting from methanol.
+Oxidation of aldehydes with air using cobalt and manganese catalysts. The required aldehydes can be obtained from alkenes by hydroformylation.
+Oxidation of hydrocarbons using air. For simple alkanes, this method is inexpensive but not selective enough to be useful. Allylic and benzylic compounds undergo more selective oxidations. Alkyl groups on a benzene ring are oxidized to the carboxylic acid, regardless of its chain length. Benzoic acid from toluene, terephthalic acid from para-xylene, and phthalic acid from ortho-xylene are illustrative large-scale conversions. Acrylic acid is generated from propene.
+Hydrocarboxylation of alkenes. This method is effective for alkenes that generate secondary and tertiary carbocations, e.g. isobutylene to pivalic acid. In the Koch reaction, the addition of water and carbon monoxide to alkenes or alkynes is catalyzed by strong acids. Hydrocarboxylations involve the simultaneous addition of water and CO. Such reactions are sometimes called "Reppe chemistry."
+HC≡CH + CO + H2O → CH2=CH−CO2H
+Hydrolysis of esters.  Triglycerides, obtained from plant or animal oils, are precursors to long-chain carboxylic acids are related to soap making.
+Fermentation of ethanol. This method is used in the production of vinegar.
+Carbonation, such as the Kolbe–Schmitt reaction as a route to salicylic acid, precursor to aspirin.
+
+
+=== Laboratory methods ===
+Preparative methods for small scale reactions for research or for production of fine chemicals often employ expensive consumable reagents.
+
+Oxidation of primary alcohols or aldehydes with strong oxidants such as potassium dichromate, Jones reagent, potassium permanganate, or sodium chlorite. The method is more suitable for laboratory conditions than the industrial use of air, which is "greener" because it yields less inorganic side products such as chromium or manganese oxides.
+Oxidative cleavage of olefins by ozonolysis, potassium permanganate, or potassium dichromate.
+Hydrolysis of nitriles, esters, or amides, usually with acid- or base-catalysis.
+Carbonation of a Grignard reagent and organolithium reagents:
+RLi + CO2 → RCO−2Li+
+RCO−2Li+ + HCl → RCO2H + LiCl
+Halogenation followed by hydrolysis of methyl ketones in the haloform reaction
+Base-catalyzed cleavage of non-enolizable ketones, especially aryl ketones:
+R−C(=O)−Ar + H2O → R−CO2H + ArH
+
+
+=== Less-common reactions ===
+Many reactions produce carboxylic acids but are used only in specific cases or are mainly of academic interest.
+
+Disproportionation of an aldehyde in the Cannizzaro reaction
+Rearrangement of diketones in the benzilic acid rearrangement
+Involving the generation of benzoic acids are the von Richter reaction from nitrobenzenes and the Kolbe–Schmitt reaction from phenols.
+
+
+== Reactions ==
+
+
+=== Acid-base reactions ===
+Carboxylic acids react with bases to form carboxylate salts, in which the hydrogen of the hydroxyl (–OH) group is replaced with a metal cation. For example, acetic acid found in vinegar reacts with sodium bicarbonate (baking soda) to form sodium acetate, carbon dioxide, and water:
+
+CH3COOH + NaHCO3 → CH3COO−Na+ + CO2 + H2O
+
+
+=== Conversion to esters, amides, anhydrides ===
+Widely practiced reactions convert carboxylic acids into esters, amides, carboxylate salts, acid chlorides, and alcohols.
+Their conversion to esters is widely used, e.g. in the production of polyesters. Likewise, carboxylic acids are converted into amides, but this conversion typically does not occur by direct reaction of the carboxylic acid and the amine. Instead esters are typical precursors to amides. The conversion of amino acids into peptides is a significant biochemical process that requires ATP.
+Converting a carboxylic acid to an amide is possible, but not straightforward. Instead of acting as a nucleophile, an amine will react as a base in the presence of a carboxylic acid to give the ammonium carboxylate salt. Heating the salt to above 100 °C will drive off water and lead to the formation of the amide. This method of synthesizing amides is industrially important, and has laboratory applications as well. In the presence of a strong acid catalyst, carboxylic acids can condense to form acid anhydrides. The condensation produces water, however, which can hydrolyze the anhydride back to the starting carboxylic acids. Thus, the formation of the anhydride via condensation is an equilibrium process.
+Under acid-catalyzed conditions, carboxylic acids will react with alcohols to form esters via the Fischer esterification reaction, which is also an equilibrium process. Alternatively, diazomethane can be used to convert an acid to an ester. While esterification reactions with diazomethane often give quantitative yields, diazomethane is only useful for forming methyl esters.
+
+
+=== Reduction ===
+Like esters, most carboxylic acids can be reduced to alcohols by hydrogenation, or using hydride transferring agents such as lithium aluminium hydride. Strong alkyl transferring agents, such as organolithium compounds but not Grignard reagents, will reduce carboxylic acids to ketones along with transfer of the alkyl group.
+The Vilsmaier reagent (N,N-Dimethyl(chloromethylene)ammonium chloride; [ClHC=N+(CH3)2]Cl−) is a highly chemoselective agent for carboxylic acid reduction. It selectively activates the carboxylic acid to give the carboxymethyleneammonium salt, which can be reduced by a mild reductant like lithium tris(t-butoxy)aluminum hydride to afford an aldehyde in a one pot procedure. This procedure is known to tolerate reactive carbonyl functionalities such as ketone as well as moderately reactive ester, olefin, nitrile, and halide moieties.
+
+
+=== Conversion to acyl halides ===
+The hydroxyl group on carboxylic acids may be replaced with a chlorine atom using thionyl chloride to give acyl chlorides. In nature, carboxylic acids are converted to thioesters. Thionyl chloride can be used to convert carboxylic acids to their corresponding acyl chlorides. First, carboxylic acid 1 attacks thionyl chloride, and chloride ion leaves. The resulting oxonium ion 2 is activated towards nucleophilic attack and has a good leaving group, setting it apart from a normal carboxylic acid. In the next step, 2 is attacked by chloride ion to give tetrahedral intermediate 3, a chlorosulfite. The tetrahedral intermediate collapses with the loss of sulfur dioxide and chloride ion, giving protonated acyl chloride 4. Chloride ion can remove the proton on the carbonyl group, giving the acyl chloride 5 with a loss of HCl.
+
+Phosphorus(III) chloride (PCl3) and phosphorus(V) chloride (PCl5) will also convert carboxylic acids to acid chlorides, by a similar mechanism. One equivalent of PCl3 can react with three equivalents of acid, producing one equivalent of H3PO3, or phosphorus acid, in addition to the desired acid chloride. PCl5 reacts with carboxylic acids in a 1:1 ratio, and produces phosphorus(V) oxychloride (POCl3) and hydrogen chloride (HCl) as byproducts.
+
+
+=== Reactions with carbanion equivalents ===
+Carboxylic acids react with Grignard reagents and organolithiums to form ketones. The first equivalent of nucleophile acts as a base and deprotonates the acid. A second equivalent will attack the carbonyl group to create a geminal alkoxide dianion, which is protonated upon workup to give the hydrate of a ketone. Because most ketone hydrates are unstable relative to their corresponding ketones, the equilibrium between the two is shifted heavily in favor of the ketone. For example, the equilibrium constant for the formation of acetone hydrate from acetone is only 0.002. The carboxylic group is the most acidic in organic compounds.
+
+
+=== Specialized reactions ===
+As with all carbonyl compounds, the protons on the α-carbon are labile due to keto–enol tautomerization. Thus, the α-carbon is easily halogenated in the Hell–Volhard–Zelinsky halogenation.
+The Schmidt reaction converts carboxylic acids to amines.
+Carboxylic acids are decarboxylated in the Hunsdiecker reaction.
+The Dakin–West reaction converts an amino acid to the corresponding amino ketone.
+In the Barbier–Wieland degradation, a carboxylic acid on an aliphatic chain having a simple methylene bridge at the alpha position can have the chain shortened by one carbon. The inverse procedure is the Arndt–Eistert synthesis, where an acid is converted into acyl halide, which is then reacted with diazomethane to give one additional methylene in the aliphatic chain.
+Many acids undergo oxidative decarboxylation. Enzymes that catalyze these reactions are known as carboxylases (EC 6.4.1) and decarboxylases (EC 4.1.1).
+Carboxylic acids are reduced to aldehydes via the ester and DIBAL, via the acid chloride in the Rosenmund reduction and via the thioester in the Fukuyama reduction.
+In ketonic decarboxylation carboxylic acids are converted to ketones.
+Organolithium reagents (>2 equiv) react with carboxylic acids to give a dilithium 1,1-diolate, a stable tetrahedral intermediate which decomposes to give a ketone upon acidic workup.
+The Kolbe electrolysis is an electrolytic, decarboxylative dimerization reaction. It gets rid of the carboxyl groups of two acid molecules, and joins the remaining fragments together.
+
+
+== Carboxyl radical ==
+The carboxyl radical, •COOH, only exists briefly. The acid dissociation constant of •COOH has been measured using electron paramagnetic resonance spectroscopy. The carboxyl group tends to dimerise to form oxalic acid.
+
+
+== See also ==
+Acid anhydride
+Acid chloride
+Amide
+Amino acid
+Ester
+List of carboxylic acids
+Dicarboxylic acid
+Pseudoacid
+Thiocarboxy
+Carbon dioxide (CO2)
+
+
+== References ==
+
+
+== External links ==
+
+Carboxylic acids pH and titration – freeware for calculations, data analysis, simulation, and distribution diagram generation
+PHC. Archived 1 May 2021 at the Wayback Machine
+
+## Links
+- (4+3) cycloaddition
+- 1,2-Wittig rearrangement
+- 1,2-rearrangement
+- 1,3-Dipolar cycloaddition
+- 1-Phosphaallenes
+- 2,3-Wittig rearrangement
+- 2,3-sigmatropic rearrangement
+- 2-Furoic acid
+- 2-Nitrobenzoic acid
+- 2-Norbornyl cation
+- 3-chloropropanoic acid
+- 4+4 Photocycloaddition
+- 6+4 Cycloaddition
+- A value
+- Acetal
+- Acetate
+- Acetic acid
+- Acetoacetic acid
+- Acetoacetic ester synthesis
+- Acetone
+- Acetoxy group
+- Acetyl group
+- Acetylene
+- Achmatowicz reaction
+- Acid anhydride
+- Acid chloride
+- Acid chlorides
+- Acid dissociation constant
+- Acrylic acid
+- Acryloyl group
+- Acyl chloride
+- Acyl group
+- Acyl halide
+- Acyloin condensation
+- Addition reaction
+- Adenosine triphosphate
+- Adipic acid
+- Adkins–Peterson reaction
+- Akabori amino-acid reaction
+- Alcohol (chemistry)
+- Alcohol oxidation
+- Alcohols
+- Aldaric acid
+- Aldehyde
+- Aldol condensation
+- Aldol reaction
+- Algar–Flynn–Oyamada reaction
+- Alkane metathesis
+- Alkene
+- Alkenes
+- Alkenyl
+- Alkoxy group
+- Alkyl
+- Alkyne
+- Alkyne metathesis
+- Alkyne trimerisation
+- Alkyne zipper reaction
+- Alkynes
+- Alkynylation
+- Allan–Robinson reaction
+- Allenes
+- Allen–Millar–Trippett rearrangement
+- Allyl group
+- Allylic rearrangement
+- Alpha-carbon
+- Alpha-ketol rearrangement
+- Alpha effect
+- Alpha hydroxy acid
+- Amadori rearrangement
+- Amide
+- Amide (functional group)
+- Amide reduction
+- Amides
+- Amidine
+- Amine
+- Amino acid
+- Andrussow process
+- Angeli–Rimini reaction
+- Anion
+- Annulation
+- Annulene
+- Anomeric effect
+- Antiaromaticity
+- Arachidic acid
+- Arndt–Eistert reaction
+- Arndt–Eistert synthesis
+- Aromatic compound
+- Aromatic ring current
+- Aromaticity
+- Aromatization
+- Arsenic
+- Arsinic acid
+- Arsole
+- Arsonic acid (functional group)
+- Aryl
+- Aspirin
+- Autoxidation
+- Auwers synthesis
+- Aza-Baylis–Hillman reaction
+- Aza-Cope rearrangement
+- Aza-Diels–Alder reaction
+- Azide-alkyne Huisgen cycloaddition
+- Azo compound
+- Azo coupling
+- Baeyer–Emmerling indole synthesis
+- Baeyer–Villiger oxidation
+- Baird's rule
+- Baker–Nathan effect
+- Baker–Venkataraman rearrangement
+- Baldwin's rules
+- Bamberger rearrangement
+- Bamberger triazine synthesis
+- Bamford–Stevens reaction
+- Banert cascade
+- Barbier reaction
+- Barbier–Wieland degradation
+- Bartoli indole synthesis
+- Barton–Kellogg reaction
+- Barton–McCombie deoxygenation
+- Barton–Zard reaction
+- Base (chemistry)
+- Baylis–Hillman reaction
+- Bechamp reduction
+- Beckmann rearrangement
+- Bema Hapothle
+- Benary reaction
+- Benkeser reaction
+- Benzilic acid rearrangement
+- Benzoic acid
+- Benzoyl group
+- Benzyl group
+- Bergman cyclization
+- Bergmann degradation
+- Bernthsen acridine synthesis
+- Beta-silicon effect
+- Beta hydroxy acid
+- Bibcode (identifier)
+- Bicarbonate buffer system
+- Bicycloaromaticity
+- Biginelli reaction
+- Bingel reaction
+- Birch reduction
+- Bischler–Möhlau indole synthesis
+- Bischler–Napieralski reaction
+- Blaise ketone synthesis
+- Blaise reaction
+- Blanc chloromethylation
+- Blum–Ittah aziridine synthesis
+- Bobbitt reaction
+- Bodroux–Chichibabin aldehyde synthesis
+- Body odour
+- Boekelheide reaction
+- Boger pyridine synthesis
+- Bohlmann–Rahtz pyridine synthesis
+- Bohn–Schmidt reaction
+- Boord olefin synthesis
+- Borinic acid
+- Boron
+- Boronic acid
+- Borsche–Drechsel cyclization
+- Bosch reaction
+- Boudouard reaction
+- Bouveault aldehyde synthesis
+- Bouveault–Blanc reduction
+- Boyland–Sims oxidation
+- Bradsher cycloaddition
+- Bredt's rule
+- Brook rearrangement
+- Brønsted–Lowry acid–base theory
+- Bucherer carbazole synthesis
+- Bucherer–Bergs reaction
+- Buchner ring expansion
+- Butter
+- Butyl group
+- Butyric acid
+- Bürgi–Dunitz angle
+- CRC Handbook of Chemistry and Physics
+- CRC Press
+- Cadiot–Chodkiewicz coupling
+- Cadogan–Sundberg indole synthesis
+- Camps quinoline synthesis
+- Cannizzaro reaction
+- Capric acid
+- Caproic acid
+- Caprylic acid
+- Carbamate
+- Carbene
+- Carbocation
+- Carbolic acid
+- Carbon
+- Carbon dioxide
+- Carbon monoxide
+- Carbonation
+- Carbonic acid
+- Carbonyl
+- Carbonyl allylation
+- Carbonyl group
+- Carbonyl olefin metathesis
+- Carbonyl reduction
+- Carboxylase
+- Carboxylate
+- Carboxylic acid reduction
+- Carboxylic anhydride
+- Carroll rearrangement
+- Castro–Stephens coupling
+- Catalytic resonance theory
+- Cation
+- Cativa process
+- Chan rearrangement
+- Chan–Lam coupling
+- Charge-transfer complex
+- Charge remote fragmentation
+- Cheletropic reaction
+- Chemical classification
+- Chemical nomenclature
+- Chichibabin pyridine synthesis
+- Chloroacetic acid
+- Chloroformic acid
+- Chlorosilane
+- Chocolate
+- Chugaev elimination
+- Citric acid
+- Citrus fruit
+- Claisen-Schmidt condensation
+- Claisen condensation
+- Claisen rearrangement
+- Clar's rule
+- Clemmensen reduction
+- Coconut oil
+- Coconuts
+- Collins oxidation
+- Combes quinoline synthesis
+- Condensation reaction
+- Conformational isomerism
+- Conia-ene reaction
+- Conjugate acid
+- Conjugated system
+- Conrotatory and disrotatory
+- Cooh (musician)
+- Cook–Heilbron thiazole synthesis
+- Cope reaction
+- Cope rearrangement
+- Corey–Fuchs reaction
+- Corey–House synthesis
+- Corey–Itsuno reduction
+- Corey–Kim oxidation
+- Corey–Winter olefin synthesis
+- Cornforth rearrangement
+- Coupling reaction
+- Criegee oxidation
+- Criegee rearrangement
+- Cross-coupling partner
+- Cross-coupling reaction
+- Cross dehydrogenative coupling
+- Crotyl group
+- Cumulene
+- Curtin–Hammett principle
+- Curtius rearrangement
+- Cyanate ester
+- Cycloaddition
+- Cyclopropanation
+- Cyclopropyl
+- DNA oxidation
+- Dakin oxidation
+- Dakin–West reaction
+- Darzens reaction
+- Davis oxidation
+- Davis–Beirut reaction
+- De Kimpe aziridine synthesis
+- Debus–Radziszewski imidazole synthesis
+- Decarboxylase
+- Dehydrohalogenation
+- Demjanov rearrangement
+- Deoxygenation
+- Deprotonation
+- Dess–Martin oxidation
+- Di-π-methane rearrangement
+- Diazoalkane 1,3-dipolar cycloaddition
+- Diazomethane
+- Diazonium compound
+- Dicarboxylic acid
+- Dichloroacetic acid
+- Dieckmann condensation
+- Diels–Alder reaction
+- Difluoroacetic acid
+- Diisobutylaluminium hydride
+- Dimer (chemistry)
+- Dimroth rearrangement
+- Dioxirane
+- Dissociation (chemistry)
+- Disulfide
+- Divinylcyclopropane-cycloheptadiene rearrangement
+- Divinylether fatty acids
+- Docosahexaenoic acid
+- Doebner reaction
+- Doi (identifier)
+- Dowd–Beckwith ring-expansion reaction
+- Dynamic binding (chemistry)
+- Edman degradation
+- Edwards equation
+- Effective molarity
+- Eicosapentaenoic acid
+- Einhorn–Brunner reaction
+- Elbs persulfate oxidation
+- Electrocyclic reaction
+- Electromeric effect
+- Electron-rich
+- Electron-withdrawing group
+- Electron paramagnetic resonance
+- Electronic effect
+- Electrophile
+- Elimination reaction
+- Emde degradation
+- Enamine
+- Enanthic acid
+- Ene reaction
+- Enol ether
+- Enone–alkene cycloadditions
+- Enthalpy of vaporization
+- Enyne metathesis
+- Enzyme
+- Enzyme Commission number
+- Epoxidation of allylic alcohols
+- Epoxide
+- Erlenmeyer–Plöchl azlactone and amino-acid synthesis
+- Eschweiler–Clarke reaction
+- Ester
+- Esterification
+- Esters
+- Ethenolysis
+- Ether
+- Ethyl group
+- Ethylenediaminetetraacetic acid
+- Ethylenedioxy
+- Evelyn effect
+- Fatty acid
+- Favorskii reaction
+- Favorskii rearrangement
+- Feist–Benary synthesis
+- Fermentation (biochemistry)
+- Ferrario–Ackermann reaction
+- Ferrier carbocyclization
+- Ferrier rearrangement
+- Fiesselmann thiophene synthesis
+- Fischer esterification
+- Fischer indole synthesis
+- Fischer oxazole synthesis
+- Fischer–Hepp rearrangement
+- Fischer–Tropsch process
+- Fleming–Tamao oxidation
+- Flippin–Lodge angle
+- Fluoroacetic acid
+- Fluoroethyl
+- Formic acid
+- Free-energy relationship
+- Free radical
+- Friedel–Crafts reaction
+- Friedländer synthesis
+- Fries rearrangement
+- Fritsch–Buttenberg–Wiechell rearrangement
+- Fujimoto–Belleau reaction
+- Fujiwara–Moritani reaction
+- Fukuyama coupling
+- Fukuyama reduction
+- Functional group
+- Gabriel–Colman rearrangement
+- Gallagher–Hollander degradation
+- Ganem oxidation
+- Gattermann reaction
+- Geminal
+- George S. Hammond
+- Gewald reaction
+- Glaser coupling
+- Glyceric acid
+- Glycine
+- Glycol cleavage
+- Glycolic acid
+- Goat
+- Graham reaction
+- Grieco elimination
+- Griesbaum coozonolysis
+- Grignard reaction
+- Grignard reagent
+- Grignard reagents
+- Group transfer reaction
+- Grundmann aldehyde synthesis
+- Grunwald–Winstein equation
+- Haloalkane
+- Halocarbon
+- Haloform reaction
+- Halogen dance rearrangement
+- Halogenation
+- Hammett acidity function
+- Hammett equation
+- Hammick reaction
+- Hammond's postulate
+- Hantzsch ester
+- Hantzsch pyridine synthesis
+- Hayashi rearrangement
+- Heck reaction
+- Hegedus indole synthesis
+- Hell–Volhard–Zelinsky halogenation
+- Hemetsberger indole synthesis
+- Henry reaction
+- Herz reaction
+- Heterogeneous metal catalyzed cross-coupling
+- Hexadehydro Diels–Alder reaction
+- High dilution principle
+- Hiyama coupling
+- Hofmann elimination
+- Hofmann rearrangement
+- Hofmann–Löffler reaction
+- Hofmann–Martius rearrangement
+- Homoaromaticity
+- Homologation reaction
+- Homologation reactions
+- Hooker reaction
+- Horner–Wadsworth–Emmons reaction
+- Hunsdiecker reaction
+- Hurd–Mori 1,2,3-thiadiazole synthesis
+- Hydrazines
+- Hydrazone
+- Hydrazone iodination
+- Hydrocarbon
+- Hydrocarboxylation
+- Hydrocyanation
+- Hydroformylation
+- Hydrogen
+- Hydrogen bond
+- Hydrogen chloride
+- Hydrogenation
+- Hydrogenolysis
+- Hydronium
+- Hydroperoxide
+- Hydrosilane
+- Hydrovinylation
+- Hydroxyl
+- Hydroxylation
+- Hydroxymethylation
+- Hyperconjugation
+- Hückel's rule
+- ISBN (identifier)
+- ISSN (identifier)
+- IUPAC
+- IUPAC books
+- IUPAC nomenclature of inorganic chemistry
+- IUPAC nomenclature of organic chemistry
+- Imidate
+- Imide
+- Imine
+- Inductive effect
+- Infrared spectroscopy
+- Insect stings
+- International Union of Pure and Applied Chemistry
+- Intramolecular Diels–Alder cycloaddition
+- Inverse electron-demand Diels–Alder reaction
+- Iodane
+- Iodolactonization
+- Ireland–Claisen rearrangement
+- Isay reaction
+- Isobutylene
+- Isocitric acid
+- Isocyanate
+- Isocyanide
+- Isosaccharinic acid
+- Isothiocyanate
+- Ivanov reaction
+- Jacobsen epoxidation
+- Jacobsen rearrangement
+- Johnson–Corey–Chaykovsky reaction
+- Jones oxidation
+- Jones reagent
+- Julia olefination
+- Julia–Kocienski olefination
+- Kauffmann olefination
+- Kennedy J. P. Orton
+- Ketene
+- Ketene cycloaddition
+- Keto acid
+- Ketone
+- Ketonic decarboxylation
+- Keto–enol tautomerism
+- Kharasch–Sosnovsky reaction
+- Kiliani–Fischer synthesis
+- Kinetic isotope effect
+- Knoevenagel condensation
+- Knorr pyrrole synthesis
+- Knorr quinoline synthesis
+- Koch reaction
+- Kolbe electrolysis
+- Kolbe–Schmitt reaction
+- Kornblum oxidation
+- Kornblum–DeLaMare rearrangement
+- Kowalski ester homologation
+- Kröhnke pyridine synthesis
+- Kulinkovich reaction
+- Kumada coupling
+- LFER solvent coefficients (data page)
+- Lactic acid
+- Larock indole synthesis
+- Lauric acid
+- Lectka enantioselective beta-lactam synthesis
+- Lehmstedt–Tanasescu reaction
+- Leimgruber–Batcho indole synthesis
+- Leuckart reaction
+- Ley oxidation
+- Liebeskind–Srogl coupling
+- Lindgren oxidation
+- Lipid peroxidation
+- List of carboxylic acids
+- List of organic reactions
+- Lithium aluminium hydride
+- Lithium chloride
+- Lobry de Bruyn–Van Ekenstein transformation
+- Lombardo methylenation
+- Lossen rearrangement
+- Luche reduction
+- Madelung synthesis
+- Maleic acid
+- Malonic ester synthesis
+- Mannich reaction
+- Marcus theory
+- Margaric acid
+- Marker degradation
+- Markovnikov's rule
+- Markó–Lam deoxygenation
+- McCormack reaction
+- McFadyen–Stevens reaction
+- McLafferty rearrangement
+- McMurry reaction
+- Meerwein arylation
+- Meerwein–Ponndorf–Verley reduction
+- Metal-centered cycloaddition reactions
+- Metalloles
+- Methine group
+- Methionine sulfoxide
+- Methoxy group
+- Methoxymethylenetriphenylphosphorane
+- Methyl group
+- Methyl ketone
+- Methylenation
+- Methylene bridge
+- Methylene group
+- Methylenedioxy
+- Meyer–Schuster rearrangement
+- Michael reaction
+- Minisci reaction
+- Mislow–Evans rearrangement
+- Miyaura borylation
+- Mizoroki-Heck vs. Reductive Heck
+- Moiety (chemistry)
+- Molarity
+- More O'Ferrall–Jencks plot
+- Mozingo reduction
+- Mukaiyama hydration
+- Mumm rearrangement
+- Myers allene synthesis
+- Myristic acid
+- Möbius aromaticity
+- Möbius–Hückel concept
+- NONOate
+- Nazarov cyclization reaction
+- Neber rearrangement
+- Nef isocyanide reaction
+- Nef synthesis
+- Negative hyperconjugation
+- Negishi coupling
+- Neighbouring group participation
+- Nenitzescu indole synthesis
+- Newman–Kwart rearrangement
+- Niementowski quinazoline synthesis
+- Niementowski quinoline synthesis
+- Nierenstein reaction
+- Nitrate ester
+- Nitrene
+- Nitrile
+- Nitrite ester
+- Nitro-Mannich reaction
+- Nitro compound
+- Nitrogen
+- Nitrone-olefin (3+2) cycloaddition
+- Nitroso
+- Nonadecylic acid
+- Noyori asymmetric hydrogenation
+- Nozaki–Hiyama–Kishi reaction
+- Nuclear magnetic resonance
+- Nucleophile
+- Nutmeg
+- Nylon
+- Olefin
+- Olefin conversion technology
+- Olefin metathesis
+- Omega hydroxy acid
+- Omega oxidation
+- Oppenauer oxidation
+- Organic Syntheses
+- Organic acid
+- Organic chemistry
+- Organic peroxides
+- Organic reaction
+- Organic redox reaction
+- Organic thiocyanates
+- Organolithium
+- Organolithium reagent
+- Organophosphate
+- Organophosphine
+- Organopolonium chemistry
+- Organosilicon chemistry
+- Organyl group
+- Orthoester
+- Overman rearrangement
+- Oxalic acid
+- Oxidation of primary alcohols to carboxylic acids
+- Oxidative decarboxylation
+- Oxidizing agent
+- Oxime
+- Oxo-Diels–Alder reaction
+- Oxonium ion
+- Oxy-Cope rearrangement
+- Oxygen
+- Oxygen rebound mechanism
+- Oxymercuration reaction
+- Ozonolysis
+- PMC (identifier)
+- Paal–Knorr synthesis
+- Palladium–NHC complex
+- Palm kernel oil
+- Palm oil
+- Palmitic acid
+- Parent chain
+- Parikh–Doering oxidation
+- Passerini reaction
+- Passive binding
+- Paternò–Büchi reaction
+- Pauson–Khand reaction
+- Peanut oil
+- Pechmann condensation
+- Pelargonic acid
+- Pelargonium
+- Pellizzari reaction
+- Pentadecylic acid
+- Pentyl group
+- Peptide
+- Perchlorate ester
+- Perfume
+- Pericyclic reaction
+- Persulfide
+- Peterson olefination
+- Petrenko-Kritschenko piperidone synthesis
+- Pfitzinger reaction
+- Phenol
+- Phenyl alkanoic acids
+- Phenyl group
+- Pheromone
+- Phosphaalkene
+- Phosphaalkyne
+- Phosphaethynolate
+- Phosphinate
+- Phosphine oxide
+- Phosphite ester
+- Phosphodiester
+- Phosphonate
+- Phosphonite
+- Phosphonium
+- Phosphoramides
+- Phosphorus
+- Phosphorus(III) chloride
+- Phosphorus(V) chloride
+- Phosphorus(V) oxychloride
+- Phosphorus acid
+- Phthalic acid
+- Piancatelli rearrangement
+- Pictet–Spengler reaction
+- Pinacol coupling reaction
+- Pinacol rearrangement
+- Pinnick oxidation
+- Pivalic acid
+- Polar effect
+- Polarity (chemistry)
+- Polonium
+- Polonium hydride
+- Polyester
+- Polyfluorene
+- Polymerization
+- Pomeranz–Fritsch reaction
+- Potassium dichromate
+- Potassium permanganate
+- Povarov reaction
+- Prato reaction
+- Prilezhaev reaction
+- Prins reaction
+- Propene
+- Propenyl
+- Propionic acid
+- Propyl group
+- Protein
+- Prévost reaction
+- Pschorr cyclization
+- Pseudoacid
+- Pummerer rearrangement
+- Pyruvic acid
+- Quaternary ammonium cation
+- Quelet reaction
+- Ramberg–Bäcklund reaction
+- Rauhut–Currier reaction
+- Rearrangement reaction
+- Reduction of nitro compounds
+- Reductive amination
+- Reductone
+- Reed reaction
+- Reformatsky reaction
+- Regioselectivity
+- Reimer–Tiemann reaction
+- Reissert indole synthesis
+- Resonance stabilized
+- Retro-Diels–Alder reaction
+- Rieche formylation
+- Riley oxidation
+- Ring-closing metathesis
+- Ring expansion and contraction
+- Ring forming reaction
+- Ring strain
+- Robinson annulation
+- Robinson–Gabriel synthesis
+- Rosenmund reduction
+- Rubottom oxidation
+- Ruff degradation
+- Rupe reaction
+- Sabatier reaction
+- Sakurai reaction
+- Salicylic acid
+- Sarett oxidation
+- Schmidt reaction
+- Schotten–Baumann reaction
+- Selenenic acid
+- Selenide
+- Seleninic acid
+- Selenium
+- Selenol
+- Selenonic acid
+- Selenoxide elimination
+- Selone
+- Semipinacol rearrangement
+- Seyferth–Gilbert homologation
+- Shapiro reaction
+- Sharpless asymmetric dihydroxylation
+- Sharpless epoxidation
+- Sharpless oxyamination
+- Sigmatropic reaction
+- Silane
+- Silanol
+- Silanone
+- Silatrane
+- Silicate
+- Silicon
+- Siloxane
+- Siloxide
+- Silyl ether
+- Simmons–Smith reaction
+- Skattebøl rearrangement
+- Skraup reaction
+- Smiles rearrangement
+- Soap making
+- Sodium acetate
+- Sodium bicarbonate
+- Sodium chlorite
+- Sommelet–Hauser rearrangement
+- Sonogashira coupling
+- Spherical aromaticity
+- Spiroaromaticity
+- Stahl oxidation
+- Staudinger reaction
+- Staudinger synthesis
+- Stearic acid
+- Stephen aldehyde synthesis
+- Stereoselectivity
+- Stereospecificity
+- Steric effects
+- Stetter reaction
+- Stevens rearrangement
+- Stieglitz rearrangement
+- Stille reaction
+- Stollé synthesis
+- Stork enamine alkylation
+- Strecker degradation
+- Substituent
+- Substitution reaction
+- Sulfenic acid
+- Sulfenyl chloride
+- Sulfinic acid
+- Sulfinylamine
+- Sulfonamide
+- Sulfone
+- Sulfonic acid
+- Sulfonium
+- Sulfoxide
+- Sulfur
+- Sulfur dioxide
+- Superaromaticity
+- Suzuki reaction
+- Swain–Lupton equation
+- Swern oxidation
+- Taft equation
+- Takai olefination
+- Tartaric acid
+- Telluride (chemistry)
+- Tellurium
+- Telluroketone
+- Tellurol
+- Terephthalic acid
+- Tetrahedral intermediate
+- Tetrazole
+- Thermal rearrangement of aromatic hydrocarbons
+- Thia-crown ether
+- Thial
+- Thiocarboxy
+- Thioester
+- Thioether
+- Thioketone
+- Thiol
+- Thionoester
+- Thionyl chloride
+- Thiosulfinate
+- Thiosulfonate
+- Thioxanthate
+- Thorpe reaction
+- Thorpe–Ingold effect
+- Tiffeneau–Demjanov rearrangement
+- Toluene
+- Transfer hydrogenation
+- Triazole
+- Tricarboxylic acid
+- Trichloroacetic acid
+- Trichloromethyl group
+- Tridecylic acid
+- Trifluoroacetic acid
+- Trifluoromethoxy group
+- Trifluoromethyl
+- Trifluoromethyl group
+- Triglyceride
+- Trimethylenemethane cycloaddition
+- Trivial name
+- Ugi reaction
+- Ullmann condensation
+- Ullmann reaction
+- Undecylic acid
+- Urech hydantoin synthesis
+- Valerian (herb)
+- Valeric acid
+- Van Leusen reaction
+- Vilsmaier reagent
+- Vinegar
+- Vinyl group
+- Vinyl halide
+- Vinyl iodide functional group
+- Vinylcyclopropane (5+2) cycloaddition
+- Vinylcyclopropane rearrangement
+- Vinylogy
+- Von Braun amide degradation
+- Von Richter reaction
+- Wacker process
+- Wagner-Jauregg reaction
+- Wagner–Meerwein rearrangement
+- Wallach rearrangement
+- Walsh diagram
+- Walter Reppe
+- Water (molecule)
+- Wayback Machine
+- Weak acid
+- Weerman degradation
+- Weinreb ketone synthesis
+- Wenker synthesis
+- Westphalen–Lettré rearrangement
+- Wharton reaction
+- Whiting reaction
+- Willgerodt rearrangement
+- Williamson ether synthesis
+- Wittig reaction
+- Wohl degradation
+- Wohl–Aue reaction
+- Wolff rearrangement
+- Wolffenstein–Böters reaction
+- Wolff–Kishner reduction
+- Woodward's rules
+- Woodward–Hoffmann rules
+- Wulff–Dötz reaction
+- Wurtz reaction
+- Wurtz–Fittig reaction
+- Xanthate
+- Xylene
+- Y-aromaticity
+- Yamaguchi esterification
+- Ynone
+- Yukawa–Tsuno equation
+- Zaitsev's rule
+- Zincke–Suhl reaction
+- Zinin reaction
+- Étard reaction
+- Σ-aromaticity
+- Σ-bishomoaromaticity

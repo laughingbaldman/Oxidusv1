@@ -1,0 +1,309 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "5323": {
+          "pageid": 5323,
+          "ns": 0,
+          "title": "Computer science",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Software quality assurance"
+            },
+            {
+              "ns": 0,
+              "title": "Software repository"
+            },
+            {
+              "ns": 0,
+              "title": "Software system"
+            },
+            {
+              "ns": 0,
+              "title": "Software testing"
+            },
+            {
+              "ns": 0,
+              "title": "Software verification and validation"
+            },
+            {
+              "ns": 0,
+              "title": "Solid modeling"
+            },
+            {
+              "ns": 0,
+              "title": "Speech recognition"
+            },
+            {
+              "ns": 0,
+              "title": "Speech synthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral model"
+            },
+            {
+              "ns": 0,
+              "title": "Statistics"
+            },
+            {
+              "ns": 0,
+              "title": "Stephen Cole Kleene"
+            },
+            {
+              "ns": 0,
+              "title": "Stepped Reckoner"
+            },
+            {
+              "ns": 0,
+              "title": "Stochastic computing"
+            },
+            {
+              "ns": 0,
+              "title": "Structured analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Structured program theorem"
+            },
+            {
+              "ns": 0,
+              "title": "Structured programming"
+            },
+            {
+              "ns": 0,
+              "title": "Supercomputer"
+            },
+            {
+              "ns": 0,
+              "title": "Supervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "Swarm intelligence"
+            },
+            {
+              "ns": 0,
+              "title": "Symbolic computation"
+            },
+            {
+              "ns": 0,
+              "title": "System on a chip"
+            },
+            {
+              "ns": 0,
+              "title": "Systems analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Systems architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Systems development life cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Systems engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Systems modeling"
+            },
+            {
+              "ns": 0,
+              "title": "Systems modeling language"
+            },
+            {
+              "ns": 0,
+              "title": "Tabulating machine"
+            },
+            {
+              "ns": 0,
+              "title": "Taylor & Francis"
+            },
+            {
+              "ns": 0,
+              "title": "Technical debt"
+            },
+            {
+              "ns": 0,
+              "title": "Telecommunications"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical computer science"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of computation"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic computing"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas de Colmar"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing 1950–1979"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing 1980–1989"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing 1990–1999"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing 2000–2009"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing 2010–2019"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing 2020–present"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of computing hardware before 1950"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of quantum computing and communication"
+            },
+            {
+              "ns": 0,
+              "title": "Tony Hoare"
+            },
+            {
+              "ns": 0,
+              "title": "Turing Award"
+            },
+            {
+              "ns": 0,
+              "title": "Turing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Turing test"
+            },
+            {
+              "ns": 0,
+              "title": "Type systems"
+            },
+            {
+              "ns": 0,
+              "title": "Type theory"
+            },
+            {
+              "ns": 0,
+              "title": "Ubiquitous computing"
+            },
+            {
+              "ns": 0,
+              "title": "Unified Modeling Language"
+            },
+            {
+              "ns": 0,
+              "title": "Unified process"
+            },
+            {
+              "ns": 0,
+              "title": "Universal Systems Language"
+            },
+            {
+              "ns": 0,
+              "title": "University of Cambridge Computer Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Unsupervised learning"
+            },
+            {
+              "ns": 0,
+              "title": "V-model (software development)"
+            },
+            {
+              "ns": 0,
+              "title": "Very-large-scale integration"
+            },
+            {
+              "ns": 0,
+              "title": "Video game"
+            },
+            {
+              "ns": 0,
+              "title": "View model"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual machine"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual reality"
+            },
+            {
+              "ns": 0,
+              "title": "Visualization (graphics)"
+            },
+            {
+              "ns": 0,
+              "title": "Waterfall model"
+            },
+            {
+              "ns": 0,
+              "title": "Watson Scientific Computing Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Schickard"
+            },
+            {
+              "ns": 0,
+              "title": "William J. Rapaport"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless sensor network"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor"
+            },
+            {
+              "ns": 0,
+              "title": "World Wide Web"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-knowledge proof"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330136.712547
+}

@@ -1,0 +1,1733 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "199661": {
+          "pageid": 199661,
+          "ns": 0,
+          "title": "Rock (geology)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "4 Vesta"
+            },
+            {
+              "ns": 0,
+              "title": "Adakite"
+            },
+            {
+              "ns": 0,
+              "title": "Adamellite"
+            },
+            {
+              "ns": 0,
+              "title": "Agriculture"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali feldspar granite"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali metal oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Amphibolite"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Rome"
+            },
+            {
+              "ns": 0,
+              "title": "Andesite"
+            },
+            {
+              "ns": 0,
+              "title": "Anorthosite"
+            },
+            {
+              "ns": 0,
+              "title": "Anthracite"
+            },
+            {
+              "ns": 0,
+              "title": "Anthropic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Aphanite"
+            },
+            {
+              "ns": 0,
+              "title": "Aplite"
+            },
+            {
+              "ns": 0,
+              "title": "Appinite"
+            },
+            {
+              "ns": 0,
+              "title": "Archaeological"
+            },
+            {
+              "ns": 0,
+              "title": "Argillite"
+            },
+            {
+              "ns": 0,
+              "title": "Arkose"
+            },
+            {
+              "ns": 0,
+              "title": "Artificial stone"
+            },
+            {
+              "ns": 0,
+              "title": "Asteroid"
+            },
+            {
+              "ns": 0,
+              "title": "Asthenosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Balancing rock"
+            },
+            {
+              "ns": 0,
+              "title": "Banded iron formation"
+            },
+            {
+              "ns": 0,
+              "title": "Basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Basaltic trachyandesite"
+            },
+            {
+              "ns": 0,
+              "title": "Basanite"
+            },
+            {
+              "ns": 0,
+              "title": "Base metals"
+            },
+            {
+              "ns": 0,
+              "title": "Benmoreite"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Blairmorite"
+            },
+            {
+              "ns": 0,
+              "title": "Blueschist"
+            },
+            {
+              "ns": 0,
+              "title": "Boninite"
+            },
+            {
+              "ns": 0,
+              "title": "Borolanite"
+            },
+            {
+              "ns": 0,
+              "title": "Boulder"
+            },
+            {
+              "ns": 0,
+              "title": "Bowen's reaction series"
+            },
+            {
+              "ns": 0,
+              "title": "Breccia"
+            },
+            {
+              "ns": 0,
+              "title": "Building material"
+            },
+            {
+              "ns": 0,
+              "title": "Cairn"
+            },
+            {
+              "ns": 0,
+              "title": "Calcarenite"
+            },
+            {
+              "ns": 0,
+              "title": "Calcflinta"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonation"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonatite"
+            },
+            {
+              "ns": 0,
+              "title": "Cataclasite"
+            },
+            {
+              "ns": 0,
+              "title": "Cementation (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Chalk"
+            },
+            {
+              "ns": 0,
+              "title": "Charles Steen"
+            },
+            {
+              "ns": 0,
+              "title": "Charnockite"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical compound"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical synthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Chert"
+            },
+            {
+              "ns": 0,
+              "title": "Clastic"
+            },
+            {
+              "ns": 0,
+              "title": "Clastic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Clay"
+            },
+            {
+              "ns": 0,
+              "title": "Claystone"
+            },
+            {
+              "ns": 0,
+              "title": "Coade stone"
+            },
+            {
+              "ns": 0,
+              "title": "Coal"
+            },
+            {
+              "ns": 0,
+              "title": "Cobble (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Comendite"
+            },
+            {
+              "ns": 0,
+              "title": "Concrete"
+            },
+            {
+              "ns": 0,
+              "title": "Conglomerate (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Construction aggregate"
+            },
+            {
+              "ns": 0,
+              "title": "Continental crust"
+            },
+            {
+              "ns": 0,
+              "title": "Continental plates"
+            },
+            {
+              "ns": 0,
+              "title": "Coquina"
+            },
+            {
+              "ns": 0,
+              "title": "Costa Rica"
+            },
+            {
+              "ns": 0,
+              "title": "Country rock (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Craftsmanship"
+            },
+            {
+              "ns": 0,
+              "title": "Crust (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal lattice"
+            },
+            {
+              "ns": 0,
+              "title": "Crystalline solids"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallization"
+            },
+            {
+              "ns": 0,
+              "title": "Dacite"
+            },
+            {
+              "ns": 0,
+              "title": "Denudation"
+            },
+            {
+              "ns": 0,
+              "title": "Deposition (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Detritus"
+            },
+            {
+              "ns": 0,
+              "title": "Diabase"
+            },
+            {
+              "ns": 0,
+              "title": "Diagenesis"
+            },
+            {
+              "ns": 0,
+              "title": "Diamictite"
+            },
+            {
+              "ns": 0,
+              "title": "Diamond"
+            },
+            {
+              "ns": 0,
+              "title": "Diatomite"
+            },
+            {
+              "ns": 0,
+              "title": "Dimension stone"
+            },
+            {
+              "ns": 0,
+              "title": "Diorite"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dolomite (rock)"
+            },
+            {
+              "ns": 0,
+              "title": "Dunite"
+            },
+            {
+              "ns": 0,
+              "title": "Early Stone Age"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's crust"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's outer core"
+            },
+            {
+              "ns": 0,
+              "title": "Eclogite"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Enderbite"
+            },
+            {
+              "ns": 0,
+              "title": "Engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Engineering geology"
+            },
+            {
+              "ns": 0,
+              "title": "Epidosite"
+            },
+            {
+              "ns": 0,
+              "title": "Epoxy granite"
+            },
+            {
+              "ns": 0,
+              "title": "Erosion"
+            },
+            {
+              "ns": 0,
+              "title": "Essexite"
+            },
+            {
+              "ns": 0,
+              "title": "Etchplain"
+            },
+            {
+              "ns": 0,
+              "title": "Evaporite"
+            },
+            {
+              "ns": 0,
+              "title": "Extrusive (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Factory"
+            },
+            {
+              "ns": 0,
+              "title": "Fatigue (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Felsite"
+            },
+            {
+              "ns": 0,
+              "title": "Flint"
+            },
+            {
+              "ns": 0,
+              "title": "Floaters (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Foidolite"
+            },
+            {
+              "ns": 0,
+              "title": "Foliation (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Forensic geology"
+            },
+            {
+              "ns": 0,
+              "title": "Formation of rocks"
+            },
+            {
+              "ns": 0,
+              "title": "Fossil"
+            },
+            {
+              "ns": 0,
+              "title": "Fracture"
+            },
+            {
+              "ns": 0,
+              "title": "Freezing"
+            },
+            {
+              "ns": 0,
+              "title": "Friable"
+            },
+            {
+              "ns": 0,
+              "title": "Frost weathering"
+            },
+            {
+              "ns": 0,
+              "title": "Gabbro"
+            },
+            {
+              "ns": 0,
+              "title": "Ganister"
+            },
+            {
+              "ns": 0,
+              "title": "Geochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Geologic time scale"
+            },
+            {
+              "ns": 0,
+              "title": "Geological history of Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Geological survey"
+            },
+            {
+              "ns": 0,
+              "title": "Geologist"
+            },
+            {
+              "ns": 0,
+              "title": "Geology"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Ceres"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Charon"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Mars"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Mercury"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Pluto"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Triton"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of Venus"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of solar terrestrial planets"
+            },
+            {
+              "ns": 0,
+              "title": "Geology of the Moon"
+            },
+            {
+              "ns": 0,
+              "title": "Geomorphology"
+            },
+            {
+              "ns": 0,
+              "title": "Geophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Geyserite"
+            },
+            {
+              "ns": 0,
+              "title": "Gideon Shelach-Lavi"
+            },
+            {
+              "ns": 0,
+              "title": "Glacier"
+            },
+            {
+              "ns": 0,
+              "title": "Glaciology"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of geology"
+            },
+            {
+              "ns": 0,
+              "title": "Gneiss"
+            },
+            {
+              "ns": 0,
+              "title": "Gossan"
+            },
+            {
+              "ns": 0,
+              "title": "Grain size"
+            },
+            {
+              "ns": 0,
+              "title": "Grand Canyon"
+            },
+            {
+              "ns": 0,
+              "title": "Granite"
+            },
+            {
+              "ns": 0,
+              "title": "Granitoids"
+            },
+            {
+              "ns": 0,
+              "title": "Granodiorite"
+            },
+            {
+              "ns": 0,
+              "title": "Granophyre"
+            },
+            {
+              "ns": 0,
+              "title": "Granulite"
+            },
+            {
+              "ns": 0,
+              "title": "Gravel"
+            },
+            {
+              "ns": 0,
+              "title": "Greenschist"
+            },
+            {
+              "ns": 0,
+              "title": "Greywacke"
+            },
+            {
+              "ns": 0,
+              "title": "Gritstone"
+            },
+            {
+              "ns": 0,
+              "title": "Haloclasty"
+            },
+            {
+              "ns": 0,
+              "title": "Hammerstone"
+            },
+            {
+              "ns": 0,
+              "title": "Harzburgite"
+            },
+            {
+              "ns": 0,
+              "title": "Hawaiite"
+            },
+            {
+              "ns": 0,
+              "title": "Hayabusa"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "History of Earth"
+            },
+            {
+              "ns": 0,
+              "title": "History of geology"
+            },
+            {
+              "ns": 0,
+              "title": "Hominidae"
+            },
+            {
+              "ns": 0,
+              "title": "Hominids"
+            },
+            {
+              "ns": 0,
+              "title": "Hornblendite"
+            },
+            {
+              "ns": 0,
+              "title": "Hornfels"
+            },
+            {
+              "ns": 0,
+              "title": "Hugh Chisholm"
+            },
+            {
+              "ns": 0,
+              "title": "Hyaloclastite"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ice"
+            },
+            {
+              "ns": 0,
+              "title": "Icelandite"
+            },
+            {
+              "ns": 0,
+              "title": "Igneous rock"
+            },
+            {
+              "ns": 0,
+              "title": "Ignimbrite"
+            },
+            {
+              "ns": 0,
+              "title": "Ijolite"
+            },
+            {
+              "ns": 0,
+              "title": "Index of geology articles"
+            },
+            {
+              "ns": 0,
+              "title": "Infrastructure"
+            },
+            {
+              "ns": 0,
+              "title": "Inner Mongolia"
+            },
+            {
+              "ns": 0,
+              "title": "Intrusion"
+            },
+            {
+              "ns": 0,
+              "title": "Io (moon)"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "Iron oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Itabirite"
+            },
+            {
+              "ns": 0,
+              "title": "Itacolumite"
+            },
+            {
+              "ns": 0,
+              "title": "Jade"
+            },
+            {
+              "ns": 0,
+              "title": "Jadeitite"
+            },
+            {
+              "ns": 0,
+              "title": "James Gilluly"
+            },
+            {
+              "ns": 0,
+              "title": "Jasperoid"
+            },
+            {
+              "ns": 0,
+              "title": "Jaspillite"
+            },
+            {
+              "ns": 0,
+              "title": "John Flett (geologist)"
+            },
+            {
+              "ns": 0,
+              "title": "Kent Condie"
+            },
+            {
+              "ns": 0,
+              "title": "Kenyte"
+            },
+            {
+              "ns": 0,
+              "title": "Kimberlite"
+            },
+            {
+              "ns": 0,
+              "title": "Komatiite"
+            },
+            {
+              "ns": 0,
+              "title": "Kummakivi"
+            },
+            {
+              "ns": 0,
+              "title": "Laboratory"
+            },
+            {
+              "ns": 0,
+              "title": "Lamella (materials)"
+            },
+            {
+              "ns": 0,
+              "title": "Lamproite"
+            },
+            {
+              "ns": 0,
+              "title": "Lamprophyre"
+            },
+            {
+              "ns": 0,
+              "title": "Lapis lazuli"
+            },
+            {
+              "ns": 0,
+              "title": "Larvikite"
+            },
+            {
+              "ns": 0,
+              "title": "Late Stone Age"
+            },
+            {
+              "ns": 0,
+              "title": "Laterite"
+            },
+            {
+              "ns": 0,
+              "title": "Latin"
+            },
+            {
+              "ns": 0,
+              "title": "Latite"
+            },
+            {
+              "ns": 0,
+              "title": "Lava"
+            },
+            {
+              "ns": 0,
+              "title": "Law of included fragments"
+            },
+            {
+              "ns": 0,
+              "title": "Law of superposition"
+            },
+            {
+              "ns": 0,
+              "title": "Lherzolite"
+            },
+            {
+              "ns": 0,
+              "title": "Lightness"
+            },
+            {
+              "ns": 0,
+              "title": "Lignite"
+            },
+            {
+              "ns": 0,
+              "title": "Limestone"
+            },
+            {
+              "ns": 0,
+              "title": "List of geologists"
+            },
+            {
+              "ns": 0,
+              "title": "List of individual rocks"
+            },
+            {
+              "ns": 0,
+              "title": "List of rock types"
+            },
+            {
+              "ns": 0,
+              "title": "Lists of geological features of the Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Litchfieldite"
+            },
+            {
+              "ns": 0,
+              "title": "Lithic technology"
+            },
+            {
+              "ns": 0,
+              "title": "Lithification"
+            },
+            {
+              "ns": 0,
+              "title": "Llanite"
+            },
+            {
+              "ns": 0,
+              "title": "Lumachelle"
+            },
+            {
+              "ns": 0,
+              "title": "Luxullianite"
+            },
+            {
+              "ns": 0,
+              "title": "MPa"
+            },
+            {
+              "ns": 0,
+              "title": "Mafic"
+            },
+            {
+              "ns": 0,
+              "title": "Magma"
+            },
+            {
+              "ns": 0,
+              "title": "Magma differentiation"
+            },
+            {
+              "ns": 0,
+              "title": "Mangerite"
+            },
+            {
+              "ns": 0,
+              "title": "Mantle (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Marble"
+            },
+            {
+              "ns": 0,
+              "title": "Marl"
+            },
+            {
+              "ns": 0,
+              "title": "Mars"
+            },
+            {
+              "ns": 0,
+              "title": "Martian rocks"
+            },
+            {
+              "ns": 0,
+              "title": "Mass wasting"
+            },
+            {
+              "ns": 0,
+              "title": "Massachusetts Institute of Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (planet)"
+            },
+            {
+              "ns": 0,
+              "title": "Metal"
+            },
+            {
+              "ns": 0,
+              "title": "Metallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Metamorphic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Metamorphism"
+            },
+            {
+              "ns": 0,
+              "title": "Metapelite"
+            },
+            {
+              "ns": 0,
+              "title": "Metapsammite"
+            },
+            {
+              "ns": 0,
+              "title": "Meteorite"
+            },
+            {
+              "ns": 0,
+              "title": "Meteoroid"
+            },
+            {
+              "ns": 0,
+              "title": "Mica"
+            },
+            {
+              "ns": 0,
+              "title": "Middle Stone Age"
+            },
+            {
+              "ns": 0,
+              "title": "Migmatite"
+            },
+            {
+              "ns": 0,
+              "title": "Military geology"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral hydration"
+            },
+            {
+              "ns": 0,
+              "title": "Mineralogy"
+            },
+            {
+              "ns": 0,
+              "title": "Mineraloid"
+            },
+            {
+              "ns": 0,
+              "title": "Mining"
+            },
+            {
+              "ns": 0,
+              "title": "Mining geology"
+            },
+            {
+              "ns": 0,
+              "title": "Moab, Utah"
+            },
+            {
+              "ns": 0,
+              "title": "Mongolia"
+            },
+            {
+              "ns": 0,
+              "title": "Monzogranite"
+            },
+            {
+              "ns": 0,
+              "title": "Monzonite"
+            },
+            {
+              "ns": 0,
+              "title": "Moon rock"
+            },
+            {
+              "ns": 0,
+              "title": "Mudstone"
+            },
+            {
+              "ns": 0,
+              "title": "Mugearite"
+            },
+            {
+              "ns": 0,
+              "title": "Mylonite"
+            },
+            {
+              "ns": 0,
+              "title": "Napoleonite"
+            },
+            {
+              "ns": 0,
+              "title": "Natural gas"
+            },
+            {
+              "ns": 0,
+              "title": "Natural satellite"
+            },
+            {
+              "ns": 0,
+              "title": "Nepheline syenite"
+            },
+            {
+              "ns": 0,
+              "title": "Nephelinite"
+            },
+            {
+              "ns": 0,
+              "title": "Norite"
+            },
+            {
+              "ns": 0,
+              "title": "Novaculite"
+            },
+            {
+              "ns": 0,
+              "title": "Obsidian"
+            },
+            {
+              "ns": 0,
+              "title": "Oceanic crust"
+            },
+            {
+              "ns": 0,
+              "title": "Oil shale"
+            },
+            {
+              "ns": 0,
+              "title": "Oldest rock"
+            },
+            {
+              "ns": 0,
+              "title": "Oolite"
+            },
+            {
+              "ns": 0,
+              "title": "Ore"
+            },
+            {
+              "ns": 0,
+              "title": "Organic matter"
+            },
+            {
+              "ns": 0,
+              "title": "Orosí"
+            },
+            {
+              "ns": 0,
+              "title": "Outcrop"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of geology"
+            },
+            {
+              "ns": 0,
+              "title": "Ovoo"
+            },
+            {
+              "ns": 0,
+              "title": "Paleolithic"
+            },
+            {
+              "ns": 0,
+              "title": "Pantellerite"
+            },
+            {
+              "ns": 0,
+              "title": "Particle size (grain size)"
+            },
+            {
+              "ns": 0,
+              "title": "Pebble"
+            },
+            {
+              "ns": 0,
+              "title": "Pegmatite"
+            },
+            {
+              "ns": 0,
+              "title": "Peridotite"
+            },
+            {
+              "ns": 0,
+              "title": "Permeability (earth sciences)"
+            },
+            {
+              "ns": 0,
+              "title": "Petroleum"
+            },
+            {
+              "ns": 0,
+              "title": "Petrology"
+            },
+            {
+              "ns": 0,
+              "title": "Phonolite"
+            },
+            {
+              "ns": 0,
+              "title": "Phonotephrite"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphorite"
+            },
+            {
+              "ns": 0,
+              "title": "Photo-oxidation of polymers"
+            },
+            {
+              "ns": 0,
+              "title": "Phyllite"
+            },
+            {
+              "ns": 0,
+              "title": "Picrite basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Pietersite"
+            },
+            {
+              "ns": 0,
+              "title": "Planet"
+            },
+            {
+              "ns": 0,
+              "title": "Planetary geology"
+            },
+            {
+              "ns": 0,
+              "title": "Plate tectonics"
+            },
+            {
+              "ns": 0,
+              "title": "Plutonic"
+            },
+            {
+              "ns": 0,
+              "title": "Plutonism"
+            },
+            {
+              "ns": 0,
+              "title": "Porphyry (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Potash"
+            },
+            {
+              "ns": 0,
+              "title": "Precious metals"
+            },
+            {
+              "ns": 0,
+              "title": "Precipitation (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Prehistory"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of cross-cutting relationships"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of faunal succession"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of lateral continuity"
+            },
+            {
+              "ns": 0,
+              "title": "Principle of original horizontality"
+            },
+            {
+              "ns": 0,
+              "title": "Projectile point"
+            },
+            {
+              "ns": 0,
+              "title": "Prospecting"
+            },
+            {
+              "ns": 0,
+              "title": "Protolith"
+            },
+            {
+              "ns": 0,
+              "title": "Pseudotachylite"
+            },
+            {
+              "ns": 0,
+              "title": "Public domain"
+            },
+            {
+              "ns": 0,
+              "title": "Pumice"
+            },
+            {
+              "ns": 0,
+              "title": "Pyrolite"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroxenite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz diorite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz monzonite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartzite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartzites"
+            },
+            {
+              "ns": 0,
+              "title": "Quartzolite"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive decay"
+            },
+            {
+              "ns": 0,
+              "title": "Radiometric dating"
+            },
+            {
+              "ns": 0,
+              "title": "Raised-bed gardening"
+            },
+            {
+              "ns": 0,
+              "title": "Rapakivi granite"
+            },
+            {
+              "ns": 0,
+              "title": "Recrystallization (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Resource"
+            },
+            {
+              "ns": 0,
+              "title": "Rhomb porphyry"
+            },
+            {
+              "ns": 0,
+              "title": "Rhyodacite"
+            },
+            {
+              "ns": 0,
+              "title": "Rhyolite"
+            },
+            {
+              "ns": 0,
+              "title": "Rock cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Rocks (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Rodingite"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Salt"
+            },
+            {
+              "ns": 0,
+              "title": "Sand"
+            },
+            {
+              "ns": 0,
+              "title": "Sandstone"
+            },
+            {
+              "ns": 0,
+              "title": "Saprolite"
+            },
+            {
+              "ns": 0,
+              "title": "Sastamala"
+            },
+            {
+              "ns": 0,
+              "title": "Schist"
+            },
+            {
+              "ns": 0,
+              "title": "Scoria"
+            },
+            {
+              "ns": 0,
+              "title": "Scraper (archaeology)"
+            },
+            {
+              "ns": 0,
+              "title": "Seam (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Sediment"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentary rock"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentation"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentology"
+            },
+            {
+              "ns": 0,
+              "title": "Serpentine group"
+            },
+            {
+              "ns": 0,
+              "title": "Serpentinite"
+            },
+            {
+              "ns": 0,
+              "title": "Shale"
+            },
+            {
+              "ns": 0,
+              "title": "Shonkinite"
+            },
+            {
+              "ns": 0,
+              "title": "Shoshonite"
+            },
+            {
+              "ns": 0,
+              "title": "Silica"
+            },
+            {
+              "ns": 0,
+              "title": "Silicate minerals"
+            },
+            {
+              "ns": 0,
+              "title": "Silt"
+            },
+            {
+              "ns": 0,
+              "title": "Siltstone"
+            },
+            {
+              "ns": 0,
+              "title": "Skarn"
+            },
+            {
+              "ns": 0,
+              "title": "Slate"
+            },
+            {
+              "ns": 0,
+              "title": "Soapstone"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solution (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Sovite"
+            },
+            {
+              "ns": 0,
+              "title": "Space weathering"
+            },
+            {
+              "ns": 0,
+              "title": "Stone (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Stone Age"
+            },
+            {
+              "ns": 0,
+              "title": "Stone industry"
+            },
+            {
+              "ns": 0,
+              "title": "Stone skipping"
+            },
+            {
+              "ns": 0,
+              "title": "Stone tool"
+            },
+            {
+              "ns": 0,
+              "title": "Stones (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Strata"
+            },
+            {
+              "ns": 0,
+              "title": "Stratigraphy"
+            },
+            {
+              "ns": 0,
+              "title": "Structural Geology"
+            },
+            {
+              "ns": 0,
+              "title": "Structural steel"
+            },
+            {
+              "ns": 0,
+              "title": "Structure of Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Suevite"
+            },
+            {
+              "ns": 0,
+              "title": "Sun Kwok"
+            },
+            {
+              "ns": 0,
+              "title": "Syenite"
+            },
+            {
+              "ns": 0,
+              "title": "Sylvinite"
+            },
+            {
+              "ns": 0,
+              "title": "Tachylite"
+            },
+            {
+              "ns": 0,
+              "title": "Tachylyte"
+            },
+            {
+              "ns": 0,
+              "title": "Taconite"
+            },
+            {
+              "ns": 0,
+              "title": "Talc carbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Taphonomy"
+            },
+            {
+              "ns": 0,
+              "title": "Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Tectonite"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Tensile strength"
+            },
+            {
+              "ns": 0,
+              "title": "Tephriphonolite"
+            },
+            {
+              "ns": 0,
+              "title": "Tephrite"
+            },
+            {
+              "ns": 0,
+              "title": "Teschenite"
+            },
+            {
+              "ns": 0,
+              "title": "Texture (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Theralite"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal shock"
+            },
+            {
+              "ns": 0,
+              "title": "Tillite"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of geology"
+            },
+            {
+              "ns": 0,
+              "title": "Titan (moon)"
+            },
+            {
+              "ns": 0,
+              "title": "Tonalite"
+            },
+            {
+              "ns": 0,
+              "title": "Trachyandesite"
+            },
+            {
+              "ns": 0,
+              "title": "Trachybasalt"
+            },
+            {
+              "ns": 0,
+              "title": "Trachyte"
+            },
+            {
+              "ns": 0,
+              "title": "Travertine"
+            },
+            {
+              "ns": 0,
+              "title": "Troctolite"
+            },
+            {
+              "ns": 0,
+              "title": "Trondhjemite"
+            },
+            {
+              "ns": 0,
+              "title": "Tufa"
+            },
+            {
+              "ns": 0,
+              "title": "Tuff"
+            },
+            {
+              "ns": 0,
+              "title": "Turbidite"
+            },
+            {
+              "ns": 0,
+              "title": "Ultramafic"
+            },
+            {
+              "ns": 0,
+              "title": "Unakite"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Value (economics)"
+            },
+            {
+              "ns": 0,
+              "title": "Variolite"
+            },
+            {
+              "ns": 0,
+              "title": "Varve"
+            },
+            {
+              "ns": 0,
+              "title": "Vein (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Venus"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic glass"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanology"
+            },
+            {
+              "ns": 0,
+              "title": "Wackestone"
+            },
+            {
+              "ns": 0,
+              "title": "Wad (mineral)"
+            },
+            {
+              "ns": 0,
+              "title": "Walther's law"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Weathering"
+            },
+            {
+              "ns": 0,
+              "title": "Websterite"
+            },
+            {
+              "ns": 0,
+              "title": "Wehrlite"
+            },
+            {
+              "ns": 0,
+              "title": "Whiteschist"
+            },
+            {
+              "ns": 0,
+              "title": "Wind"
+            },
+            {
+              "ns": 0,
+              "title": "Woodhead Publishing"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329139.1959603
+}

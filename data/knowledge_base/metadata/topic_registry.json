@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T12:00:00Z",
+  "redirects": [],
+  "merges": [],
+  "topics": [
+    {
+      "id": "domain-science",
+      "name": "Science",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/science"
+      ],
+      "aliases": [],
+      "tags": [
+        "empirical"
+      ]
+    },
+    {
+      "id": "domain-history",
+      "name": "History",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/history"
+      ],
+      "aliases": [],
+      "tags": [
+        "chronology"
+      ]
+    },
+    {
+      "id": "domain-philosophy",
+      "name": "Philosophy",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/philosophy"
+      ],
+      "aliases": [],
+      "tags": [
+        "ideas"
+      ]
+    },
+    {
+      "id": "domain-psychology",
+      "name": "Psychology",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/psychology"
+      ],
+      "aliases": [],
+      "tags": [
+        "behavior"
+      ]
+    },
+    {
+      "id": "domain-ethics",
+      "name": "Ethics",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/ethics"
+      ],
+      "aliases": [],
+      "tags": [
+        "values"
+      ]
+    },
+    {
+      "id": "domain-humanities",
+      "name": "Humanities",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/humanities"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-arts",
+      "name": "Arts",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/arts"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-economics",
+      "name": "Economics",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/economics"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-law",
+      "name": "Law",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/law"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-medicine",
+      "name": "Medicine",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/medicine"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-engineering",
+      "name": "Engineering",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/engineering"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-technology",
+      "name": "Technology",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/technology"
+      ],
+      "aliases": [
+        "tech"
+      ],
+      "tags": []
+    },
+    {
+      "id": "domain-geography",
+      "name": "Geography",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/geography"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-languages",
+      "name": "Languages",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/languages"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-social_science",
+      "name": "Social Science",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/social_science"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-mathematics",
+      "name": "Mathematics",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/mathematics"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-business",
+      "name": "Business",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/business"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-environment",
+      "name": "Environment",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/environment"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-agriculture",
+      "name": "Agriculture",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/agriculture"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-religion",
+      "name": "Religion",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/religion"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-education",
+      "name": "Education",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/education"
+      ],
+      "aliases": [],
+      "tags": []
+    },
+    {
+      "id": "domain-politics",
+      "name": "Politics",
+      "type": "domain",
+      "status": "seed",
+      "paths": [
+        "data/knowledge_base/domains/politics"
+      ],
+      "aliases": [],
+      "tags": []
+    }
+  ]
+}

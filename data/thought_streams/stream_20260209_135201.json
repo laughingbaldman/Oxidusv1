@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-09T13:52:01.296072",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:52:01.296072",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Axle'? (source: Axle)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 139,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 3,
+    "reflection": 2,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

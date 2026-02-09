@@ -1,0 +1,1253 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "6458": {
+          "pageid": 6458,
+          "ns": 0,
+          "title": "Ceramic",
+          "links": [
+            {
+              "ns": 0,
+              "title": "A Greek–English Lexicon"
+            },
+            {
+              "ns": 0,
+              "title": "Abrasive"
+            },
+            {
+              "ns": 0,
+              "title": "Acid"
+            },
+            {
+              "ns": 0,
+              "title": "Adiabatic"
+            },
+            {
+              "ns": 0,
+              "title": "Adjacent-channel interference"
+            },
+            {
+              "ns": 0,
+              "title": "Aircraft"
+            },
+            {
+              "ns": 0,
+              "title": "Alloy"
+            },
+            {
+              "ns": 0,
+              "title": "Alumina"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Amorphous"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek"
+            },
+            {
+              "ns": 0,
+              "title": "Annealing (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Antenna (radio)"
+            },
+            {
+              "ns": 0,
+              "title": "Apple Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Armoured fighting vehicles"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic force microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Ball bearing"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic vest"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "Barium"
+            },
+            {
+              "ns": 0,
+              "title": "Barium titanate"
+            },
+            {
+              "ns": 0,
+              "title": "Base (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Bearing (mechanical)"
+            },
+            {
+              "ns": 0,
+              "title": "Beryllia"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bioceramic"
+            },
+            {
+              "ns": 0,
+              "title": "Bone china"
+            },
+            {
+              "ns": 0,
+              "title": "Boride"
+            },
+            {
+              "ns": 0,
+              "title": "Boron carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Brake fade"
+            },
+            {
+              "ns": 0,
+              "title": "Brick"
+            },
+            {
+              "ns": 0,
+              "title": "Brittleness"
+            },
+            {
+              "ns": 0,
+              "title": "Bulletproof vest"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon-fiber-reinforced polymer"
+            },
+            {
+              "ns": 0,
+              "title": "Carnot heat engine"
+            },
+            {
+              "ns": 0,
+              "title": "Catastrophic failure"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic art"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic forming techniques"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic glaze"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic knife"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic matrix composite"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic nanoparticle"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramography"
+            },
+            {
+              "ns": 0,
+              "title": "Ceria"
+            },
+            {
+              "ns": 0,
+              "title": "Characterization (materials science)"
+            },
+            {
+              "ns": 0,
+              "title": "Clay"
+            },
+            {
+              "ns": 0,
+              "title": "Cockpit (aviation)"
+            },
+            {
+              "ns": 0,
+              "title": "Collagen"
+            },
+            {
+              "ns": 0,
+              "title": "Colloid"
+            },
+            {
+              "ns": 0,
+              "title": "Composite armor"
+            },
+            {
+              "ns": 0,
+              "title": "Composite material"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Corded Ware culture"
+            },
+            {
+              "ns": 0,
+              "title": "Corrosion"
+            },
+            {
+              "ns": 0,
+              "title": "Corrosion-resistant"
+            },
+            {
+              "ns": 0,
+              "title": "Covalent"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal structure"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallinity"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallite"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallographic defects"
+            },
+            {
+              "ns": 0,
+              "title": "Cuprate"
+            },
+            {
+              "ns": 0,
+              "title": "Data transmission"
+            },
+            {
+              "ns": 0,
+              "title": "Deformation (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric"
+            },
+            {
+              "ns": 0,
+              "title": "Dielectric constant"
+            },
+            {
+              "ns": 0,
+              "title": "Diffusionless transformation"
+            },
+            {
+              "ns": 0,
+              "title": "Disc brake"
+            },
+            {
+              "ns": 0,
+              "title": "Disk brake"
+            },
+            {
+              "ns": 0,
+              "title": "Dislocation"
+            },
+            {
+              "ns": 0,
+              "title": "Diving watch"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ductility"
+            },
+            {
+              "ns": 0,
+              "title": "Earthenware"
+            },
+            {
+              "ns": 0,
+              "title": "Elastic modulus"
+            },
+            {
+              "ns": 0,
+              "title": "Elasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical breakdown"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical insulator"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistivity and conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical substation"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic waves"
+            },
+            {
+              "ns": 0,
+              "title": "Electromechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic structure"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Evaporation"
+            },
+            {
+              "ns": 0,
+              "title": "Failure"
+            },
+            {
+              "ns": 0,
+              "title": "Failure mode"
+            },
+            {
+              "ns": 0,
+              "title": "Ferroelectric RAM"
+            },
+            {
+              "ns": 0,
+              "title": "Ferroelectric capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Ferroelectric effect"
+            },
+            {
+              "ns": 0,
+              "title": "Ferroelectricity"
+            },
+            {
+              "ns": 0,
+              "title": "Fiberglass"
+            },
+            {
+              "ns": 0,
+              "title": "Figurine"
+            },
+            {
+              "ns": 0,
+              "title": "Flooring"
+            },
+            {
+              "ns": 0,
+              "title": "Fractography"
+            },
+            {
+              "ns": 0,
+              "title": "Fracture"
+            },
+            {
+              "ns": 0,
+              "title": "Fracture toughness"
+            },
+            {
+              "ns": 0,
+              "title": "Freeze-casting"
+            },
+            {
+              "ns": 0,
+              "title": "Friction"
+            },
+            {
+              "ns": 0,
+              "title": "Fuel cell"
+            },
+            {
+              "ns": 0,
+              "title": "Fuel efficiency"
+            },
+            {
+              "ns": 0,
+              "title": "Gas sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Gas turbine"
+            },
+            {
+              "ns": 0,
+              "title": "General Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Glass"
+            },
+            {
+              "ns": 0,
+              "title": "Glass-ceramic"
+            },
+            {
+              "ns": 0,
+              "title": "Glass transition"
+            },
+            {
+              "ns": 0,
+              "title": "Glazing (ceramics)"
+            },
+            {
+              "ns": 0,
+              "title": "Grain boundary"
+            },
+            {
+              "ns": 0,
+              "title": "Granite"
+            },
+            {
+              "ns": 0,
+              "title": "Gravettian"
+            },
+            {
+              "ns": 0,
+              "title": "Grog (clay)"
+            },
+            {
+              "ns": 0,
+              "title": "Hardness"
+            },
+            {
+              "ns": 0,
+              "title": "Heat-seeking"
+            },
+            {
+              "ns": 0,
+              "title": "Heat engine"
+            },
+            {
+              "ns": 0,
+              "title": "Heat resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Heating element"
+            },
+            {
+              "ns": 0,
+              "title": "Heavy metals"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Liddell"
+            },
+            {
+              "ns": 0,
+              "title": "High-explosive anti-tank"
+            },
+            {
+              "ns": 0,
+              "title": "High-temperature superconductivity"
+            },
+            {
+              "ns": 0,
+              "title": "High-temperature superconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroxyapatite"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Implant (medicine)"
+            },
+            {
+              "ns": 0,
+              "title": "Indo-European languages"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Injection molding"
+            },
+            {
+              "ns": 0,
+              "title": "Inorganic compound"
+            },
+            {
+              "ns": 0,
+              "title": "Insulator (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated optical circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Internal combustion engine"
+            },
+            {
+              "ns": 0,
+              "title": "International Watch Company"
+            },
+            {
+              "ns": 0,
+              "title": "Ion conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Ionic bond"
+            },
+            {
+              "ns": 0,
+              "title": "Jet engine"
+            },
+            {
+              "ns": 0,
+              "title": "Joule heating"
+            },
+            {
+              "ns": 0,
+              "title": "Kaolin"
+            },
+            {
+              "ns": 0,
+              "title": "Kaolinite"
+            },
+            {
+              "ns": 0,
+              "title": "Kiln"
+            },
+            {
+              "ns": 0,
+              "title": "Kinetic energy penetrator"
+            },
+            {
+              "ns": 0,
+              "title": "Lead zirconate titanate"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting diode"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting diodes"
+            },
+            {
+              "ns": 0,
+              "title": "Lightning"
+            },
+            {
+              "ns": 0,
+              "title": "Linear B"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Loudspeaker"
+            },
+            {
+              "ns": 0,
+              "title": "Luminescence"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium silicide"
+            },
+            {
+              "ns": 0,
+              "title": "Material"
+            },
+            {
+              "ns": 0,
+              "title": "Material science"
+            },
+            {
+              "ns": 0,
+              "title": "Materials science"
+            },
+            {
+              "ns": 0,
+              "title": "Meissner effect"
+            },
+            {
+              "ns": 0,
+              "title": "Metal"
+            },
+            {
+              "ns": 0,
+              "title": "Metastable"
+            },
+            {
+              "ns": 0,
+              "title": "Microstructure"
+            },
+            {
+              "ns": 0,
+              "title": "Military"
+            },
+            {
+              "ns": 0,
+              "title": "Missile"
+            },
+            {
+              "ns": 0,
+              "title": "Missiles"
+            },
+            {
+              "ns": 0,
+              "title": "Molybdenum disilicide"
+            },
+            {
+              "ns": 0,
+              "title": "Monoclinic crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Motion sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Multi-mode optical fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Munsell color system"
+            },
+            {
+              "ns": 0,
+              "title": "Mycenaean Greek"
+            },
+            {
+              "ns": 0,
+              "title": "Nanometer"
+            },
+            {
+              "ns": 0,
+              "title": "Night-vision"
+            },
+            {
+              "ns": 0,
+              "title": "Nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Nonmetallic material"
+            },
+            {
+              "ns": 0,
+              "title": "Normal mode"
+            },
+            {
+              "ns": 0,
+              "title": "Nozzle"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fuel"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reactor"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear reactors"
+            },
+            {
+              "ns": 0,
+              "title": "Ohm (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Optical"
+            },
+            {
+              "ns": 0,
+              "title": "Optical communication"
+            },
+            {
+              "ns": 0,
+              "title": "Optical filter"
+            },
+            {
+              "ns": 0,
+              "title": "Optics"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford English Dictionary"
+            },
+            {
+              "ns": 0,
+              "title": "Oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen sensor"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Perseus Project"
+            },
+            {
+              "ns": 0,
+              "title": "Phase diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Phase transition"
+            },
+            {
+              "ns": 0,
+              "title": "Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Piezoelectricity"
+            },
+            {
+              "ns": 0,
+              "title": "Pipe (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Plastic deformation"
+            },
+            {
+              "ns": 0,
+              "title": "Plasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Platelets"
+            },
+            {
+              "ns": 0,
+              "title": "Plurale tantum"
+            },
+            {
+              "ns": 0,
+              "title": "Polymers"
+            },
+            {
+              "ns": 0,
+              "title": "Porcelain"
+            },
+            {
+              "ns": 0,
+              "title": "Porosity"
+            },
+            {
+              "ns": 0,
+              "title": "Positive temperature coefficient"
+            },
+            {
+              "ns": 0,
+              "title": "Pottery"
+            },
+            {
+              "ns": 0,
+              "title": "Pottery fracture"
+            },
+            {
+              "ns": 0,
+              "title": "Pottery wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Pump"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroelectricity"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Refractory"
+            },
+            {
+              "ns": 0,
+              "title": "Reinforced carbon–carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Resonant"
+            },
+            {
+              "ns": 0,
+              "title": "Rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Scott (philologist)"
+            },
+            {
+              "ns": 0,
+              "title": "Roof tile"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning electron microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning tunneling microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Scintillation counter"
+            },
+            {
+              "ns": 0,
+              "title": "Seashell"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Shaped charge"
+            },
+            {
+              "ns": 0,
+              "title": "Shear stress"
+            },
+            {
+              "ns": 0,
+              "title": "Sherd"
+            },
+            {
+              "ns": 0,
+              "title": "Sialon"
+            },
+            {
+              "ns": 0,
+              "title": "Silicide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon Carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Sintering"
+            },
+            {
+              "ns": 0,
+              "title": "Slip casting"
+            },
+            {
+              "ns": 0,
+              "title": "Small Arms Protective Insert"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Solid oxide fuel cell"
+            },
+            {
+              "ns": 0,
+              "title": "Sonar"
+            },
+            {
+              "ns": 0,
+              "title": "Space Shuttle orbiter"
+            },
+            {
+              "ns": 0,
+              "title": "Springer (publisher)"
+            },
+            {
+              "ns": 0,
+              "title": "Steel"
+            },
+            {
+              "ns": 0,
+              "title": "Stoneware"
+            },
+            {
+              "ns": 0,
+              "title": "Strength of materials"
+            },
+            {
+              "ns": 0,
+              "title": "Stress (mechanics)"
+            },
+            {
+              "ns": 0,
+              "title": "Stress concentration"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium titanate"
+            },
+            {
+              "ns": 0,
+              "title": "Sublimation (phase transition)"
+            },
+            {
+              "ns": 0,
+              "title": "Superalloy"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Surge protector"
+            },
+            {
+              "ns": 0,
+              "title": "Susceptor"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic sapphire"
+            },
+            {
+              "ns": 0,
+              "title": "Tableware"
+            },
+            {
+              "ns": 0,
+              "title": "Tape casting"
+            },
+            {
+              "ns": 0,
+              "title": "Temper (pottery)"
+            },
+            {
+              "ns": 0,
+              "title": "Tensile strength"
+            },
+            {
+              "ns": 0,
+              "title": "Tension (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Tetragonal crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal insulator"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal stress"
+            },
+            {
+              "ns": 0,
+              "title": "Threshold voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Tissue engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Titanate"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Tomography"
+            },
+            {
+              "ns": 0,
+              "title": "Toughness"
+            },
+            {
+              "ns": 0,
+              "title": "Toyota"
+            },
+            {
+              "ns": 0,
+              "title": "Transducer"
+            },
+            {
+              "ns": 0,
+              "title": "Transition metal oxides"
+            },
+            {
+              "ns": 0,
+              "title": "Translucent"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission medium"
+            },
+            {
+              "ns": 0,
+              "title": "Transparency and translucency"
+            },
+            {
+              "ns": 0,
+              "title": "Transparent materials"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Turbine"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Varistor"
+            },
+            {
+              "ns": 0,
+              "title": "Vehicle armor"
+            },
+            {
+              "ns": 0,
+              "title": "Visible spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Vitrification"
+            },
+            {
+              "ns": 0,
+              "title": "Vitrified tile"
+            },
+            {
+              "ns": 0,
+              "title": "Water purification"
+            },
+            {
+              "ns": 0,
+              "title": "Wave propagation"
+            },
+            {
+              "ns": 0,
+              "title": "Waveguides"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelengths"
+            },
+            {
+              "ns": 0,
+              "title": "Window"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless charging"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon arc lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Yttria-stabilized zirconia"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium barium copper oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconia"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium dioxide"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329385.8837988
+}

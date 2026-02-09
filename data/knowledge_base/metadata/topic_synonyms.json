@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T12:00:00Z",
+  "synonyms": {
+    "ai": [
+      "artificial intelligence"
+    ],
+    "ml": [
+      "machine learning"
+    ],
+    "nlp": [
+      "natural language processing"
+    ],
+    "cs": [
+      "computer science"
+    ],
+    "public policy": [
+      "policy"
+    ],
+    "pharma": [
+      "pharmacology"
+    ],
+    "econ": [
+      "economics"
+    ],
+    "med": [
+      "medicine"
+    ],
+    "cs": [
+      "computer science"
+    ],
+    "sci": [
+      "science"
+    ],
+    "edu": [
+      "education"
+    ],
+    "geo": [
+      "geography"
+    ]
+  }
+}

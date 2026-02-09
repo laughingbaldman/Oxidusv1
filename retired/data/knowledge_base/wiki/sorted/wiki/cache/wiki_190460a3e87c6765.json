@@ -1,0 +1,769 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "840191": {
+          "pageid": 840191,
+          "ns": 0,
+          "title": "Sagittarius A*",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Red Spider Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Reinhard Genzel"
+            },
+            {
+              "ns": 0,
+              "title": "Reissner–Nordström metric"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic jet"
+            },
+            {
+              "ns": 0,
+              "title": "Reticulum II"
+            },
+            {
+              "ns": 0,
+              "title": "Rho1 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Rho2 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Right ascension"
+            },
+            {
+              "ns": 0,
+              "title": "Ring Nebula (NGC 6822)"
+            },
+            {
+              "ns": 0,
+              "title": "Ring singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Roger Penrose"
+            },
+            {
+              "ns": 0,
+              "title": "Rogue black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Ross 154"
+            },
+            {
+              "ns": 0,
+              "title": "Rossi X-ray Timing Explorer"
+            },
+            {
+              "ns": 0,
+              "title": "Rotating black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Ruprecht 147"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "S2 (star)"
+            },
+            {
+              "ns": 0,
+              "title": "S4716"
+            },
+            {
+              "ns": 0,
+              "title": "S5-HVS1"
+            },
+            {
+              "ns": 0,
+              "title": "S55 (star)"
+            },
+            {
+              "ns": 0,
+              "title": "S62 (star)"
+            },
+            {
+              "ns": 0,
+              "title": "SAX J1808.4−3658"
+            },
+            {
+              "ns": 0,
+              "title": "SDSS J0849+1114"
+            },
+            {
+              "ns": 0,
+              "title": "SGR 1806−20"
+            },
+            {
+              "ns": 0,
+              "title": "SGR J1745−2900"
+            },
+            {
+              "ns": 0,
+              "title": "SIMBAD"
+            },
+            {
+              "ns": 0,
+              "title": "SN 386"
+            },
+            {
+              "ns": 0,
+              "title": "SWEEPS-04"
+            },
+            {
+              "ns": 0,
+              "title": "SWEEPS-10"
+            },
+            {
+              "ns": 0,
+              "title": "SWEEPS-11"
+            },
+            {
+              "ns": 0,
+              "title": "SWEEPS J175853.92−291120.6"
+            },
+            {
+              "ns": 0,
+              "title": "SWIFT J1745−26"
+            },
+            {
+              "ns": 0,
+              "title": "SWIFT J1756.9−2508"
+            },
+            {
+              "ns": 0,
+              "title": "SWIFT J1818.0−1607"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius A"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius A* cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius B2"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius Dwarf Irregular Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius Dwarf Spheroidal Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius Stream"
+            },
+            {
+              "ns": 0,
+              "title": "Sagittarius in Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Sakurai's Object"
+            },
+            {
+              "ns": 0,
+              "title": "Satellite galaxies of the Milky Way"
+            },
+            {
+              "ns": 0,
+              "title": "Schwarzschild metric"
+            },
+            {
+              "ns": 0,
+              "title": "Schwarzschild radius"
+            },
+            {
+              "ns": 0,
+              "title": "Scorpius"
+            },
+            {
+              "ns": 0,
+              "title": "Sculptor Dwarf Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Scutum–Centaurus Arm"
+            },
+            {
+              "ns": 0,
+              "title": "Segue 1"
+            },
+            {
+              "ns": 0,
+              "title": "Segue 2"
+            },
+            {
+              "ns": 0,
+              "title": "Sextans Dwarf Spheroidal"
+            },
+            {
+              "ns": 0,
+              "title": "Seyfert galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-16"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-17"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-18"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-19"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-20"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-22"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-31"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-32"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-34"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-35"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-37"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-38"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-40"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-41"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-42"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-43"
+            },
+            {
+              "ns": 0,
+              "title": "Sh 2-44"
+            },
+            {
+              "ns": 0,
+              "title": "Shock singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Sigma Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Small Magellanic Cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Small Sagittarius Star Cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Soft hair (black holes)"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Sonic black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Space.com"
+            },
+            {
+              "ns": 0,
+              "title": "Spaghettification"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar remnant"
+            },
+            {
+              "ns": 0,
+              "title": "Stratospheric Observatory for Infrared Astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Superluminal motion"
+            },
+            {
+              "ns": 0,
+              "title": "Superluminous supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Supermassive black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Supermassive star"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova remnant"
+            },
+            {
+              "ns": 0,
+              "title": "Suzaku (satellite)"
+            },
+            {
+              "ns": 0,
+              "title": "Swift J1644+57"
+            },
+            {
+              "ns": 0,
+              "title": "Sydney"
+            },
+            {
+              "ns": 0,
+              "title": "TON 618"
+            },
+            {
+              "ns": 0,
+              "title": "Tau Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Terzan 5"
+            },
+            {
+              "ns": 0,
+              "title": "Terzan 7"
+            },
+            {
+              "ns": 0,
+              "title": "Terzan 8"
+            },
+            {
+              "ns": 0,
+              "title": "The Astrophysical Journal"
+            },
+            {
+              "ns": 0,
+              "title": "The Astrophysical Journal Letters"
+            },
+            {
+              "ns": 0,
+              "title": "The New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Theta1 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Theta2 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Tidal disruption event"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of black hole physics"
+            },
+            {
+              "ns": 0,
+              "title": "Tolman–Oppenheimer–Volkoff limit"
+            },
+            {
+              "ns": 0,
+              "title": "Transient astronomical event"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulum II"
+            },
+            {
+              "ns": 0,
+              "title": "Trifid Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "ULAS J1342+0928"
+            },
+            {
+              "ns": 0,
+              "title": "U Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Universe"
+            },
+            {
+              "ns": 0,
+              "title": "Universe Today"
+            },
+            {
+              "ns": 0,
+              "title": "University of California, Berkeley"
+            },
+            {
+              "ns": 0,
+              "title": "Upsilon Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Major III"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Major II Dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Major I Dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Minor Dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "V1017 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V1059 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V348 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V356 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V3903 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4024 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4046 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4199 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4332 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4381 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4641 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4650 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4743 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V4998 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V5668 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V5856 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V630 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "V725 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "VVV CL001"
+            },
+            {
+              "ns": 0,
+              "title": "VX Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star designation"
+            },
+            {
+              "ns": 0,
+              "title": "Very Large Array"
+            },
+            {
+              "ns": 0,
+              "title": "Very Large Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo I"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo Stellar Stream"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo Supercluster"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Visible spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "W. M. Keck Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "W33A"
+            },
+            {
+              "ns": 0,
+              "title": "WASP-67"
+            },
+            {
+              "ns": 0,
+              "title": "WD 0032−317"
+            },
+            {
+              "ns": 0,
+              "title": "WR 101-2"
+            },
+            {
+              "ns": 0,
+              "title": "WR 102"
+            },
+            {
+              "ns": 0,
+              "title": "WR 102c"
+            },
+            {
+              "ns": 0,
+              "title": "WR 102ea"
+            },
+            {
+              "ns": 0,
+              "title": "WR 102ka"
+            },
+            {
+              "ns": 0,
+              "title": "WR 104"
+            },
+            {
+              "ns": 0,
+              "title": "WR 111"
+            },
+            {
+              "ns": 0,
+              "title": "W Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Westerhout 31"
+            },
+            {
+              "ns": 0,
+              "title": "White dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "White hole"
+            },
+            {
+              "ns": 0,
+              "title": "Willman 1"
+            },
+            {
+              "ns": 0,
+              "title": "Wormhole"
+            },
+            {
+              "ns": 0,
+              "title": "Wow! signal"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray binary"
+            },
+            {
+              "ns": 0,
+              "title": "XMM-Newton"
+            },
+            {
+              "ns": 0,
+              "title": "XTE J1118+480"
+            },
+            {
+              "ns": 0,
+              "title": "XTE J1650-500"
+            },
+            {
+              "ns": 0,
+              "title": "X Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Xi1 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Xi2 Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Y Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "YouTube video (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Zeta Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Zone of Avoidance"
+            },
+            {
+              "ns": 0,
+              "title": "Μas"
+            },
+            {
+              "ns": 0,
+              "title": "Μm"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329144.555872
+}

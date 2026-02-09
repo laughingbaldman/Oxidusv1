@@ -1,0 +1,785 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "28825": {
+          "pageid": 28825,
+          "ns": 0,
+          "title": "Submarine",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Swedish Navy"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Syntactic foam"
+            },
+            {
+              "ns": 0,
+              "title": "Södermanland-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Sōryū-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "TNT"
+            },
+            {
+              "ns": 0,
+              "title": "Tagus"
+            },
+            {
+              "ns": 0,
+              "title": "Tall ship"
+            },
+            {
+              "ns": 0,
+              "title": "Tanker (ship)"
+            },
+            {
+              "ns": 0,
+              "title": "Teardrop hull"
+            },
+            {
+              "ns": 0,
+              "title": "Techno-progressivism"
+            },
+            {
+              "ns": 0,
+              "title": "Technocracy movement"
+            },
+            {
+              "ns": 0,
+              "title": "Technological convergence"
+            },
+            {
+              "ns": 0,
+              "title": "Technological determinism"
+            },
+            {
+              "ns": 0,
+              "title": "Technological singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Technological utopianism"
+            },
+            {
+              "ns": 0,
+              "title": "Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Technology acceptance model"
+            },
+            {
+              "ns": 0,
+              "title": "Technology assessment"
+            },
+            {
+              "ns": 0,
+              "title": "Technology forecasting"
+            },
+            {
+              "ns": 0,
+              "title": "Technology lifecycle"
+            },
+            {
+              "ns": 0,
+              "title": "Technology transfer"
+            },
+            {
+              "ns": 0,
+              "title": "Technorealism"
+            },
+            {
+              "ns": 0,
+              "title": "Telecommunications"
+            },
+            {
+              "ns": 0,
+              "title": "Telegraph"
+            },
+            {
+              "ns": 0,
+              "title": "Telephone"
+            },
+            {
+              "ns": 0,
+              "title": "Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Television"
+            },
+            {
+              "ns": 0,
+              "title": "Tench-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Textile"
+            },
+            {
+              "ns": 0,
+              "title": "Thames sailing barge"
+            },
+            {
+              "ns": 0,
+              "title": "The Times of Israel"
+            },
+            {
+              "ns": 0,
+              "title": "Thermocline"
+            },
+            {
+              "ns": 0,
+              "title": "Thorsten Nordenfelt"
+            },
+            {
+              "ns": 0,
+              "title": "Time (magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of historic inventions"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of underwater technology"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium"
+            },
+            {
+              "ns": 0,
+              "title": "Toilet"
+            },
+            {
+              "ns": 0,
+              "title": "Toledo, Spain"
+            },
+            {
+              "ns": 0,
+              "title": "Tomahawk (missile family)"
+            },
+            {
+              "ns": 0,
+              "title": "Tool"
+            },
+            {
+              "ns": 0,
+              "title": "Torpedo"
+            },
+            {
+              "ns": 0,
+              "title": "Torpedo Data Computer"
+            },
+            {
+              "ns": 0,
+              "title": "Torpedo boat"
+            },
+            {
+              "ns": 0,
+              "title": "Torpedo cruiser"
+            },
+            {
+              "ns": 0,
+              "title": "Touchscreen"
+            },
+            {
+              "ns": 0,
+              "title": "Towboat"
+            },
+            {
+              "ns": 0,
+              "title": "Tower"
+            },
+            {
+              "ns": 0,
+              "title": "Toy"
+            },
+            {
+              "ns": 0,
+              "title": "Trade secret"
+            },
+            {
+              "ns": 0,
+              "title": "Trafalgar-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Train"
+            },
+            {
+              "ns": 0,
+              "title": "Train ferry"
+            },
+            {
+              "ns": 0,
+              "title": "Transfer under pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Transhumanism"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transport"
+            },
+            {
+              "ns": 0,
+              "title": "Treaty battleship"
+            },
+            {
+              "ns": 0,
+              "title": "Trident (missile)"
+            },
+            {
+              "ns": 0,
+              "title": "Trieste (bathyscaphe)"
+            },
+            {
+              "ns": 0,
+              "title": "Trimaran"
+            },
+            {
+              "ns": 0,
+              "title": "Troopship"
+            },
+            {
+              "ns": 0,
+              "title": "Tugboat"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel"
+            },
+            {
+              "ns": 0,
+              "title": "Turbine"
+            },
+            {
+              "ns": 0,
+              "title": "Turtle (submersible)"
+            },
+            {
+              "ns": 0,
+              "title": "Type 212 submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Type 95 torpedo"
+            },
+            {
+              "ns": 0,
+              "title": "Type A Ko-hyoteki-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Type VII submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Type XXI"
+            },
+            {
+              "ns": 0,
+              "title": "Type XXI submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Typewriter"
+            },
+            {
+              "ns": 0,
+              "title": "Typhoon-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "U-boat"
+            },
+            {
+              "ns": 0,
+              "title": "U.S. Naval Institute"
+            },
+            {
+              "ns": 0,
+              "title": "UGM-133 Trident II"
+            },
+            {
+              "ns": 0,
+              "title": "UGM-27 Polaris"
+            },
+            {
+              "ns": 0,
+              "title": "UGM-73 Poseidon"
+            },
+            {
+              "ns": 0,
+              "title": "USS Alabama (SSBN-731)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Albacore (AGSS-569)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Alexandria (SSN-757)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Annapolis (SSN-760)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Archerfish (SSN-678)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Atule"
+            },
+            {
+              "ns": 0,
+              "title": "USS Barbero"
+            },
+            {
+              "ns": 0,
+              "title": "USS Billfish (SSN-676)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Boarfish"
+            },
+            {
+              "ns": 0,
+              "title": "USS Carp (SS-338)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Charlotte (SSN-766)"
+            },
+            {
+              "ns": 0,
+              "title": "USS George Washington (SSBN-598)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Greeneville"
+            },
+            {
+              "ns": 0,
+              "title": "USS Gurnard (SSN-662)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Hawkbill (SSN-666)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Holland (SS-1)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Housatonic (1861)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Minnesota (SSN-783)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Nautilus (SSN-571)"
+            },
+            {
+              "ns": 0,
+              "title": "USS O-12"
+            },
+            {
+              "ns": 0,
+              "title": "USS Pintado (SSN-672)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Plunger (SS-2)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Queenfish (SSN-651)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Ray (SSN-653)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Redfish (SS-395)"
+            },
+            {
+              "ns": 0,
+              "title": "USS S-3"
+            },
+            {
+              "ns": 0,
+              "title": "USS S-6"
+            },
+            {
+              "ns": 0,
+              "title": "USS S-7"
+            },
+            {
+              "ns": 0,
+              "title": "USS Sargo (SSN-583)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Scorpion (SSN-589)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Sea Devil (SSN-664)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Seadragon (SSN-584)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Seahorse (SSN-669)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Seawolf (SS-197)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Seawolf (SSN-21)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Sennet"
+            },
+            {
+              "ns": 0,
+              "title": "USS Skate (SSN-578)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Thresher (SSN-593)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Tunny (SS-282)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Virginia (SSN-774)"
+            },
+            {
+              "ns": 0,
+              "title": "USS West Virginia (SSBN-736)"
+            },
+            {
+              "ns": 0,
+              "title": "USS Wyoming (SSBN-742)"
+            },
+            {
+              "ns": 0,
+              "title": "USS X-1"
+            },
+            {
+              "ns": 0,
+              "title": "US Navy"
+            },
+            {
+              "ns": 0,
+              "title": "Undersea archaeology"
+            },
+            {
+              "ns": 0,
+              "title": "Undersea cable"
+            },
+            {
+              "ns": 0,
+              "title": "Undervattensbåten No 2-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Underwater diving"
+            },
+            {
+              "ns": 0,
+              "title": "Underwater telephone"
+            },
+            {
+              "ns": 0,
+              "title": "Underwater warfare"
+            },
+            {
+              "ns": 0,
+              "title": "United Kingdom"
+            },
+            {
+              "ns": 0,
+              "title": "United States Naval Academy"
+            },
+            {
+              "ns": 0,
+              "title": "United States Navy"
+            },
+            {
+              "ns": 0,
+              "title": "United States Porpoise-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "United States S-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "United States Ship"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned underwater vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unprotected cruiser"
+            },
+            {
+              "ns": 0,
+              "title": "Unrestricted submarine warfare"
+            },
+            {
+              "ns": 0,
+              "title": "V-80 submarine"
+            },
+            {
+              "ns": 0,
+              "title": "VLF"
+            },
+            {
+              "ns": 0,
+              "title": "Vaccine"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum pump"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Valparaiso"
+            },
+            {
+              "ns": 0,
+              "title": "Valve"
+            },
+            {
+              "ns": 0,
+              "title": "Variable buoyancy pressure vessel"
+            },
+            {
+              "ns": 0,
+              "title": "Vickers"
+            },
+            {
+              "ns": 0,
+              "title": "Victoria-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Video game"
+            },
+            {
+              "ns": 0,
+              "title": "Vinta"
+            },
+            {
+              "ns": 0,
+              "title": "Virginia-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Vladivostok"
+            },
+            {
+              "ns": 0,
+              "title": "Vulcanization"
+            },
+            {
+              "ns": 0,
+              "title": "Västergötland-class submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Warship"
+            },
+            {
+              "ns": 0,
+              "title": "Washing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Water taxi"
+            },
+            {
+              "ns": 0,
+              "title": "Watercraft"
+            },
+            {
+              "ns": 0,
+              "title": "Waterwheel"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Web browser"
+            },
+            {
+              "ns": 0,
+              "title": "Wedge"
+            },
+            {
+              "ns": 0,
+              "title": "Welding"
+            },
+            {
+              "ns": 0,
+              "title": "Wet sub"
+            },
+            {
+              "ns": 0,
+              "title": "Whaleboat"
+            },
+            {
+              "ns": 0,
+              "title": "Whaler"
+            },
+            {
+              "ns": 0,
+              "title": "Wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Wherry"
+            },
+            {
+              "ns": 0,
+              "title": "Whippletree (mechanism)"
+            },
+            {
+              "ns": 0,
+              "title": "Whitehead torpedo"
+            },
+            {
+              "ns": 0,
+              "title": "Wilhelm Bauer"
+            },
+            {
+              "ns": 0,
+              "title": "William Bourne (mathematician)"
+            },
+            {
+              "ns": 0,
+              "title": "Windjammer"
+            },
+            {
+              "ns": 0,
+              "title": "Windmill"
+            },
+            {
+              "ns": 0,
+              "title": "Windsurfing"
+            },
+            {
+              "ns": 0,
+              "title": "Wine"
+            },
+            {
+              "ns": 0,
+              "title": "Wing"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfpack (naval tactic)"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor"
+            },
+            {
+              "ns": 0,
+              "title": "Working animal"
+            },
+            {
+              "ns": 0,
+              "title": "World War I"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "World Wide Web"
+            },
+            {
+              "ns": 0,
+              "title": "Writing"
+            },
+            {
+              "ns": 0,
+              "title": "Xebec"
+            },
+            {
+              "ns": 0,
+              "title": "Yacht"
+            },
+            {
+              "ns": 0,
+              "title": "Yawl"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329748.1807747
+}

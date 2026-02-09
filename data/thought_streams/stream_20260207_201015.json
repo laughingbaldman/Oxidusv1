@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-02-07T20:10:15.741868",
+  "thought_count": 7,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-07T20:09:51.841805",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Carina Nebula'? (source: Carina Nebula)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-07T20:09:51.841805",
+      "type": "question",
+      "content": "How do 93129, 93205, 93250 interact or influence each other? (source: Carina Nebula)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-07T20:09:51.841805",
+      "type": "question",
+      "content": "Why does this topic connect most to hope? (source: Carina Nebula)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-07T20:09:51.841805",
+      "type": "question",
+      "content": "What is missing or uncertain about 93129 in this source? (source: Carina Nebula)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-07T20:10:04.735074",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Cassiopeia (constellation)'? (source: Cassiopeia (constellation))",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-07T20:10:04.735074",
+      "type": "question",
+      "content": "How do cassiopeia, citations, cited interact or influence each other? (source: Cassiopeia (constellation))",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-07T20:10:04.736578",
+      "type": "question",
+      "content": "What is missing or uncertain about cassiopeia in this source? (source: Cassiopeia (constellation))",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 34,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 1,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

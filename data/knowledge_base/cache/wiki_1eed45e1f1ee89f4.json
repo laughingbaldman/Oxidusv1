@@ -1,0 +1,805 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "1641247": {
+          "pageid": 1641247,
+          "ns": 0,
+          "title": "Anti-reflective coating",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Absorption (electromagnetic radiation)"
+            },
+            {
+              "ns": 0,
+              "title": "Achromatic lens"
+            },
+            {
+              "ns": 0,
+              "title": "Addison–Wesley"
+            },
+            {
+              "ns": 0,
+              "title": "AgInSbTe"
+            },
+            {
+              "ns": 0,
+              "title": "Air"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminum oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Angle of incidence (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Annealing (glass)"
+            },
+            {
+              "ns": 0,
+              "title": "Anti-scratch coating"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binoculars"
+            },
+            {
+              "ns": 0,
+              "title": "Bioactive glass"
+            },
+            {
+              "ns": 0,
+              "title": "Bioglass"
+            },
+            {
+              "ns": 0,
+              "title": "Biomimicry"
+            },
+            {
+              "ns": 0,
+              "title": "Borophosphosilicate glass"
+            },
+            {
+              "ns": 0,
+              "title": "Borosilicate glass"
+            },
+            {
+              "ns": 0,
+              "title": "CRT display"
+            },
+            {
+              "ns": 0,
+              "title": "Calculation of glass properties"
+            },
+            {
+              "ns": 0,
+              "title": "Camera"
+            },
+            {
+              "ns": 0,
+              "title": "Camera lens"
+            },
+            {
+              "ns": 0,
+              "title": "Canon Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Carl Zeiss AG"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic glaze"
+            },
+            {
+              "ns": 0,
+              "title": "Chalcogenide glass"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical vapor deposition"
+            },
+            {
+              "ns": 0,
+              "title": "Chemically strengthened glass"
+            },
+            {
+              "ns": 0,
+              "title": "Chirality"
+            },
+            {
+              "ns": 0,
+              "title": "Circular polarizer"
+            },
+            {
+              "ns": 0,
+              "title": "CiteSeerX (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Cobalt glass"
+            },
+            {
+              "ns": 0,
+              "title": "Computational electromagnetics"
+            },
+            {
+              "ns": 0,
+              "title": "Conservation and restoration of glass objects"
+            },
+            {
+              "ns": 0,
+              "title": "Contrast (vision)"
+            },
+            {
+              "ns": 0,
+              "title": "CorningWare"
+            },
+            {
+              "ns": 0,
+              "title": "Corrective lens"
+            },
+            {
+              "ns": 0,
+              "title": "Corrosion"
+            },
+            {
+              "ns": 0,
+              "title": "Cranberry glass"
+            },
+            {
+              "ns": 0,
+              "title": "Crown glass (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "DNA microarray"
+            },
+            {
+              "ns": 0,
+              "title": "Dealkalization"
+            },
+            {
+              "ns": 0,
+              "title": "Destructive interference"
+            },
+            {
+              "ns": 0,
+              "title": "Dichroic filter"
+            },
+            {
+              "ns": 0,
+              "title": "Dispersion (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Effective medium approximations"
+            },
+            {
+              "ns": 0,
+              "title": "Fat"
+            },
+            {
+              "ns": 0,
+              "title": "Fiberglass"
+            },
+            {
+              "ns": 0,
+              "title": "Flint glass"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoropolymer"
+            },
+            {
+              "ns": 0,
+              "title": "Fluorosilicate glass"
+            },
+            {
+              "ns": 0,
+              "title": "Fraunhofer Magazine"
+            },
+            {
+              "ns": 0,
+              "title": "Frequencies"
+            },
+            {
+              "ns": 0,
+              "title": "Fresnel equations"
+            },
+            {
+              "ns": 0,
+              "title": "Fused quartz"
+            },
+            {
+              "ns": 0,
+              "title": "GeSbTe"
+            },
+            {
+              "ns": 0,
+              "title": "Geometric mean"
+            },
+            {
+              "ns": 0,
+              "title": "Geometric optics"
+            },
+            {
+              "ns": 0,
+              "title": "Glass"
+            },
+            {
+              "ns": 0,
+              "title": "Glass-ceramic"
+            },
+            {
+              "ns": 0,
+              "title": "Glass-ceramic-to-metal seals"
+            },
+            {
+              "ns": 0,
+              "title": "Glass-coated wire"
+            },
+            {
+              "ns": 0,
+              "title": "Glass-to-metal seal"
+            },
+            {
+              "ns": 0,
+              "title": "Glass batch calculation"
+            },
+            {
+              "ns": 0,
+              "title": "Glass cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Glass databases"
+            },
+            {
+              "ns": 0,
+              "title": "Glass electrode"
+            },
+            {
+              "ns": 0,
+              "title": "Glass fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Glass fiber reinforced concrete"
+            },
+            {
+              "ns": 0,
+              "title": "Glass ionomer cement"
+            },
+            {
+              "ns": 0,
+              "title": "Glass microsphere"
+            },
+            {
+              "ns": 0,
+              "title": "Glass production"
+            },
+            {
+              "ns": 0,
+              "title": "Glass transition"
+            },
+            {
+              "ns": 0,
+              "title": "Glasses"
+            },
+            {
+              "ns": 0,
+              "title": "Gradient-index optics"
+            },
+            {
+              "ns": 0,
+              "title": "Harold Dennis Taylor"
+            },
+            {
+              "ns": 0,
+              "title": "Heliyon"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen darkening"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Impedance matching"
+            },
+            {
+              "ns": 0,
+              "title": "Index of refraction"
+            },
+            {
+              "ns": 0,
+              "title": "Indium tin oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Insulated glazing"
+            },
+            {
+              "ns": 0,
+              "title": "Intensity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Interference (wave propagation)"
+            },
+            {
+              "ns": 0,
+              "title": "Ion implantation"
+            },
+            {
+              "ns": 0,
+              "title": "Irving Langmuir"
+            },
+            {
+              "ns": 0,
+              "title": "Jemná Mechanika a Optika"
+            },
+            {
+              "ns": 0,
+              "title": "John William Strutt, 3rd Baron Rayleigh"
+            },
+            {
+              "ns": 0,
+              "title": "Katharine Burr Blodgett"
+            },
+            {
+              "ns": 0,
+              "title": "Langmuir–Blodgett film"
+            },
+            {
+              "ns": 0,
+              "title": "Langmuir–Blodgett trough"
+            },
+            {
+              "ns": 0,
+              "title": "Lead glass"
+            },
+            {
+              "ns": 0,
+              "title": "Leipzig Trade Fair"
+            },
+            {
+              "ns": 0,
+              "title": "Lens (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Lens flare"
+            },
+            {
+              "ns": 0,
+              "title": "Light"
+            },
+            {
+              "ns": 0,
+              "title": "Light pollution"
+            },
+            {
+              "ns": 0,
+              "title": "Liquidus"
+            },
+            {
+              "ns": 0,
+              "title": "Lord Rayleigh"
+            },
+            {
+              "ns": 0,
+              "title": "Macor"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Medium (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Mesoporous silica"
+            },
+            {
+              "ns": 0,
+              "title": "Milk glass"
+            },
+            {
+              "ns": 0,
+              "title": "Moth"
+            },
+            {
+              "ns": 0,
+              "title": "Nanoparticle"
+            },
+            {
+              "ns": 0,
+              "title": "Nanostructure"
+            },
+            {
+              "ns": 0,
+              "title": "Niobium nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Normal incidence"
+            },
+            {
+              "ns": 0,
+              "title": "Oblique angle"
+            },
+            {
+              "ns": 0,
+              "title": "Olexander Smakula"
+            },
+            {
+              "ns": 0,
+              "title": "Optical amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Optical coating"
+            },
+            {
+              "ns": 0,
+              "title": "Optical fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Optical lens design"
+            },
+            {
+              "ns": 0,
+              "title": "Optical microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Optician"
+            },
+            {
+              "ns": 0,
+              "title": "Optics"
+            },
+            {
+              "ns": 0,
+              "title": "Optics Letters"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Percentage"
+            },
+            {
+              "ns": 0,
+              "title": "Phase (waves)"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphosilicate glass"
+            },
+            {
+              "ns": 0,
+              "title": "Photochromic lens"
+            },
+            {
+              "ns": 0,
+              "title": "Photolithography"
+            },
+            {
+              "ns": 0,
+              "title": "Photoresist"
+            },
+            {
+              "ns": 0,
+              "title": "Photosensitive glass"
+            },
+            {
+              "ns": 0,
+              "title": "Photovoltaic cell"
+            },
+            {
+              "ns": 0,
+              "title": "Physical vapor deposition"
+            },
+            {
+              "ns": 0,
+              "title": "Planetary astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Polarization (waves)"
+            },
+            {
+              "ns": 0,
+              "title": "Polarizer"
+            },
+            {
+              "ns": 0,
+              "title": "Porous glass"
+            },
+            {
+              "ns": 0,
+              "title": "Pre-preg"
+            },
+            {
+              "ns": 0,
+              "title": "Prince Rupert's drop"
+            },
+            {
+              "ns": 0,
+              "title": "Radioactive waste"
+            },
+            {
+              "ns": 0,
+              "title": "Ray of light"
+            },
+            {
+              "ns": 0,
+              "title": "Ray tracing (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Reflectance"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Refraction"
+            },
+            {
+              "ns": 0,
+              "title": "Refractive index"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Safety glass"
+            },
+            {
+              "ns": 0,
+              "title": "Scattering"
+            },
+            {
+              "ns": 0,
+              "title": "Self-cleaning glass"
+            },
+            {
+              "ns": 0,
+              "title": "Silica"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Soda–lime glass"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexametaphosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium silicate"
+            },
+            {
+              "ns": 0,
+              "title": "Solar cell"
+            },
+            {
+              "ns": 0,
+              "title": "Sol–gel process"
+            },
+            {
+              "ns": 0,
+              "title": "Sonnar"
+            },
+            {
+              "ns": 0,
+              "title": "Sputter deposition"
+            },
+            {
+              "ns": 0,
+              "title": "Square root"
+            },
+            {
+              "ns": 0,
+              "title": "Standing wave"
+            },
+            {
+              "ns": 0,
+              "title": "Stray light"
+            },
+            {
+              "ns": 0,
+              "title": "Sunglasses"
+            },
+            {
+              "ns": 0,
+              "title": "Supercooling"
+            },
+            {
+              "ns": 0,
+              "title": "Tarnish"
+            },
+            {
+              "ns": 0,
+              "title": "Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Telescopic sight"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurite glass"
+            },
+            {
+              "ns": 0,
+              "title": "Tempered glass"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film interference"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film optics"
+            },
+            {
+              "ns": 0,
+              "title": "Thoriated glass"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Total internal reflection"
+            },
+            {
+              "ns": 0,
+              "title": "Transfer-matrix method (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Transparency (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Transparency and translucency"
+            },
+            {
+              "ns": 0,
+              "title": "Turkish Journal of Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra low expansion glass"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium glass"
+            },
+            {
+              "ns": 0,
+              "title": "Viscosity"
+            },
+            {
+              "ns": 0,
+              "title": "Visible light"
+            },
+            {
+              "ns": 0,
+              "title": "Vitreous enamel"
+            },
+            {
+              "ns": 0,
+              "title": "Vitrification"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Water splitting"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Window"
+            },
+            {
+              "ns": 0,
+              "title": "Windshield"
+            },
+            {
+              "ns": 0,
+              "title": "Wood's glass"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "ZBLAN"
+            },
+            {
+              "ns": 0,
+              "title": "Zeiss Biotar"
+            },
+            {
+              "ns": 0,
+              "title": "Zerodur"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669149.9202523
+}

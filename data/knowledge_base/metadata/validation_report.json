@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "generated_utc": "2026-02-09T06:25:16Z",
+  "checks": {
+    "kb_naming": {
+      "schema_version": "1.0",
+      "checked_files": 0,
+      "violation_count": 0,
+      "generated_utc": "2026-02-08T23:25:16Z",
+      "violations": []
+    },
+    "json_content": {
+      "total_json_files": 0,
+      "invalid_json": [],
+      "missing_content": []
+    },
+    "taxonomy_graph": {
+      "schema_version": "1.0",
+      "generated_utc": "2026-02-09T06:25:16Z",
+      "counts": {
+        "taxonomy_domains": 22,
+        "registry_domains": 22,
+        "mappings": 22,
+        "edges": 8,
+        "synonyms": 11
+      },
+      "errors": [],
+      "warnings": []
+    },
+    "domain_coverage": {
+      "schema_version": "1.0",
+      "generated_utc": "2026-02-09T06:25:16Z",
+      "missing_folders": [],
+      "extra_folders": [],
+      "coverage": [
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\science",
+          "exists": true,
+          "file_count": 1
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\history",
+          "exists": true,
+          "file_count": 1
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\philosophy",
+          "exists": true,
+          "file_count": 1
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\psychology",
+          "exists": true,
+          "file_count": 1
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\ethics",
+          "exists": true,
+          "file_count": 1
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\humanities",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\arts",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\economics",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\law",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\medicine",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\engineering",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\technology",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\geography",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\languages",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\social_science",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\mathematics",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\business",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\environment",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\agriculture",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\religion",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\education",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\politics",
+          "exists": true,
+          "file_count": 0
+        }
+      ],
+      "empty_folders": [
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\humanities",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\arts",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\economics",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\law",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\medicine",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\engineering",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\technology",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\geography",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\languages",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\social_science",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\mathematics",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\business",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\environment",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\agriculture",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\religion",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\education",
+          "exists": true,
+          "file_count": 0
+        },
+        {
+          "path": "D:\\Oxidus for the people\\data\\knowledge_base\\domains\\politics",
+          "exists": true,
+          "file_count": 0
+        }
+      ]
+    },
+    "provenance": {
+      "ok": true,
+      "path": "D:/Oxidus for the people/data/knowledge_base/metadata/provenance_log.jsonl",
+      "entries": 11,
+      "issues": []
+    }
+  },
+  "ok": true
+}

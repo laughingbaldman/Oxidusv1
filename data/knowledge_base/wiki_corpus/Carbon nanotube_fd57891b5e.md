@@ -1,0 +1,897 @@
+---
+title: "Carbon nanotube"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Carbon_nanotube"
+source: "wikipedia"
+timestamp: "2026-02-07T20:09:04.805620"
+content_length: 70777
+links_count: 382
+---
+
+A carbon nanotube (CNT) is a tube made of carbon with a diameter in the nanometre range (nanoscale). They are one of the allotropes of carbon.  Two broad classes of carbon nanotubes are recognized:
+
+Single-walled carbon nanotubes (SWCNTs) have diameters around 0.5–2.0 nanometres, about 100,000th the width of a human hair. They can be idealised as cutouts from a two-dimensional graphene sheet rolled up to form a hollow cylinder.
+Multi-walled carbon nanotubes (MWCNTs) consist of nested single-wall carbon nanotubes in a nested, tube-in-tube structure. Double- and triple-walled carbon nanotubes are special cases of MWCNT.
+Carbon nanotubes can exhibit remarkable properties, such as exceptional tensile strength and thermal conductivity because of their nanostructure and strength of the bonds between carbon atoms. Some SWCNT structures exhibit high electrical conductivity while others are semiconductors. In addition, carbon nanotubes can be chemically modified. These properties are expected to be valuable in many areas of technology, such as electronics, optics, composite materials (replacing or complementing carbon fibres), nanotechnology (including nanomedicine), and other applications of materials science.
+The predicted properties for SWCNTs were tantalising, but a path to synthesising them was lacking until 1993, when Iijima and Ichihashi at NEC, and Bethune and colleagues at IBM independently discovered that co-vaporising carbon and transition metals such as iron and cobalt could specifically catalyse SWCNT formation.  These discoveries triggered research that succeeded in greatly increasing the efficiency of the catalytic production technique, and led to an explosion of work to characterise and find applications for SWCNTs.
+
+
+== History ==
+
+The true identity of the discoverers of carbon nanotubes is a subject of some controversy. A 2006 editorial written by Marc Monthioux and Vladimir Kuznetsov in the journal Carbon described the origin of the carbon nanotube. A large percentage of academic and popular literature attributes the discovery of hollow, nanometre-size tubes composed of graphitic carbon to Sumio Iijima of NEC in 1991. His paper initiated a flurry of excitement and could be credited with inspiring the many scientists now studying applications of carbon nanotubes. Though Iijima has been given much of the credit for discovering carbon nanotubes, it turns out that the timeline of carbon nanotubes goes back much further than 1991.
+
+In 1952, L. V. Radushkevich and V. M. Lukyanovich published clear images of 50-nanometre diameter tubes made of carbon in the Journal of Physical Chemistry Of Russia. This discovery was largely unnoticed, as the article was published in Russian, and Western scientists' access to Soviet press was limited during the Cold War. Monthioux and Kuznetsov mentioned in their Carbon editorial: The fact is, Radushkevich and Lukyanovich [...] should be credited for the discovery that carbon filaments could be hollow and have a nanometre-size diameter, that is to say for the discovery of carbon nanotubes.
+In 1976, Morinobu Endo of CNRS observed hollow tubes of rolled up graphite sheets synthesised by a chemical vapour-growth technique. The first specimens observed would later come to be known as single-walled carbon nanotubes (SWNTs). Endo, in his early review of vapor-phase-grown carbon fibers (VPCF), also reminded us that he had observed a hollow tube, linearly extended with parallel carbon layer faces near the fiber core. This appears to be the observation of multi-walled carbon nanotubes at the center of the fiber. The mass-produced MWCNTs today are strongly related to the VPGCF developed by Endo. In fact, they call it the "Endo process", out of respect for his early work and patents. In 1979, John Abrahamson presented evidence of carbon nanotubes at the 14th Biennial Conference of Carbon at Pennsylvania State University. The conference paper described carbon nanotubes as carbon fibers that were produced on carbon anodes during arc discharge. A characterization of these fibers was given, as well as hypotheses for their growth in a nitrogen atmosphere at low pressures.
+In 1981, a group of Soviet scientists published the results of chemical and structural characterization of carbon nanoparticles produced by a thermocatalytic disproportionation of carbon monoxide. Using TEM images and XRD patterns, the authors suggested that their "carbon multi-layer tubular crystals" were formed by rolling graphene layers into cylinders. They speculated that via this rolling, many different arrangements of graphene hexagonal nets are possible. They suggested two such possible arrangements: a circular arrangement (armchair nanotube); and a spiral, helical arrangement (chiral tube).
+In 1987, Howard G. Tennent of Hyperion Catalysis was issued a U.S. patent for the production of "cylindrical discrete carbon fibrils" with a "constant diameter between about 3.5 and about 70 nanometers..., length 102 times the diameter, and an outer region of multiple essentially continuous layers of ordered carbon atoms and a distinct inner core...."
+Helping to create the initial excitement associated with carbon nanotubes were Iijima's 1991 discovery of multi-walled carbon nanotubes in the insoluble material of arc-burned graphite rods; and Mintmire, Dunlap, and White's independent prediction that if single-walled carbon nanotubes could be made, they would exhibit remarkable conducting properties. Nanotube research accelerated greatly following the independent discoveries by Iijima and Ichihashi at NEC and Bethune et al. at IBM of methods to specifically produce single-walled carbon nanotubes by adding transition-metal catalysts to the carbon in an arc discharge. Thess et al. refined this catalytic method by vaporizing the carbon/transition-metal combination in a high-temperature furnace, which greatly improved the yield and purity of the SWNTs and made them widely available for characterization and application experiments. The arc discharge technique, well known to produce the famed Buckminsterfullerene, thus played a role in the discoveries of both multi- and single-wall nanotubes, extending the run of serendipitous discoveries relating to fullerenes.  The discovery of nanotubes remains a contentious issue. Many believe that Iijima's report in 1991 is of particular importance because it brought carbon nanotubes into the awareness of the scientific community as a whole.
+In 2020, during an archaeological excavation of Keezhadi in Tamil Nadu, India, ~2600-year-old pottery was discovered whose coatings appear to contain carbon nanotubes.  The robust mechanical properties of the nanotubes are partially why the coatings have lasted for so many years, say the scientists.
+
+
+== Structure of SWCNTs ==
+
+
+=== Basic details ===
+
+The structure of an ideal (infinitely long) single-walled carbon nanotube is that of a regular hexagonal lattice drawn on an infinite cylindrical surface, whose vertices are the positions of the carbon atoms. Since the length of the carbon-carbon bonds is fairly fixed, there are constraints on the diameter of the cylinder and the arrangement of the atoms on it.
+In the study of nanotubes, one defines a zigzag path on a graphene-like lattice as a path that turns 60 degrees, alternating left and right, after stepping through each bond. It is also conventional to define an armchair path as one that makes two left turns of 60 degrees followed by two right turns every four steps. On some carbon nanotubes, there is a closed zigzag path that goes around the tube. One says that the tube is of the zigzag type or configuration, or simply is a zigzag nanotube. If the tube is instead encircled by a closed armchair path, it is said to be of the armchair type, or an armchair nanotube. An infinite nanotube that is of one type consists entirely of closed paths of that type, connected to each other.
+The zigzag and armchair configurations are not the only structures that a single-walled nanotube can have. To describe the structure of a general infinitely long tube, one should imagine it being sliced open by a cut parallel to its axis, that goes through some atom A, and then unrolled flat on the plane, so that its atoms and bonds coincide with those of an imaginary graphene sheet—more precisely, with an infinitely long strip of that sheet. The two halves of the atom A will end up on opposite edges of the strip, over two atoms A1 and A2 of the graphene. The line from A1 to A2 will correspond to the circumference of the cylinder that went through the atom A, and will be perpendicular to the edges of the strip. In the graphene lattice, the atoms can be split into two classes, depending on the directions of their three bonds. Half the atoms have their three bonds directed the same way, and half have their three bonds rotated 180 degrees relative to the first half. The atoms A1 and A2, which correspond to the same atom A on the cylinder, must be in the same class. It follows that the circumference of the tube and the angle of the strip are not arbitrary, because they are constrained to the lengths and directions of the lines that connect pairs of graphene atoms in the same class.
+Let u and v be two linearly independent vectors that connect the graphene atom A1 to two of its nearest atoms with the same bond directions. For example, if one numbers consecutive carbons around a graphene cell with C1 to C6, then u can be the vector from C1 to C3, and v the vector from C1 to C5. Then, for any other atom A2 with same class as A1, the vector from A1 to A2 can be written as a linear combination n u + m v, where n and m are integers. And, conversely, each pair of integers (n,m) defines a possible position for A2. Given n and m, one can reverse this theoretical operation by drawing the vector w on the graphene lattice, cutting a strip of the latter along lines perpendicular to w through its endpoints A1 and A2, and rolling the strip into a cylinder so as to bring those two points together. If this construction is applied to a pair (k,0), the result is a zigzag nanotube, with closed zigzag paths of 2k atoms. If it is applied to a pair (k,k), one obtains an armchair tube, with closed armchair paths of 4k atoms.
+
+
+== Types ==
+The structure of the nanotube is not changed if the strip is rotated by 60 degrees clockwise around A1 before applying the hypothetical reconstruction above. Such a rotation changes the corresponding pair (n,m) to the pair (−2m,n+m). It follows that many possible positions of A2 relative to A1 — that is, many pairs (n,m) — correspond to the same arrangement of atoms on the nanotube. That is the case, for example, of the six pairs (1,2), (−2,3), (−3,1), (−1,−2), (2,−3), and (3,−1). In particular, the pairs (k,0) and (0,k) describe the same nanotube geometry. These redundancies can be avoided by considering only pairs (n,m) such that n > 0 and m ≥ 0; that is, where the direction of the vector w lies between those of u (inclusive) and v (exclusive). It can be verified that every nanotube has exactly one pair (n,m) that satisfies those conditions, which is called the tube's type. Conversely, for every type there is a hypothetical nanotube. In fact, two nanotubes have the same type if and only if one can be conceptually rotated and translated so as to match the other exactly. Instead of the type (n,m), the structure of a carbon nanotube can be specified by giving the length of the vector w (that is, the circumference of the nanotube), and the angle α between the directions of u and w may range from 0 (inclusive) to 60 degrees clockwise (exclusive). If the diagram is drawn with u horizontal, the latter is the tilt of the strip away from the vertical.
+
+
+=== Chirality and mirror symmetry ===
+A nanotube is chiral if it has type (n,m), with m > 0 and m ≠ n; then its enantiomer (mirror image) has type (m,n), which is different from (n,m). This operation corresponds to mirroring the unrolled strip about the line L through A1 that makes an angle of 30 degrees clockwise from the direction of the u vector (that is, with the direction of the vector u+v). The only types of nanotubes that are achiral are the (k,0) "zigzag" tubes and the (k,k) "armchair" tubes. If two enantiomers are to be considered the same structure, then one may consider only types (n,m) with 0 ≤ m ≤ n and n > 0. Then the angle α between u and w, which may range from 0 to 30 degrees (inclusive both), is called the "chiral angle" of the nanotube.
+
+
+=== Circumference and diameter ===
+From n and m one can also compute the circumference c, which is the length of the vector w, and the diameter d, which turn out to be (picometres):
+
+  
+    
+      
+        
+          
+            
+              
+                c
+              
+              
+                
+                =
+                
+                  |
+                  
+                    u
+                  
+                  |
+                
+                
+                  
+                    (
+                    
+                      n
+                      
+                        2
+                      
+                    
+                    +
+                    n
+                    m
+                    +
+                    
+                      m
+                      
+                        2
+                      
+                    
+                    )
+                  
+                
+              
+              
+              
+                
+                ≈
+                246
+                
+                  
+                    (
+                    (
+                    n
+                    +
+                    m
+                    
+                      )
+                      
+                        2
+                      
+                    
+                    −
+                    n
+                    m
+                    )
+                  
+                
+              
+            
+            
+              
+                d
+              
+              
+                
+                =
+                
+                  
+                    c
+                    π
+                  
+                
+              
+              
+              
+                
+                ≈
+                78.3
+                
+                  
+                    (
+                    (
+                    n
+                    +
+                    m
+                    
+                      )
+                      
+                        2
+                      
+                    
+                    −
+                    n
+                    m
+                    )
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}c&=\left|{\boldsymbol {u}}\right|{\sqrt {(n^{2}+nm+m^{2})}}&&\approx 246{\sqrt {((n+m)^{2}-nm)}}\\d&={\frac {c}{\pi }}&&\approx 78.3{\sqrt {((n+m)^{2}-nm)}}\\\end{aligned}}}
+  
+
+These formulas are only approximate, especially for small n and m where the bonds are strained, and they do not take into account the thickness of the wall.
+The tilt angle α between u and w and the circumference c are related to the type indices n and m by:
+
+  
+    
+      
+        α
+        
+        =
+        
+        arg
+        ⁡
+        (
+        n
+        +
+        m
+        
+          /
+        
+        2
+        ,
+        
+        m
+        
+          
+            3
+          
+        
+        
+          /
+        
+        2
+        )
+        
+        =
+        
+        
+          
+            a
+            r
+            c
+          
+        
+        ⁡
+        cos
+        ⁡
+        
+          
+            
+              n
+              +
+              m
+              
+                /
+              
+              2
+            
+            c
+          
+        
+      
+    
+    {\displaystyle \alpha \;=\;\arg(n+m/2,\,m{\sqrt {3}}/2)\;=\;\mathop {\mathrm {arc} } \cos {\frac {n+m/2}{c}}}
+  
+
+where arg(x,y) is the clockwise angle between the X-axis and the vector (x,y); a function that is available in many programming languages as atan2(y,x). Conversely, given c and α, one can get the type (n,m) by the formulas:
+
+  
+    
+      
+        m
+        =
+        
+          
+            
+              2
+              c
+            
+            
+              3
+            
+          
+        
+        sin
+        ⁡
+        α
+        
+        
+        n
+        =
+        c
+        cos
+        ⁡
+        α
+        −
+        
+          
+            m
+            2
+          
+        
+      
+    
+    {\displaystyle m={\frac {2c}{\sqrt {3}}}\sin \alpha \quad \quad n=c\cos \alpha -{\frac {m}{2}}}
+  
+
+which must evaluate to integers.
+
+
+== Physical limits ==
+
+
+=== Narrowest examples ===
+
+If n and m are too small, the structure described by the pair (n,m) will describe a molecule that cannot be reasonably called a "tube", and may not even be stable. For example, the structure theoretically described by the pair (1,0) (the limiting "zigzag" type) would be just a chain of carbons. That is a real molecule, the carbyne; which has some characteristics of nanotubes (such as orbital hybridization, high tensile strength, etc.) — but has no hollow space, and may not be obtainable as a condensed phase. The pair (2,0) would theoretically yield a chain of fused 4-cycles; and (1,1), the limiting "armchair" structure, would yield a chain of bi-connected 4-rings. These structures may not be realizable.
+The thinnest carbon nanotube proper is the armchair structure with type (2,2), which has a diameter of 0.3 nm. This nanotube was grown inside a multi-walled carbon nanotube. Assigning of the carbon nanotube type was done by a combination of high-resolution transmission electron microscopy (HRTEM), Raman spectroscopy, and density functional theory (DFT) calculations.
+The thinnest freestanding single-walled carbon nanotube is about 0.43 nm in diameter. Researchers suggested that it can be either (5,1) or (4,2) SWCNT, but the exact type of the carbon nanotube remains questionable. (3,3), (4,3), and (5,1) carbon nanotubes (all about 0.4 nm in diameter) were unambiguously identified using aberration-corrected high-resolution transmission electron microscopy inside double-walled CNTs.
+
+
+=== Length ===
+
+The observation of the longest carbon nanotubes grown so far, around 0.5 metre (550 mm) long, was reported in 2013. These nanotubes were grown on silicon substrates using an improved chemical vapor deposition (CVD) method and represent electrically uniform arrays of single-walled carbon nanotubes.
+The shortest carbon nanotube can be considered to be the organic compound cycloparaphenylene, which was synthesized in 2008 by Ramesh Jasti. Other small molecule carbon nanotubes have been synthesized since.
+
+
+=== Density ===
+The highest density of CNTs was achieved in 2013, grown on a conductive titanium-coated copper surface that was coated with co-catalysts cobalt and molybdenum at lower than typical temperatures of 450 °C. The tubes averaged a height of 380 nm and a mass density of 1.6 g cm−3. The material showed ohmic conductivity (lowest resistance ~22 kΩ).
+
+
+== Variants ==
+There is no consensus on some terms describing carbon nanotubes in the scientific literature: both "-wall" and "-walled" are being used in combination with "single", "double", "triple", or "multi", and the letter C is often omitted in the abbreviation, for example, multi-walled carbon nanotube (MWNT). The International Standards Organization typically uses "single-walled carbon nanotube (SWCNT)" or "multi-walled carbon nanotube (MWCNT)" in its documents.
+
+
+=== Multi-walled ===
+
+Multi-walled nanotubes (MWNTs) consist of multiple rolled layers (concentric tubes) of graphene. There are two models that can be used to describe the structures of multi-walled nanotubes. In the Russian Doll model, sheets of graphite are arranged in concentric cylinders, e.g., a (0,8) single-walled nanotube (SWNT) within a larger (0,17) single-walled nanotube. In the Parchment model, a single sheet of graphite is rolled in around itself, resembling a scroll of parchment or a rolled newspaper. The interlayer distance in multi-walled nanotubes is close to the distance between graphene layers in graphite, approximately 3.4 Å. The Russian Doll structure is observed more commonly. Its individual shells can be described as SWNTs, which can be metallic or semiconducting. Because of statistical probability and restrictions on the relative diameters of the individual tubes, one of the shells, and thus the whole MWNT, is usually a zero-gap metal.
+Double-walled carbon nanotubes (DWNTs) form a special class of nanotubes because their morphology and properties are similar to those of SWNTs but they are more resistant to attacks by chemicals. This is especially important when it is necessary to graft chemical functions to the surface of the nanotubes (functionalization) to add properties to the CNT. Covalent functionalization of SWNTs will break some C=C double bonds, leaving "holes" in the structure on the nanotube and thus modifying both its mechanical and electrical properties. In the case of DWNTs, only the outer wall is modified. DWNT synthesis on the gram-scale by the CCVD technique was first proposed in 2003 from the selective reduction of oxide solutions in methane and hydrogen.
+The telescopic motion ability of inner shells, allowing them to act as low-friction, low-wear nanobearings and nanosprings, may make them a desirable material in nanoelectromechanical systems (NEMS) . The retraction force that occurs to telescopic motion is caused by the Lennard-Jones interaction between shells, and its value is about 1.5 nN.
+
+
+=== Junctions and crosslinking ===
+ Junctions between two or more nanotubes have been widely discussed theoretically. Such junctions are quite frequently observed in samples prepared by arc discharge as well as by chemical vapor deposition. The electronic properties of such junctions were first considered theoretically by Lambin et al., who pointed out that a connection between a metallic tube and a semiconducting one would represent a nanoscale heterojunction. Such a junction could therefore form a component of a nanotube-based electronic circuit. The adjacent image shows a junction between two multiwalled nanotubes.
+Junctions between nanotubes and graphene have been considered theoretically and studied experimentally. Nanotube-graphene junctions form the basis of pillared graphene, in which parallel graphene sheets are separated by short nanotubes. Pillared graphene represents a class of three-dimensional carbon nanotube architectures.
+
+Recently, several studies have highlighted the prospect of using carbon nanotubes as building blocks to fabricate three-dimensional macroscopic (>100 nm in all three dimensions) all-carbon devices. Lalwani et al. have reported a novel radical-initiated thermal crosslinking method to fabricate macroscopic, free-standing, porous, all-carbon scaffolds using single- and multi-walled carbon nanotubes as building blocks. These scaffolds possess macro-, micro-, and nano-structured pores, and the porosity can be tailored for specific applications. These 3D all-carbon scaffolds/architectures may be used for the fabrication of the next generation of energy storage, supercapacitors, field emission transistors, high-performance catalysis, photovoltaics, and biomedical devices, implants, and sensors.
+
+
+=== Other morphologies ===
+
+Carbon nanobuds are a newly created material combining two previously discovered allotropes of carbon: carbon nanotubes and fullerenes. In this new material, fullerene-like "buds" are covalently bonded to the outer sidewalls of the underlying carbon nanotube. This hybrid material has useful properties of both fullerenes and carbon nanotubes. In particular, they have been found to be exceptionally good field emitters. In composite materials, the attached fullerene molecules may function as molecular anchors preventing slipping of the nanotubes, thus improving the composite's mechanical properties.
+A carbon peapod is a novel hybrid carbon material which traps fullerene inside a carbon nanotube. It can possess interesting magnetic properties with heating and irradiation. It can also be applied as an oscillator during theoretical investigations and predictions.
+In theory, a nanotorus is a carbon nanotube bent into a torus (doughnut shape). Nanotori are predicted to have many unique properties, such as magnetic moments 1000 times larger than that previously expected for certain specific radii. Properties such as magnetic moment, thermal stability, etc. vary widely depending on the radius of the torus and the radius of the tube.
+Graphenated carbon nanotubes are a relatively new hybrid that combines graphitic foliates grown along the sidewalls of multiwalled or bamboo-style CNTs. The foliate density can vary as a function of deposition conditions (e.g., temperature and time) with their structure ranging from a few layers of graphene (< 10) to thicker, more graphite-like. The fundamental advantage of an integrated graphene-CNT structure is the high surface area three-dimensional framework of the CNTs coupled with the high edge density of graphene. Depositing a high density of graphene foliates along the length of aligned CNTs can significantly increase the total charge capacity per unit of nominal area as compared to other carbon nanostructures.
+Cup-stacked carbon nanotubes (CSCNTs) differ from other quasi-1D carbon structures, which normally behave as quasi-metallic conductors of electrons. CSCNTs exhibit semiconducting behavior because of the stacking microstructure of graphene layers.
+
+
+== Properties ==
+Many properties of single-walled carbon nanotubes depend significantly on the (n,m) type, and this dependence is non-monotonic (see Kataura plot). In particular, the band gap can vary from zero to about 2 eV and the electrical conductivity can show metallic or semiconducting behavior.
+
+
+=== Mechanical ===
+
+Carbon nanotubes are the strongest and stiffest materials yet discovered in terms of tensile strength and elastic modulus. This strength results from the covalent sp2 bonds formed between the individual carbon atoms. In 2000, a multiwalled carbon nanotube was tested to have a tensile strength of 63 GPa (9,100,000 psi). (For illustration, this translates into the ability to endure tension of a weight equivalent to 6,422 kilograms-force (62,980 N; 14,160 lbf) on a cable with cross-section of 1 mm2 (0.0016 sq in)). Further studies, such as one conducted in 2008, revealed that individual CNT shells have strengths of up to ≈100 GPa (15,000,000 psi), which is in agreement with quantum/atomistic models. Because carbon nanotubes have a low density for a solid of 1.3 to 1.4 g/cm3, its specific strength of up to 48,000 kN·m/kg is the best of known materials, compared to high-carbon steel's 154 kN·m/kg.
+Although the strength of individual CNT shells is extremely high, weak shear interactions between adjacent shells and tubes lead to significant reduction in the effective strength of multiwalled carbon nanotubes and carbon nanotube bundles down to only a few GPa. This limitation has been recently addressed by applying high-energy electron irradiation, which crosslinks inner shells and tubes, and effectively increases the strength of these materials to ≈60 GPa for multiwalled carbon nanotubes and ≈17 GPa for double-walled carbon nanotube bundles. CNTs are not nearly as strong under compression. Because of their hollow structure and high aspect ratio, they tend to undergo buckling when placed under compressive, torsional, or bending stress.
+On the other hand, there is evidence that in the radial direction they are rather soft. The first transmission electron microscope observation of radial elasticity suggested that even van der Waals forces can deform two adjacent nanotubes. Later, nanoindentations with an atomic force microscope were performed by several groups to quantitatively measure the radial elasticity of multiwalled carbon nanotubes and tapping/contact mode atomic force microscopy was also performed on single-walled carbon nanotubes. Their high Young's modulus in the linear direction, of on the order of several GPa (and even up to an experimentally-measured 1.8 TPa, for nanotubes near 2.4 μm in length), further suggests they may be soft in the radial direction.
+
+
+=== Electrical ===
+
+Unlike graphene, which is a two-dimensional semimetal, carbon nanotubes are either metallic or semiconducting along the tubular axis. For a given (n,m) nanotube, if n = m, the nanotube is metallic; if n − m is a multiple of 3 and n ≠ m, then the nanotube is quasi-metallic with a very small band gap, otherwise the nanotube is a moderate semiconductor.
+Thus, all armchair (n = m) nanotubes are metallic, and nanotubes (6,4), (9,1), etc. are semiconducting.
+Carbon nanotubes are not semimetallic because the degenerate point (the point where the π [bonding] band meets the π* [anti-bonding] band, at which the energy goes to zero) is slightly shifted away from the K point in the Brillouin zone because of the curvature of the tube surface, causing hybridization between the σ* and π* anti-bonding bands, modifying the band dispersion.
+The rule regarding metallic versus semiconductor behavior has exceptions because curvature effects in small-diameter tubes can strongly influence electrical properties. Thus, a (5,0) SWCNT that should be semiconducting in fact is metallic according to the calculations. Likewise, zigzag and chiral SWCNTs with small diameters that should be metallic have a finite gap (armchair nanotubes remain metallic). In theory, metallic nanotubes can carry an electric current density of 4 billion A/cm2, which is more than 1,000 times greater than those of metals such as copper, where for copper interconnects, current densities are limited by electromigration. Carbon nanotubes are thus being explored as interconnects and conductivity-enhancing components in composite materials, and many groups are attempting to commercialize highly conducting electrical wire assembled from individual carbon nanotubes. There are significant challenges to be overcome however, such as undesired current saturation under voltage, and the much more resistive nanotube-to-nanotube junctions and impurities, all of which lower the electrical conductivity of the macroscopic nanotube wires by orders of magnitude, as compared to the conductivity of the individual nanotubes.
+Because of its nanoscale cross-section, electrons propagate only along the tube's axis. As a result, carbon nanotubes are frequently referred to as one-dimensional conductors. The maximum electrical conductance of a single-walled carbon nanotube is 2G0, where G0 = 2e2/h is the conductance of a single ballistic quantum channel.
+Because of the role of the π-electron system in determining the electronic properties of graphene, doping in carbon nanotubes differs from that of bulk crystalline semiconductors from the same group of the periodic table (e.g., silicon). Graphitic substitution of carbon atoms in the nanotube wall by boron or nitrogen dopants leads to p-type and n-type behavior, respectively, as would be expected in silicon. However, some non-substitutional (intercalated or adsorbed) dopants introduced into a carbon nanotube, such as alkali metals and electron-rich metallocenes, result in n-type conduction because they donate electrons to the π-electron system of the nanotube. By contrast, π-electron acceptors such as FeCl3 or electron-deficient metallocenes function as p-type dopants because they draw π-electrons away from the top of the valence band.
+Intrinsic superconductivity has been reported, although other experiments found no evidence of this, leaving the claim a subject of debate.
+In 2021, Michael Strano, the Carbon P. Dubbs Professor of Chemical Engineering at MIT, published department findings on the use of carbon nanotubes to create an electric current. By immersing the structures in an organic solvent, the liquid drew electrons out of the carbon particles. Strano was quoted as saying, "This allows you to do electrochemistry, but with no wires," and represents a significant breakthrough in the technology. Future applications include powering micro- or nanoscale robots, as well as driving alcohol oxidation reactions, which are important in the chemicals industry.
+Crystallographic defects also affect the tube's electrical properties. A common result is lowered conductivity through the defective region of the tube. A defect in metallic armchair-type tubes (which can conduct electricity) can cause the surrounding region to become semiconducting, and single monatomic vacancies induce magnetic properties.
+
+
+==== Electromechanical ====
+Semiconducting carbon nanotubes have shown piezoresistive property when applying mechanical force. The structural deformation causes a change in the band gap which effects the conductance. This property has the potential to be used in strain sensors.
+
+
+=== Optical ===
+Carbon nanotubes have useful absorption, photoluminescence (fluorescence), and Raman spectroscopy properties. Spectroscopic methods offer the possibility of quick and non-destructive characterization of relatively large amounts of carbon nanotubes. There is a strong demand for such characterization from the industrial point of view: numerous parameters of nanotube synthesis can be changed, intentionally or unintentionally, to alter the nanotube quality, such as the non-tubular carbon content, structure (chirality) of the produced nanotubes, and structural defects. These features then determine nearly all other significant optical, mechanical, and electrical properties.
+Carbon nanotube optical properties have been explored for use in applications such as for light-emitting diodes (LEDs) and photo-detectors based on a single nanotube have been produced in the lab. Their unique feature is not the efficiency, which is yet relatively low, but the narrow selectivity in the wavelength of emission and detection of light and the possibility of its fine-tuning through the nanotube structure. In addition, bolometer and optoelectronic memory devices have been realised on ensembles of single-walled carbon nanotubes. Nanotube fluorescence has been investigated for the purposes of imaging and sensing in biomedical applications.
+
+
+=== Thermal ===
+
+All nanotubes are expected to be very good thermal conductors along the tube, exhibiting a property known as "ballistic conduction", but good insulators lateral to the tube axis. Measurements show that an individual SWNT has a room-temperature thermal conductivity along its axis of about 3500 W·m−1·K−1; compare this to copper, a metal well known for its good thermal conductivity, which transmits 385 W·m−1·K−1. An individual SWNT has a room-temperature thermal conductivity lateral to its axis (in the radial direction) of about 1.52 W·m−1·K−1, which is about as thermally conductive as soil. Macroscopic assemblies of nanotubes such as films or fibres have reached up to 1500 W·m−1·K−1 so far. Networks composed of nanotubes demonstrate different values of thermal conductivity, from the level of thermal insulation with the thermal conductivity of 0.1 W·m−1·K−1 to such high values. That is dependent on the amount of contribution to the thermal resistance of the system caused by the presence of impurities, misalignments and other factors. The temperature stability of carbon nanotubes is estimated to be up to 2800 °C in vacuum and about 750 °C in air.
+Crystallographic defects strongly affect the tube's thermal properties. Such defects lead to phonon scattering, which in turn increases the relaxation rate of the phonons. This reduces the mean free path and reduces the thermal conductivity of nanotube structures. Phonon transport simulations indicate that substitutional defects such as nitrogen or boron will primarily lead to the scattering of high-frequency optical phonons. However, larger-scale defects such as Stone–Wales defects cause phonon scattering over a wide range of frequencies, leading to a greater reduction in thermal conductivity.
+
+
+=== Antibacterial ===
+Recently, carbon-nanotubes have been shown to have antibacterial properties. They disrupt normal bacterial function by causing physical/mechanical damage, facilitating oxidative stress or lipid extraction, inhibiting bacterial metabolism, and isolating functional sites via wrapping with CNM-containing nanomaterials.
+
+
+== Synthesis ==
+
+Techniques have been developed to produce nanotubes in sizeable quantities, including arc discharge, laser ablation, chemical vapor deposition (CVD) and high-pressure carbon monoxide disproportionation (HiPCO). Among these arc discharge, laser ablation are batch by batch process, Chemical Vapor Deposition can be used both for batch by batch or continuous processes, and HiPCO is gas phase continuous process. Most of these processes take place in a vacuum or with process gases. The CVD growth method is popular, as it yields high quantity and has a degree of control over diameter, length and morphology. Using particulate catalysts, large quantities of nanotubes can be synthesized by these methods, and industrialisation is well on its way, with several CNT and CNT fibers factory around the world. One problem of CVD processes is the high variability in the nanotube's characteristics  The HiPCO process advances in catalysis and continuous growth are making CNTs more commercially viable. The HiPCO process helps in producing high purity single-walled carbon nanotubes in higher quantity. The HiPCO reactor operates at high temperature 900–1100 °C and high pressure ~30–50 bar. It uses carbon monoxide as the carbon source and iron pentacarbonyl or nickel tetracarbonyl as a catalyst. These catalysts provide a nucleation site for the nanotubes to grow, while cheaper iron-based catalysts like Ferrocene can be used for CVD process.
+Vertically aligned carbon nanotube arrays are also grown by thermal chemical vapor deposition. A substrate (quartz, silicon, stainless steel, carbon fibers, etc.) is coated with a catalytic metal (Fe, Co, Ni) layer. Typically that layer is iron and is deposited via sputtering to a thickness of 1–5 nm. A 10–50 nm underlayer of alumina is often also put down on the substrate first. This imparts controllable wetting and good interfacial properties.
+When the substrate is heated to the growth temperature (~600 to 850 °C), the continuous iron film breaks up into small islands with each island then nucleating a carbon nanotube. The sputtered thickness controls the island size and this in turn determines the nanotube diameter. Thinner iron layers drive down the diameter of the islands and drive down the diameter of the nanotubes grown. The amount of time the metal island can sit at the growth temperature is limited as they are mobile and can merge into larger (but fewer) islands. Annealing at the growth temperature reduces the site density (number of CNT/mm2) while increasing the catalyst diameter.
+The as-prepared carbon nanotubes always have impurities such as other forms of carbon (amorphous carbon, fullerene, etc.) and non-carbonaceous impurities (metal used for catalyst). These impurities need to be removed to make use of the carbon nanotubes in applications.
+
+
+== Purification ==
+As-synthesized carbon nanotubes typically contain impurities and most importantly different chiralities of carbon nanotubes. Therefore, multiple methods have been developed to purify them including polymer-assisted, density gradient ultracentrifugation (DGU), chromatography  and aqueous two-phase extraction (ATPE). These methods have been reviewed in multiple articles.
+Certain polymers selectively disperse or wrap CNTs of a particular chirality, metallic character or diameter. For example, poly(phenylenevinylenes) disperses CNTs of specific diameters (0.75–0.84 nm) and polyfluorenes are highly selective for semiconducting CNTs. It involves mainly two steps, sonicate the mixture (CNTs and polymers in solvent), centrifuge and the supernatant are desired CNTs.
+Density gradient ultracentrifugation is a method based on the density difference of CNTs, so that different components are layered in centrifuge tubes under centrifugal force. Chromatography-based methods include size exclusion (SEC), ion-exchange (IEX) and gel chromatography. For SEC, CNTs are separated due to the difference in size using a stationary phase with different pore size. As for IEX, the separation is achieved based on their differential adsorption and desorption onto chemically functionalized resins packed in an IEX column, so understanding the interaction between CNTs mixtures and resins is important. The first IEX is reported to separate DNA-SWCNTs. Gel chromatography is based on the partition of CNTs between stationary and mobile phase, it's found semiconducting CNTs are more strongly attracted by gel than metallic CNTs. While it shows potential, the current application is limited to the separation of semiconducting (n,m) species.
+ATPE uses two water-soluble polymers such as polyethylene glycol (PEG) and dextran. When mixed, two immiscible aqueous phases form spontaneously, and each of the two phases shows a different affinity to CNTs. Partition depends on the solvation energy difference between two similar phases of microscale volumes. By changing the separation system or temperatures, and adding strong oxidants, reductants, or salts, the partition of CNTs species into the two phases can be adjusted.
+Despite the progress that has been made to separate and purify CNTs, many challenges remain, such as the growth of chirality-controlled CNTs, so that no further purification is needed, or large-scale purification.
+
+
+=== Advantages of monochiral CNTs ===
+Monochiral CNTs have the advantage that they do contain less or no impurities, well-defined non-congested optical spectra. This allows to create for example CNT-based biosensors with higher sensitivity and selectivity. For example, monochiral SWCNTs are necessary for multiplexed and ratiometric sensing schemes, enhanced sensitivity  of biocompatibility.
+
+
+== Functionalization ==
+
+Carbon nanotubes can be functionalized to attain desired properties that can be used in a wide variety of applications. The two main methods of carbon nanotube functionalization are covalent and non-covalent modifications. Because of their apparent hydrophobic nature, carbon nanotubes tend to agglomerate hindering their dispersion in solvents or viscous polymer melts. The resulting nanotube bundles or aggregates reduce the mechanical performance of the final composite. The surface of the carbon nanotubes can be modified to reduce the hydrophobicity and improve interfacial adhesion to a bulk polymer through chemical attachment.
+Chemical routes such as covalent functionalization have been studied extensively, which involves the oxidation of CNTs via strong acids (e.g. sulfuric acid, nitric acid, or a mixture of both) in order to set the carboxylic groups onto the surface of the CNTs as the final product or for further modification by esterification or amination. Free radical grafting is a promising technique among covalent functionalization methods, in which alkyl or aryl peroxides, substituted anilines, and diazonium salts are used as the starting agents.
+Functionalization can improve CNTs characteristically weak dispersibility in many solvents, such as water - a consequence of their strong intermolecular p–p interactions. This can enhance the processing and manipulation of insoluble CNTs, rendering them useful for synthesizing innovative CNT nanofluids with impressive properties that are tunable for a wide range of applications.
+Free radical grafting of macromolecules (as the functional group) onto the surface of CNTs can improve the solubility of CNTs compared to common acid treatments which involve the attachment of small molecules such as hydroxyl onto the surface of CNTs. The solubility of CNTs can be improved significantly by free-radical grafting because the large functional molecules facilitate the dispersion of CNTs in a variety of solvents even at a low degree of functionalization. Recently an innovative environmentally friendly approach has been developed for the covalent functionalization of multi-walled carbon nanotubes (MWCNTs) using clove buds. This approach is innovative and green because it does not use toxic and hazardous acids which are typically used in common carbon nanomaterial functionalization procedures. The MWCNTs are functionalized in one pot using a free radical grafting reaction. The clove-functionalized MWCNTs are then dispersed in water producing a highly stable multi-walled carbon nanotube aqueous suspension (nanofluids).
+The surface of carbon nanotubes can be chemically modified by coating spinel nanoparticles by hydrothermal synthesis and can be used for water oxidation purposes.
+In addition, the surface of carbon nanotubes can be fluorinated or halofluorinated by heating while in contact with a fluoroorganic substance, thereby forming partially fluorinated carbons (so-called Fluocar materials) with grafted (halo)fluoroalkyl functionality.
+
+
+== Modeling ==
+
+Carbon nanotubes are modelled in a similar manner as traditional composites in which a reinforcement phase is surrounded by a matrix phase. Ideal models such as cylindrical, hexagonal and square models are common. The size of the micromechanics model is highly function of the studied mechanical properties. The concept of representative volume element (RVE) is used to determine the appropriate size and configuration of the computer model to replicate the actual behavior of the CNT-reinforced nanocomposite. Depending on the material property of interest (thermal, electrical, modulus, creep), one RVE might predict the property better than the alternatives. While the implementation of the ideal model is computationally efficient, they do not represent microstructural features observed in scanning electron microscopy of actual nanocomposites. To incorporate realistic modeling, computer models are also generated to incorporate variability such as waviness, orientation and agglomeration of multiwall or single-wall carbon nanotubes.
+
+
+== Metrology ==
+There are many metrology standards and reference materials available for carbon nanotubes.
+For single-wall carbon nanotubes, ISO/TS 10868 describes a measurement method for the diameter, purity, and fraction of metallic nanotubes through optical absorption spectroscopy, while ISO/TS 10797 and ISO/TS 10798 establish methods to characterize the morphology and elemental composition of single-wall carbon nanotubes, using transmission electron microscopy and scanning electron microscopy respectively, coupled with energy dispersive X-ray spectrometry analysis.
+NIST SRM 2483 is a soot of single-wall carbon nanotubes used as a reference material for elemental analysis, and was characterized using thermogravimetric analysis, prompt gamma activation analysis, induced neutron activation analysis, inductively coupled plasma mass spectroscopy, resonant Raman scattering, UV-visible-near infrared fluorescence spectroscopy and absorption spectroscopy, scanning electron microscopy, and transmission electron microscopy. The Canadian National Research Council also offers a certified reference material SWCNT-1 for elemental analysis using neutron activation analysis and inductively coupled plasma mass spectroscopy. NIST RM 8281 is a mixture of three lengths of single-wall carbon nanotube.
+For multiwall carbon nanotubes, ISO/TR 10929 identifies the basic properties and the content of impurities, while ISO/TS 11888 describes morphology using scanning electron microscopy, transmission electron microscopy, viscometry, and light scattering analysis. ISO/TS 10798 is also valid for multiwall carbon nanotubes.
+
+
+== Safety and health ==
+
+The National Institute for Occupational Safety and Health (NIOSH) is the leading United States federal agency conducting research and providing guidance on the occupational safety and health implications and applications of nanomaterials. Early scientific studies have indicated that nanoscale particles may pose a greater health risk than bulk materials due to a relative increase in surface area per unit mass. Increase in length and diameter of CNT is correlated to increased toxicity and pathological alterations in the lungs. The biological interactions of nanotubes are not well understood, and the field is open to continued toxicological studies. It is often difficult to separate confounding factors, and since carbon is relatively biologically inert, some of the toxicity attributed to carbon nanotubes may be instead due to residual metal catalyst contamination. In previous studies, only Mitsui-7 was reliably demonstrated to be carcinogenic, although for unclear/unknown reasons. Unlike many common mineral fibers (such as asbestos), most SWCNTs and MWCNTs do not fit the size and aspect-ratio criteria to be classified as respirable fibers. In 2013, given that the long-term health effects have not yet been measured, NIOSH published a Current Intelligence Bulletin detailing the potential hazards and recommended exposure limit for carbon nanotubes and fibers. The U.S. National Institute for Occupational Safety and Health has determined non-regulatory recommended exposure limits (RELs) of 1 μg/m3 for carbon nanotubes and carbon nanofibers as background-corrected elemental carbon as an 8-hour time-weighted average (TWA) respirable mass concentration. Although CNT caused pulmonary inflammation and toxicity in mice, exposure to aerosols generated from sanding of composites containing polymer-coated MWCNTs, representative of the actual end-product, did not exert such toxicity.
+As of October 2016, single-wall carbon nanotubes have been registered through the European Union's Registration, Evaluation, Authorization and Restriction of Chemicals (REACH) regulations, based on evaluation of the potentially hazardous properties of SWCNT. Based on this registration, SWCNT commercialization is allowed in the EU up to 100 metric tons. Currently, the type of SWCNT registered through REACH is limited to the specific type of single-wall carbon nanotubes manufactured by OCSiAl, which submitted the application.
+
+
+=== Physicochemical factors affecting carbon nanotube toxicity ===
+Numerous studies have identified key physicochemical properties of carbon nanotubes (CNTs) that influence their biological interactions and toxicological profiles in both in vitro and in vivo systems:
+Aspect ratio, length, and rigidity: Long and rigid CNTs exhibit increased biopersistence and are strongly associated with fibrogenesis, through the activation of the Smad2/3 and ERK1/2 signaling pathways. Their high aspect ratio and fiber-like morphology, reminiscent of asbestos, can impair macrophage-mediated clearance, and induce inflammation, fibrotic tissue remodeling, granuloma formation, and even DNA damage.
+Multi-walled carbon nanotubes (MWCNTs) with lengths ranging from approximately 0.5 to 10 μm have been implicated in severe pulmonary conditions, including asbestosis-like fibrosis and mesothelioma. Similarly, single-walled carbon nanotubes (SWCNTs) exceeding 10 μm in length can induce granulomatous lesions. In contrast, shorter SWCNTs—particularly those under 300 nm and well-dispersed—are more readily cleared from the body via renal and biliary excretion pathways. These shorter, purified SWCNTs have demonstrated significantly reduced inflammatory and cytotoxic responses and, to date, lack conclusive evidence of carcinogenicity.
+Aggregation state: The aggregation state of CNTs refers to their propensity to cluster into bundles or agglomerates, primarily driven by van der Waals forces and electrostatic interactions. A positive correlation has been observed between the degree of aggregation and cytotoxic potential, with CNT agglomerates exhibiting greater toxicity than CNT bundles.
+Agglomerated CNTs tend to form larger, more rigid, and compact structures—morphologically similar to asbestos fibers—compared to the more loosely associated CNT bundles. Specifically, agglomerated SWCNTs have been shown to induce pronounced granulomatous inflammation, characterized by granuloma formation surrounded by hypertrophic macrophages in seven days post-exposure. In contrast, well-dispersed SWCNTs elicit significantly milder inflammatory responses.
+Impurities: Metal contaminants of CNT materials are strongly associated with the induction of oxidative stress and proinflammatory responses, with toxicity levels closely correlated to metal content. Among them, iron is a potent catalyst for intracellular reactive oxygen species generation, disrupting iron homeostasis and promoting oxidative damage. Nickel exhibits high bioactivity and proinflammatory potential. The underlying mechanism is thought to involve lysosomal membrane destabilization, leading to the release of cathepsin B and subsequent activation of the NLRP3 inflammasome pathway.
+Beyond metal impurities, the presence of non-metallic contaminants, including amorphous carbon and other carbonaceous byproducts (e.g., polycyclic aromatic hydrocarbons can significantly modulate the biological response to CNTs, contributing to cytotoxicity and inflammatory signaling.
+
+
+=== Mitigate carbon nanotube toxicity via physicochemical modulation ===
+Length, diameter, and aggregation state: As-synthesized CNTs typically form large bundles or agglomerates, which are associated with increased cytotoxicity. Disaggregation into individualized CNTs and cutting length can mitigate toxicity. These modifications are commonly achieved through tip ultrasonication in the presence of surfactants or polymers, followed by ultracentrifugation to remove residual bundles and impurities. Such processing enhances dispersion, reduces rigidity, and improves biocompatibility.
+Single-type enrichment and classification: Heterogeneity in CNT materials contributes to inconsistent biological responses. Advanced sorting techniques, such as aqueous two-phase extraction, size-exclusion chromatography, and density gradient ultracentrifugation, can sort CNTs by specific parameters such as diameter, length, number of walls, and chirality.
+Purity enhancement: Post-synthesis purification techniques—such as mild oxidation, sonication in hydrogen peroxide or acetone, acid washing, and incandescent annealing—are employed to remove residual metal catalysts and carbonaceous byproducts.
+Surface modification:
+Non-covalent modification: Wrapping CNTs with biocompatible polymers such as single-stranded DNA (ssDNA), phospholipid–polyethylene glycol, or Pluronic F108 enhances solubility, colloidal stability, and biological compatibility without altering the intrinsic structure of the nanotubes.
+Covalent modification: Functionalization with carboxyl groups can reduce cellular and pulmonary toxicity by suppressing NLRP3 inflammasome activation and downregulating pro-inflammatory cytokines (e.g., IL-1β, TGF-β1, PDGF-AA). PEGylation, the covalent attachment of polyethylene glycol (PEG), reduces cellular uptake, protein adsorption, oxidative stress, and immune activation, reducing immune recognition and systemic inflammation.
+
+
+=== Exposure route considerations in CNT toxicology ===
+Pulmonary exposure: Inhalation of airborne CNTs during manufacturing or handling poses the highest risk. CNTs can induce dose-dependent pulmonary toxicity, including granuloma formation, fibrosis, and inflammation. MWCNTs, due to their fiber-like structure, are particularly prone to eliciting asbestos-like responses. SWCNTs may translocate systemically but generally exhibit less chronic pulmonary toxicity.
+Dermal and consumer exposure: Intact skin provides a barrier to CNT penetration, though localized cutaneous inflammation has been reported while current evidence suggests limited systemic health impact.
+Oral and systemic exposure: Oral ingestion of CNTs typically results in low bioavailability and rapid excretion, with significant effects observed only at high doses. Systemic exposure via intravenous or intraperitoneal routes is primarily relevant in experimental or therapeutic contexts.
+
+
+== Applications ==
+
+Carbon nanotubes are currently used in multiple industrial and consumer applications. These include battery components, polymer composites, to improve the mechanical, thermal and electrical properties of the bulk product, and as a highly absorptive black paint. Many other applications are under development, including field effect transistors for electronics, high-strength fabrics, biosensors for biomedical and agricultural applications, and many others.
+
+
+=== Biomedical Applications ===
+Because of their relatively large surface area, CNTs are capable of interacting with a wide variety of therapeutic and diagnostic agents (drugs, genes, vaccines, antibodies, biosensors, etc.). This can be utilized to assist in drug delivery directly into cells. In addition, CNTs have recently been used as reinforcements in implants and scaffolds due to their suitable reaction area, high elastic modulus, and load transfer capability.
+
+CNTs have been shown to increase the effectiveness of bioactive coatings for the attachment, proliferation, and differentiation of osteoblasts, and has been used as a bone substitution material.
+CNTs may be used as reinforcing materials for chitosan-containing coatings used on implants and medical scaffolds.
+
+
+=== Biosensing ===
+SWCNTs have nanoscale dimensions that fit to the size of biological species. Due to this size compatibility and their large surface-to-volume ratio, they are sensitive to changes in their chemical environment. Through covalent and non-covalent surface functionalization, SWCNTs can be precisely tailored for selective molecular interactions with a target analyte. The SWCNT represents the transduction unit that converts the interaction into a signal change (optical or electrical). Due to continuous progress in the development of detection strategies, there are numerous examples of the use of SWCNTs as highly sensitive nanosensors (even down to the single molecule level) for a variety of important biomolecules. Examples include the detection of reactive oxygen and nitrogen species, neurotransmitters, other small molecules, lipids, proteins, sugars, DNA/RNA, enzymes as well as bacteria.
+
+The signal change manifests itself in an increase or decrease in the current (electrical) or in a change in the intensity or wavelength of the fluorescence emission (optical). Depending on the type of application, both electrical or optical signal transmission can be advantageous. For sensitive measurement of electronic changes, field-effect transistors (FET) are often used in which the flow of charges within the SWCNTs is measured. The FET structures allow easy on-chip integration and can be parallelized to detect multiple target analytes simultaneously. However, such sensors are more invasive for in vivo applications, as the entire device has to be inserted into the body. Optical detection with semiconducting SWCNTs is based on the radiative recombination of excitons in the near-infrared (NIR) by prior optical (fluorescence) or electrical excitation (electroluminescence). The emission in the NIR enables detection in the biological transparency window, where optical sensor applications benefit from reduced scattering and autofluorescence of biological samples and consequently a high signal-to-noise ratio. Compared to optical sensors in the UV or visible range, the penetration depth in biological tissue is also increased. In addition to the advantage of a contactless readout SWCNTs have excellent photostability, which enables long-term sensor applications. Furthermore, the nanoscale size of SWCNTs allows dense coating of surfaces which enables chemical imaging, e.g. of cellular release processes with high spatial and temporal resolution. Detection of several target analytes is possible by the spatial arrangement of different SWCNT sensors in arrays or by hyperspectral detection based on monochiral SWCNT sensors that emit at different emission wavelengths. For fluorescence applications, however, optical filters to distinguish between excitation and emission and a NIR-sensitive detector must be used. Standard silicon detectors can also be used if monochiral SWCNTs (extractable by special purification processes) emitting closer to the visible range (800 – 900 nm) are used. In order to avoid susceptibility of optical sensors to fluctuating ambient light, internal references such as SWCNTs that are modified to be non-responsive or stable NIR emitters can be used. An alternative is to measure fluorescence lifetimes instead of fluorescence intensities. Overall, SWCNTs therefore have great potential as building blocks for various biosensors.
+To render SWCNTs suitable for biosensing, their surface needs to be modified to ensure colloidal stability and provide a handle for biological recognition. Therefore, biosensing and surface modifications (functionalization) are closely related.
+Potential future applications include biomedical and environmental applications such as monitoring plant health in agriculture, standoff process control in bioreactors, research/diagnostics of neuronal communication and numerous diseases such as coagulation disorders, diabetes, cancer, microbial and viral infections, testing the efficacy of pharmaceuticals or infection monitoring using smart implants. In industry, SWCNTs are already used as sensors in the detection of gases and odors in the form of an electronic nose or in enzyme screening.
+
+
+=== Other current applications ===
+Easton-Bell Sports, Inc. have been in partnership with Zyvex Performance Materials, using CNT technology in a number of their bicycle components – including flat and riser handlebars, cranks, forks, seatposts, stems and aero bars.
+Amroy Europe Oy manufactures Hybtonite carbon nano-epoxy resins where carbon nanotubes have been chemically activated to bond to epoxy, resulting in a composite material that is 20% to 30% stronger than other composite materials. It has been used for wind turbines, marine paints and a variety of sports gear such as skis, ice hockey sticks, baseball bats, hunting arrows, and surfboards.
+Surrey NanoSystems synthesizes carbon nanotubes to create vantablack ultra-absorptive black paint.
+"Gecko tape" (also called "nano tape") is often commercially sold as double-sided adhesive tape. It can be used to hang lightweight items such as pictures and decorative items on smooth walls without punching holes in the wall. The carbon nanotube arrays comprising the synthetic setae leave no residue after removal and can stay sticky in extreme temperatures.
+Tips for atomic force microscope probes.
+
+
+=== Applications under development ===
+Applications of nanotubes in development in academia and industry include:
+
+Medical devices: Using single wall carbon nanotubes in medical devices results in no skin contamination, high flexibility, and softness, which are crucial for healthcare applications.
+Wearable electronics and 5G/6G communication: Electrodes with single wall carbon nanotubes (SWCNTs) exhibit excellent electrochemical properties and flexibility.
+Bitumen and asphalt: The world's first test section of road pavement with single wall carbon nanotubes (SWCNTs) showed a 67% increase in resistance to cracks and ruts, increasing the lifespan of the materials.
+Nanocomposites for aviation, automotive, and renewable energy markets: Modifying resin with just 0.02% single wall carbon nanotubes (SWCNTs) increases electrical conductivity by 276% without compromising the mechanical properties of fiber-reinforced polymers, also improving flexural properties and delaying thermal degradation.
+Additive manufacturing: single wall carbon nanotubes (SWCNTs) are mixed with a suitable printing medium or used as a filler material in the printing process, creating complex structures with enhanced mechanical and electrical properties.
+Utilizing carbon nanotubes as the channel material of carbon nanotube field-effect transistors.
+Using carbon nanotubes as a scaffold for diverse microfabrication techniques.
+Energy dissipation in self-organized nanostructures under the influence of an electric field.
+Using carbon nanotubes for environmental monitoring due to their active surface area and their ability to absorb gases.
+Jack Andraka used carbon nanotubes in his pancreatic cancer test. His method of testing won the Intel International Science and Engineering Fair Gordon E. Moore Award in the spring of 2012.
+The Boeing Company has patented the use of carbon nanotubes for structural health monitoring of composites used in aircraft structures. This technology is hoped to greatly reduce the risk of an in-flight failure caused by structural degradation of aircraft.
+Zyvex Technologies has also built a 54' maritime vessel, the Piranha Unmanned Surface Vessel, as a technology demonstrator for what is possible using CNT technology. CNTs help improve the structural performance of the vessel, resulting in a lightweight 8,000 lb boat that can carry a payload of 15,000 lb over a range of 2,500 miles.
+IMEC is using carbon nanotubes for pellicles in semiconductor lithography.
+In tissue engineering, carbon nanotubes have been used as scaffolding for bone growth.
+Carbon nanotubes can serve as additives to various structural materials. For instance, nanotubes form a tiny portion of the material(s) in some (primarily carbon fiber) baseball bats, golf clubs, car parts, or damascus steel.
+IBM expected carbon nanotube transistors to be used on Integrated Circuits by 2020.
+SWCNTs have found use in long lasting, faster charged lithium ion batteries; polyamide car parts for e-painting; automotive primers for cost benefits and better aesthetics of topcoats; ESD floors; electrically conductive lining coatings for tanks and pipes; rubber parts with improved heat and oil aging stability; conductive gelcoats for ATEX requirements and tooling conductive gelcoats for increased safety and efficiency; and heating fiber coatings for infrastructure elements.
+
+
+=== Potential/Future applications ===
+
+The strength and flexibility of carbon nanotubes makes them of potential use in controlling other nanoscale structures, which suggests they will have an important role in nanotechnology engineering. The highest tensile strength of an individual multi-walled carbon nanotube has been tested to be 63 GPa. Carbon nanotubes were found in Damascus steel from the 17th century, possibly helping to account for the legendary strength of the swords made of it. Recently, several studies have highlighted the prospect of using carbon nanotubes as building blocks to fabricate three-dimensional macroscopic (>1mm in all three dimensions) all-carbon devices. Lalwani et al. have reported a novel radical initiated thermal crosslinking method to fabricated macroscopic, free-standing, porous, all-carbon scaffolds using single- and multi-walled carbon nanotubes as building blocks. These scaffolds possess macro-, micro-, and nano- structured pores and the porosity can be tailored for specific applications. These 3D all-carbon scaffolds/architectures may be used for the fabrication of the next generation of energy storage, supercapacitors, field emission transistors, high-performance catalysis, photovoltaics, and biomedical devices and implants.
+CNTs are potential candidates for future via and wire material in nano-scale VLSI circuits. Eliminating electromigration reliability concerns that plague today's Cu interconnects, isolated (single and multi-wall) CNTs can carry current densities in excess of 1000 MA/cm2 without electromigration damage.
+Single-walled nanotubes are likely candidates for miniaturizing electronics. The most basic building block of these systems is an electric wire, and SWNTs with diameters of an order of a nanometre can be excellent conductors. One useful application of SWNTs is in the development of the first intermolecular field-effect transistors (FET). The first intermolecular logic gate using SWCNT FETs was made in 2001. A logic gate requires both a p-FET and an n-FET. Because SWNTs are p-FETs when exposed to oxygen and n-FETs otherwise, it is possible to expose half of an SWNT to oxygen and protect the other half from it. The resulting SWNT acts as a not logic gate with both p- and n-type FETs in the same molecule.
+Large quantities of pure CNTs can be made into a freestanding sheet or film by surface-engineered tape-casting (SETC) fabrication technique which is a scalable method to fabricate flexible and foldable sheets with superior properties. Another reported form factor is CNT fiber (a.k.a. filament) by wet spinning. The fiber is either directly spun from the synthesis pot or spun from pre-made dissolved CNTs. Individual fibers can be turned into a yarn. Apart from its strength and flexibility, the main advantage is making an electrically conducting yarn. The electronic properties of individual CNT fibers (i.e. bundle of individual CNT) are governed by the two-dimensional structure of CNTs. The fibers were measured to have a resistivity only one order of magnitude higher than metallic conductors at 300 K (27 °C; 80 °F). By further optimizing the CNTs and CNT fibers, CNT fibers with improved electrical properties could be developed.
+CNT-based yarns are suitable for applications in energy and electrochemical water treatment when coated with an ion-exchange membrane. Also, CNT-based yarns could replace copper as a winding material. Pyrhönen et al. (2015) have built a motor using CNT winding.
+
+
+== See also ==
+
+
+== References ==
+This article incorporates public domain text from the National Institute of Environmental Health Sciences (NIEHS) as quoted.
+
+
+== External links ==
+
+Nanocarbon: From Graphene to Buckyballs. Interactive 3D models of cyclohexane, benzene, graphene, graphite, chiral & non-chiral nanotubes, and C60 Buckyballs – WeCanFigureThisOut.org.
+C60 and Carbon Nanotubes a short video explaining how nanotubes can be made from modified graphite sheets and the three different types of nanotubes that are formed
+Learning module for Bandstructure of Carbon Nanotubes and Nanoribbons
+Selection of free-download articles on carbon nanotubes
+WOLFRAM Demonstrations Project: Electronic Band Structure of a Single-Walled Carbon Nanotube by the Zone-Folding Method
+WOLFRAM Demonstrations Project: Electronic Structure of a Single-Walled Carbon Nanotube in Tight-Binding Wannier Representation
+
+## Links
+- 3D microfabrication
+- 3D printing
+- 3D publishing
+- ACS Applied Nano Materials
+- Absorption spectroscopy
+- Accelerating change
+- Achiral
+- Activated carbon
+- Adhesion
+- Adhesive tape
+- Aerogel
+- Aggregated diamond nanorod
+- Allotropes of carbon
+- Aluminium oxide nanoparticle
+- Alveolar cells
+- Amorphous carbon
+- Amorphous metal
+- Amroy Europe Oy
+- Antistatic device
+- ArXiv (identifier)
+- Artificial muscle
+- Atomic carbon
+- Atomic force microscope
+- Atomic force microscopy
+- Automation
+- Ballistic conduction
+- Band gap
+- Bibcode (identifier)
+- Bicycle
+- BioRxiv (identifier)
+- Biocompatibility
+- Bioethics
+- Bolometer
+- Bond strength
+- Bradley C. Edwards
+- Buckling
+- Buckminsterfullerene
+- Buckypaper
+- C70 fullerene
+- CCVD
+- Cadmium-free quantum dot
+- Capacitance
+- Carbide-derived carbon
+- Carbon black
+- Carbon fiber
+- Carbon fibers
+- Carbon monoxide
+- Carbon nanobud
+- Carbon nanocone
+- Carbon nanofiber
+- Carbon nanofibers
+- Carbon nanofoam
+- Carbon nanoparticles
+- Carbon nanoscrolls
+- Carbon nanotube chemistry
+- Carbon nanotube computer
+- Carbon nanotube field-effect transistor
+- Carbon nanotube quantum dot
+- Carbon nanotubes in interconnects
+- Carbon nanotubes in photovoltaics
+- Carbon peapod
+- Carbon quantum dot
+- Centre national de la recherche scientifique
+- Ceramic nanoparticle
+- Chaoite
+- Charcoal
+- Chemical vapor deposition
+- Chirality
+- Chitosan
+- CiteSeerX (identifier)
+- Claytronics
+- Cobalt
+- Cobalt oxide nanoparticle
+- Cold War
+- Collingridge dilemma
+- Colloidal gold
+- Colossal carbon tube
+- Composite material
+- Composite materials
+- Computer Physics Communications
+- Conductance quantum
+- Conductive polymer
+- Copper
+- Copper interconnects
+- Copper nanoparticle
+- Counterweight
+- Cu interconnects
+- Cyberethics
+- Cyclo(18)carbon
+- Cyclo(6)carbon
+- Cycloparaphenylene
+- Cyclopropatriene
+- Cylinder
+- Damascus steel
+- David Tománek
+- Density functional theory
+- Desorption
+- Dextran
+- Diamond
+- Diamond nanothread
+- Diatomic carbon
+- Differential technological development
+- Disruptive innovation
+- Doi (identifier)
+- Dopant
+- Doping (semiconductor)
+- Double bond
+- Easton-Bell Sports, Inc.
+- Elastic modulus
+- Electric arc
+- Electrical conductance
+- Electrical conductivity
+- Electrical resistivity and conductivity
+- Electrically conducting yarn
+- Electrochemistry
+- Electromagnetic coil
+- Electromagnetic propulsion
+- Electromigration
+- Electronic circuit
+- Electronics
+- Elemental analysis
+- Elevator:2010
+- Emerging technologies
+- Enantiomer
+- Ephemeralization
+- Epoxy
+- Ethics of artificial intelligence
+- Ethics of technology
+- European Physical Journal B
+- Exploratory engineering
+- Femtotechnology
+- Field-effect transistor
+- Field electron emission
+- Filamentous carbon
+- Fluorescence
+- Fluorescence spectroscopy
+- Fullerene
+- Fullerene chemistry
+- Fullerene whiskers
+- Functionalized
+- Future-oriented technology analysis
+- GPa
+- Gas carbon
+- Gelcoat
+- Glassy carbon
+- Graphenated carbon nanotube
+- Graphene
+- Graphite
+- Haeckelites
+- Halogenation
+- Hdl (identifier)
+- Health and safety hazards of nanomaterials
+- High-resolution transmission electron microscopy
+- High-temperature superconductivity
+- Home automation
+- Horizon scanning
+- Hybrid material
+- Hybtonite
+- Hydrophobe
+- IBM
+- IMEC
+- ISBN (identifier)
+- ISSN (identifier)
+- If and only if
+- India
+- Inductively coupled plasma mass spectrometry
+- Intercalation (chemistry)
+- International Organization for Standardization
+- International Standards Organization
+- Ion-exchange membrane
+- Iron nanoparticle
+- Iron oxide nanoparticle
+- Iron pentacarbonyl
+- Iron–platinum nanoparticle
+- Jerome Pearson
+- Journal of the American Chemical Society
+- KC Space Pirates
+- Keezhadi
+- Konstantin Tsiolkovsky
+- LED
+- LaserMotive
+- Launch loop
+- Lennard-Jones interaction
+- LiftPort Group
+- Light scattering
+- Linear acetylenic carbon
+- Linear combination
+- Linear dependency
+- List of emerging technologies
+- Lithium-ion battery
+- Logic gate
+- Lonsdaleite
+- Lunar space elevator
+- Magnetic moment
+- Materials science
+- Matryoshka doll
+- Mean free path
+- Mechanical properties of carbon nanotubes
+- Megascale engineering
+- Metal foam
+- Metallocene
+- Metamaterial
+- Metamaterial cloaking
+- Metrology
+- Michael Strano
+- Micromechanics
+- Miscibility
+- Molecular assembler
+- Molecular modelling
+- Molecular nanotechnology
+- Molybdenum
+- Momentum exchange tether
+- Monotonic
+- Moore's law
+- Morinobu Endo
+- Morphology (biology)
+- Multi-function structure
+- NEC
+- Nano Letters
+- Nano tape
+- Nanocellulose
+- Nanocomposite
+- Nanocrystalline material
+- Nanoelectromechanical systems
+- Nanoflower
+- Nanofluid
+- Nanofoam
+- Nanoindentation
+- Nanomaterials
+- Nanometer
+- Nanoparticle
+- Nanoporous materials
+- Nanorobotics
+- Nanoscale
+- Nanostructure
+- Nanotechnology
+- National Institute for Occupational Safety and Health
+- National Institute of Standards and Technology
+- National Research Council (Canada)
+- Nature Materials
+- Neuroethics
+- Neutron activation analysis
+- Nickel tetracarbonyl
+- Ninithi
+- Non-rocket spacelaunch
+- Nucleation
+- OCSiAl
+- OSTI (identifier)
+- Open access
+- Optical properties of carbon nanotubes
+- Optical radiation
+- Optics
+- Orbital hybridisation
+- Orbital ring
+- Organic semiconductor
+- Osteoblasts
+- Oxidative stress
+- PMC (identifier)
+- PMID (identifier)
+- Path (graph theory)
+- Pellicle mirror
+- Pennsylvania State University
+- Penta-graphene
+- Phonon
+- Photodiode
+- Photoluminescence
+- Physics Letters A
+- Picometre
+- Picotechnology
+- Piezoresistive effect
+- Pillared graphene
+- Piranha Unmanned Surface Vessel
+- Platinum nanoparticle
+- Polyamide
+- Polymer
+- Potential applications of carbon nanotubes
+- Powered exoskeleton
+- Pressure
+- Prismane C8
+- Proactionary principle
+- Proceedings of the National Academy of Sciences
+- Programmable matter
+- Prompt gamma activation analysis
+- Q-carbon
+- Quantum dot
+- Raman scattering
+- Raman spectroscopy
+- Ramesh Jasti
+- Recommended exposure limit
+- Reference material
+- Registration, Evaluation, Authorization and Restriction of Chemicals
+- Reviews of Modern Physics
+- Robot ethics
+- Robotics
+- Rubber pants
+- S2CID (identifier)
+- Scanning electron microscope
+- Scanning electron microscopy
+- Scanning tunneling microscopy
+- Scroll (parchment)
+- Selective chemistry of single-walled nanotubes
+- Self-reconfiguring modular robot
+- Semiconductor
+- Semimetal
+- Silicene
+- Silicon
+- Silicon quantum dot
+- Silver nanoparticle
+- Skyhook (structure)
+- Smart manufacturing
+- Solid lipid nanoparticle
+- Space elevator
+- Space elevator competitions
+- Space elevator construction
+- Space elevator economics
+- Space elevator safety
+- Space elevators in fiction
+- Space fountain
+- Space tether
+- Spaceflight
+- Specific strength
+- Spinning (polymers)
+- Stone–Wales defect
+- Substrate (chemistry)
+- Sulfuric acid
+- Sumio Iijima
+- Superconductivity
+- Superfluidity
+- Surface functionalization
+- Surrey NanoSystems
+- Swarm robotics
+- Synth. Met.
+- Synthesis of carbon nanotubes
+- Synthetic diamond
+- Synthetic setae
+- Tamil Nadu
+- Technological change
+- Technological convergence
+- Technological evolution
+- Technological paradigm
+- Technological singularity
+- Technological unemployment
+- Technology forecasting
+- Technology in science fiction
+- Technology readiness level
+- Technology roadmap
+- Technology scouting
+- Temperature
+- Tensile strength
+- The Boeing Company
+- Thermal conductivity
+- Thermal conductor
+- Thermal insulation
+- Thermal transport in nanostructures
+- Thermogravimetric analysis
+- Timeline of carbon nanotubes
+- Tissue engineering
+- Titanium
+- Titanium dioxide nanoparticle
+- Torus
+- Toxicology of carbon nanomaterials
+- Transhumanism
+- Transmission electron microscopy
+- Tricarbon
+- UV
+- Uncrewed vehicle
+- Utility fog
+- Vacuum
+- Van der Waals force
+- Vantablack
+- Vertically aligned carbon nanotube arrays
+- Viscometer
+- Visible spectrum
+- Wavelength
+- Wayback Machine
+- X-ray scattering techniques
+- X-ray spectroscopy
+- Yarn
+- Young's modulus
+- Yuri Artsutanov
+- Zyvex Performance Materials
+- Zyvex Technologies

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T00:00:00Z",
+  "cases": [
+    {
+      "id": "tuning-001",
+      "query": "ai ethics",
+      "expected_topic_ids": [
+        "domain-technology",
+        "domain-ethics"
+      ],
+      "notes": "Synonym expansion plus topic alias mapping."
+    },
+    {
+      "id": "tuning-002",
+      "query": "history of science",
+      "expected_topic_ids": [
+        "domain-history",
+        "domain-science"
+      ],
+      "notes": "Cross-domain search intent."
+    },
+    {
+      "id": "tuning-003",
+      "query": "mental health psychology",
+      "expected_topic_ids": [
+        "domain-psychology"
+      ],
+      "notes": "Primary topic focus."
+    }
+  ]
+}

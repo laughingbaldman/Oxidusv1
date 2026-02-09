@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "10079376": {
+          "pageid": 10079376,
+          "ns": 0,
+          "title": "Fishing vessel",
+          "links": [
+            {
+              "ns": 0,
+              "title": "World War I"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "Yacht"
+            },
+            {
+              "ns": 0,
+              "title": "Yawl"
+            },
+            {
+              "ns": 0,
+              "title": "Yoal"
+            },
+            {
+              "ns": 0,
+              "title": "Yole"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329493.94721
+}

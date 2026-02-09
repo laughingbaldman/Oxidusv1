@@ -1,0 +1,1205 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "54125": {
+          "pageid": 54125,
+          "ns": 0,
+          "title": "Breccia",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Adakite"
+            },
+            {
+              "ns": 0,
+              "title": "Adamellite"
+            },
+            {
+              "ns": 0,
+              "title": "Alamo bolide impact"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali feldspar granite"
+            },
+            {
+              "ns": 0,
+              "title": "American Geophysical Union"
+            },
+            {
+              "ns": 0,
+              "title": "Amphibolite"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Egypt"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Rome"
+            },
+            {
+              "ns": 0,
+              "title": "Andesite"
+            },
+            {
+              "ns": 0,
+              "title": "Anorthosite"
+            },
+            {
+              "ns": 0,
+              "title": "Anthracite"
+            },
+            {
+              "ns": 0,
+              "title": "Aphanite"
+            },
+            {
+              "ns": 0,
+              "title": "Aplite"
+            },
+            {
+              "ns": 0,
+              "title": "Appinite"
+            },
+            {
+              "ns": 0,
+              "title": "Architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Argillite"
+            },
+            {
+              "ns": 0,
+              "title": "Arkose"
+            },
+            {
+              "ns": 0,
+              "title": "Asteroid"
+            },
+            {
+              "ns": 0,
+              "title": "Azurite"
+            },
+            {
+              "ns": 0,
+              "title": "Banded iron formation"
+            },
+            {
+              "ns": 0,
+              "title": "Basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Basaltic trachyandesite"
+            },
+            {
+              "ns": 0,
+              "title": "Basanite"
+            },
+            {
+              "ns": 0,
+              "title": "Before Christ"
+            },
+            {
+              "ns": 0,
+              "title": "Benmoreite"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Blairmorite"
+            },
+            {
+              "ns": 0,
+              "title": "Blueschist"
+            },
+            {
+              "ns": 0,
+              "title": "Boninite"
+            },
+            {
+              "ns": 0,
+              "title": "Borolanite"
+            },
+            {
+              "ns": 0,
+              "title": "Breccia pipe"
+            },
+            {
+              "ns": 0,
+              "title": "Calcarenite"
+            },
+            {
+              "ns": 0,
+              "title": "Calcflinta"
+            },
+            {
+              "ns": 0,
+              "title": "Caldera"
+            },
+            {
+              "ns": 0,
+              "title": "Canary Islands"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonatite"
+            },
+            {
+              "ns": 0,
+              "title": "Cataclasite"
+            },
+            {
+              "ns": 0,
+              "title": "Cave"
+            },
+            {
+              "ns": 0,
+              "title": "Cementation (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Chalk"
+            },
+            {
+              "ns": 0,
+              "title": "Charnockite"
+            },
+            {
+              "ns": 0,
+              "title": "Chert"
+            },
+            {
+              "ns": 0,
+              "title": "Clastic dike"
+            },
+            {
+              "ns": 0,
+              "title": "Clastic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Clastic rocks"
+            },
+            {
+              "ns": 0,
+              "title": "Claystone"
+            },
+            {
+              "ns": 0,
+              "title": "Coal"
+            },
+            {
+              "ns": 0,
+              "title": "Colluvial"
+            },
+            {
+              "ns": 0,
+              "title": "Comendite"
+            },
+            {
+              "ns": 0,
+              "title": "Comet"
+            },
+            {
+              "ns": 0,
+              "title": "Conglomerate (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Coquina"
+            },
+            {
+              "ns": 0,
+              "title": "Crackle breccia"
+            },
+            {
+              "ns": 0,
+              "title": "Crust (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Cumulate rocks"
+            },
+            {
+              "ns": 0,
+              "title": "Dacite"
+            },
+            {
+              "ns": 0,
+              "title": "Dallasite"
+            },
+            {
+              "ns": 0,
+              "title": "Death Valley National Park"
+            },
+            {
+              "ns": 0,
+              "title": "Debris flow"
+            },
+            {
+              "ns": 0,
+              "title": "Devonian"
+            },
+            {
+              "ns": 0,
+              "title": "Diabase"
+            },
+            {
+              "ns": 0,
+              "title": "Diamictite"
+            },
+            {
+              "ns": 0,
+              "title": "Diatomite"
+            },
+            {
+              "ns": 0,
+              "title": "Diatreme"
+            },
+            {
+              "ns": 0,
+              "title": "Diorite"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dolomite (rock)"
+            },
+            {
+              "ns": 0,
+              "title": "Dunite"
+            },
+            {
+              "ns": 0,
+              "title": "Eclogite"
+            },
+            {
+              "ns": 0,
+              "title": "Ejecta"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Enderbite"
+            },
+            {
+              "ns": 0,
+              "title": "Epidosite"
+            },
+            {
+              "ns": 0,
+              "title": "Epidote"
+            },
+            {
+              "ns": 0,
+              "title": "Epithermal"
+            },
+            {
+              "ns": 0,
+              "title": "Essexite"
+            },
+            {
+              "ns": 0,
+              "title": "Evaporite"
+            },
+            {
+              "ns": 0,
+              "title": "Fault (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Fault breccia"
+            },
+            {
+              "ns": 0,
+              "title": "Felsite"
+            },
+            {
+              "ns": 0,
+              "title": "Flint"
+            },
+            {
+              "ns": 0,
+              "title": "Fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Foidolite"
+            },
+            {
+              "ns": 0,
+              "title": "Gabbro"
+            },
+            {
+              "ns": 0,
+              "title": "Ganister"
+            },
+            {
+              "ns": 0,
+              "title": "Gemstone"
+            },
+            {
+              "ns": 0,
+              "title": "Geyserite"
+            },
+            {
+              "ns": 0,
+              "title": "Gneiss"
+            },
+            {
+              "ns": 0,
+              "title": "Gossan"
+            },
+            {
+              "ns": 0,
+              "title": "Graben"
+            },
+            {
+              "ns": 0,
+              "title": "Grain size"
+            },
+            {
+              "ns": 0,
+              "title": "Granite"
+            },
+            {
+              "ns": 0,
+              "title": "Granodiorite"
+            },
+            {
+              "ns": 0,
+              "title": "Granophyre"
+            },
+            {
+              "ns": 0,
+              "title": "Granulite"
+            },
+            {
+              "ns": 0,
+              "title": "Gravel"
+            },
+            {
+              "ns": 0,
+              "title": "Greenschist"
+            },
+            {
+              "ns": 0,
+              "title": "Greisen"
+            },
+            {
+              "ns": 0,
+              "title": "Greywacke"
+            },
+            {
+              "ns": 0,
+              "title": "Gritstone"
+            },
+            {
+              "ns": 0,
+              "title": "Groundmass"
+            },
+            {
+              "ns": 0,
+              "title": "Groundwater"
+            },
+            {
+              "ns": 0,
+              "title": "Harzburgite"
+            },
+            {
+              "ns": 0,
+              "title": "Hawaiite"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Hornblendite"
+            },
+            {
+              "ns": 0,
+              "title": "Hornfels"
+            },
+            {
+              "ns": 0,
+              "title": "Hyaloclastite"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrofracture"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrostatic"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrothermal"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrothermal circulation"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Icelandite"
+            },
+            {
+              "ns": 0,
+              "title": "Igneous"
+            },
+            {
+              "ns": 0,
+              "title": "Igneous rock"
+            },
+            {
+              "ns": 0,
+              "title": "Ignimbrite"
+            },
+            {
+              "ns": 0,
+              "title": "Ijolite"
+            },
+            {
+              "ns": 0,
+              "title": "Impact crater"
+            },
+            {
+              "ns": 0,
+              "title": "Impact event"
+            },
+            {
+              "ns": 0,
+              "title": "Impactite"
+            },
+            {
+              "ns": 0,
+              "title": "Intrusion"
+            },
+            {
+              "ns": 0,
+              "title": "Iridium anomaly"
+            },
+            {
+              "ns": 0,
+              "title": "Isotope"
+            },
+            {
+              "ns": 0,
+              "title": "Itabirite"
+            },
+            {
+              "ns": 0,
+              "title": "Itacolumite"
+            },
+            {
+              "ns": 0,
+              "title": "Italian language"
+            },
+            {
+              "ns": 0,
+              "title": "Jadeitite"
+            },
+            {
+              "ns": 0,
+              "title": "Jasperoid"
+            },
+            {
+              "ns": 0,
+              "title": "Jaspillite"
+            },
+            {
+              "ns": 0,
+              "title": "Karst topography"
+            },
+            {
+              "ns": 0,
+              "title": "Kenyte"
+            },
+            {
+              "ns": 0,
+              "title": "Kimberlite"
+            },
+            {
+              "ns": 0,
+              "title": "Kimigayo"
+            },
+            {
+              "ns": 0,
+              "title": "Knossos"
+            },
+            {
+              "ns": 0,
+              "title": "Komatiite"
+            },
+            {
+              "ns": 0,
+              "title": "Lamproite"
+            },
+            {
+              "ns": 0,
+              "title": "Lamprophyre"
+            },
+            {
+              "ns": 0,
+              "title": "Landslide"
+            },
+            {
+              "ns": 0,
+              "title": "Lapis lazuli"
+            },
+            {
+              "ns": 0,
+              "title": "Larvikite"
+            },
+            {
+              "ns": 0,
+              "title": "Laterite"
+            },
+            {
+              "ns": 0,
+              "title": "Latite"
+            },
+            {
+              "ns": 0,
+              "title": "Lava"
+            },
+            {
+              "ns": 0,
+              "title": "Lherzolite"
+            },
+            {
+              "ns": 0,
+              "title": "Lignite"
+            },
+            {
+              "ns": 0,
+              "title": "Limestone"
+            },
+            {
+              "ns": 0,
+              "title": "Litchfieldite"
+            },
+            {
+              "ns": 0,
+              "title": "Lithic fragment (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Lithostatic pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Llanite"
+            },
+            {
+              "ns": 0,
+              "title": "Lumachelle"
+            },
+            {
+              "ns": 0,
+              "title": "Luxullianite"
+            },
+            {
+              "ns": 0,
+              "title": "Mafic"
+            },
+            {
+              "ns": 0,
+              "title": "Magma"
+            },
+            {
+              "ns": 0,
+              "title": "Malachite"
+            },
+            {
+              "ns": 0,
+              "title": "Mangerite"
+            },
+            {
+              "ns": 0,
+              "title": "Marble"
+            },
+            {
+              "ns": 0,
+              "title": "Marl"
+            },
+            {
+              "ns": 0,
+              "title": "Matrix (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Metamorphic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Metapelite"
+            },
+            {
+              "ns": 0,
+              "title": "Metapsammite"
+            },
+            {
+              "ns": 0,
+              "title": "Meteorite"
+            },
+            {
+              "ns": 0,
+              "title": "Methane"
+            },
+            {
+              "ns": 0,
+              "title": "Migmatite"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Mining"
+            },
+            {
+              "ns": 0,
+              "title": "Minoan civilization"
+            },
+            {
+              "ns": 0,
+              "title": "Minoan palace"
+            },
+            {
+              "ns": 0,
+              "title": "Monzogranite"
+            },
+            {
+              "ns": 0,
+              "title": "Monzonite"
+            },
+            {
+              "ns": 0,
+              "title": "Morenci Mine"
+            },
+            {
+              "ns": 0,
+              "title": "Mudstone"
+            },
+            {
+              "ns": 0,
+              "title": "Mugearite"
+            },
+            {
+              "ns": 0,
+              "title": "Mylonite"
+            },
+            {
+              "ns": 0,
+              "title": "Napoleonite"
+            },
+            {
+              "ns": 0,
+              "title": "Nepheline syenite"
+            },
+            {
+              "ns": 0,
+              "title": "Nephelinite"
+            },
+            {
+              "ns": 0,
+              "title": "Neugrund breccia"
+            },
+            {
+              "ns": 0,
+              "title": "Neugrund crater"
+            },
+            {
+              "ns": 0,
+              "title": "New Mexico Institute of Mining and Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Norite"
+            },
+            {
+              "ns": 0,
+              "title": "Novaculite"
+            },
+            {
+              "ns": 0,
+              "title": "Obsidian"
+            },
+            {
+              "ns": 0,
+              "title": "Oil shale"
+            },
+            {
+              "ns": 0,
+              "title": "Oolite"
+            },
+            {
+              "ns": 0,
+              "title": "Ore"
+            },
+            {
+              "ns": 0,
+              "title": "Ore genesis"
+            },
+            {
+              "ns": 0,
+              "title": "Ore mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Osmium"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Pahranagat Range"
+            },
+            {
+              "ns": 0,
+              "title": "Pantellerite"
+            },
+            {
+              "ns": 0,
+              "title": "Pegmatite"
+            },
+            {
+              "ns": 0,
+              "title": "Pend Oreille County, Washington"
+            },
+            {
+              "ns": 0,
+              "title": "Peridotite"
+            },
+            {
+              "ns": 0,
+              "title": "Phase (matter)"
+            },
+            {
+              "ns": 0,
+              "title": "Phonolite"
+            },
+            {
+              "ns": 0,
+              "title": "Phonotephrite"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphorite"
+            },
+            {
+              "ns": 0,
+              "title": "Phyllite"
+            },
+            {
+              "ns": 0,
+              "title": "Picrite basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Pietersite"
+            },
+            {
+              "ns": 0,
+              "title": "Planet"
+            },
+            {
+              "ns": 0,
+              "title": "Porphyry (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Precipitation (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Pseudotachylite"
+            },
+            {
+              "ns": 0,
+              "title": "Psilomelane"
+            },
+            {
+              "ns": 0,
+              "title": "Pumice"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroclastic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroclastic surge"
+            },
+            {
+              "ns": 0,
+              "title": "Pyrolite"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroxenite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz diorite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz monzonite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartzite"
+            },
+            {
+              "ns": 0,
+              "title": "Quartzolite"
+            },
+            {
+              "ns": 0,
+              "title": "Rapakivi granite"
+            },
+            {
+              "ns": 0,
+              "title": "Regolith"
+            },
+            {
+              "ns": 0,
+              "title": "Rhomb porphyry"
+            },
+            {
+              "ns": 0,
+              "title": "Rhyodacite"
+            },
+            {
+              "ns": 0,
+              "title": "Rhyolite"
+            },
+            {
+              "ns": 0,
+              "title": "Rock (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Rodingite"
+            },
+            {
+              "ns": 0,
+              "title": "Roundness (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Rubble"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Sandstone"
+            },
+            {
+              "ns": 0,
+              "title": "Schist"
+            },
+            {
+              "ns": 0,
+              "title": "Scoria"
+            },
+            {
+              "ns": 0,
+              "title": "Scree"
+            },
+            {
+              "ns": 0,
+              "title": "Sculpture"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentary"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentary basin"
+            },
+            {
+              "ns": 0,
+              "title": "Sedimentary rock"
+            },
+            {
+              "ns": 0,
+              "title": "Seismic"
+            },
+            {
+              "ns": 0,
+              "title": "Serpentinite"
+            },
+            {
+              "ns": 0,
+              "title": "Shale"
+            },
+            {
+              "ns": 0,
+              "title": "Shatter cone"
+            },
+            {
+              "ns": 0,
+              "title": "Shocked quartz"
+            },
+            {
+              "ns": 0,
+              "title": "Shonkinite"
+            },
+            {
+              "ns": 0,
+              "title": "Shoshonite"
+            },
+            {
+              "ns": 0,
+              "title": "Siltstone"
+            },
+            {
+              "ns": 0,
+              "title": "Sinkhole"
+            },
+            {
+              "ns": 0,
+              "title": "Skarn"
+            },
+            {
+              "ns": 0,
+              "title": "Slate"
+            },
+            {
+              "ns": 0,
+              "title": "Soapstone"
+            },
+            {
+              "ns": 0,
+              "title": "Sovite"
+            },
+            {
+              "ns": 0,
+              "title": "Sphalerite"
+            },
+            {
+              "ns": 0,
+              "title": "Stockwork"
+            },
+            {
+              "ns": 0,
+              "title": "Subvolcanic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Suevite"
+            },
+            {
+              "ns": 0,
+              "title": "Syenite"
+            },
+            {
+              "ns": 0,
+              "title": "Sylvinite"
+            },
+            {
+              "ns": 0,
+              "title": "Tachylite"
+            },
+            {
+              "ns": 0,
+              "title": "Tachylyte"
+            },
+            {
+              "ns": 0,
+              "title": "Taconite"
+            },
+            {
+              "ns": 0,
+              "title": "Talc carbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Tawaret"
+            },
+            {
+              "ns": 0,
+              "title": "Tectonics"
+            },
+            {
+              "ns": 0,
+              "title": "Tectonite"
+            },
+            {
+              "ns": 0,
+              "title": "Tephriphonolite"
+            },
+            {
+              "ns": 0,
+              "title": "Tephrite"
+            },
+            {
+              "ns": 0,
+              "title": "Teschenite"
+            },
+            {
+              "ns": 0,
+              "title": "Theralite"
+            },
+            {
+              "ns": 0,
+              "title": "Tillite"
+            },
+            {
+              "ns": 0,
+              "title": "Titus Canyon"
+            },
+            {
+              "ns": 0,
+              "title": "Tonalite"
+            },
+            {
+              "ns": 0,
+              "title": "Trachyandesite"
+            },
+            {
+              "ns": 0,
+              "title": "Trachybasalt"
+            },
+            {
+              "ns": 0,
+              "title": "Trachyte"
+            },
+            {
+              "ns": 0,
+              "title": "Travertine"
+            },
+            {
+              "ns": 0,
+              "title": "Troctolite"
+            },
+            {
+              "ns": 0,
+              "title": "Trondhjemite"
+            },
+            {
+              "ns": 0,
+              "title": "Tufa"
+            },
+            {
+              "ns": 0,
+              "title": "Tuff"
+            },
+            {
+              "ns": 0,
+              "title": "Turbidite"
+            },
+            {
+              "ns": 0,
+              "title": "Ultramafic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Unakite"
+            },
+            {
+              "ns": 0,
+              "title": "Utah Geological Survey"
+            },
+            {
+              "ns": 0,
+              "title": "Variolite"
+            },
+            {
+              "ns": 0,
+              "title": "Varve"
+            },
+            {
+              "ns": 0,
+              "title": "Vein (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Wackestone"
+            },
+            {
+              "ns": 0,
+              "title": "Wad (mineral)"
+            },
+            {
+              "ns": 0,
+              "title": "Websterite"
+            },
+            {
+              "ns": 0,
+              "title": "Wehrlite"
+            },
+            {
+              "ns": 0,
+              "title": "Whiteschist"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Xenolith"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770510463.4341204
+}

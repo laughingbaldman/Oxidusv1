@@ -1,0 +1,893 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "19074264": {
+          "pageid": 19074264,
+          "ns": 0,
+          "title": "Amalgam (chemistry)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "4-Chloromercuribenzoic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali metals"
+            },
+            {
+              "ns": 0,
+              "title": "Alkoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Alloy"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium amalgam"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Amalgam (dentistry)"
+            },
+            {
+              "ns": 0,
+              "title": "American Society of Dental Surgeons"
+            },
+            {
+              "ns": 0,
+              "title": "Amine"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium"
+            },
+            {
+              "ns": 0,
+              "title": "Arquerite"
+            },
+            {
+              "ns": 0,
+              "title": "Arrastra"
+            },
+            {
+              "ns": 0,
+              "title": "Ball mill"
+            },
+            {
+              "ns": 0,
+              "title": "Barium"
+            },
+            {
+              "ns": 0,
+              "title": "Base metal"
+            },
+            {
+              "ns": 0,
+              "title": "Battery (electric)"
+            },
+            {
+              "ns": 0,
+              "title": "Bauxite tailings"
+            },
+            {
+              "ns": 0,
+              "title": "Bayer process"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bis(trimethylsilyl)mercury"
+            },
+            {
+              "ns": 0,
+              "title": "Bottom-blown oxygen converter"
+            },
+            {
+              "ns": 0,
+              "title": "Buddle pit"
+            },
+            {
+              "ns": 0,
+              "title": "Caesium"
+            },
+            {
+              "ns": 0,
+              "title": "Calcination"
+            },
+            {
+              "ns": 0,
+              "title": "Calomel"
+            },
+            {
+              "ns": 0,
+              "title": "Castner process"
+            },
+            {
+              "ns": 0,
+              "title": "Chat (mining)"
+            },
+            {
+              "ns": 0,
+              "title": "Chloralkali process"
+            },
+            {
+              "ns": 0,
+              "title": "Cinnabar"
+            },
+            {
+              "ns": 0,
+              "title": "Clemmensen reduction"
+            },
+            {
+              "ns": 0,
+              "title": "Clinker (waste)"
+            },
+            {
+              "ns": 0,
+              "title": "Coloradoite"
+            },
+            {
+              "ns": 0,
+              "title": "Comminution"
+            },
+            {
+              "ns": 0,
+              "title": "Condensation"
+            },
+            {
+              "ns": 0,
+              "title": "Conduction electrons"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Crusher"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal structure"
+            },
+            {
+              "ns": 0,
+              "title": "Cupellation"
+            },
+            {
+              "ns": 0,
+              "title": "Cyclonic separation"
+            },
+            {
+              "ns": 0,
+              "title": "Dental composite"
+            },
+            {
+              "ns": 0,
+              "title": "Diethylmercury"
+            },
+            {
+              "ns": 0,
+              "title": "Dimethylmercury"
+            },
+            {
+              "ns": 0,
+              "title": "Diphenylmercury"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Downs cell"
+            },
+            {
+              "ns": 0,
+              "title": "Drywasher"
+            },
+            {
+              "ns": 0,
+              "title": "Dump leaching"
+            },
+            {
+              "ns": 0,
+              "title": "Economic geology"
+            },
+            {
+              "ns": 0,
+              "title": "Electrolysis"
+            },
+            {
+              "ns": 0,
+              "title": "Electrometallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Electronegativity"
+            },
+            {
+              "ns": 0,
+              "title": "Electroplating"
+            },
+            {
+              "ns": 0,
+              "title": "Electrowinning"
+            },
+            {
+              "ns": 0,
+              "title": "Ethylmercury"
+            },
+            {
+              "ns": 0,
+              "title": "Etymonline"
+            },
+            {
+              "ns": 0,
+              "title": "Eugenite"
+            },
+            {
+              "ns": 0,
+              "title": "Eutectic system"
+            },
+            {
+              "ns": 0,
+              "title": "Exothermic"
+            },
+            {
+              "ns": 0,
+              "title": "Extractive metallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrous metallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Flash smelting"
+            },
+            {
+              "ns": 0,
+              "title": "Food and Drug Administration"
+            },
+            {
+              "ns": 0,
+              "title": "Froth flotation"
+            },
+            {
+              "ns": 0,
+              "title": "Gangue"
+            },
+            {
+              "ns": 0,
+              "title": "Geological survey"
+            },
+            {
+              "ns": 0,
+              "title": "Gilding"
+            },
+            {
+              "ns": 0,
+              "title": "Gold"
+            },
+            {
+              "ns": 0,
+              "title": "Gold cyanidation"
+            },
+            {
+              "ns": 0,
+              "title": "Gold extraction"
+            },
+            {
+              "ns": 0,
+              "title": "Gold panning"
+            },
+            {
+              "ns": 0,
+              "title": "Gyratory equipment"
+            },
+            {
+              "ns": 0,
+              "title": "Hall–Héroult process"
+            },
+            {
+              "ns": 0,
+              "title": "Heap leaching"
+            },
+            {
+              "ns": 0,
+              "title": "Humphry Davy"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrocyclone"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrometallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "ISASMELT"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Imine"
+            },
+            {
+              "ns": 0,
+              "title": "In situ leach"
+            },
+            {
+              "ns": 0,
+              "title": "Indium"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "IsaKidd refining technology"
+            },
+            {
+              "ns": 0,
+              "title": "IsaMill"
+            },
+            {
+              "ns": 0,
+              "title": "Jameson cell"
+            },
+            {
+              "ns": 0,
+              "title": "Jig concentrators"
+            },
+            {
+              "ns": 0,
+              "title": "Jones reductor"
+            },
+            {
+              "ns": 0,
+              "title": "Jöns Jakob Berzelius"
+            },
+            {
+              "ns": 0,
+              "title": "Leaching (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Lead"
+            },
+            {
+              "ns": 0,
+              "title": "Lead smelting"
+            },
+            {
+              "ns": 0,
+              "title": "Liquation"
+            },
+            {
+              "ns": 0,
+              "title": "Lixiviant"
+            },
+            {
+              "ns": 0,
+              "title": "Longevity"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetation (iron ore)"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic separation"
+            },
+            {
+              "ns": 0,
+              "title": "Martyn Poliakoff"
+            },
+            {
+              "ns": 0,
+              "title": "Materia medica"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical screening"
+            },
+            {
+              "ns": 0,
+              "title": "Meralluride"
+            },
+            {
+              "ns": 0,
+              "title": "Merbromin"
+            },
+            {
+              "ns": 0,
+              "title": "Mercuric amidochloride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercuric chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) iodide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(I) sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) cyanide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) fulminate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) iodide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) perchlorate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) stearate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(II) thiocyanate"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury(IV) fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (element)"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury compounds"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury polycations"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury selenide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury telluride"
+            },
+            {
+              "ns": 0,
+              "title": "Mersalyl"
+            },
+            {
+              "ns": 0,
+              "title": "Metal"
+            },
+            {
+              "ns": 0,
+              "title": "Metallic bonding"
+            },
+            {
+              "ns": 0,
+              "title": "Metallurgical assay"
+            },
+            {
+              "ns": 0,
+              "title": "Methylmercury"
+            },
+            {
+              "ns": 0,
+              "title": "Mill (grinding)"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral processing"
+            },
+            {
+              "ns": 0,
+              "title": "Mining"
+            },
+            {
+              "ns": 0,
+              "title": "Moschellandsbergite"
+            },
+            {
+              "ns": 0,
+              "title": "Murano"
+            },
+            {
+              "ns": 0,
+              "title": "Natural resource"
+            },
+            {
+              "ns": 0,
+              "title": "Newbery–Vautin chlorination process"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel–Strunz classification"
+            },
+            {
+              "ns": 0,
+              "title": "Nitric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Nitromersol"
+            },
+            {
+              "ns": 0,
+              "title": "Non-ferrous extractive metallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Ore"
+            },
+            {
+              "ns": 0,
+              "title": "Ore concentrate"
+            },
+            {
+              "ns": 0,
+              "title": "Ore sorting"
+            },
+            {
+              "ns": 0,
+              "title": "Organomercury"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Pan amalgamation"
+            },
+            {
+              "ns": 0,
+              "title": "Parkes process"
+            },
+            {
+              "ns": 0,
+              "title": "Patio process"
+            },
+            {
+              "ns": 0,
+              "title": "Phenyl(trichloromethyl)mercury"
+            },
+            {
+              "ns": 0,
+              "title": "Phenylmercuric borate"
+            },
+            {
+              "ns": 0,
+              "title": "Phenylmercuric nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Phenylmercury acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Picometre"
+            },
+            {
+              "ns": 0,
+              "title": "Placer mining"
+            },
+            {
+              "ns": 0,
+              "title": "Platinum"
+            },
+            {
+              "ns": 0,
+              "title": "Poling (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium"
+            },
+            {
+              "ns": 0,
+              "title": "Potassium tetraiodomercurate(II)"
+            },
+            {
+              "ns": 0,
+              "title": "Precious metal"
+            },
+            {
+              "ns": 0,
+              "title": "Pyrometallurgy"
+            },
+            {
+              "ns": 0,
+              "title": "Recycling"
+            },
+            {
+              "ns": 0,
+              "title": "Redox reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Refining (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Refractory"
+            },
+            {
+              "ns": 0,
+              "title": "Roasting (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Rocker box"
+            },
+            {
+              "ns": 0,
+              "title": "Rubidium"
+            },
+            {
+              "ns": 0,
+              "title": "Rust"
+            },
+            {
+              "ns": 0,
+              "title": "Scrap"
+            },
+            {
+              "ns": 0,
+              "title": "Silvering"
+            },
+            {
+              "ns": 0,
+              "title": "Slag"
+            },
+            {
+              "ns": 0,
+              "title": "Smelting"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium amalgam"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Stamp mill"
+            },
+            {
+              "ns": 0,
+              "title": "Stamp sand"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium"
+            },
+            {
+              "ns": 0,
+              "title": "Surface mining"
+            },
+            {
+              "ns": 0,
+              "title": "Tailings"
+            },
+            {
+              "ns": 0,
+              "title": "Tang dynasty"
+            },
+            {
+              "ns": 0,
+              "title": "Tank leaching"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum"
+            },
+            {
+              "ns": 0,
+              "title": "Thallium"
+            },
+            {
+              "ns": 0,
+              "title": "The American Cyclopædia"
+            },
+            {
+              "ns": 0,
+              "title": "The Periodic Table of Videos"
+            },
+            {
+              "ns": 0,
+              "title": "Thiomersal"
+            },
+            {
+              "ns": 0,
+              "title": "Tin"
+            },
+            {
+              "ns": 0,
+              "title": "Tonne"
+            },
+            {
+              "ns": 0,
+              "title": "Trommel screen"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "Underground mining (hard rock)"
+            },
+            {
+              "ns": 0,
+              "title": "Underground mining (soft rock)"
+            },
+            {
+              "ns": 0,
+              "title": "University of Nottingham"
+            },
+            {
+              "ns": 0,
+              "title": "Vanning"
+            },
+            {
+              "ns": 0,
+              "title": "Venice"
+            },
+            {
+              "ns": 0,
+              "title": "Washoe process"
+            },
+            {
+              "ns": 0,
+              "title": "Wet suit"
+            },
+            {
+              "ns": 0,
+              "title": "Woodruff v. North Bloomfield Gravel Mining Company"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc amalgam"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc smelting"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323598.5411453
+}

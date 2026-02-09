@@ -1,0 +1,640 @@
+---
+title: "Canopus"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Canopus"
+source: "wikipedia"
+timestamp: "2026-02-07T19:38:10.742853"
+content_length: 28922
+links_count: 489
+---
+
+Canopus is the brightest star in the southern constellation of Carina and the second-brightest star in the night sky. It is designated α Carinae, which is romanized (transliterated) to Alpha Carinae. With a visual apparent magnitude of −0.74, it is outshone only by Sirius.
+Located around 310 light-years from the Sun, Canopus is a bright giant of spectral type A9, so it is essentially white when seen with the naked eye. It has a luminosity over 10,000 times the luminosity of the Sun, is nine to ten times as massive, and has expanded to 71 times the Sun's radius.  Its enlarged photosphere has an effective temperature of around 7400 K.  Canopus is undergoing core helium burning and is currently in the so-called blue loop phase of its evolution, having already passed through the red-giant branch after exhausting the hydrogen in its core. Canopus is a source of X-rays, which are likely being emitted from its corona.
+The prominent appearance of Canopus means it has been the subject of mythological lore among many ancient peoples. Its proper name is believed to originate from the mythological Canopus, a navigator for Menelaus, the king of Sparta. The acronycal rising marked the date of the Ptolemaia festival in Egypt. In ancient India, it was named Agastya after the revered Vedic sage. For Chinese astronomers, it was known as the Old Man of the South Pole. In Islamic astronomy, it is Suhail or Suhayl, a name that is also commonly used to imply rareness of appearance (as Canopus infrequently appeared to a gazer at Middle Eastern latitutes).
+
+
+== Nomenclature ==
+The name Canopus is a Latinisation of the Ancient Greek name Κάνωβος/Kanôbos, recorded in Claudius Ptolemy's Almagest (c.150 AD). Eratosthenes used the same spelling. Hipparchos wrote it as Κάνωπος. John Flamsteed wrote Canobus, as did Edmond Halley in his 1679 Catalogus Stellarum Australium. The name has two possible derivations, both listed in Richard Hinckley Allen's seminal Star Names: Their Lore and Meaning.
+
+The brightest star in the obsolete constellation of Argo Navis, which represented the ship used by Jason and the Argonauts, was given the name of a ship's pilot from another Greek legend: Canopus, pilot of Menelaus's ship on his quest to retrieve Helen of Troy after she was taken by Paris.
+A ruined ancient Egyptian port named Canopus lies near the mouth of the Nile, site of the Battle of the Nile.  It is speculated that its name is derived from the Egyptian Coptic Kahi Nub ("Golden Earth"), which refers to how Canopus would have appeared near the horizon in ancient Egypt, reddened by atmospheric extinction from that position.
+In 2016, the International Astronomical Union organized a Working Group on Star Names (WGSN) to catalog and standardize proper names for stars. The WGSN's first bulletin of July 2016 included a table of the first two batches of names approved by the WGSN, which included Canopus for this star. Canopus is now included in the IAU Catalog of Star Names.
+Canopus traditionally marked the steering oar of the ship Argo Navis. German celestial cartographer Johann Bayer gave it—as the brightest star in the constellation—the designation of α Argus (Latinised to Alpha Argus) in 1603. In 1763, French astronomer Nicolas Louis de Lacaille divided the huge constellation into three smaller ones, and hence Canopus became α Carinae (Latinised to Alpha Carinae). It is listed in the Bright Star Catalogue as HR 2326, the Henry Draper Catalogue as HD 45348, and the Hipparcos catalogue as HIP 30438. Flamsteed did not number this southern star, but Benjamin Apthorp Gould gave it the number 7 (7 G. Carinae) in his Uranometria Argentina.
+An occasional name seen in English is Soheil, or the feminine Soheila; in Turkish is Süheyl, or the feminine Süheyla, from the Arabic name for several bright stars, سهيل suhayl, and Canopus was known as Suhel  in medieval times. Alternative spellings include Suhail, Souhail, Suhilon, Suheyl, Sohayl, Sohail, Suhayil, Shoel, Sohil, Soheil, Sahil, Suhayeel, Sohayil, Sihel, and Sihil. An alternative name was Wazn "weight" or Haḍar "ground" , implying the anchor stone used by ship, rather than being related to its low position near the horizon. Hence comes its name in the Alfonsine tables, Suhel ponderosus, a Latinization of Al Suhayl al Wazn. Its Greek name was revived during the Renaissance.
+
+
+== Observation ==
+
+The Muslim astronomer Ibn Rushd went to Marrakesh, Morocco to observe the star in 1153, as it was invisible in his native Córdoba, Al-Andalus. He used the different visibility in different latitudes to argue that the Earth is round, following Aristotle's argument which held that such an observation was only possible if the Earth was a relatively small sphere.
+
+English explorer Robert Hues brought Canopus to the attention of European observers in his 1592 work Tractatus de Globis, along with Achernar and Alpha Centauri, noting:"Now, therefore, there are but three Stars of the first magnitude that I could perceive in all those parts which are never seene here in England. The first of these is that bright Star in the sterne of Argo which they call Canobus. The second is in the end of Eridanus. The third is in the right foote of the Centaure."
+
+In the Southern Hemisphere, Canopus and Sirius are both visible high in the sky simultaneously, and reach a meridian just 21 min apart. Brighter than first magnitude, Canopus can be seen by naked eye in the early twilight. Mostly visible in mid to late summer in the Southern Hemisphere, Canopus culminates at midnight on December 27, and at 9 PM on February 11.
+When seen from latitudes south of 37° 18′ S, Canopus is a circumpolar star. Since Canopus is so far south in the sky, it never rises in mid- to far-northern latitudes; in theory the northern limit of visibility is latitude 37° 18′ north. This is just south of Athens, San Francisco, and Seoul, and very close to Seville and Agrigento. It is almost exactly the latitude of Lick Observatory on Mt. Hamilton, California, from which it is readily visible because of the effects of elevation and atmospheric refraction, which add another degree to its apparent altitude. Under ideal conditions, it can be spotted as far north as latitude 37° 31′ from the Pacific coast. Another northernmost record of visibility came from Mount Nemrut in Turkey, latitude 37° 59′. It is more easily visible in places such as the Gulf Coast and Florida, and the island of Crete (Greece) where the best season for viewing it around 9 p.m. is during late January and early February.
+Canopus has a B–V color index of +0.15—where 0 is a blue-white—indicating it is essentially white, although it has been described as yellow-white. Canopus's spectral type has been given as F0 and the incrementally warmer A9. It is less yellow than Altair or Procyon, with indices measured as 0.22 and 0.42, respectively. Some observers may have perceived Canopus as yellow-tinged because it is low in the sky and hence subject to atmospheric effects. Patrick Moore said that it never appeared anything but white to him. The bolometric correction for Canopus is 0.00, indicating that the visual absolute magnitude and bolometric absolute magnitude are equal.
+Canopus was previously proposed to be a member of the Scorpius–Centaurus association, however it is not located near the subgroups of that association, and has not been included as a Sco-Cen member in kinematic studies that used Hipparcos astrometric data. Canopus is not thought to be a member of any nearby young stellar groups.  In 2014, astronomer Eric Mamajek reported that an extremely magnetically active M dwarf (having strong coronal X-ray emission), 1.16 degrees south of Canopus, appears to share a common proper motion with Canopus. The projected separation of the M dwarf 2MASS J06234738-5351131 ("Canopus B") is approximately 1.9 parsecs. However, despite this large separation, it is still within the estimated tidal radius (2.9 parsecs) for the massive star Canopus.
+Since it is more luminous than any star closer to Earth, Canopus has been the brightest star in the night sky during three epochs over the past four million years. Other stars appear brighter only during relatively temporary periods, during which they are passing the Solar System much closer than Canopus. About 90,000 years ago, Sirius moved close enough that it became brighter than Canopus, and that will remain so for another 210,000 years. But in 480,000 years, as Sirius moves further away and appears fainter, Canopus will once again be the brightest, and will remain so for a period of about 510,000 years.
+
+
+=== Role in navigation ===
+
+The southeastern wall of the Kaaba in Mecca is aligned with the rising point of Canopus, and is also named Janūb. The Bedouin people of the Negev and Sinai knew Canopus as Suhayl, and used it and Polaris as the two principal stars for navigation at night. Because it disappears below the horizon in those regions, it became associated with a changeable nature, as opposed to always-visible Polaris, which was circumpolar and hence 'steadfast'.
+The south celestial pole can be approximately located using Canopus and two different bright stars. The first, Achernar, makes an equilateral triangle between the stars and the south pole. One can also locate the pole more roughly using an imaginary line between Sirius and Canopus; Canopus will be approximately at the midpoint, being 36° one way to Sirius and 37° to the pole.
+Canopus's brightness and location well off the ecliptic make it useful for space navigation. Many spacecraft carry a special camera known as a "Canopus star tracker" plus a Sun sensor for attitude determination. Mariner 4 used Canopus for second axis stabilisation (after locking on the Sun) in 1964, the first time a star had been used.
+
+
+== Spectrum ==
+Canopus was little-studied by western scientists before the 20th century.  It was given a spectral class of F in 1897, an early use of this extension to Secchi class I, applied to those stars where the hydrogen lines are relatively weak and the calcium K line relatively strong.  It was given as a standard star of F0 in the Henry Draper Catalogue, with the spectral type F0 described as having hydrogen lines half the strength of an A0 star and the calcium K line three times as strong as Hδ. American astronomer Jesse Greenstein was interested in stellar spectra and used the newly built Otto Struve Telescope at McDonald Observatory to analyze the star's spectrum in detail. In a 1942 paper, he reported that the spectrum is dominated by strong broad hydrogen lines.  There are also absorption lines of carbon, nitrogen, oxygen, sulphur, iron, and many ionised metals. It was studied in the ultraviolet by an early astronomical satellite, Gemini XI in 1966.  The UV spectra were considered to be consistent with an F0 supergiant having a temperature of 6,900 K, the accepted parameters for Canopus at the time. New Zealand-based astronomers John Hearnshaw and Krishna Desikachary examined the spectrum in greater detail, publishing their results in 1982.
+When luminosity classes were added to the MK spectral classification scheme, Canopus was assigned class Iab indicating an intermediate luminosity supergiant.  This was based on the relative strengths of certain spectral lines understood to be sensitive to the luminosity of a star. In the Bright Star Catalogue 5th edition it is given the spectral class F0II, the luminosity class indicating a bright giant.  Balmer line profiles and oxygen line strengths indicate the size and luminosity of Canopus.
+When the effects of stellar rotation speed on spectral lines are accounted for, the MK spectral class of Canopus is adjusted to A9II.  Its spectrum consists mostly of absorption lines on a visible continuum, but some emission has been detected.  For example, the calcium K line has weak emission wings on each side of the strong central absorption line, first observed in 1966.  The emission line profiles are usually correlated with the luminosity of the star as described by the Wilson-Bappu effect, but in the case of Canopus they indicate a luminosity much lower than that calculated by other methods.  More detailed observations have shown that the emission line profiles are variable and may be due to plage areas on the surface of the star.  Emission can also be found in other lines such as the h and k lines of ionised magnesium.
+
+
+== Distance ==
+Before the launch of the Hipparcos satellite telescope, distance estimates for Canopus varied widely, from 96 light-years to 1200 light-years (or 30 to 370 parsecs). For example, an old distance estimate of 200 parsecs (652 light years) gave it a luminosity of 80,000 L☉, far higher than modern estimates. The closer distance was derived from parallax measurements of around 33 mas.  The larger distance derives from the assumption of a very bright absolute magnitude for Canopus.
+Hipparcos established Canopus as being 310 light-years (95 parsecs) from the Solar System; this is based on its 2007 parallax measurement of 10.43±0.53 mas.  At 95 parsecs, the interstellar extinction for Canopus is low at 0.26 magnitudes.  Canopus is too bright to be included in the normal observation runs of the Gaia satellite and there is no published Gaia parallax for it.
+At present the star is drifting further away from the Sun with a radial velocity of 20 km/s. Some 3.1 million years ago it made the closest approach to the Sun at a distance of about 172 ly (53 pc). Canopus is orbiting the Milky Way with a heliocentric velocity of 24.5 km/s and a low eccentricity of 0.065.
+
+
+== Physical characteristics ==
+
+The absorption lines in the spectrum of Canopus shift slightly with a period of 6.9 d.  This was first detected in 1906 and the Doppler variations were interpreted as orbital motion.  An orbit was even calculated, but no such companion exists and the small radial velocity changes are due to movements in the atmosphere of the star.  The maximum observed radial velocities are only 0.7 to 1.6 km/s.  Canopus also has a magnetic field that varies with the same period, detected by the Zeeman splitting of its spectral lines.  Canopus is bright at microwave wavelengths, one of the few F-class stars to be detected by radio. The rotation period of the star is not accurately known, but may be over three hundred days. The projected rotational velocity has been measured at 9 km/s.
+An early interferometric measurement of its angular diameter in 1968 gave a limb-darkened value of 6.86 mas, close to the accepted modern value.  Very-long-baseline interferometry has been used to calculate Canopus's angular diameter at 6.9 mas. Combined with distance calculated from its Hipparcos parallax, this gives it a radius of 71 times that of the Sun. If it were at the centre of the Solar System, it would extend 90% of the way to the orbit of Mercury. The radius and temperature relative to the Sun means that it is 10,700 times more luminous than the Sun, and its position in the H-R diagram relative to theoretical evolutionary tracks means that it is 8.0±0.3 times as massive as the Sun.  Measurements of its shape find a 1.1° departure from spherical symmetry.
+Canopus is a source of X-rays, which are probably produced by its corona, magnetically heated to several million Kelvin. The temperature has likely been stimulated by fast rotation combined with strong convection percolating through the star's outer layers.  The soft X-ray sub-coronal X-ray emission is much weaker than the hard X-ray coronal emission.  The same behaviour has been measured in other F-class supergiants such as α Persei and is now believed to be a normal property of such stars.
+
+
+== Evolution ==
+The spectrum of Canopus indicates that it spent some 30 million years of its existence as a blue-white main sequence star  of around 10 solar masses, before exhausting its core hydrogen and evolving away from the main sequence. The position of Canopus in the H–R diagram indicates that it is currently in the core-helium burning phase.  It is an intermediate mass star that has left the red-giant branch before its core became degenerate and is now in a blue loop.  Models of stellar evolution in the blue loop phase show that the length of the blue loop is strongly affected by rotation and mixing effects inside the star.  It is difficult to determine whether a star is currently evolving towards hotter temperature or returning to cooler temperatures, since the evolutionary tracks for stars with different masses overlap during the blue loops.
+Canopus lies on the warm side of the instability strip and does not pulsate like Cepheid variables of a similar luminosity.  However its atmosphere does appear to be unstable, showing strong signs of convection.
+Canopus may be massive enough to explode by an iron-core collapse supernova.
+
+
+== Cultural significance ==
+Canopus was known to the ancient Mesopotamians and represented the city of Eridu in the Three Stars Each Babylonian star catalogues and later MUL.APIN around 1100 BC. Canopus was called MUL.NUNKI by the Babylonians, which translates as "star of the city of Eridu". Eridu was the southernmost and one of the oldest Sumerian cities. From there is a good view to the south, so that about 6000 years ago due to the precession of the Earth's axis the first rising of the star Canopus in Mesopotamia could be observed only from there at the southern meridian at midnight.
+Today, the star Sigma Sagittarii is known by the common name Nunki.
+Canopus was not visible to the mainland ancient Greeks and Romans; it was, however, visible to the ancient Egyptians. Hence Aratus did not write of the star as it remained below the horizon, while Eratosthenes and Ptolemy—observing from Alexandria—did, calling it Kanōbos. An Egyptian priestly poet in the time of Thutmose III mentions the star as Karbana, "the star which pours his light in a glance of fire, when he disperses the morning dew." Under the Ptolemies, the star was known as Ptolemaion (Greek: Πτολεμαῖον) and its acronychal rising marked the date of the Ptolemaia festival, which was held every four years, from 262 to 145 BC.
+The Greek astronomer Posidonius used observations of Canopus to calculate quite accurately the  Earth's circumference, around 90 – 120 BC.
+
+
+=== India ===
+In Indian Vedic literature, Canopus is associated with the sage Agastya, one of the ancient siddhars and rishis (the others are associated with the stars of the Big Dipper). To Agastya, the star is said to be the 'cleanser of waters', and its rising coincides with the calming of the waters of the Indian Ocean. Canopus is described by Pliny the Elder and Gaius Julius Solinus as the largest, brightest and only source of starlight for navigators near Tamraparni island (ancient Sri Lanka) during many nights.
+
+
+=== Iran (Persia) ===
+Canopus, known as Suhail (سُهَيْل) in Arabic and Soheil (سهیل) in Farsi, holds significant cultural importance in Iran. Its visibility in Iran varies due to the country's range of latitudes. For instance, in the Alborz Mountains, at approximately 36°N latitude, Canopus rises just one degree above the southern horizon, making it a rare sight. This rarity has led to the Persian expression "ستاره سهیل شدن" ("becoming the star Soheil"), used to describe someone who is seldom seen or elusive. The term "Soheil" symbolizes rarity in Persian literature, reflecting the star's infrequent visibility in the region.
+Ferdowsi references Canopus in his poetry, associating it with Yemen:
+
+Ze sar tā be-pāyash golast o saman  
+Be sarv-e sehī bar Sohayl-e Yaman  
+
+Ferdowsi uses Canopus as a metaphor for beauty, linking it to Yemen, where the star is bright and visible throughout the year.
+The star's name also appears in Persian literary works, such as Anvār-i Suhaylī (انوار سهیلی) ("Lights of Canopus"), a 15th-century Persian adaptation of Kalīla wa-Dimna (کلیله و دمنه) (itself an earlier Persian translation of the ancient Indian Panchatantra). These works highlight the cultural significance of Canopus in Persian literature.
+
+
+=== China ===
+Canopus was described as Shou Xing, the Star of Longevity, in the Shiji (Records of the Grand Historian) completed in 94 BC by Chinese historian Sima Qian. Drawing on sources from the Warring States period, he noted it to be the southern counterpart of Sirius, and wrote of a sanctuary dedicated to it established by Emperor Qin Shi Huang between 221 and 210 BC. During the Han dynasty, the star was auspicious, its appearance in the southern sky heralding peace and absence war. From the imperial capital Chang'an, the star made a low transit across the southern sky, indicating true south to observers, and was often obscured by clouds. During this time it was also equated with Old Man of the South Pole (in Chinese: 南极老人; pinyin: Nanji Lǎorén) Under this name, Canopus appears (albeit misplaced northwards) on the medieval Chinese manuscript the Dunhuang Star Chart, although it cannot be seen from the Chinese capital of Chang'an. The Chinese astronomer Yi Xing had journeyed south to chart Canopus and other far southern stars in 724 AD. Its personification as the Old Man Star was popularised in the Tang dynasty, where it appeared often in poetry and memorials. Later still, during the Ming dynasty, the star was established as one of the Three Stars (Fu Lo Shou), appearing frequently in art and literature of the time. This symbolism spread into neighbouring cultures in Asia.
+In Japan, Canopus is known as Mera-boshi and Roujin-sei (the old man star), and in Mongolia, it was personified as the White Old Man. Although the link was known in Tibet, with names such as Genpo karpo (Rgan po dkar po) or Genkar (Rgan dkar) "White Old Man", the symbolism was not popular. Instead, Canopus was more commonly named Karma Rishi སྐར་མ་རི་ཥི།, derived from Indian mythology. Tibetans celebrated the star's heliacal rising with ritual bathing and associated it with morning dew.
+
+
+=== Polynesia ===
+Bright stars were important to the ancient Polynesians for navigation between the many islands and atolls of the Pacific Ocean. Low on the horizon, they acted as stellar compasses to assist mariners in charting courses to particular destinations. Canopus served as the southern wingtip of a "Great Bird" constellation called Manu, with Sirius as the body and Procyon the northern wingtip, which divided the Polynesian night sky into two hemispheres. The Hawaiian people called Canopus Ke Alii-o-kona-i-ka-lewa, "The chief of the southern expanse"; it was one of the stars used by Hawaiʻiloa and Ki when they traveled to the Southern Ocean.
+The Māori people of New Zealand/Aotearoa had several names for Canopus. Ariki ("High-born"), was known as a solitary star that appeared in the east, prompting people to weep and chant. They also named it Atutahi, Aotahi or Atuatahi, "Stand Alone". Its solitary nature indicates it is a tapu star, as tapu people are often solitary. Its appearance at the beginning of the Maruaroa season foretells the coming winter; light rays to the south indicate a cold wet winter, and to the north foretell a mild winter. Food was offered to the star on its appearance. This name has several mythologies attached to it. One story tells of how Atutahi was left outside the basket representing the Milky Way when Tāne wove it. Another related myth about the star says that Atutahi was the first-born child of Rangi, who refused to enter the Milky Way and so turned it sideways and rose before it. The same name is used for other stars and constellations throughout Polynesia. Kapae-poto, "Short horizon", referred to it rarely setting as seen in New Zealand; Kauanga ("Solitary") was the name for Canopus only when it was the last star visible before sunrise.
+The people of the Society Islands had two names for Canopus, as did the Tuamotu people. The Society Islanders called Canopus Taurua-e-tupu-tai-nanu, "Festivity-whence-comes-the-flux-of-the-sea", and Taurua-nui-o-te-hiti-apatoa "Great-festivity-of-the-border-of-the-south", and the Tuamotu people called the star Te Tau-rari and Marere-te-tavahi, the latter said to be the true name for the former, "He-who-stands-alone".
+
+
+=== Africa ===
+In the Guanche mythology of the island of Tenerife (Spain), the star Canopus was linked with the goddess Chaxiraxi.
+The Tswana people of Botswana knew Canopus as Naka. Appearing late in winter skies, it heralded increasing winds and a time when trees lose their leaves. Stock owners knew it was time to put their sheep with rams. In southern Africa, the Sotho, Tswana and Venda people called Canopus Naka or Nanga, “the Horn Star”, while the Zulu and Swazi called it inKhwenkwezi "Brilliant star". It appears in the predawn sky in the third week of May. According to the Venda, the first person to see Canopus would blow a phalaphala horn from the top of a hill, getting a cow for a reward. The Sotho chiefs also awarded a cow, and ordered their medicine men to roll bone dice and read the fortune for the coming year. To the ǀXam-speaking Bushmen of South Africa, Canopus and Sirius signalled the appearance of termites and flying ants. They also believed that stars had the power to cause death and misfortune, and they would pray to Sirius and Canopus in particular to impart good fortune or skill. The ǃKung people of the Kalahari Desert in Botswana held Canopus and Capella to be the horns of tshxum (the Pleiades), the appearance of all three marking the end of the dry season and start of the rainy season.
+
+
+=== Americas ===
+The Navajo observed the star and named it Maʼii Bizòʼ, the “Coyote Star”. According to legend, Maʼii (Coyote) took part in the naming and placing of the star constellations during
+the creation of the universe. He placed Canopus directly south, naming it after himself.
+The Kalapalo people of Mato Grosso state in Brazil saw Canopus and Procyon as Kofongo "Duck", with Castor and Pollux representing his hands. The asterism's appearance signified the coming of the rainy season and increase in manioc, a food staple fed to guests at feasts.
+
+
+=== Australia ===
+Canopus is identified as the moiety ancestor Waa "Crow" to some Koori people in southeastern Australia. The Boorong people of northwestern Victoria recalled that War (Canopus) was the brother of Warepil (Sirius), and that he brought fire from the heavens and introduced it to humanity. His wife was Collowgullouric War (Eta Carinae). The Pirt-Kopan-noot people of western Victoria tell of Waa "Crow" falling in love with a queen, Gneeanggar "Wedge-tailed Eagle"  (Sirius) and her six attendants (the Pleiades). His advances spurned, he hears that the women are foraging for grubs and so transforms himself into a grub. When the women dig him out, he changes into a giant and carries her off.
+The Kulin people know Canopus as Lo-an-tuka. Objects in the sky are also associated with states of being for some tribes; the Wailwun of northern New South Wales know Canopus as Wumba "deaf", alongside Mars as Gumba "fat" and Venus as Ngindigindoer "you are laughing".
+Tasmanian aboriginal lore holds that Canopus is Dromerdene, the brother of Moinee; the two fought and fell out of the sky, with Dromerdene falling into Louisa Bay in southwest Tasmania. Astronomer Duane Hamacher has identified Canopus with Moinee in a paper dating Tasmanian Aboriginal oral tradition to the late Pleistocene, when Canopus was much closer to the South celestial pole.
+
+
+=== Legacy ===
+
+Canopus appears on the flag of Brazil, symbolising the state of Goiás.
+Two U.S. Navy submarine tenders have been named after Canopus, the first serving from 1922 to 1942 and the second serving from 1965 to 1994.
+The Royal Navy built nine Canopus-class ships of the line in the early 19th century, and six Canopus-class battleships which entered services between 1899 and 1902.
+There are at least two mountains named after the star: Mount Canopus in Antarctica; and Mount Canopus or Canopus Hill in Tasmania, the location of the Canopus Hill astronomical observatory.
+
+
+=== In popular culture ===
+The fictional planet Arrakis, of Frank Herbert's 1965 novel Dune, orbits Canopus.
+
+Canopus is the home of superior and benevolent aliens in Doris Lessing's Canopus in Argos books.
+Canopus is a system present in the video game Helldivers 2, host to a desert world.
+Canopus is the namesake of a racing team in the anime Umamusume: Pretty Derby, introduced in its second season.
+
+
+== See also ==
+List of brightest stars
+List of most luminous stars
+List of nearest supergiants
+List of star systems within 300–350 light-years
+
+
+== References ==
+
+
+=== Bibliography ===
+Makemson, Maud Worcester (1941). The Morning Star Rises: an account of Polynesian astronomy. Yale University Press. Bibcode:1941msra.book.....M.
+Schaaf, Fred (2008). The Brightest Stars: Discovering the Universe through the Sky's Most Brilliant Stars. Hoboken, NJ: John Wiley & Sons. ISBN 978-0-471-70410-2.
+
+## Links
+- 1E 1048−59
+- AG Carinae
+- Absolute magnitude
+- Absorption line
+- Achernar
+- Acronychal rising
+- Agastya
+- Agrigento
+- Al-Andalus
+- Alborz Mountains
+- Alexandria
+- Alfonsine tables
+- Almagest
+- Alpha Centauri
+- Altair
+- Ancient Egypt
+- Ancient Greece
+- Ancient Greek
+- Angular diameter
+- Anthony Brown (scientist)
+- Apparent magnitude
+- ArXiv (identifier)
+- Arabic
+- Aratus
+- Argo Navis
+- Argonauts
+- Ariki
+- Arrakis
+- Astrometry
+- Astronomy & Astrophysics
+- Athens
+- Atmospheric refraction
+- Atutahi
+- Averroes
+- BO Carinae
+- Babylonian star catalogues
+- Balmer line
+- Battle of the Nile
+- Bayer designation
+- Benjamin Apthorp Gould
+- Beta Carinae
+- Bibcode (identifier)
+- Big Dipper
+- Blue loop
+- Bolometric correction
+- Boss General Catalogue
+- Botswana
+- Bright Star Catalogue
+- Bright giant
+- Bullet Cluster
+- Bushmen
+- CK Carinae
+- CPD−57°2874
+- Calcium K line
+- Cambridge University Press
+- Canopus, Egypt
+- Canopus-class battleship
+- Canopus-class ship of the line
+- Canopus (disambiguation)
+- Canopus (mythology)
+- Canopus Hill Observatory
+- Canopus in Argos
+- Cape Photographic Durchmusterung
+- Carina (constellation)
+- Carina Dwarf Spheroidal Galaxy
+- Carina III
+- Carina Nebula
+- Carina OB1
+- Carina OB2
+- Carina in Chinese astronomy
+- Castor (star)
+- Celestial coordinate system
+- Celestial pole
+- Centaurus
+- Centimetre–gram–second system of units
+- Centre de Données astronomiques de Strasbourg
+- Centre de données astronomiques de Strasbourg
+- Cepheid variables
+- Chang'an
+- Chaxiraxi
+- Chi Carinae
+- Chinese language
+- Circumpolar star
+- Collinder 228
+- Color index
+- Common proper motion
+- Constellation
+- Continuous spectrum
+- Coptic language
+- Crete
+- Culmination
+- Córdoba, Spain
+- DENIS J081730.0−615520
+- Data Processing and Analysis Consortium
+- Decimal exponent
+- Declination
+- Degenerate matter
+- Distance (astronomy)
+- Doi (identifier)
+- Doppler effect
+- Duane Hamacher
+- Dune (novel)
+- Dunhuang Star Chart
+- EV Carinae
+- Ecliptic
+- Edmond Halley
+- Effective temperature
+- Egypt
+- Epoch (astronomy)
+- Epsilon Carinae
+- Equilateral triangle
+- Equinox (celestial coordinates)
+- Eratosthenes
+- Eridanus (constellation)
+- Eridu
+- Eta Carinae
+- Exoplanet
+- Expedition 6
+- Ferdowsi
+- Fifth Fundamental Catalogue
+- Finger of God Globule
+- First-magnitude star
+- Flag of Brazil
+- Frank Herbert
+- Friedhelm Pedde
+- G290.1−0.8
+- GG Carinae
+- GJ 1128
+- GRB 000131
+- GRB 080916C
+- Gaia satellite
+- Gaius Julius Solinus
+- Galaxy
+- Galaxy cluster
+- Gemini XI
+- Gliese 341 b
+- Gliese 422 b
+- Goiás
+- Greek mythology
+- Guanches
+- H-R diagram
+- HD 53143
+- HD 61248
+- HD 63765
+- HD 65216
+- HD 65216 b
+- HD 65750
+- HD 65907
+- HD 69863
+- HD 73389
+- HD 73390
+- HD 76728
+- HD 77370
+- HD 79447
+- HD 80230
+- HD 81101
+- HD 83095
+- HD 83183
+- HD 83944
+- HD 84810
+- HD 85628
+- HD 85628 Ab
+- HD 87643
+- HD 88981
+- HD 90264
+- HD 90853
+- HD 91496
+- HD 91942
+- HD 92063
+- HD 92206
+- HD 93129
+- HD 93194
+- HD 93205
+- HD 93250
+- HD 93403
+- HD 93607
+- HD 94476
+- HD 94510
+- HD 95086
+- HD 95086 b
+- HD 95109
+- HD 96566
+- HD 96919
+- HD 97950
+- HR 3159
+- HR 3220
+- HR 3643
+- HR 4102
+- HR 4138
+- HR 4177
+- HR Carinae
+- Han dynasty
+- Harvard Revised catalogue
+- Hawaiian people
+- Hawaiʻiloa
+- Helen of Troy
+- Heliacal rising
+- Helium fusion
+- Helldivers 2
+- Hen 2-47
+- Henry Draper Catalogue
+- Hipparcos
+- Hipparcos Catalogue
+- Hipparcos catalogue
+- Homunculus Nebula
+- H–R diagram
+- IAU Working Group on Star Names
+- IC 2220
+- IC 2448
+- IC 2602
+- IC 2714
+- IGR J11014−6103
+- ISBN (identifier)
+- ISSN (identifier)
+- IX Carinae
+- Ibn Rushd
+- Indian Ocean
+- Innes' star
+- Instability strip
+- Interferometry
+- International Astronomical Union
+- Interstellar extinction
+- Iota Carinae
+- Iran
+- Islamic astronomy
+- JSTOR (identifier)
+- Jason
+- Jesse L. Greenstein
+- Johann Bayer
+- John Flamsteed
+- John Hearnshaw
+- Juan Vernet
+- Julio Samsó
+- Kaaba
+- Kalahari Desert
+- Kalapalo
+- Kalīla wa-Dimna
+- Kelvin
+- Koori
+- LHS 288
+- Latinisation of names
+- Lick Observatory
+- Light-year
+- Light-years
+- Limb darkening
+- List of brightest stars
+- List of most luminous stars
+- List of nearest supergiants
+- List of star systems within 300–350 light-years
+- List of stars in Carina
+- Luminosity
+- Luminosity class
+- Luminosity of the Sun
+- MTT 68
+- MUL.APIN
+- Main sequence
+- Manioc
+- Mariner 4
+- Marrakesh
+- Marrakesh, Morocco
+- Martianus Capella
+- Mass of the Sun
+- Mato Grosso
+- McDonald Observatory
+- Mecca
+- Megayear
+- Menelaus
+- Mercury (planet)
+- Meridian (astronomy)
+- Metallicity
+- Metre per second
+- Microwave
+- Milky Way
+- Milliarcsecond
+- Ming dynasty
+- Monthly Notices of the Royal Astronomical Society
+- Mount Canopus
+- Mount Hamilton (California)
+- Mount Nemrut
+- Māori people
+- NGC 2516
+- NGC 2808
+- NGC 2867
+- NGC 3059
+- NGC 3114
+- NGC 3199
+- NGC 3293
+- NGC 3324
+- NGC 3532
+- NGC 3576
+- NGC 3579
+- NGC 3581
+- NGC 3582
+- NGC 3584
+- NGC 3586
+- NGC 3603
+- NGC 3603-A1
+- NGC 3603-B
+- NGC 3603-C
+- N Carinae
+- Navajo
+- Nebula
+- Negev
+- Negev Bedouin
+- New General Catalogue
+- New Zealand
+- Nicolas Louis de Lacaille
+- Night sky
+- Nile
+- OCLC (identifier)
+- OGLE-TR-111
+- OGLE-TR-111b
+- OGLE-TR-113
+- OGLE-TR-113b
+- OGLE-TR-122
+- OGLE-TR-123
+- OGLE-TR-132
+- OGLE-TR-132b
+- OGLE-TR-182
+- OGLE-TR-182b
+- OGLE-TR-211
+- OGLE-TR-211b
+- OGLE2-TR-L9
+- OGLE2-TR-L9b
+- OY Carinae
+- Old Man of the South Pole
+- Omega Carinae
+- Orbital eccentricity
+- Otto Struve Telescope
+- Oxford English Dictionary
+- PKS 0625−53
+- PP Carinae
+- Panchatantra
+- Parallax
+- Paris (mythology)
+- Parsec
+- Parsecs
+- Patrick Moore
+- Persian language
+- Persian literature
+- Photosphere
+- Pinyin
+- Plage (astronomy)
+- Platais 8
+- Pliny the Elder
+- Polaris
+- Pollux (star)
+- Polynesian culture
+- Posidonius
+- Procyon
+- Projected rotational velocity
+- Proper motion
+- Ptolemies
+- Ptolemy
+- QZ Carinae
+- Qin Shi Huang
+- RCW 49
+- RT Carinae
+- R Carinae
+- Radial velocities
+- Radial velocity
+- Radius
+- Rangi and Papa
+- Records of the Grand Historian
+- Red-giant branch
+- Renaissance
+- Richard Hinckley Allen
+- Right ascension
+- Rishi
+- Robert Hues
+- Roberts 22
+- Roman Empire
+- Romanization
+- Roshdi Rashed
+- Rotation period
+- Royal Navy
+- S2CID (identifier)
+- SIMBAD
+- S Carinae
+- San Francisco
+- Sanxing (deities)
+- Scorpius–Centaurus association
+- Secchi class
+- Seoul
+- Seville
+- Sher 25
+- Siddhar
+- Sigma Sagittarii
+- Sima Qian
+- Sinai Peninsula
+- Sirius
+- Smithsonian Astrophysical Observatory Star Catalog
+- Society Islands
+- Solar System
+- Solar luminosity
+- Solar mass
+- Solar radius
+- Southern Hemisphere
+- Southern Ocean
+- Spacecraft attitude determination and control
+- Sparta
+- Spectral type A9
+- Spherical Earth
+- Spin-stabilisation
+- Star
+- Star Names: Their Lore and Meaning
+- Star catalogue
+- Star cluster
+- Star tracker
+- Starlight
+- Stellar classification
+- Stellar core
+- Stellar corona
+- Stellar evolution
+- Stellar mass
+- Stellar parallax
+- Stellar rotation
+- Submarine tender
+- Sun
+- Sun's radius
+- Supergiant star
+- Surface gravity
+- Susan Whitfield
+- Tamraparni
+- Tang dynasty
+- Tapu (Polynesian culture)
+- Tasmania
+- Tenerife
+- Theta Carinae
+- Thutmose III
+- Transient astronomical event
+- Transliteration
+- Trumpler 14
+- Trumpler 15
+- Trumpler 16
+- Tswana people
+- Tuamotu
+- Tunç Tezel
+- Type II supernova
+- Tāne
+- USS Canopus (AS-34)
+- USS Canopus (AS-9)
+- Ultraviolet
+- Umamusume: Pretty Derby
+- Upsilon Carinae
+- V337 Carinae
+- V343 Carinae
+- V344 Carinae
+- V345 Carinae
+- V357 Carinae
+- V372 Carinae
+- V376 Carinae
+- V382 Carinae
+- V395 Carinae
+- V399 Carinae
+- V415 Carinae
+- V448 Carinae
+- V518 Carinae
+- V520 Carinae
+- V528 Carinae
+- V533 Carinae
+- V602 Carinae
+- V906 Carinae
+- Variable star designation
+- Vedas
+- Very-long-baseline interferometry
+- Visual apparent magnitude
+- WR 16
+- WR 20a
+- WR 21a
+- WR 22
+- WR 24
+- WR 25
+- WR 30a
+- WR 31a
+- WR 42e
+- Warring States period
+- Westerlund 2
+- Wilson-Bappu effect
+- X-ray astronomy
+- Y Carinae
+- Yale University Press
+- Year
+- Yemen
+- Yi Xing
+- Zeeman splitting
+- ǀXam language
+- ǃKung people
+- Α Persei

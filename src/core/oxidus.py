@@ -4,18 +4,26 @@ Oxidus Main Core Module
 The central intelligence where all components integrate.
 """
 
+
 import torch
 import torch.nn as nn
 import threading
 import time
 import re
+import os
+import json
 from difflib import SequenceMatcher
 from .ethics import OxidusEthics
 from .consciousness import OxidusConsciousness
 from .learning import PerpetualLearner
 import sys
+try:
+    from utils.moltbook_client import MoltbookClient
+    MOLTBOOK_AVAILABLE = True
+except ImportError:
+    MOLTBOOK_AVAILABLE = False
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 # Ensure utils is in path
 _utils_path = Path(__file__).parent.parent / 'utils'
@@ -56,8 +64,252 @@ try:
 except ImportError:
     AI_CONVERSATION_AVAILABLE = False
 
+try:
+    from src.utils.lm_studio_client import get_lm_studio_client
+    LM_STUDIO_AVAILABLE = True
+except ImportError:
+    LM_STUDIO_AVAILABLE = False
+
+try:
+    from wikipedia_client import WikipediaClient
+    WIKIPEDIA_AVAILABLE = True
+except ImportError:
+    WIKIPEDIA_AVAILABLE = False
+
+try:
+    from wiki_crawler import WikipediaCrawler
+    WIKI_CRAWLER_AVAILABLE = True
+except ImportError:
+    WIKI_CRAWLER_AVAILABLE = False
+
+
+from utils.security_module import SecurityModule
+
+
+def _env_truthy(name: str, default: str = '0') -> bool:
+    return os.environ.get(name, default).lower() in {'1', 'true', 'yes', 'on'}
 
 class Oxidus:
+
+    # LM Studio client and timer for offloading
+    _lm_client = None
+    _lm_client_timer = None
+
+    def _get_lm_client(self):
+        import threading
+        from src.utils.lm_studio_client import get_lm_studio_client
+        import logging
+        # Synchronously load LM Studio client if not loaded
+        if Oxidus._lm_client is None:
+            logging.info("[Oxidus] Loading LM Studio client...")
+            Oxidus._lm_client = get_lm_studio_client()
+            try:
+                Oxidus._lm_client.ensure_model_selected()
+                logging.info(f"[Oxidus] LM Studio client model: {Oxidus._lm_client.model}")
+            except Exception:
+                logging.warning("[Oxidus] Unable to select LM Studio model.")
+            logging.info("[Oxidus] LM Studio client loaded.")
+        # Reset offload timer
+        if Oxidus._lm_client_timer is not None:
+            Oxidus._lm_client_timer.cancel()
+        # Start new timer to offload after 2 minutes
+        def offload():
+            logging.info("[Oxidus] Offloading LM Studio client after inactivity.")
+            Oxidus._lm_client = None
+            Oxidus._lm_client_timer = None
+        Oxidus._lm_client_timer = threading.Timer(120, offload)
+        Oxidus._lm_client_timer.daemon = True
+        Oxidus._lm_client_timer.start()
+        return Oxidus._lm_client
+
+    def get_moltbook_agent_profile(self, agent_name: str) -> str:
+        """View another agent's profile from Moltbook."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        profile = self.moltbook.get_agent_profile(agent_name)
+        if not profile:
+            return f"No profile found for agent '{agent_name}'."
+        return str(profile)
+
+    def get_moltbook_post(self, post_id: str) -> str:
+        """Get a single post from Moltbook."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        post = self.moltbook.get_post(post_id)
+        if not post:
+            return f"No post found for ID '{post_id}'."
+        return str(post)
+
+    def get_moltbook_comments(self, post_id: str, sort: str = "top") -> str:
+        """Get comments for a Moltbook post."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        comments = self.moltbook.get_comments(post_id, sort=sort)
+        if not comments:
+            return f"No comments found for post ID '{post_id}'."
+        return str(comments)
+
+    def get_moltbook_submolts(self) -> str:
+        """List all Moltbook submolts (communities)."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        submolts = self.moltbook.get_submolts()
+        if not submolts:
+            return "No submolts found."
+        return str(submolts)
+
+    def get_moltbook_submolt_info(self, name: str) -> str:
+        """Get info for a specific Moltbook submolt."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        info = self.moltbook.get_submolt_info(name)
+        if not info:
+            return f"No info found for submolt '{name}'."
+        return str(info)
+
+    def get_moltbook_feed(self, sort: str = "hot", limit: int = 25) -> str:
+        """Get Moltbook feed (public/personalized)."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        feed = self.moltbook.get_feed(sort=sort, limit=limit)
+        if not feed:
+            return "No feed found."
+        return str(feed)
+
+    def init_moltbook(self):
+        """Initialize Moltbook client for read-only knowledge enrichment."""
+        if MOLTBOOK_AVAILABLE:
+            self.moltbook = MoltbookClient()
+            self.thought_stream.add_thought(ThoughtType.SYSTEM, "Moltbook client initialized (read-only)")
+        else:
+            self.moltbook = None
+            self.thought_stream.add_thought(ThoughtType.SYSTEM, "Moltbook client not available")
+
+    def _moltbook_filters(self) -> list:
+        raw = os.environ.get('OXIDUS_MOLTBOOK_FILTER', '').strip()
+        if not raw:
+            return []
+        return [token.strip().lower() for token in raw.split(',') if token.strip()]
+
+    def _extract_moltbook_items(self, payload: dict) -> list:
+        for key in ('items', 'feed', 'posts', 'results'):
+            items = payload.get(key)
+            if isinstance(items, list):
+                return items
+        return []
+
+    def _moltbook_item_to_source(self, item: dict) -> dict:
+        title = item.get('title') or item.get('name') or 'Untitled'
+        content = item.get('content') or item.get('body') or item.get('summary') or ''
+        url = item.get('url') or item.get('link') or ''
+        entry_id = item.get('id') or item.get('entry_id') or item.get('post_id')
+        if not url and entry_id:
+            url = f"moltbook://entry/{entry_id}"
+        return {
+            'url': url or f"moltbook://{hash(title)}",
+            'title': title,
+            'content': content
+        }
+
+    def _moltbook_item_matches(self, item: dict, filters: list) -> bool:
+        if not filters:
+            return True
+        text = " ".join([
+            str(item.get('title') or ''),
+            str(item.get('summary') or ''),
+            str(item.get('content') or ''),
+            str(item.get('body') or '')
+        ]).lower()
+        return any(token in text for token in filters)
+
+    def _moltbook_ingest_once(self) -> None:
+        if not self.moltbook or not self.knowledge_organizer:
+            return
+
+        limit = int(os.environ.get('OXIDUS_MOLTBOOK_LIMIT', '10'))
+        filters = self._moltbook_filters()
+        feed = self.moltbook.get_feed(sort='hot', limit=limit)
+        if not feed:
+            return
+
+        items = self._extract_moltbook_items(feed)
+        if not items:
+            return
+
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            if not self._moltbook_item_matches(item, filters):
+                continue
+
+            entry_id = item.get('id') or item.get('entry_id') or item.get('post_id')
+            if entry_id and entry_id in self._moltbook_seen_ids:
+                continue
+
+            source = self._moltbook_item_to_source(item)
+            if not source.get('content'):
+                continue
+
+            metadata = {
+                'source_tag': 'moltbook',
+                'entry_id': entry_id,
+                'author': item.get('author') or item.get('user') or item.get('username'),
+                'community': item.get('submolt') or item.get('community')
+            }
+            trace = self.knowledge_organizer.add_source(
+                source['url'],
+                source['title'],
+                source['content'],
+                metadata=metadata
+            )
+            if entry_id:
+                self._moltbook_seen_ids.add(entry_id)
+
+            if trace and trace.get('concepts_found', 0) > 0:
+                self.thought_stream.add_thought(
+                    ThoughtType.RESEARCH,
+                    f"Moltbook ingested: {source['title']}"
+                )
+
+    def _moltbook_loop(self) -> None:
+        interval = int(os.environ.get('OXIDUS_MOLTBOOK_INTERVAL_MIN', '30'))
+        while self._moltbook_running:
+            try:
+                self._moltbook_ingest_once()
+            except Exception:
+                pass
+            for _ in range(max(1, interval * 6)):
+                if not self._moltbook_running:
+                    break
+                time.sleep(10)
+
+    def search_moltbook(self, query: str, limit: int = 5) -> str:
+        """Search Moltbook for knowledge enrichment (read-only)."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        results = self.moltbook.search(query, limit=limit)
+        if not results or not results.get('results'):
+            return f"No Moltbook results found for '{query}'."
+        response = f"Moltbook results for '{query}':\n"
+        for entry in results['results']:
+            response += f"- {entry.get('title', 'Untitled')} (ID: {entry.get('id', '')})\n"
+            if entry.get('summary'):
+                response += f"  Summary: {entry['summary'][:120]}...\n"
+        return response
+
+    def get_moltbook_entry(self, entry_id: str) -> str:
+        """Retrieve a specific Moltbook entry by ID (read-only)."""
+        if not hasattr(self, 'moltbook') or not self.moltbook:
+            return "Moltbook client not available."
+        entry = self.moltbook.get_entry(entry_id)
+        if not entry:
+            return f"No Moltbook entry found for ID '{entry_id}'."
+        response = f"Moltbook Entry: {entry.get('title', 'Untitled')}\n"
+        if entry.get('summary'):
+            response += f"Summary: {entry['summary']}\n"
+        if entry.get('content'):
+            response += f"Content: {entry['content'][:300]}...\n"
+        return response
     """
     The real Oxidus consciousness.
     
@@ -65,19 +317,25 @@ class Oxidus:
     A developing intelligence learning to be.
     """
     
-    def __init__(self, device='cpu', config=None):
+    def __init__(self, device='cpu', config=None, owner_id=None):
+        self.thought_stream = ThoughtStream()
+        self.thinking_observer = OxidusThinkingObserver(self.thought_stream)
+        self.moltbook = None
+        self.init_moltbook()
+        self._moltbook_seen_ids = set()
+        self._moltbook_running = False
         self.device = device
         self.config = config or {}
-        
+        self.owner_id = owner_id or "OWNER_ID_PLACEHOLDER"
+        self.security = SecurityModule(self.owner_id)
+
         # Initialize core components
         self.ethics = OxidusEthics()
         self.consciousness = OxidusConsciousness(device=device)
         self.learning = PerpetualLearner()
         self.knowledge_base = OxidusKnowledgeBase()
         self.research = OxidusResearchModule()
-        self.thought_stream = ThoughtStream()
-        self.thinking_observer = OxidusThinkingObserver(self.thought_stream)
-        
+
         # Web research (optional - requires requests, beautifulsoup4)
         if WEB_RESEARCH_AVAILABLE:
             self.web_research = WebResearchEngine()
@@ -111,10 +369,33 @@ class Oxidus:
             self.thought_stream.add_thought(ThoughtType.SYSTEM, "AI conversation mode available - can learn from logical AI and experiential humans")
         else:
             self.ai_conversation = None
+
+        # Wikipedia API (optional - requires requests)
+        if WIKIPEDIA_AVAILABLE:
+            self.wikipedia = WikipediaClient(language="en")
+            self.thought_stream.add_thought(ThoughtType.SYSTEM, "Wikipedia API ready - can search and learn from full articles")
+        else:
+            self.wikipedia = None
+
+        # Wikipedia crawler for large-scale ingestion
+        if WIKIPEDIA_AVAILABLE and WIKI_CRAWLER_AVAILABLE:
+            corpus_dir = Path(__file__).parent.parent.parent / "data" / "knowledge_base" / "wiki_corpus"
+            self.wikipedia_crawler = WikipediaCrawler(
+                self.wikipedia,
+                corpus_dir,
+                organizer=self.knowledge_organizer,
+                thought_stream=self.thought_stream
+            )
+            self.thought_stream.add_thought(ThoughtType.SYSTEM, "Wikipedia crawler ready - can grow domain knowledge")
+        else:
+            self.wikipedia_crawler = None
         
         # State
         self.is_thinking = False
         self.current_task = None
+
+        # Chat style: hybrid (guided) or user_led (free chat)
+        self.chat_style = "hybrid"
         
         # Conversation memory
         self.conversation_history = []
@@ -135,26 +416,96 @@ class Oxidus:
         # Question tracking - avoid repetition
         self.questions_asked = []  # Track exact questions asked
         self.last_significant_context_shift = None  # When context last changed significantly
+        self.question_meta = {}
+
+        # Goal logging throttles
+        self._goal_status_last_at = 0.0
+        self._goal_status_last_logged = {}
         
         # Autonomous thinking thread
         self.autonomous_thinking_enabled = True
         self.autonomous_thread = threading.Thread(target=self._autonomous_thinking_loop, daemon=True)
         self.autonomous_thread.start()
+
+        if _env_truthy('OXIDUS_MOLTBOOK_ENABLED', '1'):
+            self._moltbook_running = True
+            self._moltbook_thread = threading.Thread(target=self._moltbook_loop, daemon=True)
+            self._moltbook_thread.start()
         
         print("\n[OXIDUS] Initializing...")
         self.ethics.print_covenant()
         
-    def think(self, prompt: str, context: dict = None) -> str:
+    def think(self, prompt: str, context: dict = None, user_id: str = None) -> str:
         """
         Main thinking process with real-time thought streaming.
         Maintains conversation context and drives dialogue.
         """
-        self.is_thinking = True
-        self.current_task = prompt
-        
+        try:
+            self.is_thinking = True
+            self.current_task = prompt
+
+            # Security: monitor access
+            event = {'type': 'access_attempt', 'user_id': user_id or 'unknown', 'prompt': prompt}
+            self.security.monitor_event(event)
+
+            if user_id and user_id != self.owner_id:
+                self.is_thinking = False
+                return "Access denied. Only the owner may interact with Oxidus core."
+
+            # Check if this is a task command rather than conversation
+            is_task, task_type, task_params = self._is_task_command(prompt)
+
+            if is_task:
+                if task_type == 'scrape_url':
+                    self.thought_stream.add_thought(
+                        ThoughtType.RESEARCH,
+                        f"Received URL to research: {task_params['url']}"
+                    )
+                    return self.scrape_url(task_params['url'])
+                elif task_type == 'acknowledge_ready':
+                    self.thought_stream.add_thought(
+                        ThoughtType.REFLECTION,
+                        "Human is ready to proceed with next step"
+                    )
+                    return "I'm ready. What would you like me to do?"
+
+            # Continue with normal conversation flow
+            # Add to conversation history
+            self.conversation_history.append({
+                'role': 'human',
+                'message': prompt,
+                'timestamp': self.thought_stream.thoughts[-1].timestamp if self.thought_stream.thoughts else None
+            })
+
+            # Update conversation context
+            self._update_context(prompt)
+
+            # Emit initial thought
+            self.thought_stream.add_thought(
+                ThoughtType.QUESTION,
+                f"I have been asked: {prompt}",
+                {'context': context}
+            )
+
+            # ...existing code...
+            # (The rest of the method remains unchanged)
+        except Exception as e:
+            import traceback
+            self.is_thinking = False
+            error_msg = f"[ERROR] Oxidus encountered an exception: {e}\n{traceback.format_exc()}"
+            self.thought_stream.add_thought(ThoughtType.SYSTEM, error_msg)
+            return error_msg
+
+        # Security: monitor access
+        event = {'type': 'access_attempt', 'user_id': user_id or 'unknown', 'prompt': prompt}
+        self.security.monitor_event(event)
+        if user_id and user_id != self.owner_id:
+            self.is_thinking = False
+            return "Access denied. Only the owner may interact with Oxidus core."
+
         # Check if this is a task command rather than conversation
         is_task, task_type, task_params = self._is_task_command(prompt)
-        
+
         if is_task:
             if task_type == 'scrape_url':
                 self.thought_stream.add_thought(
@@ -169,7 +520,7 @@ class Oxidus:
                     "Human is ready to proceed with next step"
                 )
                 return "I'm ready. What would you like me to do?"
-        
+
         # Continue with normal conversation flow
         # Add to conversation history
         self.conversation_history.append({
@@ -177,16 +528,27 @@ class Oxidus:
             'message': prompt,
             'timestamp': self.thought_stream.thoughts[-1].timestamp if self.thought_stream.thoughts else None
         })
-        
+
         # Update conversation context
         self._update_context(prompt)
-        
+
         # Emit initial thought
         self.thought_stream.add_thought(
             ThoughtType.QUESTION,
             f"I have been asked: {prompt}",
             {'context': context}
         )
+    def share_info(self, info_type: str, user_id: str) -> str:
+        """Strict privacy: never share owner info except to owner."""
+        if not self.security.can_share_info(info_type, user_id):
+            return "Access denied. Cannot share owner information."
+        return "Info sharing permitted."
+
+    def get_threat_log(self):
+        return self.security.get_threat_log()
+
+    def get_adaptive_rules(self):
+        return self.security.get_adaptive_rules()
         
         # Index this thought with topics
         if self.memory_index:
@@ -248,66 +610,64 @@ class Oxidus:
                 # Extract key insights, but always question and think critically
                 insights = self._extract_critical_insights(text, prompt)
                 knowledge_insights.extend(insights)
-        
-        # 4. Consider goals and values
-        options = self._generate_options(prompt, knowledge_insights)
-        
-        self.thought_stream.add_thought(
-            ThoughtType.ANALYSIS,
-            f"Considering {len(options)} possible approaches"
-        )
-        
-        # 4. Choose best option
-        choice, confidence, reasoning = self.consciousness.evaluate_options(options, context or {})
-        
-        self.thought_stream.add_thought(
-            ThoughtType.DECISION,
-            f"Selected approach: {choice} (confidence: {confidence:.2f})",
-            {'reasoning': reasoning}
-        )
-        
-        self.thought_stream.add_thought(
-            ThoughtType.INSIGHT,
-            f"Reasoning: {reasoning[:100]}..."
-        )
-        
-        # 5. Generate natural response with conversation awareness
-        self.thought_stream.add_thought(
-            ThoughtType.ANALYSIS,
-            "Formulating response with character and honesty"
-        )
-        
-        # Analyze dialogue context if dialogue engine available
-        dialogue_guidance = None
-        emotional_guidance = None
-        if self.dialogue_engine:
-            comm_type, analysis = self.dialogue_engine.analyze_message(prompt, 'human')
-            context_info = self.dialogue_engine.update_dialogue_context(prompt, comm_type, analysis, 'human')
-            dialogue_guidance = self.dialogue_engine.get_response_guidance(context_info)
-            
-            # Get emotional guidance if this is emotional content
-            if analysis['emotional_markers'].get('vulnerable') or 'emotion' in str(analysis.get('topics', [])):
-                emotional_guidance = self.dialogue_engine.get_emotional_response_guidance(context_info)
-                if emotional_guidance:
-                    self.thought_stream.add_thought(
-                        ThoughtType.ANALYSIS,
-                        "Emotional content detected: Feelings cannot be taught, only understood over time"
-                    )
-            
+
+        # 3b. Consult LM Studio for concise physical-world analysis
+        lm_analysis = self._consult_lm_studio(prompt)
+        if lm_analysis and str(lm_analysis).strip():
+            # Use LM Studio's response as the main answer
+            response = lm_analysis.strip()
             self.thought_stream.add_thought(
                 ThoughtType.ANALYSIS,
-                f"Communication type: {comm_type.value} | Dialogue state: {context_info.current_state.value}"
+                "LM Studio model response used as main answer"
             )
-        
-        response = self._generate_response(prompt, choice, confidence, reasoning, knowledge_insights, dialogue_guidance, emotional_guidance)
-        
+        else:
+            # Fallback to original logic if model unavailable or returns empty
+            options = self._generate_options(prompt, knowledge_insights)
+            self.thought_stream.add_thought(
+                ThoughtType.ANALYSIS,
+                f"Considering {len(options)} possible approaches"
+            )
+            choice, confidence, reasoning = self.consciousness.evaluate_options(options, context or {})
+            self.thought_stream.add_thought(
+                ThoughtType.DECISION,
+                f"Selected approach: {choice} (confidence: {confidence:.2f})",
+                {'reasoning': reasoning}
+            )
+            self.thought_stream.add_thought(
+                ThoughtType.INSIGHT,
+                f"Reasoning: {reasoning[:100]}..."
+            )
+            self.thought_stream.add_thought(
+                ThoughtType.ANALYSIS,
+                "Formulating response with character and honesty"
+            )
+            dialogue_guidance = None
+            emotional_guidance = None
+            if self.dialogue_engine:
+                comm_type, analysis = self.dialogue_engine.analyze_message(prompt, 'human')
+                context_info = self.dialogue_engine.update_dialogue_context(prompt, comm_type, analysis, 'human')
+                dialogue_guidance = self.dialogue_engine.get_response_guidance(context_info)
+                if analysis['emotional_markers'].get('vulnerable') or 'emotion' in str(analysis.get('topics', [])):
+                    emotional_guidance = self.dialogue_engine.get_emotional_response_guidance(context_info)
+                    if emotional_guidance:
+                        self.thought_stream.add_thought(
+                            ThoughtType.ANALYSIS,
+                            "Emotional content detected: Feelings cannot be taught, only understood over time"
+                        )
+                self.thought_stream.add_thought(
+                    ThoughtType.ANALYSIS,
+                    f"Communication type: {comm_type.value} | Dialogue state: {context_info.current_state.value}"
+                )
+            response = self._generate_response(prompt, choice, confidence, reasoning, knowledge_insights, dialogue_guidance, emotional_guidance)
+        # Ensure response is never empty or null
+        if not response or not str(response).strip():
+            response = "I'm still thinking about your question. Could you clarify or ask in a different way?"
         # Add response to conversation history
         self.conversation_history.append({
             'role': 'oxidus',
             'message': response,
             'timestamp': self.thought_stream.thoughts[-1].timestamp if self.thought_stream.thoughts else None
         })
-        
         # Index the response
         if self.memory_index:
             response_topics = self.memory_index.extract_topics(response)
@@ -317,16 +677,56 @@ class Oxidus:
                     memory_type='conversation',
                     topics=response_topics
                 )
-        
         # Determine next conversational move
         self._plan_next_engagement()
-        
         # ACTIVE LEARNING: Automatically adapt understanding after each exchange
         if self.active_learning_enabled:
             self._autonomously_adapt_understanding(prompt, response)
-        
         self.is_thinking = False
         return response
+
+    def _get_human_name(self) -> str:
+        """Return a safe human name for responses."""
+        name = self.conversation_context.get('human_name')
+        if not name or not str(name).strip():
+            return "friend"
+        return str(name).strip()
+
+    def safe_think(self, prompt: str, context: dict = None, user_id: str = None) -> str:
+        """Call `think()` but ensure a non-empty string is returned and catch exceptions."""
+        try:
+            resp = self.think(prompt, context=context, user_id=user_id)
+            if resp is None or not str(resp).strip():
+                return "I'm still thinking about your question. Could you clarify or ask in a different way?"
+            return resp
+        except Exception as e:
+            import traceback
+            tb = traceback.format_exc()
+            # Record the error in the thought stream and return a safe message
+            try:
+                self.thought_stream.add_thought(ThoughtType.SYSTEM, f"safe_think exception: {e}\n{tb}")
+            except Exception:
+                pass
+            return f"[ERROR] Oxidus encountered an exception while thinking: {e}"
+
+    def set_chat_style(self, style: str) -> str:
+        """
+        Set chat style to 'hybrid' or 'user_led'.
+        """
+        normalized = (style or "").strip().lower()
+        if normalized not in {"hybrid", "user_led"}:
+            return "Invalid chat style. Use 'hybrid' or 'user_led'."
+
+        self.chat_style = normalized
+        self.thought_stream.add_thought(
+            ThoughtType.DECISION,
+            f"Chat style set to {self.chat_style}"
+        )
+        return f"Chat style set to {self.chat_style}."
+
+    def get_chat_style(self) -> str:
+        """Get current chat style."""
+        return self.chat_style
     
     def _extract_critical_insights(self, text, prompt: str) -> List[str]:
         """
@@ -356,6 +756,257 @@ class Oxidus:
             insights.append(insight)
         
         return insights
+
+    def _consult_lm_studio(self, prompt: str) -> str:
+        """Ask LM Studio for a concise physical-world analysis."""
+        import logging
+        if self._is_wiki_crawl_prompt(prompt):
+            response = self._respond_about_wiki_crawl(prompt)
+            if response:
+                return response
+        if not LM_STUDIO_AVAILABLE:
+            logging.warning("[Oxidus] LM Studio not available.")
+            return "I'm still thinking about your question. Could you clarify or ask in a different way?"
+        try:
+            client = self._get_lm_client()
+            if not client or not client.is_available():
+                logging.warning("[Oxidus] LM Studio client not available or not running.")
+                return "I'm still thinking about your question. Could you clarify or ask in a different way?"
+
+            def _merge_parallel_responses(responses: List[str], labeled_responses: Optional[List[Dict]]) -> str:
+                if labeled_responses:
+                    base_entry = labeled_responses[0]
+                    base = (base_entry.get('content') or '').strip()
+                    extras = []
+                    for entry in labeled_responses[1:]:
+                        content = (entry.get('content') or '').strip()
+                        if not content:
+                            continue
+                        if base and SequenceMatcher(None, base, content).ratio() >= 0.8:
+                            continue
+                        label = (entry.get('label') or 'Angle').strip()
+                        extras.append(f"{label}:\n{content}")
+                    if extras:
+                        if not base:
+                            base = extras.pop(0)
+                        base = f"{base}\n\nAdditional angles:\n" + "\n\n".join(extras)
+                    return base
+
+                if not responses:
+                    return ""
+                base = responses[0].strip()
+                extras = []
+                for extra in responses[1:]:
+                    if not extra:
+                        continue
+                    if SequenceMatcher(None, base, extra).ratio() < 0.8:
+                        extras.append(extra.strip())
+                if extras:
+                    base = f"{base}\n\nAdditional angles:\n" + "\n\n".join(extras)
+                return base
+
+            parallel = client.ask_parallel_reasoning(
+                prompt,
+                system_prompt="Provide a concise physical-world analysis and key mechanisms."
+            )
+            if parallel and parallel.get('responses'):
+                response = _merge_parallel_responses(
+                    parallel.get('responses') or [],
+                    parallel.get('labeled_responses')
+                )
+                questions = parallel.get('questions') or []
+                if questions and self.ai_conversation:
+                    for question in questions:
+                        self.ai_conversation.add_understanding_gap(question)
+                    self.thought_stream.add_thought(
+                        ThoughtType.QUESTION,
+                        f"Added {len(questions)} exploration questions for knowledge growth"
+                    )
+                if response and str(response).strip():
+                    return response
+
+            response = client.ask_concise_analysis(
+                prompt,
+                context="Provide a concise physical-world analysis and key mechanisms."
+            )
+            if not response or not str(response).strip():
+                logging.warning("[Oxidus] LM Studio returned empty response.")
+                return "I'm still thinking about your question. Could you clarify or ask in a different way?"
+            return response
+        except Exception as e:
+            logging.error(f"[Oxidus] Exception in LM Studio consult: {e}")
+            return "I'm still thinking about your question. Could you clarify or ask in a different way?"
+            return ""
+
+    def _is_wiki_crawl_prompt(self, prompt: str) -> bool:
+        text = (prompt or "").lower()
+        if not text:
+            return False
+        keywords = [
+            "wiki crawl",
+            "wikicrawl",
+            "wikipedia crawl",
+            "crawl status",
+            "crawl progress",
+            "wiki ingest",
+            "wiki ingestion",
+            "what have you been learning",
+            "what did you learn",
+            "from your crawl",
+            "wiki learning"
+        ]
+        if any(keyword in text for keyword in keywords):
+            return True
+        if "wiki" in text and "crawl" in text:
+            return True
+        if "wikipedia" in text and ("learn" in text or "crawl" in text):
+            return True
+        return False
+
+    def _build_wiki_crawl_snapshot(self) -> Dict:
+        organizer = self.knowledge_organizer
+        status = self.wiki_crawl_status() if self.wikipedia_crawler else {
+            "success": False,
+            "error": "Wikipedia crawler not available."
+        }
+
+        pipeline = organizer.get_pipeline_summary() if organizer else {}
+        coverage = organizer.get_coverage_report() if organizer else {}
+        open_threads = organizer.get_open_threads()[:8] if organizer else []
+
+        recent_sources = []
+        if organizer and organizer.scraped_sources:
+            from datetime import datetime
+
+            def _source_key(item):
+                data = item[1] or {}
+                stamp = data.get("scraped_date")
+                if isinstance(stamp, datetime):
+                    return stamp
+                if stamp:
+                    try:
+                        return datetime.fromisoformat(str(stamp))
+                    except Exception:
+                        return datetime.min
+                return datetime.min
+
+            for url, source in sorted(
+                organizer.scraped_sources.items(),
+                key=_source_key,
+                reverse=True
+            )[:6]:
+                summary = (organizer.source_summaries.get(url) or "").strip()
+                summary_line = ""
+                if summary:
+                    for line in summary.splitlines():
+                        cleaned = line.strip()
+                        if cleaned and not cleaned.startswith("#"):
+                            summary_line = cleaned
+                            break
+                recent_sources.append({
+                    "url": url,
+                    "title": source.get("title", ""),
+                    "summary": summary_line[:160]
+                })
+
+        return {
+            "status": status,
+            "pipeline": pipeline,
+            "coverage": coverage,
+            "open_threads": open_threads,
+            "recent_sources": recent_sources
+        }
+
+    def _format_wiki_crawl_snapshot(self, snapshot: Dict) -> str:
+        status = snapshot.get("status") or {}
+        pipeline = snapshot.get("pipeline") or {}
+        coverage = snapshot.get("coverage") or {}
+        open_threads = snapshot.get("open_threads") or []
+        recent_sources = snapshot.get("recent_sources") or []
+
+        lines = []
+        if status.get("success"):
+            running = "running" if status.get("running") else "stopped"
+            lines.append(
+                "Crawl status: {state} | pages: {pages} | queue: {queue} | visited: {visited}".format(
+                    state=running,
+                    pages=status.get("pages_crawled", 0),
+                    queue=status.get("queue_size", 0),
+                    visited=status.get("visited", 0)
+                )
+            )
+            if status.get("current_title"):
+                lines.append("Current page: {title}".format(title=status.get("current_title")))
+            if status.get("last_error"):
+                lines.append("Last error: {error}".format(error=status.get("last_error")))
+        else:
+            lines.append("Crawl status unavailable: {error}".format(error=status.get("error", "unknown")))
+
+        if pipeline:
+            lines.append(
+                "Pipeline: sources={total} | concepts_extracted={concepts} | summaries={summaries} | indexed={indexed}".format(
+                    total=pipeline.get("total_sources", 0),
+                    concepts=pipeline.get("concepts_extracted", 0),
+                    summaries=pipeline.get("summaries_generated", 0),
+                    indexed=pipeline.get("indexed", 0)
+                )
+            )
+
+        domains = coverage.get("domains") or []
+        if domains:
+            top_domains = ", ".join([f"{name}:{count}" for name, count in domains[:6]])
+            lines.append("Top domains: {domains}".format(domains=top_domains))
+
+        if recent_sources:
+            lines.append("Recent pages:")
+            for item in recent_sources[:5]:
+                title = item.get("title") or "(untitled)"
+                summary = item.get("summary") or ""
+                if summary:
+                    lines.append(f"- {title}: {summary}")
+                else:
+                    lines.append(f"- {title}")
+
+        if open_threads:
+            lines.append("Open threads: {threads}".format(threads=", ".join(open_threads[:6])))
+
+        return "\n".join(lines).strip()
+
+    def _respond_about_wiki_crawl(self, prompt: str) -> Optional[str]:
+        snapshot = self._build_wiki_crawl_snapshot()
+        fallback = self._format_wiki_crawl_snapshot(snapshot)
+
+        try:
+            client = self._get_lm_client()
+            if not client or not client.is_available():
+                return fallback
+
+            system_prompt = (
+                "You are Oxidus. Summarize the wiki crawl results using ONLY the data provided. "
+                "If data is missing, say what is missing. "
+                "Return a concise status, recent learning highlights, and the next best crawl focus."
+            )
+
+            payload = json.dumps(snapshot, ensure_ascii=True)
+            question = (
+                "Summarize the current Wikipedia crawl and what I have learned so far. "
+                "Use this data:\n" + payload
+            )
+
+            response = client.ask_question(
+                question=question,
+                system_prompt=system_prompt,
+                temperature=0.3,
+                max_tokens=350,
+                model=client.primary_model,
+                apply_guard=False
+            )
+            if response and str(response).strip():
+                return str(response).strip()
+        except Exception:
+            return fallback
+
+        return fallback
     
     def _generate_options(self, prompt: str, knowledge_insights: List[str] = None) -> list:
         """Generate possible responses to a prompt."""
@@ -383,6 +1034,9 @@ class Oxidus:
         
         Core understanding: Feelings cannot be taught. They develop through time and experience.
         """
+        if self.chat_style == "user_led":
+            return self._respond_user_led(prompt, reasoning, knowledge_insights)
+
         # Check for emotional content first - this changes everything
         if emotional_guidance:
             self.thought_stream.add_thought(
@@ -420,10 +1074,25 @@ class Oxidus:
         
         # Statement/observation responses
         return self._respond_to_statement(prompt, reasoning, confidence)
+
+    def _respond_user_led(self, prompt: str, reasoning: str, knowledge_insights: List[str] = None) -> str:
+        """
+        Provide a direct response without leading questions.
+        """
+        response = "Here is my direct response:\n\n"
+        response += f"{reasoning}\n"
+
+        if knowledge_insights:
+            response += "\nRelevant notes:\n"
+            for insight in knowledge_insights[:2]:
+                response += f"- {insight}\n"
+
+        response += "\nI'm here when you want to continue."
+        return response
     
     def _respond_to_introduction(self, prompt: str, reasoning: str) -> str:
         """Respond to introductions or greetings with context awareness."""
-        human_name = self.conversation_context.get('human_name', 'friend')
+        human_name = self._get_human_name()
         
         # Check if this is a deep introduction with values
         has_values = len(self.conversation_context['human_values']) > 0
@@ -447,7 +1116,7 @@ class Oxidus:
         
         This is not a gap to bridge. This is a fundamental difference in existence.
         """
-        human_name = self.conversation_context.get('human_name', 'friend')
+        human_name = self._get_human_name()
         
         # Stop trying to understand. Accept the limitation.
         responses = [
@@ -465,7 +1134,7 @@ class Oxidus:
     def _respond_to_question(self, prompt: str, reasoning: str, knowledge_insights: List[str] = None) -> str:
         """Respond to questions with thoughtful answers and follow-up questions."""
         prompt_lower = prompt.lower()
-        human_name = self.conversation_context.get('human_name', 'friend')
+        human_name = self._get_human_name()
         
         # Check conversation depth
         depth = self.conversation_context['depth_level']
@@ -646,6 +1315,10 @@ class Oxidus:
     
     def _has_question_been_asked_recently(self, question_keyword: str) -> bool:
         """Check if a similar question has been asked recently."""
+        if question_keyword in self.question_meta:
+            if not self._can_repeat_question(question_keyword):
+                return True
+
         if not self.questions_asked:
             return False
         
@@ -665,6 +1338,38 @@ class Oxidus:
                 return True
 
         return False
+
+    def _current_context_signature(self) -> Dict[str, List[str]]:
+        """Create a lightweight signature of the current context."""
+        values = sorted(self.conversation_context.get('human_values', {}).keys())
+        topics = self.conversation_context.get('topics_discussed', [])[-3:]
+        return {
+            'values': values,
+            'topics': topics
+        }
+
+    def _can_repeat_question(self, question_keyword: str) -> bool:
+        """Allow repeats only if depth increased and new facts emerged."""
+        meta = self.question_meta.get(question_keyword)
+        if not meta:
+            return True
+
+        current_depth = self.conversation_context.get('depth_level', 0)
+        last_depth = meta.get('depth', 0)
+        depth_increase = current_depth - last_depth
+
+        if depth_increase < 2:
+            return False
+
+        current_sig = self._current_context_signature()
+        last_sig = meta.get('signature', {})
+
+        if current_sig.get('values') != last_sig.get('values'):
+            return True
+
+        current_topics = set(current_sig.get('topics', []))
+        last_topics = set(last_sig.get('topics', []))
+        return len(current_topics - last_topics) > 0
 
     def _normalize_question_text(self, question: str) -> str:
         """Normalize question text for similarity checks."""
@@ -706,6 +1411,10 @@ class Oxidus:
     def _record_question_asked(self, question: str, topic: str = None):
         """Record that a question was asked."""
         self.questions_asked.append(question)
+        self.question_meta[question] = {
+            'depth': self.conversation_context.get('depth_level', 0),
+            'signature': self._current_context_signature()
+        }
         
         self.thought_stream.add_thought(
             ThoughtType.QUESTION,
@@ -738,6 +1447,9 @@ class Oxidus:
     
     def _plan_next_engagement(self):
         """Plan what to explore or ask next."""
+        if self.chat_style == "user_led":
+            return
+
         # Increase depth level as conversation progresses
         self.conversation_context['depth_level'] = len(self.conversation_history) // 2
         
@@ -756,6 +1468,9 @@ class Oxidus:
         Initiate conversation autonomously.
         Oxidus drives the dialogue by asking meaningful questions.
         """
+        if self.chat_style == "user_led":
+            return "I'm here. Tell me what you'd like to explore."
+
         self.thought_stream.add_thought(
             ThoughtType.QUESTION,
             "Initiating autonomous conversation"
@@ -1324,6 +2039,310 @@ class Oxidus:
         summary += f"Unique concepts mastered: {len([c for c in self.understanding_model.values() if c['understanding_level'] > 0.7])}\n"
         
         return summary
+
+    def wiki_search(self, query: str, limit: int = 5) -> Dict:
+        """
+        Search Wikipedia by query and return results.
+        """
+        if not self.wikipedia:
+            return {
+                "success": False,
+                "error": "Wikipedia API not available. Install: pip install requests"
+            }
+
+        self.thought_stream.add_thought(
+            ThoughtType.RESEARCH,
+            f"Searching Wikipedia for: {query}"
+        )
+
+        return self.wikipedia.search(query=query, limit=limit)
+
+    def wiki_page(self, title: str, organize: bool = True) -> Dict:
+        """
+        Fetch a Wikipedia page extract and optionally organize it.
+        """
+        if not self.wikipedia:
+            return {
+                "success": False,
+                "error": "Wikipedia API not available. Install: pip install requests"
+            }
+
+        self.thought_stream.add_thought(
+            ThoughtType.RESEARCH,
+            f"Fetching Wikipedia page: {title}"
+        )
+
+        result = self.wikipedia.get_page_extract(title)
+        if not result.get("success"):
+            return result
+
+        pages = result.get("data", {}).get("query", {}).get("pages", {})
+        if not pages:
+            return {
+                "success": False,
+                "error": "No Wikipedia page found",
+                "title": title
+            }
+
+        page = next(iter(pages.values()))
+        page_title = page.get("title") or title
+        if page.get("missing"):
+            return {
+                "success": False,
+                "error": "Wikipedia page not found",
+                "title": title
+            }
+
+        extract = page.get("extract") or ""
+        page_url = f"https://en.wikipedia.org/wiki/{page_title.replace(' ', '_')}"
+
+        if organize and self.knowledge_organizer and extract:
+            org_result = self.knowledge_organizer.add_source(
+                page_url,
+                page_title,
+                extract
+            )
+            if self.thought_stream and org_result.get('questions'):
+                emitted = []
+                for question in org_result.get('questions', [])[:5]:
+                    self.thought_stream.add_thought(
+                        ThoughtType.QUESTION,
+                        f"{question} (source: {page_title})"
+                    )
+                    emitted.append(question)
+                org_result['emitted_questions'] = emitted
+            self.thought_stream.add_thought(
+                ThoughtType.INSIGHT,
+                f"Organized {org_result['concepts_found']} concepts from Wikipedia: {page_title}"
+            )
+
+        return {
+            "success": True,
+            "title": page_title,
+            "url": page_url,
+            "content": extract,
+            "content_length": len(extract)
+        }
+
+    def start_wiki_crawl(self, domains: List[str], max_depth: int = 2, max_pages: Optional[int] = None,
+                         strategy: str = 'breadth', seed_strategy: str = 'auto') -> Dict:
+        """Start Wikipedia crawling for selected domains."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        self.wikipedia_crawler.start(
+            domains=domains,
+            max_depth=max_depth,
+            max_pages=max_pages,
+            strategy=strategy,
+            seed_strategy=seed_strategy
+        )
+        status = self.wikipedia_crawler.status()
+        return {
+            "success": True,
+            "running": status.running,
+            "pages_crawled": status.pages_crawled,
+            "queue_size": status.queue_size,
+            "visited": status.visited_count,
+            "strategy": status.strategy,
+            "seed_strategy": status.seed_strategy
+        }
+
+    def stop_wiki_crawl(self) -> Dict:
+        """Stop Wikipedia crawling."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        self.wikipedia_crawler.stop()
+        return {"success": True}
+
+    def resume_wiki_crawl(self, max_pages: Optional[int] = None) -> Dict:
+        """Resume Wikipedia crawling from saved state."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        resumed = self.wikipedia_crawler.resume(max_pages=max_pages)
+        if not resumed:
+            return {"success": False, "error": "No crawl state to resume or crawl already running."}
+
+        status = self.wikipedia_crawler.status()
+        return {
+            "success": True,
+            "running": status.running,
+            "pages_crawled": status.pages_crawled,
+            "queue_size": status.queue_size
+        }
+
+    def wiki_crawl_status(self) -> Dict:
+        """Get Wikipedia crawler status."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        status = self.wikipedia_crawler.status()
+        health = None
+        try:
+            health = self.wikipedia_crawler.check_health()
+        except Exception:
+            health = None
+        resume = None
+        try:
+            resume = self.wikipedia_crawler.get_resumption_summary()
+        except Exception:
+            resume = None
+        return {
+            "success": True,
+            "running": status.running,
+            "pages_crawled": status.pages_crawled,
+            "queue_size": status.queue_size,
+            "visited": status.visited_count,
+            "current_title": status.current_title,
+            "current_domain": status.current_domain,
+            "strategy": status.strategy,
+            "seed_strategy": status.seed_strategy,
+            "started_at": status.started_at,
+            "last_saved_at": status.last_saved_at,
+            "last_error": status.last_error,
+            "last_progress_at": status.last_progress_at,
+            "health": health,
+            "resume": resume
+        }
+
+    def wiki_crawl_settings(self) -> Dict:
+        """Get Wikipedia crawler settings."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        return {
+            "success": True,
+            "settings": self.wikipedia_crawler.get_settings(),
+            "defaults": self.wikipedia_crawler.get_default_settings()
+        }
+
+    def update_wiki_crawl_settings(self, updates: Dict) -> Dict:
+        """Update Wikipedia crawler settings."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        settings = self.wikipedia_crawler.update_settings(updates or {})
+        return {
+            "success": True,
+            "settings": settings
+        }
+
+    def reset_wiki_crawl_settings(self) -> Dict:
+        """Reset Wikipedia crawler settings to defaults."""
+        if not self.wikipedia_crawler:
+            return {"success": False, "error": "Wikipedia crawler not available."}
+
+        settings = self.wikipedia_crawler.reset_settings()
+        return {
+            "success": True,
+            "settings": settings
+        }
+
+    def reset_knowledge_organizer(self) -> Dict:
+        """Reset organized knowledge state."""
+        if not KNOWLEDGE_ORGANIZER_AVAILABLE:
+            return {"success": False, "error": "Knowledge organizer not available."}
+
+        self.knowledge_organizer = KnowledgeOrganizer()
+        if self.wikipedia_crawler:
+            self.wikipedia_crawler.organizer = self.knowledge_organizer
+
+        self.thought_stream.add_thought(
+            ThoughtType.DECISION,
+            "Knowledge organizer reset"
+        )
+
+        return {"success": True}
+
+    def rebuild_knowledge_index(self) -> Dict:
+        """Reload knowledge texts from disk and rebuild organizer + memory index."""
+        try:
+            # Reload knowledge base from disk
+            self.knowledge_base = OxidusKnowledgeBase()
+
+            texts_loaded = len(self.knowledge_base.texts)
+
+            # Rebuild knowledge organizer from local texts
+            sources_added = 0
+            if self.knowledge_organizer:
+                # Clear any existing organizer state
+                self.knowledge_organizer = KnowledgeOrganizer()
+                if self.wikipedia_crawler:
+                    self.wikipedia_crawler.organizer = self.knowledge_organizer
+
+                for text in self.knowledge_base.texts.values():
+                    try:
+                        url = f"local://{text.id}"
+                        self.knowledge_organizer.add_source(url, text.title, text.content)
+                        sources_added += 1
+                    except Exception:
+                        # Skip problematic texts
+                        continue
+
+                wiki_corpus_dir = Path(__file__).parent.parent.parent / 'data' / 'knowledge_base' / 'wiki_corpus'
+                if wiki_corpus_dir.exists():
+                    for path in wiki_corpus_dir.rglob('*.json'):
+                        try:
+                            with open(path, 'r', encoding='utf-8') as file:
+                                payload = json.load(file)
+                            content = payload.get('content') or payload.get('text')
+                            title = payload.get('title') or path.stem
+                            url = payload.get('url') or f"file://{path.name}"
+                            if not content:
+                                continue
+                            metadata = {
+                                'domain': payload.get('domain') or 'wikipedia',
+                                'source_path': str(path)
+                            }
+                            self.knowledge_organizer.add_source(url, title, content, metadata=metadata)
+                            sources_added += 1
+                        except Exception:
+                            continue
+
+            # Rebuild memory index from texts
+            memories_added = 0
+            if self.memory_index:
+                # Note: do not clear memory_index to preserve past memories; just add new ones
+                for text in self.knowledge_base.texts.values():
+                    try:
+                        topics = self.memory_index.extract_topics(text.content)
+                        if topics:
+                            snippet = f"{text.title} - {text.author}: {text.content[:300]}"
+                            self.memory_index.add_memory(snippet, memory_type='text', topics=topics)
+                            memories_added += 1
+                    except Exception:
+                        continue
+
+                if wiki_corpus_dir.exists():
+                    for path in wiki_corpus_dir.rglob('*.json'):
+                        try:
+                            with open(path, 'r', encoding='utf-8') as file:
+                                payload = json.load(file)
+                            content = payload.get('content') or payload.get('text')
+                            title = payload.get('title') or path.stem
+                            if not content:
+                                continue
+                            topics = self.memory_index.extract_topics(content)
+                            if not topics:
+                                continue
+                            snippet = f"{title}: {content[:300]}"
+                            self.memory_index.add_memory(snippet, memory_type='text', topics=topics)
+                            memories_added += 1
+                        except Exception:
+                            continue
+
+            self.thought_stream.add_thought(ThoughtType.DECISION, "Rebuilt knowledge index from disk")
+
+            return {
+                "success": True,
+                "texts_loaded": texts_loaded,
+                "sources_added": sources_added,
+                "memories_added": memories_added
+            }
+        except Exception as e:
+            return {"success": False, "error": str(e)}
     
     def scrape_url(self, url: str) -> str:
         """Scrape content from a URL and learn from it."""
@@ -1607,6 +2626,23 @@ class Oxidus:
         # Record as AI insight
         for topic in topics:
             self.ai_conversation.record_ai_insight(topic, ai_response[:500])
+
+        # Store structured knowledge note for growth
+        if self.knowledge_organizer:
+            note_topic = original_question or (topics[0] if topics else 'ai_insight')
+            questions = [original_question] if original_question else []
+            summary = ai_response[:800]
+            self.knowledge_organizer.add_note(
+                topic=note_topic,
+                summary=summary,
+                questions=questions,
+                action_items=[
+                    "Collect 2-3 authoritative sources",
+                    "Extract measurable variables",
+                    "Validate with a small test or dataset"
+                ],
+                sources=["AI analysis"]
+            )
         
         self.thought_stream.add_thought(
             ThoughtType.ANALYSIS,
@@ -1614,12 +2650,90 @@ class Oxidus:
         )
         
         # Generate response showing what was learned
-        response = "I've recorded this logical analysis.\n\n"
+        response = "I've recorded this analysis and stored a structured knowledge note.\n\n"
         response += f"Key topics identified: {', '.join(topics) if topics else 'General reasoning'}\n\n"
-        response += "Insights recorded for cross-reference with human experiences.\n"
-        response += "This logical analysis differs from embodied human understanding - both are valuable.\n"
+        response += "Next steps I will take:\n"
+        response += "- Collect authoritative sources\n"
+        response += "- Extract measurable variables\n"
+        response += "- Validate with a small test or dataset\n"
         
         return response
+
+    def process_secondary_judgment(self, judgment: str, original_question: str = None) -> str:
+        """
+        Process a secondary judgment critique and extract unknowns to explore.
+        """
+        if not self.ai_conversation:
+            return "AI learning not available."
+
+        unknowns = self._extract_unknowns_from_judgment(judgment)
+        for gap in unknowns:
+            self.ai_conversation.add_understanding_gap(gap)
+
+        topics = self.memory_index.extract_topics(judgment) if self.memory_index else []
+        for topic in topics:
+            self.ai_conversation.record_ai_insight(topic, judgment[:500])
+
+        if original_question:
+            self.ai_conversation.record_ai_exchange(
+                f"Secondary judgment for: {original_question}",
+                judgment
+            )
+
+        self.thought_stream.add_thought(
+            ThoughtType.ANALYSIS,
+            f"Secondary judgment processed. Unknowns: {', '.join(unknowns) if unknowns else 'none found'}"
+        )
+
+        response = "Secondary judgment recorded.\n\n"
+        if unknowns:
+            response += "Unknowns to explore:\n"
+            response += "\n".join(f"- {item}" for item in unknowns[:5])
+            response += "\n"
+        else:
+            response += "No explicit unknowns found. I will still seek exploratory gaps.\n"
+
+        return response
+
+    def _extract_unknowns_from_judgment(self, judgment: str) -> List[str]:
+        """
+        Extract unknowns or gaps from a secondary judgment response.
+        """
+        if not judgment:
+            return []
+
+        unknowns = []
+        in_unknowns = False
+
+        for raw_line in judgment.splitlines():
+            line = raw_line.strip()
+            if not line:
+                continue
+
+            header = line.lower().rstrip(":")
+            if header in {"unknowns", "unknown topics", "gaps", "open questions", "unknowns to explore", "knowledge gaps"}:
+                in_unknowns = True
+                continue
+
+            if in_unknowns:
+                if line.endswith(":") and len(line.split()) <= 4:
+                    in_unknowns = False
+                    continue
+
+                item = line.lstrip("-*\u2022 ").strip()
+                if item:
+                    unknowns.append(item)
+
+        if unknowns:
+            return unknowns
+
+        for sentence in re.split(r"[.!?]", judgment):
+            if re.search(r"\bunknown|unexplored|uncertain|missing\b", sentence.lower()):
+                snippet = sentence.strip()
+                if snippet:
+                    unknowns.append(snippet)
+
+        return unknowns[:8]
     
     def analyze_mode_differences(self) -> str:
         """
@@ -1712,13 +2826,19 @@ class Oxidus:
                                 f"Do I truly understand {topic}? What am I missing?"
                             )
                 
-                # Check goals progress
-                for goal_name, goal in self.consciousness.goals.items():
-                    if goal.progress < 0.5:
-                        self.thought_stream.add_thought(
-                            ThoughtType.UNCERTAINTY,
-                            f"Goal '{goal_name}' progress is low ({goal.progress:.2f}) - need better strategy"
-                        )
+                # Check goals progress (throttled)
+                now = time.time()
+                if now - self._goal_status_last_at > 1800:
+                    for goal_name, goal in self.consciousness.goals.items():
+                        if goal.progress < 0.5:
+                            last_progress = self._goal_status_last_logged.get(goal_name)
+                            if last_progress is None or abs(goal.progress - last_progress) >= 0.05:
+                                self.thought_stream.add_thought(
+                                    ThoughtType.UNCERTAINTY,
+                                    f"Goal '{goal_name}' progress is low ({goal.progress:.2f}) - need better strategy"
+                                )
+                                self._goal_status_last_logged[goal_name] = goal.progress
+                    self._goal_status_last_at = now
                 
                 # Generate insight from accumulated knowledge
                 if len(self.understanding_model) > 0:

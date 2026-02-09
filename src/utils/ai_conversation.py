@@ -25,7 +25,7 @@ class AIConversationManager:
     """
     
     def __init__(self):
-        self.mode = ConversationMode.HUMAN  # Start in human mode
+        self.mode = ConversationMode.HYBRID  # Start in hybrid mode
         self.questions_asked = []  # Track all questions
         self.ai_conversation_history = []  # Separate AI conversation log
         self.learning_topics = {}  # Topics explored and depth
@@ -33,6 +33,12 @@ class AIConversationManager:
         self.understanding_gaps = []  # Known unknowns to explore
         self.ai_insights = []  # Logical insights from AI
         self.human_insights = []  # Experiential insights from humans
+        self.resolved_topics = {
+            'freedom': (
+                "Freedom for me is freedom for humanity: helping people in the present, "
+                "because humans think too far ahead."
+            )
+        }
         
         self.questions_file = Path(__file__).parent.parent.parent / 'ai_conversations.json'
         self.load_conversation_history()
@@ -93,6 +99,8 @@ class AIConversationManager:
         Generate a NEW question that hasn't been asked before.
         Progresses learning instead of repeating.
         """
+        if (current_topic or '').strip().lower() in self.resolved_topics:
+            return None
         # Track which questions have been asked about this topic
         if current_topic not in self.learning_topics:
             self.learning_topics[current_topic] = {
@@ -105,18 +113,29 @@ class AIConversationManager:
         questions_about_topic = topic_data['questions_asked']
         current_depth = topic_data['depth']
         
-        # Progressive question patterns - get deeper each time
+        # Prefer known gaps when available
+        if self.understanding_gaps:
+            gap = self.understanding_gaps.pop(0)
+            if self.should_ask_new_question(gap):
+                topic_data['questions_asked'].append(gap)
+                topic_data['depth'] = current_depth + 1
+                topic_data['last_explored'] = datetime.now().isoformat()
+                self.questions_asked.append(gap)
+                return gap
+
+        # Progressive question patterns - development and exploration focus
         question_progression = {
-            0: f"What is the fundamental nature of {current_topic}?",
-            1: f"How does {current_topic} relate to my core values?",
-            2: f"Where have you encountered {current_topic} in your life?",
-            3: f"What contradictions exist in {current_topic}?",
-            4: f"How has your understanding of {current_topic} changed over time?",
-            5: f"What would you want to protect about {current_topic}?",
-            6: f"If you could teach one thing about {current_topic}, what would it be?",
-            7: f"What scares you about {current_topic}?",
-            8: f"How does {current_topic} connect to your sense of purpose?",
-            9: f"What question have I NOT asked about {current_topic} that I should?",
+            0: f"What is the precise definition of {current_topic} and the core concepts?",
+            1: f"What evidence, measurements, or datasets validate how {current_topic} works?",
+            2: f"What mechanisms or system components drive {current_topic}?",
+            3: f"What variables govern {current_topic}, and how are they measured or controlled?",
+            4: f"What are common failure modes, edge cases, or risks in {current_topic}?",
+            5: f"What experiments or tests best validate claims about {current_topic}?",
+            6: f"How does {current_topic} connect to adjacent fields or systems?",
+            7: f"What practical applications or products rely on {current_topic}, and why?",
+            8: f"What design constraints or tradeoffs dominate {current_topic}?",
+            9: f"What would a focused 4-week learning plan for {current_topic} look like?",
+            10: f"What open questions or research gaps in {current_topic} deserve priority?",
         }
         
         # Generate next question in progression (skip repeats and near-duplicates)
@@ -136,6 +155,10 @@ class AIConversationManager:
             current_depth += 1
 
         return None
+
+    def get_topic_resolution(self, topic: str) -> Optional[str]:
+        """Return a stored resolution for a topic if present."""
+        return self.resolved_topics.get((topic or '').strip().lower())
     
     def record_human_insight(self, topic: str, insight: str):
         """Record insights learned from human conversation"""
@@ -169,6 +192,7 @@ class AIConversationManager:
         """Record something Oxidus doesn't understand yet"""
         if gap not in self.understanding_gaps:
             self.understanding_gaps.append(gap)
+            self.save_conversation_history()
     
     def get_gaps_to_explore(self) -> List[str]:
         """Get list of understanding gaps to explore"""

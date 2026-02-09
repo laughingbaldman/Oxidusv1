@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T00:00:00Z",
+  "sources": [
+    {
+      "id": "wikipedia",
+      "source_type": "wiki",
+      "source_url": "https://en.wikipedia.org",
+      "source_title": "Wikipedia",
+      "license": "CC BY-SA 4.0",
+      "trust_tier": "secondary",
+      "status": "active",
+      "created_utc": "2026-02-08T00:00:00Z"
+    },
+    {
+      "id": "source-template-001",
+      "source_type": "wiki",
+      "source_url": "",
+      "source_title": "",
+      "license": "",
+      "trust_tier": "unknown",
+      "status": "template",
+      "created_utc": "2026-02-08T00:00:00Z"
+    }
+  ]
+}

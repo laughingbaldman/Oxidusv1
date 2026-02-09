@@ -1,0 +1,117 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "43534": {
+          "pageid": 43534,
+          "ns": 0,
+          "title": "Basalt",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Viscosity"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic arc"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic ash"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic belt"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic cone"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic field"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic gas"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic glass"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanism on Venus"
+            },
+            {
+              "ns": 0,
+              "title": "Volcano"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanogenic massive sulfide ore deposit"
+            },
+            {
+              "ns": 0,
+              "title": "Wackestone"
+            },
+            {
+              "ns": 0,
+              "title": "Wad (mineral)"
+            },
+            {
+              "ns": 0,
+              "title": "Washington (state)"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weathering"
+            },
+            {
+              "ns": 0,
+              "title": "Websterite"
+            },
+            {
+              "ns": 0,
+              "title": "Wehrlite"
+            },
+            {
+              "ns": 0,
+              "title": "Whiteschist"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Wt%"
+            },
+            {
+              "ns": 0,
+              "title": "Yellowstone National Park"
+            },
+            {
+              "ns": 0,
+              "title": "Zeolite"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324336.1918595
+}

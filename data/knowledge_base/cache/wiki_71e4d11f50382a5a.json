@@ -1,0 +1,725 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "3038": {
+          "pageid": 3038,
+          "ns": 0,
+          "title": "Acid–base reaction",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acceptor number"
+            },
+            {
+              "ns": 0,
+              "title": "Acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Acetic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Acid"
+            },
+            {
+              "ns": 0,
+              "title": "Acid dissociation constant"
+            },
+            {
+              "ns": 0,
+              "title": "Acid strength"
+            },
+            {
+              "ns": 0,
+              "title": "Acidic oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Acidity"
+            },
+            {
+              "ns": 0,
+              "title": "Acidity function"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base extraction"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base homeostasis"
+            },
+            {
+              "ns": 0,
+              "title": "Acid–base titration"
+            },
+            {
+              "ns": 0,
+              "title": "Acta Chemica Scandinavica"
+            },
+            {
+              "ns": 0,
+              "title": "Adduct"
+            },
+            {
+              "ns": 0,
+              "title": "Adenine"
+            },
+            {
+              "ns": 0,
+              "title": "Albert Fredrick Ottomar Germann"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali"
+            },
+            {
+              "ns": 0,
+              "title": "Alkalinity"
+            },
+            {
+              "ns": 0,
+              "title": "Amine"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium"
+            },
+            {
+              "ns": 0,
+              "title": "Ammonium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Amphoterism"
+            },
+            {
+              "ns": 0,
+              "title": "Antimony trichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Antoine Lavoisier"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous solution"
+            },
+            {
+              "ns": 0,
+              "title": "Ate complex"
+            },
+            {
+              "ns": 0,
+              "title": "Baking powder"
+            },
+            {
+              "ns": 0,
+              "title": "Baking soda"
+            },
+            {
+              "ns": 0,
+              "title": "Base (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Basic oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Boron group"
+            },
+            {
+              "ns": 0,
+              "title": "Boron trifluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Brønsted–Lowry acid–base theory"
+            },
+            {
+              "ns": 0,
+              "title": "Buffer solution"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon monoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Chemist"
+            },
+            {
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Chiral Lewis acid"
+            },
+            {
+              "ns": 0,
+              "title": "Chloride"
+            },
+            {
+              "ns": 0,
+              "title": "CiteSeerX (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Conjugate acid"
+            },
+            {
+              "ns": 0,
+              "title": "Cream of tartar"
+            },
+            {
+              "ns": 0,
+              "title": "Dative covalent bond"
+            },
+            {
+              "ns": 0,
+              "title": "Deprotonation"
+            },
+            {
+              "ns": 0,
+              "title": "Dinitrogen tetroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Dissociation constant"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Donor number"
+            },
+            {
+              "ns": 0,
+              "title": "ECW model"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Curtis Franklin"
+            },
+            {
+              "ns": 0,
+              "title": "Electrochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Electron configuration"
+            },
+            {
+              "ns": 0,
+              "title": "Electron pair"
+            },
+            {
+              "ns": 0,
+              "title": "Equilibrium chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Ether"
+            },
+            {
+              "ns": 0,
+              "title": "Fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Friedrich Wilhelm Ostwald"
+            },
+            {
+              "ns": 0,
+              "title": "Frustrated Lewis pair"
+            },
+            {
+              "ns": 0,
+              "title": "Geochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Gilbert N. Lewis"
+            },
+            {
+              "ns": 0,
+              "title": "Greek language"
+            },
+            {
+              "ns": 0,
+              "title": "Group 15"
+            },
+            {
+              "ns": 0,
+              "title": "Group 16"
+            },
+            {
+              "ns": 0,
+              "title": "Guillaume-François Rouelle"
+            },
+            {
+              "ns": 0,
+              "title": "Gutmann–Beckett method"
+            },
+            {
+              "ns": 0,
+              "title": "HSAB theory"
+            },
+            {
+              "ns": 0,
+              "title": "Hammett acidity function"
+            },
+            {
+              "ns": 0,
+              "title": "Hermann Lux"
+            },
+            {
+              "ns": 0,
+              "title": "Humphry Davy"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrochloric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen iodide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen telluride"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrohalic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Hydron"
+            },
+            {
+              "ns": 0,
+              "title": "Hydron (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Hydronium"
+            },
+            {
+              "ns": 0,
+              "title": "Hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Håkon Flood"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "IUPAC"
+            },
+            {
+              "ns": 0,
+              "title": "Inorganic Chemistry (journal)"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Johannes Nicolaus Brønsted"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of Chemical Education"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of Chemical Sciences"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of the American Ceramic Society"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of the American Chemical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of the Society of Chemical Industry"
+            },
+            {
+              "ns": 0,
+              "title": "Justus von Liebig"
+            },
+            {
+              "ns": 0,
+              "title": "Jöns Jacob Berzelius"
+            },
+            {
+              "ns": 0,
+              "title": "Lars Onsager"
+            },
+            {
+              "ns": 0,
+              "title": "Lavoisier"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acid catalysis"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis acids and bases"
+            },
+            {
+              "ns": 0,
+              "title": "Lewis structure"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid ammonia"
+            },
+            {
+              "ns": 0,
+              "title": "Lyate ion"
+            },
+            {
+              "ns": 0,
+              "title": "Lyonium ion"
+            },
+            {
+              "ns": 0,
+              "title": "Martin Lowry"
+            },
+            {
+              "ns": 0,
+              "title": "Metal amides"
+            },
+            {
+              "ns": 0,
+              "title": "Mikhail Usanovich"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral acid"
+            },
+            {
+              "ns": 0,
+              "title": "Molten salt"
+            },
+            {
+              "ns": 0,
+              "title": "Monocalcium phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Neutralization (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Nitric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrosonium"
+            },
+            {
+              "ns": 0,
+              "title": "Nobel Prize in Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Noble gas compound"
+            },
+            {
+              "ns": 0,
+              "title": "Non-nucleophilic base"
+            },
+            {
+              "ns": 0,
+              "title": "Norman Greenwood"
+            },
+            {
+              "ns": 0,
+              "title": "Nucleophilic substitution"
+            },
+            {
+              "ns": 0,
+              "title": "Octet rule"
+            },
+            {
+              "ns": 0,
+              "title": "Onium ion"
+            },
+            {
+              "ns": 0,
+              "title": "Organic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Organic base"
+            },
+            {
+              "ns": 0,
+              "title": "Organophosphine"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidation state"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidizing agent"
+            },
+            {
+              "ns": 0,
+              "title": "Oxoacid"
+            },
+            {
+              "ns": 0,
+              "title": "Oxyacid"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "PH"
+            },
+            {
+              "ns": 0,
+              "title": "PH indicator"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Pergamon Press"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Debye"
+            },
+            {
+              "ns": 0,
+              "title": "Phosgene"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Proton"
+            },
+            {
+              "ns": 0,
+              "title": "Proton affinity"
+            },
+            {
+              "ns": 0,
+              "title": "Protonated"
+            },
+            {
+              "ns": 0,
+              "title": "Protonation"
+            },
+            {
+              "ns": 0,
+              "title": "Pure and Applied Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Pyridine"
+            },
+            {
+              "ns": 0,
+              "title": "Ralph Pearson"
+            },
+            {
+              "ns": 0,
+              "title": "Redox"
+            },
+            {
+              "ns": 0,
+              "title": "Resonance (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Parr"
+            },
+            {
+              "ns": 0,
+              "title": "Russell S. Drago"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Salt (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Salt metathesis reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Self-ionization of water"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium acid pyrophosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium aluminium sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bicarbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Solid acid"
+            },
+            {
+              "ns": 0,
+              "title": "Spectator ion"
+            },
+            {
+              "ns": 0,
+              "title": "Stoichiometry"
+            },
+            {
+              "ns": 0,
+              "title": "Strong acid"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfites"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Superacid"
+            },
+            {
+              "ns": 0,
+              "title": "Superbase"
+            },
+            {
+              "ns": 0,
+              "title": "Svante Arrhenius"
+            },
+            {
+              "ns": 0,
+              "title": "Tartaric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Theory"
+            },
+            {
+              "ns": 0,
+              "title": "Thioether"
+            },
+            {
+              "ns": 0,
+              "title": "Thionyl"
+            },
+            {
+              "ns": 0,
+              "title": "Weak acid"
+            },
+            {
+              "ns": 0,
+              "title": "Weak base"
+            },
+            {
+              "ns": 0,
+              "title": "William B. Jensen"
+            },
+            {
+              "ns": 0,
+              "title": "Zeitschrift für Elektrochemie"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357726.873419
+}

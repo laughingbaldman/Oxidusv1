@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-09T13:23:14.063558",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:23:14.062559",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Airline'? (source: Airline)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 12,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 0,
+    "reflection": 0,
+    "uncertainty": 0,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

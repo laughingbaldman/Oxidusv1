@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "required": [
+    "source_url",
+    "source_title",
+    "source_type",
+    "topic_type",
+    "license",
+    "curator",
+    "created_utc",
+    "updated_utc",
+    "lifecycle_state"
+  ],
+  "optional": [
+    "topic_id",
+    "confidence",
+    "source_id",
+    "trust_tier",
+    "language",
+    "summary_path",
+    "tags",
+    "aliases"
+  ],
+  "types": {
+    "confidence": "number",
+    "tags": "array",
+    "aliases": "array"
+  }
+}

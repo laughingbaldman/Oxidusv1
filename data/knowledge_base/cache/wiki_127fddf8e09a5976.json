@@ -1,0 +1,569 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "53686": {
+          "pageid": 53686,
+          "ns": 0,
+          "title": "Archimedes' screw",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ASCE Library"
+            },
+            {
+              "ns": 0,
+              "title": "Agostino Ramelli"
+            },
+            {
+              "ns": 0,
+              "title": "Air compressor"
+            },
+            {
+              "ns": 0,
+              "title": "Al-Andalus"
+            },
+            {
+              "ns": 0,
+              "title": "Apollonius of Perga"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedean solid"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedean spiral"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes' heat ray"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes' principle"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes's cattle problem"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes's screw"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes Palimpsest"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes of Syracuse"
+            },
+            {
+              "ns": 0,
+              "title": "Archimedes screw turbine"
+            },
+            {
+              "ns": 0,
+              "title": "Assyria"
+            },
+            {
+              "ns": 0,
+              "title": "Auger conveyor"
+            },
+            {
+              "ns": 0,
+              "title": "BBC"
+            },
+            {
+              "ns": 0,
+              "title": "Bbc.com"
+            },
+            {
+              "ns": 0,
+              "title": "Bellifortis"
+            },
+            {
+              "ns": 0,
+              "title": "Bibliotheca Historica"
+            },
+            {
+              "ns": 0,
+              "title": "Bilge pump"
+            },
+            {
+              "ns": 0,
+              "title": "Birkhäuser"
+            },
+            {
+              "ns": 0,
+              "title": "Book of Lemmas"
+            },
+            {
+              "ns": 0,
+              "title": "Brill Publishers"
+            },
+            {
+              "ns": 0,
+              "title": "Cambridge University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Cereal"
+            },
+            {
+              "ns": 0,
+              "title": "Chocolate fountain"
+            },
+            {
+              "ns": 0,
+              "title": "Cistern"
+            },
+            {
+              "ns": 0,
+              "title": "Claw of Archimedes"
+            },
+            {
+              "ns": 0,
+              "title": "Combine harvester"
+            },
+            {
+              "ns": 0,
+              "title": "Compactor"
+            },
+            {
+              "ns": 0,
+              "title": "Concrete mixer"
+            },
+            {
+              "ns": 0,
+              "title": "Daniel Bernoulli"
+            },
+            {
+              "ns": 0,
+              "title": "David Ting"
+            },
+            {
+              "ns": 0,
+              "title": "De architectura"
+            },
+            {
+              "ns": 0,
+              "title": "Dewatering"
+            },
+            {
+              "ns": 0,
+              "title": "Die casting"
+            },
+            {
+              "ns": 0,
+              "title": "Diodorus Siculus"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Drexel University"
+            },
+            {
+              "ns": 0,
+              "title": "Dutch Golden Age"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Euclid"
+            },
+            {
+              "ns": 0,
+              "title": "Eudoxus of Cnidus"
+            },
+            {
+              "ns": 0,
+              "title": "Eutocius of Ascalon"
+            },
+            {
+              "ns": 0,
+              "title": "Fayum"
+            },
+            {
+              "ns": 0,
+              "title": "Francis C. Moon"
+            },
+            {
+              "ns": 0,
+              "title": "Galileo Galilei"
+            },
+            {
+              "ns": 0,
+              "title": "Geographica"
+            },
+            {
+              "ns": 0,
+              "title": "Grain elevator"
+            },
+            {
+              "ns": 0,
+              "title": "Hanging Gardens of Babylon"
+            },
+            {
+              "ns": 0,
+              "title": "Helicoid"
+            },
+            {
+              "ns": 0,
+              "title": "Helix"
+            },
+            {
+              "ns": 0,
+              "title": "Hero of Alexandria"
+            },
+            {
+              "ns": 0,
+              "title": "Hiero II of Syracuse"
+            },
+            {
+              "ns": 0,
+              "title": "Hydraulic"
+            },
+            {
+              "ns": 0,
+              "title": "Hydraulic energy"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Injection moulding"
+            },
+            {
+              "ns": 0,
+              "title": "Irrigation"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR"
+            },
+            {
+              "ns": 0,
+              "title": "John Peter Oleson"
+            },
+            {
+              "ns": 0,
+              "title": "Journal of Hydraulic Engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Kinderdijk"
+            },
+            {
+              "ns": 0,
+              "title": "Konrad Kyeser"
+            },
+            {
+              "ns": 0,
+              "title": "Leaning Tower of Pisa"
+            },
+            {
+              "ns": 0,
+              "title": "Leonardo da Vinci"
+            },
+            {
+              "ns": 0,
+              "title": "Leonhard Euler"
+            },
+            {
+              "ns": 0,
+              "title": "List of things named after Archimedes"
+            },
+            {
+              "ns": 0,
+              "title": "Low head hydro power"
+            },
+            {
+              "ns": 0,
+              "title": "Lynn Townsend White Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Lynn White Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Measurement of a Circle"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanical power"
+            },
+            {
+              "ns": 0,
+              "title": "Micro hydro"
+            },
+            {
+              "ns": 0,
+              "title": "Muslim conquest of the Iberian Peninsula"
+            },
+            {
+              "ns": 0,
+              "title": "Netherlands"
+            },
+            {
+              "ns": 0,
+              "title": "Nile Delta"
+            },
+            {
+              "ns": 0,
+              "title": "On Conoids and Spheroids"
+            },
+            {
+              "ns": 0,
+              "title": "On Floating Bodies"
+            },
+            {
+              "ns": 0,
+              "title": "On Spirals"
+            },
+            {
+              "ns": 0,
+              "title": "On the Equilibrium of Planes"
+            },
+            {
+              "ns": 0,
+              "title": "On the Sphere and Cylinder"
+            },
+            {
+              "ns": 0,
+              "title": "Ostomachion"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Periodic function"
+            },
+            {
+              "ns": 0,
+              "title": "Petersburg Academy of Sciences"
+            },
+            {
+              "ns": 0,
+              "title": "Philo of Byzantium"
+            },
+            {
+              "ns": 0,
+              "title": "Pitch (screw)"
+            },
+            {
+              "ns": 0,
+              "title": "Polder"
+            },
+            {
+              "ns": 0,
+              "title": "Pompeii"
+            },
+            {
+              "ns": 0,
+              "title": "Posidonius"
+            },
+            {
+              "ns": 0,
+              "title": "Pseudo-Archimedes"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrature (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Quadrature of the Parabola"
+            },
+            {
+              "ns": 0,
+              "title": "Renaissance"
+            },
+            {
+              "ns": 0,
+              "title": "Roman Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Rotary feeder"
+            },
+            {
+              "ns": 0,
+              "title": "Sabatino de Ursis"
+            },
+            {
+              "ns": 0,
+              "title": "Sado Island"
+            },
+            {
+              "ns": 0,
+              "title": "Screw-propelled vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Screw (simple machine)"
+            },
+            {
+              "ns": 0,
+              "title": "Screw conveyor"
+            },
+            {
+              "ns": 0,
+              "title": "Screw pump"
+            },
+            {
+              "ns": 0,
+              "title": "Screw turbine"
+            },
+            {
+              "ns": 0,
+              "title": "Sennacherib"
+            },
+            {
+              "ns": 0,
+              "title": "Settle Hydro"
+            },
+            {
+              "ns": 0,
+              "title": "Sewage treatment"
+            },
+            {
+              "ns": 0,
+              "title": "Shaduf"
+            },
+            {
+              "ns": 0,
+              "title": "Snow blower"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral pump"
+            },
+            {
+              "ns": 0,
+              "title": "Springer Science+Business Media"
+            },
+            {
+              "ns": 0,
+              "title": "Stephanie Dalley"
+            },
+            {
+              "ns": 0,
+              "title": "Subsoil"
+            },
+            {
+              "ns": 0,
+              "title": "Syracusia"
+            },
+            {
+              "ns": 0,
+              "title": "Taylor & Francis"
+            },
+            {
+              "ns": 0,
+              "title": "Technology and Culture"
+            },
+            {
+              "ns": 0,
+              "title": "Thames"
+            },
+            {
+              "ns": 0,
+              "title": "The Method of Mechanical Theorems"
+            },
+            {
+              "ns": 0,
+              "title": "The Sand Reckoner"
+            },
+            {
+              "ns": 0,
+              "title": "Tjasker"
+            },
+            {
+              "ns": 0,
+              "title": "Toroidal propeller"
+            },
+            {
+              "ns": 0,
+              "title": "Torrs Hydro, New Mills"
+            },
+            {
+              "ns": 0,
+              "title": "Total dynamic head"
+            },
+            {
+              "ns": 0,
+              "title": "University of Toronto Press"
+            },
+            {
+              "ns": 0,
+              "title": "Variable rate feeder"
+            },
+            {
+              "ns": 0,
+              "title": "Visigothic Kingdom"
+            },
+            {
+              "ns": 0,
+              "title": "Vitruvius"
+            },
+            {
+              "ns": 0,
+              "title": "Water wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "Wiley (publisher)"
+            },
+            {
+              "ns": 0,
+              "title": "Windmill"
+            },
+            {
+              "ns": 0,
+              "title": "Windsor Castle"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfram Demonstrations Project"
+            },
+            {
+              "ns": 0,
+              "title": "Xu Guangqi"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770669420.7158313
+}

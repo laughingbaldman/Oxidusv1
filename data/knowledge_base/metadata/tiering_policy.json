@@ -1,0 +1,7 @@
+{
+  "hot_access_count": 5,
+  "hot_access_days": 30,
+  "warm_access_count": 2,
+  "warm_access_days": 60,
+  "max_candidates": 200
+}

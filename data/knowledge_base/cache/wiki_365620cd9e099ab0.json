@@ -1,0 +1,385 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "6423": {
+          "pageid": 6423,
+          "ns": 0,
+          "title": "Calorie",
+          "links": [
+            {
+              "ns": 0,
+              "title": "A calorie is a calorie"
+            },
+            {
+              "ns": 0,
+              "title": "Activation energy"
+            },
+            {
+              "ns": 0,
+              "title": "Aqueous solution"
+            },
+            {
+              "ns": 0,
+              "title": "Basal metabolic rate"
+            },
+            {
+              "ns": 0,
+              "title": "Body weight"
+            },
+            {
+              "ns": 0,
+              "title": "Bond energy"
+            },
+            {
+              "ns": 0,
+              "title": "British thermal unit"
+            },
+            {
+              "ns": 0,
+              "title": "CGS system"
+            },
+            {
+              "ns": 0,
+              "title": "CIPM"
+            },
+            {
+              "ns": 0,
+              "title": "Caloric deficit"
+            },
+            {
+              "ns": 0,
+              "title": "Caloric theory"
+            },
+            {
+              "ns": 0,
+              "title": "Calorie (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Calorie restriction"
+            },
+            {
+              "ns": 0,
+              "title": "Calorimetry"
+            },
+            {
+              "ns": 0,
+              "title": "Canadian Food Inspection Agency"
+            },
+            {
+              "ns": 0,
+              "title": "Carbohydrate"
+            },
+            {
+              "ns": 0,
+              "title": "Celsius"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "China"
+            },
+            {
+              "ns": 0,
+              "title": "Conversion of units of energy"
+            },
+            {
+              "ns": 0,
+              "title": "Diabetes"
+            },
+            {
+              "ns": 0,
+              "title": "Dietary Reference Intake"
+            },
+            {
+              "ns": 0,
+              "title": "Dieting"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Eating"
+            },
+            {
+              "ns": 0,
+              "title": "Electronvolt"
+            },
+            {
+              "ns": 0,
+              "title": "Empty calorie"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Energy drink"
+            },
+            {
+              "ns": 0,
+              "title": "Erg"
+            },
+            {
+              "ns": 0,
+              "title": "European Union"
+            },
+            {
+              "ns": 0,
+              "title": "FAO"
+            },
+            {
+              "ns": 0,
+              "title": "Fat"
+            },
+            {
+              "ns": 0,
+              "title": "Food energy"
+            },
+            {
+              "ns": 0,
+              "title": "Food science"
+            },
+            {
+              "ns": 0,
+              "title": "Frederick Rossini"
+            },
+            {
+              "ns": 0,
+              "title": "General Conference on Weights and Measures"
+            },
+            {
+              "ns": 0,
+              "title": "Heat"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISO 31-4"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "International Organization for Standardization"
+            },
+            {
+              "ns": 0,
+              "title": "International System of Units"
+            },
+            {
+              "ns": 0,
+              "title": "International Union of Pure and Applied Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Jean Thiébault Silbermann"
+            },
+            {
+              "ns": 0,
+              "title": "Joseph Howard Raymond"
+            },
+            {
+              "ns": 0,
+              "title": "Joule"
+            },
+            {
+              "ns": 0,
+              "title": "KCAL (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kilocalorie per mole"
+            },
+            {
+              "ns": 0,
+              "title": "Kilojoule"
+            },
+            {
+              "ns": 0,
+              "title": "Kilowatt hour"
+            },
+            {
+              "ns": 0,
+              "title": "Latin language"
+            },
+            {
+              "ns": 0,
+              "title": "List of diets"
+            },
+            {
+              "ns": 0,
+              "title": "Liter"
+            },
+            {
+              "ns": 0,
+              "title": "Litre"
+            },
+            {
+              "ns": 0,
+              "title": "Marcellin Berthelot"
+            },
+            {
+              "ns": 0,
+              "title": "Metabolic rate"
+            },
+            {
+              "ns": 0,
+              "title": "Milliliter"
+            },
+            {
+              "ns": 0,
+              "title": "Mole (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Monster Energy"
+            },
+            {
+              "ns": 0,
+              "title": "National Physical Laboratory (United Kingdom)"
+            },
+            {
+              "ns": 0,
+              "title": "Nicolas Clément"
+            },
+            {
+              "ns": 0,
+              "title": "Nutrition"
+            },
+            {
+              "ns": 0,
+              "title": "Nutrition facts label"
+            },
+            {
+              "ns": 0,
+              "title": "Nutritional value"
+            },
+            {
+              "ns": 0,
+              "title": "Obesity"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Phase transition"
+            },
+            {
+              "ns": 0,
+              "title": "Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Pierre Antoine Favre"
+            },
+            {
+              "ns": 0,
+              "title": "Protein (nutrient)"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SI derived unit"
+            },
+            {
+              "ns": 0,
+              "title": "SI unit"
+            },
+            {
+              "ns": 0,
+              "title": "Satiety value"
+            },
+            {
+              "ns": 0,
+              "title": "Specific energy"
+            },
+            {
+              "ns": 0,
+              "title": "Standard atmospheric pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Steam table"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Thermochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "UK Metric Association"
+            },
+            {
+              "ns": 0,
+              "title": "Unit of energy"
+            },
+            {
+              "ns": 0,
+              "title": "United States"
+            },
+            {
+              "ns": 0,
+              "title": "Volumetric heat capacity"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wesleyan University"
+            },
+            {
+              "ns": 0,
+              "title": "Wilbur Olin Atwater"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770518247.303575
+}

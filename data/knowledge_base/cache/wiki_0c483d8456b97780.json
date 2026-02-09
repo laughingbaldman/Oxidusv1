@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "1979|0|NGC_4976",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "1979": {
+          "pageid": 1979,
+          "ns": 0,
+          "title": "Alpha Centauri",
+          "links": [
+            {
+              "ns": 0,
+              "title": "(163899) 2003 SD220"
+            },
+            {
+              "ns": 0,
+              "title": "(231937) 2001 FO32"
+            },
+            {
+              "ns": 0,
+              "title": "(248370) 2005 QN173"
+            },
+            {
+              "ns": 0,
+              "title": "(620094) 2016 AJ193"
+            },
+            {
+              "ns": 0,
+              "title": "(679648) 2019 XS"
+            },
+            {
+              "ns": 0,
+              "title": "(792156) 2020 XR"
+            },
+            {
+              "ns": 0,
+              "title": "145451 Rumina"
+            },
+            {
+              "ns": 0,
+              "title": "145452 Ritona"
+            },
+            {
+              "ns": 0,
+              "title": "15P/Finlay"
+            },
+            {
+              "ns": 0,
+              "title": "1994 WR12"
+            },
+            {
+              "ns": 0,
+              "title": "1 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "2016 DV1"
+            },
+            {
+              "ns": 0,
+              "title": "2017 OF201"
+            },
+            {
+              "ns": 0,
+              "title": "2018 AG37"
+            },
+            {
+              "ns": 0,
+              "title": "2018 AH"
+            },
+            {
+              "ns": 0,
+              "title": "2020 PN1"
+            },
+            {
+              "ns": 0,
+              "title": "2020 VN40"
+            },
+            {
+              "ns": 0,
+              "title": "2021 AV7"
+            },
+            {
+              "ns": 0,
+              "title": "2021 DR15"
+            },
+            {
+              "ns": 0,
+              "title": "2021 DW1"
+            },
+            {
+              "ns": 0,
+              "title": "2021 GW4"
+            },
+            {
+              "ns": 0,
+              "title": "2021 PH27"
+            },
+            {
+              "ns": 0,
+              "title": "2021 SG"
+            },
+            {
+              "ns": 0,
+              "title": "2021 TP21"
+            },
+            {
+              "ns": 0,
+              "title": "2021 UA1"
+            },
+            {
+              "ns": 0,
+              "title": "2021 in spaceflight"
+            },
+            {
+              "ns": 0,
+              "title": "2023 KQ14"
+            },
+            {
+              "ns": 0,
+              "title": "2024 YR4"
+            },
+            {
+              "ns": 0,
+              "title": "2025 GN1"
+            },
+            {
+              "ns": 0,
+              "title": "2025 PN7"
+            },
+            {
+              "ns": 0,
+              "title": "2025 PU"
+            },
+            {
+              "ns": 0,
+              "title": "2025 SC79"
+            },
+            {
+              "ns": 0,
+              "title": "2025 TF"
+            },
+            {
+              "ns": 0,
+              "title": "2025 UC11"
+            },
+            {
+              "ns": 0,
+              "title": "2025 in spaceflight"
+            },
+            {
+              "ns": 0,
+              "title": "2069 Alpha Centauri mission"
+            },
+            {
+              "ns": 0,
+              "title": "208996 Achlys"
+            },
+            {
+              "ns": 0,
+              "title": "210P/Christensen"
+            },
+            {
+              "ns": 0,
+              "title": "217P/LINEAR"
+            },
+            {
+              "ns": 0,
+              "title": "240P/NEAT"
+            },
+            {
+              "ns": 0,
+              "title": "2M1207"
+            },
+            {
+              "ns": 0,
+              "title": "2M1207b"
+            },
+            {
+              "ns": 0,
+              "title": "2MASS J03480772−6022270"
+            },
+            {
+              "ns": 0,
+              "title": "2MASS J11263991−5003550"
+            },
+            {
+              "ns": 0,
+              "title": "2 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "307261 Máni"
+            },
+            {
+              "ns": 0,
+              "title": "3361 Orpheus"
+            },
+            {
+              "ns": 0,
+              "title": "3I/ATLAS"
+            },
+            {
+              "ns": 0,
+              "title": "3 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "4660 Nereus"
+            },
+            {
+              "ns": 0,
+              "title": "4P/Faye"
+            },
+            {
+              "ns": 0,
+              "title": "4 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "52246 Donaldjohanson"
+            },
+            {
+              "ns": 0,
+              "title": "532037 Chiminigagua"
+            },
+            {
+              "ns": 0,
+              "title": "55565 Aya"
+            },
+            {
+              "ns": 0,
+              "title": "55637 Uni"
+            },
+            {
+              "ns": 0,
+              "title": "61 Cygni"
+            },
+            {
+              "ns": 0,
+              "title": "67P/Churyumov-Gerasimenko"
+            },
+            {
+              "ns": 0,
+              "title": "6P/d'Arrest"
+            },
+            {
+              "ns": 0,
+              "title": "78799 Xewioso"
+            },
+            {
+              "ns": 0,
+              "title": "7P/Pons-Winnecke"
+            },
+            {
+              "ns": 0,
+              "title": "8P/Tuttle"
+            },
+            {
+              "ns": 0,
+              "title": "90568 Goibniu"
+            },
+            {
+              "ns": 0,
+              "title": "99942 Apophis"
+            },
+            {
+              "ns": 0,
+              "title": "A-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "A. E. van Vogt"
+            },
+            {
+              "ns": 0,
+              "title": "AIMStar"
+            },
+            {
+              "ns": 0,
+              "title": "ALESS 073.1"
+            },
+            {
+              "ns": 0,
+              "title": "ASKAP J173608.2–321635"
+            },
+            {
+              "ns": 0,
+              "title": "ASKAP J1832−0911"
+            },
+            {
+              "ns": 0,
+              "title": "Abell S740"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Achernar"
+            },
+            {
+              "ns": 0,
+              "title": "Across the Void"
+            },
+            {
+              "ns": 0,
+              "title": "Acrux"
+            },
+            {
+              "ns": 0,
+              "title": "Al-Farghani"
+            },
+            {
+              "ns": 0,
+              "title": "Alexandria, Egypt"
+            },
+            {
+              "ns": 0,
+              "title": "Almagest"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri (novel)"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri A"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri Ab"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri B"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri Bb"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha Centauri b (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "American Association of Variable Star Observers"
+            },
+            {
+              "ns": 0,
+              "title": "Angular diameter"
+            },
+            {
+              "ns": 0,
+              "title": "Antipodal point"
+            },
+            {
+              "ns": 0,
+              "title": "Apollo 11"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Apsis"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arcmin"
+            },
+            {
+              "ns": 0,
+              "title": "Arcsecond"
+            },
+            {
+              "ns": 0,
+              "title": "Arcturus"
+            },
+            {
+              "ns": 0,
+              "title": "Argo Navis"
+            },
+            {
+              "ns": 0,
+              "title": "Argument of periastron"
+            },
+            {
+              "ns": 0,
+              "title": "Asterism (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Asteroseismology"
+            },
+            {
+              "ns": 0,
+              "title": "Astrometric"
+            },
+            {
+              "ns": 0,
+              "title": "Astrometry"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical Journal"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical Society of the Pacific"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical transit"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical unit"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy & Astrophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy Magazine"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomy and Astrophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Astrophysical jet"
+            },
+            {
+              "ns": 0,
+              "title": "BD+05 4868Ab"
+            },
+            {
+              "ns": 0,
+              "title": "BPM 37093"
+            },
+            {
+              "ns": 0,
+              "title": "BV Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "B Centauri b"
+            },
+            {
+              "ns": 0,
+              "title": "Barnard's Star"
+            },
+            {
+              "ns": 0,
+              "title": "Barnard's Star b"
+            },
+            {
+              "ns": 0,
+              "title": "Barycentre"
+            },
+            {
+              "ns": 0,
+              "title": "Bayer designation"
+            },
+            {
+              "ns": 0,
+              "title": "Beta"
+            },
+            {
+              "ns": 0,
+              "title": "Beta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Betelgeuse"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binary star"
+            },
+            {
+              "ns": 0,
+              "title": "Biosignature"
+            },
+            {
+              "ns": 0,
+              "title": "Blue Ghost Mission 1"
+            },
+            {
+              "ns": 0,
+              "title": "Boomerang Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Boss General Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Breakthrough Starshot"
+            },
+            {
+              "ns": 0,
+              "title": "Brian Stableford"
+            },
+            {
+              "ns": 0,
+              "title": "Bright Star Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Brown dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "C/2014 OG392 (PanSTARRS)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2014 UN271 (Bernardinelli–Bernstein)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2020 R4 (ATLAS)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2021 A1 (Leonard)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2021 J1 (Maury–Attard)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2021 T4 (Lemmon)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2024 G3 (ATLAS)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2024 L5 (ATLAS)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2025 A6 (Lemmon)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2025 D1 (Gröller)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2025 F2 (SWAN)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2025 K1 (ATLAS)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2025 R2 (SWAN)"
+            },
+            {
+              "ns": 0,
+              "title": "C/2025 V1 (Borisov)"
+            },
+            {
+              "ns": 0,
+              "title": "C3 Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "CD−34 8618"
+            },
+            {
+              "ns": 0,
+              "title": "CE Antliae"
+            },
+            {
+              "ns": 0,
+              "title": "COCONUTS-2b"
+            },
+            {
+              "ns": 0,
+              "title": "Canary Islands"
+            },
+            {
+              "ns": 0,
+              "title": "Canopus"
+            },
+            {
+              "ns": 0,
+              "title": "Cape Photographic Durchmusterung"
+            },
+            {
+              "ns": 0,
+              "title": "Carruthers Geocorona Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Cassiopeia (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Catalog of Components of Double and Multiple Stars"
+            },
+            {
+              "ns": 0,
+              "title": "Celestia"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial equator"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial sphere"
+            },
+            {
+              "ns": 0,
+              "title": "Centaur"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus A"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus Cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus X-3"
+            },
+            {
+              "ns": 0,
+              "title": "Centaurus in Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Centimetre–gram–second system of units"
+            },
+            {
+              "ns": 0,
+              "title": "Chi Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Chihuahua City"
+            },
+            {
+              "ns": 0,
+              "title": "Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Chinese star names"
+            },
+            {
+              "ns": 0,
+              "title": "Chromospheric activity"
+            },
+            {
+              "ns": 0,
+              "title": "Circular arc"
+            },
+            {
+              "ns": 0,
+              "title": "Circumbinary planet"
+            },
+            {
+              "ns": 0,
+              "title": "Circumplanetary disk"
+            },
+            {
+              "ns": 0,
+              "title": "Circumpolar star"
+            },
+            {
+              "ns": 0,
+              "title": "Circumstellar disc"
+            },
+            {
+              "ns": 0,
+              "title": "Circumstellar habitable zone"
+            },
+            {
+              "ns": 0,
+              "title": "CiteSeerX (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Claudius Ptolemaeus"
+            },
+            {
+              "ns": 0,
+              "title": "Coalsack Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Colour index"
+            },
+            {
+              "ns": 0,
+              "title": "Comet"
+            },
+            {
+              "ns": 0,
+              "title": "Comet Hale–Bopp"
+            },
+            {
+              "ns": 0,
+              "title": "Comet Hyakutake"
+            },
+            {
+              "ns": 0,
+              "title": "Common Era"
+            },
+            {
+              "ns": 0,
+              "title": "Conjunction (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "Cordoba Durchmusterung"
+            },
+            {
+              "ns": 0,
+              "title": "Crux"
+            },
+            {
+              "ns": 0,
+              "title": "Culmination"
+            },
+            {
+              "ns": 0,
+              "title": "DY Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "D Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "David Langford"
+            },
+            {
+              "ns": 0,
+              "title": "Day"
+            },
+            {
+              "ns": 0,
+              "title": "Decimal exponent"
+            },
+            {
+              "ns": 0,
+              "title": "Declination"
+            },
+            {
+              "ns": 0,
+              "title": "Degree (angle)"
+            },
+            {
+              "ns": 0,
+              "title": "Delta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Delta Crucis"
+            },
+            {
+              "ns": 0,
+              "title": "Dennis Overbye"
+            },
+            {
+              "ns": 0,
+              "title": "Deuterium"
+            },
+            {
+              "ns": 0,
+              "title": "Didier Queloz"
+            },
+            {
+              "ns": 0,
+              "title": "Distance (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Doppler spectroscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Double Asteroid Redirection Test"
+            },
+            {
+              "ns": 0,
+              "title": "Double star"
+            },
+            {
+              "ns": 0,
+              "title": "ESA"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 269-57"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 3.6 m Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 325-4"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 383-76"
+            },
+            {
+              "ns": 0,
+              "title": "ESO 444-46"
+            },
+            {
+              "ns": 0,
+              "title": "E Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Earth mass"
+            },
+            {
+              "ns": 0,
+              "title": "Earth radius"
+            },
+            {
+              "ns": 0,
+              "title": "Eccentricity (orbit)"
+            },
+            {
+              "ns": 0,
+              "title": "Ecliptic coordinates"
+            },
+            {
+              "ns": 0,
+              "title": "Edmond Halley"
+            },
+            {
+              "ns": 0,
+              "title": "Edward Knobel"
+            },
+            {
+              "ns": 0,
+              "title": "Effective temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein ring"
+            },
+            {
+              "ns": 0,
+              "title": "Emirates Mars Mission"
+            },
+            {
+              "ns": 0,
+              "title": "England"
+            },
+            {
+              "ns": 0,
+              "title": "Eos cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Ephemeris"
+            },
+            {
+              "ns": 0,
+              "title": "Epoch (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Cassiopeiae"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Muscae"
+            },
+            {
+              "ns": 0,
+              "title": "Equator"
+            },
+            {
+              "ns": 0,
+              "title": "Equinox (celestial coordinates)"
+            },
+            {
+              "ns": 0,
+              "title": "Eridanus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Eta Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "European Southern Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Exoplanet"
+            },
+            {
+              "ns": 0,
+              "title": "Exoplanet Archive"
+            },
+            {
+              "ns": 0,
+              "title": "Extraterrestrial life"
+            },
+            {
+              "ns": 0,
+              "title": "F Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "False Cross"
+            },
+            {
+              "ns": 0,
+              "title": "Far Centaurus"
+            },
+            {
+              "ns": 0,
+              "title": "Fifth Fundamental Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "First-magnitude star"
+            },
+            {
+              "ns": 0,
+              "title": "First light (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "First magnitude star"
+            },
+            {
+              "ns": 0,
+              "title": "Flamsteed designation"
+            },
+            {
+              "ns": 0,
+              "title": "Flare star"
+            },
+            {
+              "ns": 0,
+              "title": "Fleming 1"
+            },
+            {
+              "ns": 0,
+              "title": "Fourcade-Figueroa Object"
+            },
+            {
+              "ns": 0,
+              "title": "Friedrich Wilhelm Bessel"
+            },
+            {
+              "ns": 0,
+              "title": "Frost line (astrophysics)"
+            },
+            {
+              "ns": 0,
+              "title": "G-cloud"
+            },
+            {
+              "ns": 0,
+              "title": "G-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "G292.0+01.8"
+            },
+            {
+              "ns": 0,
+              "title": "G306.3-0.9"
+            },
+            {
+              "ns": 0,
+              "title": "GRB 250702BDE"
+            },
+            {
+              "ns": 0,
+              "title": "GW190521"
+            },
+            {
+              "ns": 0,
+              "title": "GW250114"
+            },
+            {
+              "ns": 0,
+              "title": "G Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia BH2"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic plane"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Galveston, Texas"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Gary Westfahl"
+            },
+            {
+              "ns": 0,
+              "title": "Gas giant"
+            },
+            {
+              "ns": 0,
+              "title": "Gemini (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "General Catalogue of Trigonometric Parallaxes"
+            },
+            {
+              "ns": 0,
+              "title": "General Catalogue of Variable Stars"
+            },
+            {
+              "ns": 0,
+              "title": "Generation starship"
+            },
+            {
+              "ns": 0,
+              "title": "Gigayear"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 486"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 65"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese Catalogue of Nearby Stars"
+            },
+            {
+              "ns": 0,
+              "title": "Graham Sleight"
+            },
+            {
+              "ns": 0,
+              "title": "Gum 41"
+            },
+            {
+              "ns": 0,
+              "title": "Gyrochronology"
+            },
+            {
+              "ns": 0,
+              "title": "HD 100453"
+            },
+            {
+              "ns": 0,
+              "title": "HD 100673"
+            },
+            {
+              "ns": 0,
+              "title": "HD 100825"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101570"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101581"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101584"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101930"
+            },
+            {
+              "ns": 0,
+              "title": "HD 101930 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102117"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102117 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102350"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102365"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102776"
+            },
+            {
+              "ns": 0,
+              "title": "HD 102964"
+            },
+            {
+              "ns": 0,
+              "title": "HD 103197"
+            },
+            {
+              "ns": 0,
+              "title": "HD 103197 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 105382"
+            },
+            {
+              "ns": 0,
+              "title": "HD 107914"
+            },
+            {
+              "ns": 0,
+              "title": "HD 108063"
+            },
+            {
+              "ns": 0,
+              "title": "HD 108236"
+            },
+            {
+              "ns": 0,
+              "title": "HD 108541"
+            },
+            {
+              "ns": 0,
+              "title": "HD 109749"
+            },
+            {
+              "ns": 0,
+              "title": "HD 109749 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 110073"
+            },
+            {
+              "ns": 0,
+              "title": "HD 110113"
+            },
+            {
+              "ns": 0,
+              "title": "HD 110458"
+            },
+            {
+              "ns": 0,
+              "title": "HD 111597"
+            },
+            {
+              "ns": 0,
+              "title": "HD 111915"
+            },
+            {
+              "ns": 0,
+              "title": "HD 111968"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113538"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113538 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113538 c"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113703"
+            },
+            {
+              "ns": 0,
+              "title": "HD 113766"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114386"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114386 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114613"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114729"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114729 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 114837"
+            },
+            {
+              "ns": 0,
+              "title": "HD 115310"
+            },
+            {
+              "ns": 0,
+              "title": "HD 115600"
+            },
+            {
+              "ns": 0,
+              "title": "HD 116243"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117207"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117207 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117440"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117618"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117618 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 117939"
+            },
+            {
+              "ns": 0,
+              "title": "HD 119921"
+            },
+            {
+              "ns": 0,
+              "title": "HD 120987"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121056"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121228"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121474"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121504"
+            },
+            {
+              "ns": 0,
+              "title": "HD 121504 b"
+            },
+            {
+              "ns": 0,
+              "title": "HD 123569"
+            },
+            {
+              "ns": 0,
+              "title": "HD 124448"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125072"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125288"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125595"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125628"
+            },
+            {
+              "ns": 0,
+              "title": "HD 125823"
+            },
+            {
+              "ns": 0,
+              "title": "HD 129116"
+            },
+            {
+              "ns": 0,
+              "title": "HD 129456"
+            },
+            {
+              "ns": 0,
+              "title": "HD 129685"
+            },
+            {
+              "ns": 0,
+              "title": "HD 131399"
+            },
+            {
+              "ns": 0,
+              "title": "HD 97413"
+            },
+            {
+              "ns": 0,
+              "title": "HD 98176"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 65426"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 65426 b"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 67522"
+            },
+            {
+              "ns": 0,
+              "title": "HIP 67522 b"
+            },
+            {
+              "ns": 0,
+              "title": "HR 4796"
+            },
+            {
+              "ns": 0,
+              "title": "HR 5171"
+            },
+            {
+              "ns": 0,
+              "title": "H Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Habitable zone"
+            },
+            {
+              "ns": 0,
+              "title": "Hakuto-R Mission 2"
+            },
+            {
+              "ns": 0,
+              "title": "Halley's Comet"
+            },
+            {
+              "ns": 0,
+              "title": "Harvard Revised catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Heart Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Draper Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Heracles"
+            },
+            {
+              "ns": 0,
+              "title": "Hermosillo"
+            },
+            {
+              "ns": 0,
+              "title": "High Accuracy Radial Velocity Planet Searcher"
+            },
+            {
+              "ns": 0,
+              "title": "Hipparcos Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Horn (Chinese constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hour angle"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Hydra (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "IAU Working Group on Star Names"
+            },
+            {
+              "ns": 0,
+              "title": "IC 2944"
+            },
+            {
+              "ns": 0,
+              "title": "IC 3370"
+            },
+            {
+              "ns": 0,
+              "title": "IC 4214"
+            },
+            {
+              "ns": 0,
+              "title": "IC 4329A"
+            },
+            {
+              "ns": 0,
+              "title": "ID2299"
+            },
+            {
+              "ns": 0,
+              "title": "IM-2"
+            },
+            {
+              "ns": 0,
+              "title": "IRAS 13208−6020"
+            },
+            {
+              "ns": 0,
+              "title": "IRAS 13224−3809"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Impact event"
+            },
+            {
+              "ns": 0,
+              "title": "Inca"
+            },
+            {
+              "ns": 0,
+              "title": "Inclination"
+            },
+            {
+              "ns": 0,
+              "title": "International Astronomical Union"
+            },
+            {
+              "ns": 0,
+              "title": "Interplanetary dust cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar Mapping and Acceleration Probe"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar travel"
+            },
+            {
+              "ns": 0,
+              "title": "Iota Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Ithaca, New York"
+            },
+            {
+              "ns": 0,
+              "title": "J1144−4308"
+            },
+            {
+              "ns": 0,
+              "title": "J1407b"
+            },
+            {
+              "ns": 0,
+              "title": "J2000.0"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "J Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Jacobus Golius"
+            },
+            {
+              "ns": 0,
+              "title": "James Webb Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Johann Bayer"
+            },
+            {
+              "ns": 0,
+              "title": "John Clute"
+            },
+            {
+              "ns": 0,
+              "title": "John Herschel"
+            },
+            {
+              "ns": 0,
+              "title": "Jupiter"
+            },
+            {
+              "ns": 0,
+              "title": "Jupiter radius"
+            },
+            {
+              "ns": 0,
+              "title": "K-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "K2-18b"
+            },
+            {
+              "ns": 0,
+              "title": "KOI-5"
+            },
+            {
+              "ns": 0,
+              "title": "K Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Kappa Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kepler-1704b"
+            },
+            {
+              "ns": 0,
+              "title": "LEDA 677373"
+            },
+            {
+              "ns": 0,
+              "title": "LHS 1678"
+            },
+            {
+              "ns": 0,
+              "title": "LICIACube"
+            },
+            {
+              "ns": 0,
+              "title": "L 98-59"
+            },
+            {
+              "ns": 0,
+              "title": "Lalande 21185"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda Serpentis"
+            },
+            {
+              "ns": 0,
+              "title": "Lanzarote"
+            },
+            {
+              "ns": 0,
+              "title": "Latin language"
+            },
+            {
+              "ns": 0,
+              "title": "Latinisation of names"
+            },
+            {
+              "ns": 0,
+              "title": "Latitude"
+            },
+            {
+              "ns": 0,
+              "title": "Leslie F. Stone"
+            },
+            {
+              "ns": 0,
+              "title": "Light-year"
+            },
+            {
+              "ns": 0,
+              "title": "Light curve"
+            },
+            {
+              "ns": 0,
+              "title": "Light sail"
+            },
+            {
+              "ns": 0,
+              "title": "List of asteroid close approaches to Earth in 2021"
+            },
+            {
+              "ns": 0,
+              "title": "List of asteroid close approaches to Earth in 2025"
+            },
+            {
+              "ns": 0,
+              "title": "List of brightest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of exoplanets discovered in 2021"
+            },
+            {
+              "ns": 0,
+              "title": "List of exoplanets discovered in 2025"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest known black holes"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest stars and brown dwarfs"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest stars by spectral type"
+            },
+            {
+              "ns": 0,
+              "title": "List of possible dwarf planets"
+            },
+            {
+              "ns": 0,
+              "title": "List of stars in Centaurus"
+            },
+            {
+              "ns": 0,
+              "title": "Liu Cixin"
+            },
+            {
+              "ns": 0,
+              "title": "Llama"
+            },
+            {
+              "ns": 0,
+              "title": "Local Bubble"
+            },
+            {
+              "ns": 0,
+              "title": "Longitude of the node"
+            },
+            {
+              "ns": 0,
+              "title": "Lucy (spacecraft)"
+            },
+            {
+              "ns": 0,
+              "title": "Luhman 16"
+            },
+            {
+              "ns": 0,
+              "title": "Luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Luyten Half-Second Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Lynne Hillenbrand"
+            },
+            {
+              "ns": 0,
+              "title": "M Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic activity"
+            },
+            {
+              "ns": 0,
+              "title": "Magnitude (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Main sequence"
+            },
+            {
+              "ns": 0,
+              "title": "Manuel John Johnson"
+            },
+            {
+              "ns": 0,
+              "title": "Mars 2020"
+            },
+            {
+              "ns": 0,
+              "title": "Mass"
+            },
+            {
+              "ns": 0,
+              "title": "Maunder Minimum"
+            },
+            {
+              "ns": 0,
+              "title": "Memoirs of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (planet)"
+            },
+            {
+              "ns": 0,
+              "title": "Metallicity"
+            },
+            {
+              "ns": 0,
+              "title": "Mexico"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Capobianco"
+            },
+            {
+              "ns": 0,
+              "title": "Michel Mayor"
+            },
+            {
+              "ns": 0,
+              "title": "Micrometer (device)"
+            },
+            {
+              "ns": 0,
+              "title": "Micrometre"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way"
+            },
+            {
+              "ns": 0,
+              "title": "Milliarcsecond"
+            },
+            {
+              "ns": 0,
+              "title": "Mimosa (star)"
+            },
+            {
+              "ns": 0,
+              "title": "Mini-Neptune"
+            },
+            {
+              "ns": 0,
+              "title": "Minimum mass"
+            },
+            {
+              "ns": 0,
+              "title": "Minute and second of arc"
+            },
+            {
+              "ns": 0,
+              "title": "Mizar"
+            },
+            {
+              "ns": 0,
+              "title": "MoM-z14"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly Notices of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Moon"
+            },
+            {
+              "ns": 0,
+              "title": "Moons of Jupiter"
+            },
+            {
+              "ns": 0,
+              "title": "Moons of Saturn"
+            },
+            {
+              "ns": 0,
+              "title": "Moons of Uranus"
+            },
+            {
+              "ns": 0,
+              "title": "Mu Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Mu Sagittarii"
+            },
+            {
+              "ns": 0,
+              "title": "Multiple star"
+            },
+            {
+              "ns": 0,
+              "title": "Murray Leinster"
+            },
+            {
+              "ns": 0,
+              "title": "Mursi people"
+            },
+            {
+              "ns": 0,
+              "title": "NASA"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3557"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3749"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3766"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3783"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3918"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4230"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4444"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4603"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4622"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4650A"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4683"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4696"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4706"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4709"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4729"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4730"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4743"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4744"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4909"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4930"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4945"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770357894.6830075
+}

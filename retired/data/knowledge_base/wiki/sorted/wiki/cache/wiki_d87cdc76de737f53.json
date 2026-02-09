@@ -1,0 +1,113 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "19050068": {
+          "pageid": 19050068,
+          "ns": 0,
+          "title": "John Beverley Oke",
+          "links": [
+            {
+              "ns": 0,
+              "title": "3C 273"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "California"
+            },
+            {
+              "ns": 0,
+              "title": "California Institute of Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Caltech"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Engineering and Science"
+            },
+            {
+              "ns": 0,
+              "title": "Eugene Higgins"
+            },
+            {
+              "ns": 0,
+              "title": "Hale Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Hawaii"
+            },
+            {
+              "ns": 0,
+              "title": "James E. Gunn (astronomer)"
+            },
+            {
+              "ns": 0,
+              "title": "Keck telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Mauna Kea"
+            },
+            {
+              "ns": 0,
+              "title": "Mount Palomar"
+            },
+            {
+              "ns": 0,
+              "title": "New York Times"
+            },
+            {
+              "ns": 0,
+              "title": "Petrie Prize Lecture"
+            },
+            {
+              "ns": 0,
+              "title": "Photometry (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Physics Today"
+            },
+            {
+              "ns": 0,
+              "title": "Princeton University"
+            },
+            {
+              "ns": 0,
+              "title": "Quasar"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Spectroscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Speed of light"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330176.1236398
+}

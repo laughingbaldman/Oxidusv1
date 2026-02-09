@@ -1,0 +1,21 @@
+# Reliability service-level objectives (SLO)
+
+reliability:
+  # Percent uptime target over a rolling window.
+  uptime_slo_pct: 99.5
+
+  # API latency target for p95 response time.
+  api_latency_p95_ms: 800
+
+  # Ingestion throughput targets.
+  ingestion_throughput_eps_min: 50.0
+  crawler_pages_per_min_min: 5.0
+
+  # Index freshness target.
+  index_staleness_hours: 72.0
+
+  # Minimum free storage before safe mode triggers.
+  storage_free_gb_min: 5.0
+
+  # Alert dedupe window (seconds).
+  alert_dedupe_seconds: 300

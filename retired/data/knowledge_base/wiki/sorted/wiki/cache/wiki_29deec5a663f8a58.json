@@ -1,0 +1,1105 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "80207": {
+          "pageid": 80207,
+          "ns": 0,
+          "title": "Sodium chloride",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Salar de Uyuni"
+            },
+            {
+              "ns": 0,
+              "title": "Saline (medicine)"
+            },
+            {
+              "ns": 0,
+              "title": "Salinity"
+            },
+            {
+              "ns": 0,
+              "title": "Salt"
+            },
+            {
+              "ns": 0,
+              "title": "Salt in Cheshire"
+            },
+            {
+              "ns": 0,
+              "title": "Salt lake (geography)"
+            },
+            {
+              "ns": 0,
+              "title": "Salt mine"
+            },
+            {
+              "ns": 0,
+              "title": "Salt poisoning"
+            },
+            {
+              "ns": 0,
+              "title": "Salting (food)"
+            },
+            {
+              "ns": 0,
+              "title": "Salting the earth"
+            },
+            {
+              "ns": 0,
+              "title": "Samarium(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Samarium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sausage"
+            },
+            {
+              "ns": 0,
+              "title": "Scandium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sea salt"
+            },
+            {
+              "ns": 0,
+              "title": "Seaborgium"
+            },
+            {
+              "ns": 0,
+              "title": "Seawater"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium dichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium monochloride"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Shampoo"
+            },
+            {
+              "ns": 0,
+              "title": "SiNC"
+            },
+            {
+              "ns": 0,
+              "title": "Silane"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon-carbide cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon carbonitride"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon monosulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon monoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon tricarbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silver chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Silylidyne"
+            },
+            {
+              "ns": 0,
+              "title": "Simplified molecular-input line-entry system"
+            },
+            {
+              "ns": 0,
+              "title": "Soap"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium 1,3-dithiole-2-thione-4,5-dithiolate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium Oleate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium Palmitate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium alum"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium aluminate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium aluminium hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium amide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium antimonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium antimonide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium arsenate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium arsenide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium arsenite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium astatide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium azide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium benzoate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bicarbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bifluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bis(2-methoxyethoxy)aluminium hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bis(trimethylsilyl)amide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium biselenite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bismuthate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bisulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bisulfite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bitartrate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium borohydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bromate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bromide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium bromite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium butyrate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium carbonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chlorate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chloride (data page)"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chlorite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium chromate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium cobalt oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium compounds"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium cyanate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium cyanide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium cyanoborohydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium cyclopentadienide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium decavanadate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium deuteroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium dichromate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium dihydrogen arsenate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium dithionate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium dithionite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium dithiophosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium diuranate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium erythorbate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium ethoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium ferricyanide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium ferrioxalate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium ferrocyanide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium fluoride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium fluorophosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium fluorosilicate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium formate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium fulminate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium germanate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium helide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexachloroiridate(III)"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexachloroplatinate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexafluoroaluminate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexafluoroantimonate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexafluoroarsenate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexafluorotitanate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexametaphosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hexanitritocobaltate(III)"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydrazide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydrogen telluride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroselenide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydrosulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hydroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hypobromite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hypochlorite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hypoiodite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hyponitrite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium hypophosphite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium iodate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium iodide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium laurate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium manganate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium metabisulfite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium metaborate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium metasilicate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium metatechnetate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium metatitanate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium metavanadate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium methoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium molybdate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium naphthalene"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium nitrate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium nitrite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium nitroprusside"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium orthosilicate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium orthovanadate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium oxalate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium ozonide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium perbromate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium perchlorate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium periodate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium permanganate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium peroxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium perrhenate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium persulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium pertechnetate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium perxenate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium phosphide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium polonide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium propionate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium pyrosilicate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium pyrosulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium salicylate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium selenate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium selenide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium selenite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium silicate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium stearate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium sulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium sulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium sulfite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium superoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tartrate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium telluride"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tellurite"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tetrachloroaurate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tetrachloropalladate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tetrathionate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium thiocyanate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium thiosulfate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium trichromate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium triphosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium tungstate"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium zincate"
+            },
+            {
+              "ns": 0,
+              "title": "Solubility"
+            },
+            {
+              "ns": 0,
+              "title": "Solution (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Solvay process"
+            },
+            {
+              "ns": 0,
+              "title": "Space group"
+            },
+            {
+              "ns": 0,
+              "title": "Spectroscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Standard enthalpy change of formation"
+            },
+            {
+              "ns": 0,
+              "title": "Standard molar entropy"
+            },
+            {
+              "ns": 0,
+              "title": "Standard state"
+            },
+            {
+              "ns": 0,
+              "title": "Stoichiometry"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sugar"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfanyl"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfate chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfolane"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur dichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur mononitride"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur monoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfuric acid"
+            },
+            {
+              "ns": 0,
+              "title": "Surface runoff"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic rubber"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum(IV) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum(V) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Technetium(IV) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Technetium trichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium dichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tellurium tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tenderizer"
+            },
+            {
+              "ns": 0,
+              "title": "Terbium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrachloroethylene"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrasodium pyrophosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Thallium(I) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Thallium trichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermoplastic"
+            },
+            {
+              "ns": 0,
+              "title": "Thiocyanic acid"
+            },
+            {
+              "ns": 0,
+              "title": "Thioformaldehyde"
+            },
+            {
+              "ns": 0,
+              "title": "Thioformyl"
+            },
+            {
+              "ns": 0,
+              "title": "Thioxoethenylidene"
+            },
+            {
+              "ns": 0,
+              "title": "Tholin"
+            },
+            {
+              "ns": 0,
+              "title": "Thorium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Thorium(IV) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Thulium(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Thulium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tin(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tin(IV) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium(II) oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tonne"
+            },
+            {
+              "ns": 0,
+              "title": "Transmittance"
+            },
+            {
+              "ns": 0,
+              "title": "Triatomic molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Tricarbon"
+            },
+            {
+              "ns": 0,
+              "title": "Tricarbon monosulfide"
+            },
+            {
+              "ns": 0,
+              "title": "Tricarbon monoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Trihydrogen cation"
+            },
+            {
+              "ns": 0,
+              "title": "Trisodium phosphate"
+            },
+            {
+              "ns": 0,
+              "title": "Tritellurium dichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten(IV) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten(V) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten hexachloride"
+            },
+            {
+              "ns": 0,
+              "title": "U.S. Department of Transportation"
+            },
+            {
+              "ns": 0,
+              "title": "Unique Ingredient Identifier"
+            },
+            {
+              "ns": 0,
+              "title": "United States Geological Survey"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium hexachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium pentachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium(V) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Vinyl alcohol"
+            },
+            {
+              "ns": 0,
+              "title": "Vinyl cyanide"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Water (molecule)"
+            },
+            {
+              "ns": 0,
+              "title": "Water of hydration"
+            },
+            {
+              "ns": 0,
+              "title": "Water softening"
+            },
+            {
+              "ns": 0,
+              "title": "Winsford"
+            },
+            {
+              "ns": 0,
+              "title": "Winter service vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon dichloride"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon monochloride"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon tetrachloride"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc selenide"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium(II) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium(III) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium(IV) chloride"
+            },
+            {
+              "ns": 0,
+              "title": "Μm"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329176.9970715
+}

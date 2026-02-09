@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "12610483|0|Kotlin",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "12610483": {
+          "pageid": 12610483,
+          "ns": 0,
+          "title": "Android (operating system)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "/e/ (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "2013 mass surveillance disclosures"
+            },
+            {
+              "ns": 0,
+              "title": "32-bit computing"
+            },
+            {
+              "ns": 0,
+              "title": "4MLinux"
+            },
+            {
+              "ns": 0,
+              "title": "64-bit computing"
+            },
+            {
+              "ns": 0,
+              "title": "9to5Google"
+            },
+            {
+              "ns": 0,
+              "title": "AArch64"
+            },
+            {
+              "ns": 0,
+              "title": "ALT Linux"
+            },
+            {
+              "ns": 0,
+              "title": "AOKP"
+            },
+            {
+              "ns": 0,
+              "title": "AOL"
+            },
+            {
+              "ns": 0,
+              "title": "API"
+            },
+            {
+              "ns": 0,
+              "title": "APK (file format)"
+            },
+            {
+              "ns": 0,
+              "title": "ARCore"
+            },
+            {
+              "ns": 0,
+              "title": "ARM architecture family"
+            },
+            {
+              "ns": 0,
+              "title": "ARMv7-A"
+            },
+            {
+              "ns": 0,
+              "title": "ARMv8-A"
+            },
+            {
+              "ns": 0,
+              "title": "AVG AntiVirus"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Accelerometer"
+            },
+            {
+              "ns": 0,
+              "title": "Acer Inc."
+            },
+            {
+              "ns": 0,
+              "title": "AdMob"
+            },
+            {
+              "ns": 0,
+              "title": "Adware"
+            },
+            {
+              "ns": 0,
+              "title": "Africa"
+            },
+            {
+              "ns": 0,
+              "title": "Ahead-of-time compilation"
+            },
+            {
+              "ns": 0,
+              "title": "Alarm clock"
+            },
+            {
+              "ns": 0,
+              "title": "AliOS"
+            },
+            {
+              "ns": 0,
+              "title": "Alibaba Group"
+            },
+            {
+              "ns": 0,
+              "title": "Aliyun OS"
+            },
+            {
+              "ns": 0,
+              "title": "AlmaLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Alphabet Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Alpine Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Alt-Tab"
+            },
+            {
+              "ns": 0,
+              "title": "Amazon.com"
+            },
+            {
+              "ns": 0,
+              "title": "Amazon Appstore"
+            },
+            {
+              "ns": 0,
+              "title": "Amazon Kindle"
+            },
+            {
+              "ns": 0,
+              "title": "AnandTech"
+            },
+            {
+              "ns": 0,
+              "title": "Android-x86"
+            },
+            {
+              "ns": 0,
+              "title": "Android (robot)"
+            },
+            {
+              "ns": 0,
+              "title": "Android 1.0"
+            },
+            {
+              "ns": 0,
+              "title": "Android 10"
+            },
+            {
+              "ns": 0,
+              "title": "Android 11"
+            },
+            {
+              "ns": 0,
+              "title": "Android 12"
+            },
+            {
+              "ns": 0,
+              "title": "Android 13"
+            },
+            {
+              "ns": 0,
+              "title": "Android 14"
+            },
+            {
+              "ns": 0,
+              "title": "Android 15"
+            },
+            {
+              "ns": 0,
+              "title": "Android 16"
+            },
+            {
+              "ns": 0,
+              "title": "Android 4.4"
+            },
+            {
+              "ns": 0,
+              "title": "Android 5"
+            },
+            {
+              "ns": 0,
+              "title": "Android App Bundle"
+            },
+            {
+              "ns": 0,
+              "title": "Android Auto"
+            },
+            {
+              "ns": 0,
+              "title": "Android Automotive"
+            },
+            {
+              "ns": 0,
+              "title": "Android Central"
+            },
+            {
+              "ns": 0,
+              "title": "Android Cupcake"
+            },
+            {
+              "ns": 0,
+              "title": "Android Debug Bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Android Developer Challenge"
+            },
+            {
+              "ns": 0,
+              "title": "Android Developer Lab"
+            },
+            {
+              "ns": 0,
+              "title": "Android Donut"
+            },
+            {
+              "ns": 0,
+              "title": "Android Eclair"
+            },
+            {
+              "ns": 0,
+              "title": "Android Froyo"
+            },
+            {
+              "ns": 0,
+              "title": "Android Gingerbread"
+            },
+            {
+              "ns": 0,
+              "title": "Android Go"
+            },
+            {
+              "ns": 0,
+              "title": "Android Honeycomb"
+            },
+            {
+              "ns": 0,
+              "title": "Android Ice Cream Sandwich"
+            },
+            {
+              "ns": 0,
+              "title": "Android Jelly Bean"
+            },
+            {
+              "ns": 0,
+              "title": "Android KitKat"
+            },
+            {
+              "ns": 0,
+              "title": "Android Lollipop"
+            },
+            {
+              "ns": 0,
+              "title": "Android Marshmallow"
+            },
+            {
+              "ns": 0,
+              "title": "Android NDK"
+            },
+            {
+              "ns": 0,
+              "title": "Android Nougat"
+            },
+            {
+              "ns": 0,
+              "title": "Android One"
+            },
+            {
+              "ns": 0,
+              "title": "Android Open Source Project"
+            },
+            {
+              "ns": 0,
+              "title": "Android Oreo"
+            },
+            {
+              "ns": 0,
+              "title": "Android Pie"
+            },
+            {
+              "ns": 0,
+              "title": "Android Runtime"
+            },
+            {
+              "ns": 0,
+              "title": "Android SDK"
+            },
+            {
+              "ns": 0,
+              "title": "Android Studio"
+            },
+            {
+              "ns": 0,
+              "title": "Android TV"
+            },
+            {
+              "ns": 0,
+              "title": "Android Things"
+            },
+            {
+              "ns": 0,
+              "title": "Android XR"
+            },
+            {
+              "ns": 0,
+              "title": "Android app"
+            },
+            {
+              "ns": 0,
+              "title": "Android app development"
+            },
+            {
+              "ns": 0,
+              "title": "Android hardware requirements"
+            },
+            {
+              "ns": 0,
+              "title": "Android lawn statues"
+            },
+            {
+              "ns": 0,
+              "title": "Android recovery mode"
+            },
+            {
+              "ns": 0,
+              "title": "Android rooting"
+            },
+            {
+              "ns": 0,
+              "title": "Android software development"
+            },
+            {
+              "ns": 0,
+              "title": "Android version history"
+            },
+            {
+              "ns": 0,
+              "title": "Androidland"
+            },
+            {
+              "ns": 0,
+              "title": "AnduinOS"
+            },
+            {
+              "ns": 0,
+              "title": "Andy Rubin"
+            },
+            {
+              "ns": 0,
+              "title": "Angry Birds"
+            },
+            {
+              "ns": 0,
+              "title": "Antergos"
+            },
+            {
+              "ns": 0,
+              "title": "AntiX"
+            },
+            {
+              "ns": 0,
+              "title": "Antitrust cases against Google by the European Union"
+            },
+            {
+              "ns": 0,
+              "title": "Antivirus software"
+            },
+            {
+              "ns": 0,
+              "title": "Apache Cordova"
+            },
+            {
+              "ns": 0,
+              "title": "Apache Harmony"
+            },
+            {
+              "ns": 0,
+              "title": "Apache License"
+            },
+            {
+              "ns": 0,
+              "title": "Apk (file format)"
+            },
+            {
+              "ns": 0,
+              "title": "AppleInsider"
+            },
+            {
+              "ns": 0,
+              "title": "Apple Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Apple Inc. v. Samsung Electronics Co., Ltd."
+            },
+            {
+              "ns": 0,
+              "title": "Apple Insider"
+            },
+            {
+              "ns": 0,
+              "title": "Application framework"
+            },
+            {
+              "ns": 0,
+              "title": "Application programming interface"
+            },
+            {
+              "ns": 0,
+              "title": "Application software"
+            },
+            {
+              "ns": 0,
+              "title": "Application store"
+            },
+            {
+              "ns": 0,
+              "title": "Aptoide"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ArchBang"
+            },
+            {
+              "ns": 0,
+              "title": "ArchLabs"
+            },
+            {
+              "ns": 0,
+              "title": "Arch Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Ars Technica"
+            },
+            {
+              "ns": 0,
+              "title": "Artix Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Asahi Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Ashlee Vance"
+            },
+            {
+              "ns": 0,
+              "title": "Astra Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Astro Boy"
+            },
+            {
+              "ns": 0,
+              "title": "Asturix"
+            },
+            {
+              "ns": 0,
+              "title": "Asus Eee PC"
+            },
+            {
+              "ns": 0,
+              "title": "Asus ZenFone"
+            },
+            {
+              "ns": 0,
+              "title": "Asus ZenFone 8"
+            },
+            {
+              "ns": 0,
+              "title": "Atlantic Media"
+            },
+            {
+              "ns": 0,
+              "title": "Audi"
+            },
+            {
+              "ns": 0,
+              "title": "Augmented reality"
+            },
+            {
+              "ns": 0,
+              "title": "Aurora OS (Russian Open mobile platform)"
+            },
+            {
+              "ns": 0,
+              "title": "Australian Competition and Consumer Commission"
+            },
+            {
+              "ns": 0,
+              "title": "Austrumi Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Autofocus"
+            },
+            {
+              "ns": 0,
+              "title": "Automated teller machine"
+            },
+            {
+              "ns": 0,
+              "title": "Automotive head unit"
+            },
+            {
+              "ns": 0,
+              "title": "Avast"
+            },
+            {
+              "ns": 0,
+              "title": "Axel Springer SE"
+            },
+            {
+              "ns": 0,
+              "title": "B2G OS"
+            },
+            {
+              "ns": 0,
+              "title": "BBC News"
+            },
+            {
+              "ns": 0,
+              "title": "BLAG Linux and GNU"
+            },
+            {
+              "ns": 0,
+              "title": "BSD licence"
+            },
+            {
+              "ns": 0,
+              "title": "BackBox"
+            },
+            {
+              "ns": 0,
+              "title": "BackTrack"
+            },
+            {
+              "ns": 0,
+              "title": "Backdoor (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Backwards compatibility"
+            },
+            {
+              "ns": 0,
+              "title": "Bada (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Baidu"
+            },
+            {
+              "ns": 0,
+              "title": "Baidu Yi"
+            },
+            {
+              "ns": 0,
+              "title": "Barnes & Noble"
+            },
+            {
+              "ns": 0,
+              "title": "Barnes & Noble Nook"
+            },
+            {
+              "ns": 0,
+              "title": "Bazzite (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Behavioral targeting"
+            },
+            {
+              "ns": 0,
+              "title": "Bender (Futurama)"
+            },
+            {
+              "ns": 0,
+              "title": "Berkeley Software Distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Bharat Operating System Solutions"
+            },
+            {
+              "ns": 0,
+              "title": "Bicycle"
+            },
+            {
+              "ns": 0,
+              "title": "Binary Runtime Environment for Wireless"
+            },
+            {
+              "ns": 0,
+              "title": "Binary blob"
+            },
+            {
+              "ns": 0,
+              "title": "BioSLAX"
+            },
+            {
+              "ns": 0,
+              "title": "Bionic (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Bitdefender"
+            },
+            {
+              "ns": 0,
+              "title": "BlackArch"
+            },
+            {
+              "ns": 0,
+              "title": "BlackBerry"
+            },
+            {
+              "ns": 0,
+              "title": "BlackBerry 10"
+            },
+            {
+              "ns": 0,
+              "title": "BlackBerry OS"
+            },
+            {
+              "ns": 0,
+              "title": "BlackBerry PlayBook"
+            },
+            {
+              "ns": 0,
+              "title": "BlackBerry Tablet OS"
+            },
+            {
+              "ns": 0,
+              "title": "Black Lab Linux"
+            },
+            {
+              "ns": 0,
+              "title": "BlankOn Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Bloomberg Businessweek"
+            },
+            {
+              "ns": 0,
+              "title": "Bloomberg L.P."
+            },
+            {
+              "ns": 0,
+              "title": "BlueStacks"
+            },
+            {
+              "ns": 0,
+              "title": "BlueZ"
+            },
+            {
+              "ns": 0,
+              "title": "Bluetooth"
+            },
+            {
+              "ns": 0,
+              "title": "Bodhi Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Booting process of Android devices"
+            },
+            {
+              "ns": 0,
+              "title": "Bootloader"
+            },
+            {
+              "ns": 0,
+              "title": "Bootloader unlocking"
+            },
+            {
+              "ns": 0,
+              "title": "BridgeOS"
+            },
+            {
+              "ns": 0,
+              "title": "Business Insider"
+            },
+            {
+              "ns": 0,
+              "title": "C++"
+            },
+            {
+              "ns": 0,
+              "title": "CBS Interactive"
+            },
+            {
+              "ns": 0,
+              "title": "CEO"
+            },
+            {
+              "ns": 0,
+              "title": "CIO magazine"
+            },
+            {
+              "ns": 0,
+              "title": "CNET"
+            },
+            {
+              "ns": 0,
+              "title": "CNN"
+            },
+            {
+              "ns": 0,
+              "title": "COVID-19"
+            },
+            {
+              "ns": 0,
+              "title": "CRUX"
+            },
+            {
+              "ns": 0,
+              "title": "C (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "C standard library"
+            },
+            {
+              "ns": 0,
+              "title": "CachyOS"
+            },
+            {
+              "ns": 0,
+              "title": "Cafe Bazaar"
+            },
+            {
+              "ns": 0,
+              "title": "Calculate Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Caldera OpenLinux"
+            },
+            {
+              "ns": 0,
+              "title": "CalyxOS"
+            },
+            {
+              "ns": 0,
+              "title": "CentOS"
+            },
+            {
+              "ns": 0,
+              "title": "CentOS Stream"
+            },
+            {
+              "ns": 0,
+              "title": "Central Intelligence Agency"
+            },
+            {
+              "ns": 0,
+              "title": "Chakra (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Chaos (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Cherry OS (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Chicken or the egg"
+            },
+            {
+              "ns": 0,
+              "title": "Chimera Linux"
+            },
+            {
+              "ns": 0,
+              "title": "China"
+            },
+            {
+              "ns": 0,
+              "title": "China–United States trade war"
+            },
+            {
+              "ns": 0,
+              "title": "Chris DiBona"
+            },
+            {
+              "ns": 0,
+              "title": "ChromeOS"
+            },
+            {
+              "ns": 0,
+              "title": "ChromeOS Flex"
+            },
+            {
+              "ns": 0,
+              "title": "Chromecast"
+            },
+            {
+              "ns": 0,
+              "title": "ChromiumOS"
+            },
+            {
+              "ns": 0,
+              "title": "Clarion (company)"
+            },
+            {
+              "ns": 0,
+              "title": "Clean room design"
+            },
+            {
+              "ns": 0,
+              "title": "ClearOS"
+            },
+            {
+              "ns": 0,
+              "title": "Clear Linux OS"
+            },
+            {
+              "ns": 0,
+              "title": "ClockworkMod"
+            },
+            {
+              "ns": 0,
+              "title": "Closed-source"
+            },
+            {
+              "ns": 0,
+              "title": "Cloud computing"
+            },
+            {
+              "ns": 0,
+              "title": "ColorOS"
+            },
+            {
+              "ns": 0,
+              "title": "Command-line interface"
+            },
+            {
+              "ns": 0,
+              "title": "Commission nationale de l'informatique et des libertés"
+            },
+            {
+              "ns": 0,
+              "title": "Commodore OS"
+            },
+            {
+              "ns": 0,
+              "title": "Community of practice"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of Android Go products"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of Java and Android API"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of Linux distributions"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of mobile operating systems"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of open-source mobile phones"
+            },
+            {
+              "ns": 0,
+              "title": "Computer hardware"
+            },
+            {
+              "ns": 0,
+              "title": "Computer keyboard"
+            },
+            {
+              "ns": 0,
+              "title": "Computer virus"
+            },
+            {
+              "ns": 0,
+              "title": "Computerworld"
+            },
+            {
+              "ns": 0,
+              "title": "Computing (magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "Computing platform"
+            },
+            {
+              "ns": 0,
+              "title": "Condé Nast"
+            },
+            {
+              "ns": 0,
+              "title": "Consortium"
+            },
+            {
+              "ns": 0,
+              "title": "Consumer Electronics Show"
+            },
+            {
+              "ns": 0,
+              "title": "Consumer Reports"
+            },
+            {
+              "ns": 0,
+              "title": "Consumerist"
+            },
+            {
+              "ns": 0,
+              "title": "Container Linux"
+            },
+            {
+              "ns": 0,
+              "title": "CopperheadOS"
+            },
+            {
+              "ns": 0,
+              "title": "Copyleft"
+            },
+            {
+              "ns": 0,
+              "title": "Copyright"
+            },
+            {
+              "ns": 0,
+              "title": "Copyright infringement of software"
+            },
+            {
+              "ns": 0,
+              "title": "Corel Linux"
+            },
+            {
+              "ns": 0,
+              "title": "CrDroid"
+            },
+            {
+              "ns": 0,
+              "title": "Creative Commons"
+            },
+            {
+              "ns": 0,
+              "title": "Crowdfunding"
+            },
+            {
+              "ns": 0,
+              "title": "CrunchBang Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Cub Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Cupcake"
+            },
+            {
+              "ns": 0,
+              "title": "Custom firmware"
+            },
+            {
+              "ns": 0,
+              "title": "CyanogenMod"
+            },
+            {
+              "ns": 0,
+              "title": "Cyber warfare"
+            },
+            {
+              "ns": 0,
+              "title": "Dalvik (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Damn Small Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Damn Vulnerable Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Danger, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Data integrity"
+            },
+            {
+              "ns": 0,
+              "title": "Data verification"
+            },
+            {
+              "ns": 0,
+              "title": "Database"
+            },
+            {
+              "ns": 0,
+              "title": "David Lawee"
+            },
+            {
+              "ns": 0,
+              "title": "DeGoogle"
+            },
+            {
+              "ns": 0,
+              "title": "Debian"
+            },
+            {
+              "ns": 0,
+              "title": "Debugger"
+            },
+            {
+              "ns": 0,
+              "title": "Debugging"
+            },
+            {
+              "ns": 0,
+              "title": "Deccan Chronicle"
+            },
+            {
+              "ns": 0,
+              "title": "Deepin"
+            },
+            {
+              "ns": 0,
+              "title": "Dell Streak"
+            },
+            {
+              "ns": 0,
+              "title": "DemoLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Deprecation"
+            },
+            {
+              "ns": 0,
+              "title": "Desktop Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Desktop metaphor"
+            },
+            {
+              "ns": 0,
+              "title": "Device driver"
+            },
+            {
+              "ns": 0,
+              "title": "Device file"
+            },
+            {
+              "ns": 0,
+              "title": "Device mapper"
+            },
+            {
+              "ns": 0,
+              "title": "Devuan"
+            },
+            {
+              "ns": 0,
+              "title": "Digital camera"
+            },
+            {
+              "ns": 0,
+              "title": "Digital distribution"
+            },
+            {
+              "ns": 0,
+              "title": "Digital rights management"
+            },
+            {
+              "ns": 0,
+              "title": "Direct manipulation interface"
+            },
+            {
+              "ns": 0,
+              "title": "Disk formatting"
+            },
+            {
+              "ns": 0,
+              "title": "DivestOS"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Domain name"
+            },
+            {
+              "ns": 0,
+              "title": "Donut"
+            },
+            {
+              "ns": 0,
+              "title": "DoudouLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Downgrade attack"
+            },
+            {
+              "ns": 0,
+              "title": "Dragora GNU/Linux-Libre"
+            },
+            {
+              "ns": 0,
+              "title": "Dreamlinux"
+            },
+            {
+              "ns": 0,
+              "title": "Driver (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Droid (typeface)"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic voltage scaling"
+            },
+            {
+              "ns": 0,
+              "title": "EFront"
+            },
+            {
+              "ns": 0,
+              "title": "EMUI"
+            },
+            {
+              "ns": 0,
+              "title": "EPOC (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "ESET"
+            },
+            {
+              "ns": 0,
+              "title": "EWeek"
+            },
+            {
+              "ns": 0,
+              "title": "Eclair"
+            },
+            {
+              "ns": 0,
+              "title": "Eclipse (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Edubuntu"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic dictionary"
+            },
+            {
+              "ns": 0,
+              "title": "Elementary OS"
+            },
+            {
+              "ns": 0,
+              "title": "Elive"
+            },
+            {
+              "ns": 0,
+              "title": "Emmabuntüs"
+            },
+            {
+              "ns": 0,
+              "title": "Emulator"
+            },
+            {
+              "ns": 0,
+              "title": "End-of-life (product)"
+            },
+            {
+              "ns": 0,
+              "title": "EndeavourOS"
+            },
+            {
+              "ns": 0,
+              "title": "Endless OS"
+            },
+            {
+              "ns": 0,
+              "title": "Engadget"
+            },
+            {
+              "ns": 0,
+              "title": "Eric Schmidt"
+            },
+            {
+              "ns": 0,
+              "title": "EulerOS"
+            },
+            {
+              "ns": 0,
+              "title": "Eurogamer"
+            },
+            {
+              "ns": 0,
+              "title": "European Commission"
+            },
+            {
+              "ns": 0,
+              "title": "European Ecodesign Directive"
+            },
+            {
+              "ns": 0,
+              "title": "European Union competition law"
+            },
+            {
+              "ns": 0,
+              "title": "F-Droid"
+            },
+            {
+              "ns": 0,
+              "title": "F-Secure"
+            },
+            {
+              "ns": 0,
+              "title": "Facebook Places"
+            },
+            {
+              "ns": 0,
+              "title": "Factory reset"
+            },
+            {
+              "ns": 0,
+              "title": "FairSearch"
+            },
+            {
+              "ns": 0,
+              "title": "Fair use"
+            },
+            {
+              "ns": 0,
+              "title": "Fairphone"
+            },
+            {
+              "ns": 0,
+              "title": "Familiar Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Fastboot"
+            },
+            {
+              "ns": 0,
+              "title": "Fear, uncertainty and doubt"
+            },
+            {
+              "ns": 0,
+              "title": "Feather Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Feature phone"
+            },
+            {
+              "ns": 0,
+              "title": "Federal Antimonopoly Service"
+            },
+            {
+              "ns": 0,
+              "title": "Federal Circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Federal Court of Australia"
+            },
+            {
+              "ns": 0,
+              "title": "Fedora Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Filesystem Hierarchy Standard"
+            },
+            {
+              "ns": 0,
+              "title": "Fire OS"
+            },
+            {
+              "ns": 0,
+              "title": "Firebase"
+            },
+            {
+              "ns": 0,
+              "title": "Firebase Cloud Messaging"
+            },
+            {
+              "ns": 0,
+              "title": "Firefox OS"
+            },
+            {
+              "ns": 0,
+              "title": "Firmware"
+            },
+            {
+              "ns": 0,
+              "title": "Fixed-focus lens"
+            },
+            {
+              "ns": 0,
+              "title": "Flash storage"
+            },
+            {
+              "ns": 0,
+              "title": "Flashlight"
+            },
+            {
+              "ns": 0,
+              "title": "Floppyfw"
+            },
+            {
+              "ns": 0,
+              "title": "Font"
+            },
+            {
+              "ns": 0,
+              "title": "Football Manager"
+            },
+            {
+              "ns": 0,
+              "title": "For Dummies"
+            },
+            {
+              "ns": 0,
+              "title": "Forbes"
+            },
+            {
+              "ns": 0,
+              "title": "Foresight Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Fork (software development)"
+            },
+            {
+              "ns": 0,
+              "title": "Foursquare City Guide"
+            },
+            {
+              "ns": 0,
+              "title": "Free-software license"
+            },
+            {
+              "ns": 0,
+              "title": "FreeBSD"
+            },
+            {
+              "ns": 0,
+              "title": "FreeRTOS"
+            },
+            {
+              "ns": 0,
+              "title": "Free Software Foundation"
+            },
+            {
+              "ns": 0,
+              "title": "Free Software Foundation Europe"
+            },
+            {
+              "ns": 0,
+              "title": "Free and open-source software"
+            },
+            {
+              "ns": 0,
+              "title": "Free and open source"
+            },
+            {
+              "ns": 0,
+              "title": "FreedomBox"
+            },
+            {
+              "ns": 0,
+              "title": "Freemium"
+            },
+            {
+              "ns": 0,
+              "title": "Freespire"
+            },
+            {
+              "ns": 0,
+              "title": "Freeware"
+            },
+            {
+              "ns": 0,
+              "title": "Frozen yogurt"
+            },
+            {
+              "ns": 0,
+              "title": "Frugalware Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Fuchsia (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Funtouch OS"
+            },
+            {
+              "ns": 0,
+              "title": "Future plc"
+            },
+            {
+              "ns": 0,
+              "title": "GEOS (16-bit operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "GNU"
+            },
+            {
+              "ns": 0,
+              "title": "GNU C Library"
+            },
+            {
+              "ns": 0,
+              "title": "GNU GPL"
+            },
+            {
+              "ns": 0,
+              "title": "GNU General Public License"
+            },
+            {
+              "ns": 0,
+              "title": "GNU Guix System"
+            },
+            {
+              "ns": 0,
+              "title": "GNewSense"
+            },
+            {
+              "ns": 0,
+              "title": "GOS (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "GPL linking exception"
+            },
+            {
+              "ns": 0,
+              "title": "GSON"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy Nexus"
+            },
+            {
+              "ns": 0,
+              "title": "Game controller"
+            },
+            {
+              "ns": 0,
+              "title": "Gartner"
+            },
+            {
+              "ns": 0,
+              "title": "Garuda Linux"
+            },
+            {
+              "ns": 0,
+              "title": "GeckoLinux"
+            },
+            {
+              "ns": 0,
+              "title": "GeekWire"
+            },
+            {
+              "ns": 0,
+              "title": "General Data Protection Regulation"
+            },
+            {
+              "ns": 0,
+              "title": "General Motors"
+            },
+            {
+              "ns": 0,
+              "title": "Gentoo Linux"
+            },
+            {
+              "ns": 0,
+              "title": "GetJar"
+            },
+            {
+              "ns": 0,
+              "title": "Gizmodo"
+            },
+            {
+              "ns": 0,
+              "title": "Global Positioning System"
+            },
+            {
+              "ns": 0,
+              "title": "GoboLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Gobuntu"
+            },
+            {
+              "ns": 0,
+              "title": "Google"
+            },
+            {
+              "ns": 0,
+              "title": "Google App Inventor"
+            },
+            {
+              "ns": 0,
+              "title": "Google App Runtime for Chrome"
+            },
+            {
+              "ns": 0,
+              "title": "Google Assistant"
+            },
+            {
+              "ns": 0,
+              "title": "Google Bouncer"
+            },
+            {
+              "ns": 0,
+              "title": "Google Cardboard"
+            },
+            {
+              "ns": 0,
+              "title": "Google Chrome"
+            },
+            {
+              "ns": 0,
+              "title": "Google Cloud Messaging"
+            },
+            {
+              "ns": 0,
+              "title": "Google Daydream"
+            },
+            {
+              "ns": 0,
+              "title": "Google Developers"
+            },
+            {
+              "ns": 0,
+              "title": "Google Docs"
+            },
+            {
+              "ns": 0,
+              "title": "Google I/O"
+            },
+            {
+              "ns": 0,
+              "title": "Google LLC v. Oracle America, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Google Latitude"
+            },
+            {
+              "ns": 0,
+              "title": "Google Maps"
+            },
+            {
+              "ns": 0,
+              "title": "Google Messages"
+            },
+            {
+              "ns": 0,
+              "title": "Google Mobile Services"
+            },
+            {
+              "ns": 0,
+              "title": "Google Nexus"
+            },
+            {
+              "ns": 0,
+              "title": "Google Pixel"
+            },
+            {
+              "ns": 0,
+              "title": "Google Play"
+            },
+            {
+              "ns": 0,
+              "title": "Google Play Services"
+            },
+            {
+              "ns": 0,
+              "title": "Google Play Store"
+            },
+            {
+              "ns": 0,
+              "title": "Google Search"
+            },
+            {
+              "ns": 0,
+              "title": "Google Store"
+            },
+            {
+              "ns": 0,
+              "title": "Googleplex"
+            },
+            {
+              "ns": 0,
+              "title": "Government Communications Headquarters"
+            },
+            {
+              "ns": 0,
+              "title": "Gradle"
+            },
+            {
+              "ns": 0,
+              "title": "GrapheneOS"
+            },
+            {
+              "ns": 0,
+              "title": "Graphical user interface"
+            },
+            {
+              "ns": 0,
+              "title": "Greg Kroah-Hartman"
+            },
+            {
+              "ns": 0,
+              "title": "Gyroscope"
+            },
+            {
+              "ns": 0,
+              "title": "HMD Global"
+            },
+            {
+              "ns": 0,
+              "title": "HP TouchPad"
+            },
+            {
+              "ns": 0,
+              "title": "HTC"
+            },
+            {
+              "ns": 0,
+              "title": "HTC Desire"
+            },
+            {
+              "ns": 0,
+              "title": "HTC Dream"
+            },
+            {
+              "ns": 0,
+              "title": "HTC One (M7)"
+            },
+            {
+              "ns": 0,
+              "title": "HTC One (M8)"
+            },
+            {
+              "ns": 0,
+              "title": "HTC Sense"
+            },
+            {
+              "ns": 0,
+              "title": "HTML5"
+            },
+            {
+              "ns": 0,
+              "title": "HTML 5"
+            },
+            {
+              "ns": 0,
+              "title": "HandyLinux"
+            },
+            {
+              "ns": 0,
+              "title": "Haptic technology"
+            },
+            {
+              "ns": 0,
+              "title": "HarmonyOS"
+            },
+            {
+              "ns": 0,
+              "title": "HarmonyOS NEXT"
+            },
+            {
+              "ns": 0,
+              "title": "Harmony OS"
+            },
+            {
+              "ns": 0,
+              "title": "HiOS"
+            },
+            {
+              "ns": 0,
+              "title": "Hiroshi Lockheimer"
+            },
+            {
+              "ns": 0,
+              "title": "Hive UI"
+            },
+            {
+              "ns": 0,
+              "title": "Home automation"
+            },
+            {
+              "ns": 0,
+              "title": "Home screen"
+            },
+            {
+              "ns": 0,
+              "title": "Honda"
+            },
+            {
+              "ns": 0,
+              "title": "HongMeng Kernel"
+            },
+            {
+              "ns": 0,
+              "title": "Honor (brand)"
+            },
+            {
+              "ns": 0,
+              "title": "Huawei"
+            },
+            {
+              "ns": 0,
+              "title": "Huawei AppGallery"
+            },
+            {
+              "ns": 0,
+              "title": "Hugo Barra"
+            },
+            {
+              "ns": 0,
+              "title": "Hyperbola GNU/Linux-libre"
+            },
+            {
+              "ns": 0,
+              "title": "Hypervisor"
+            },
+            {
+              "ns": 0,
+              "title": "Hyundai Motor Company"
+            },
+            {
+              "ns": 0,
+              "title": "IBM"
+            },
+            {
+              "ns": 0,
+              "title": "IOS"
+            },
+            {
+              "ns": 0,
+              "title": "IOS jailbreaking"
+            },
+            {
+              "ns": 0,
+              "title": "IPad"
+            },
+            {
+              "ns": 0,
+              "title": "IPadOS"
+            },
+            {
+              "ns": 0,
+              "title": "IPhone"
+            },
+            {
+              "ns": 0,
+              "title": "IPhone 3G"
+            },
+            {
+              "ns": 0,
+              "title": "IPhone OS"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Immunix"
+            },
+            {
+              "ns": 0,
+              "title": "In-car entertainment"
+            },
+            {
+              "ns": 0,
+              "title": "Incisive Media"
+            },
+            {
+              "ns": 0,
+              "title": "Index of Android OS articles"
+            },
+            {
+              "ns": 0,
+              "title": "Indian Express Limited"
+            },
+            {
+              "ns": 0,
+              "title": "Inflight entertainment"
+            },
+            {
+              "ns": 0,
+              "title": "Installed base"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated development environment"
+            },
+            {
+              "ns": 0,
+              "title": "Intel"
+            },
+            {
+              "ns": 0,
+              "title": "Intel Management Engine"
+            },
+            {
+              "ns": 0,
+              "title": "IntelliJ IDEA"
+            },
+            {
+              "ns": 0,
+              "title": "International Business Times"
+            },
+            {
+              "ns": 0,
+              "title": "International Data Group"
+            },
+            {
+              "ns": 0,
+              "title": "Internet of things"
+            },
+            {
+              "ns": 0,
+              "title": "Interpreter (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Investigative journalism"
+            },
+            {
+              "ns": 0,
+              "title": "IodéOS"
+            },
+            {
+              "ns": 0,
+              "title": "Irina Blok"
+            },
+            {
+              "ns": 0,
+              "title": "James Ball (journalist)"
+            },
+            {
+              "ns": 0,
+              "title": "JavaScript"
+            },
+            {
+              "ns": 0,
+              "title": "Java (programming language)"
+            },
+            {
+              "ns": 0,
+              "title": "Java (software platform)"
+            },
+            {
+              "ns": 0,
+              "title": "Java Native Interface"
+            },
+            {
+              "ns": 0,
+              "title": "Java bytecode"
+            },
+            {
+              "ns": 0,
+              "title": "Java virtual machine"
+            },
+            {
+              "ns": 0,
+              "title": "Jetpack Compose"
+            },
+            {
+              "ns": 0,
+              "title": "Jurix"
+            },
+            {
+              "ns": 0,
+              "title": "KDE neon"
+            },
+            {
+              "ns": 0,
+              "title": "KML"
+            },
+            {
+              "ns": 0,
+              "title": "KaOS"
+            },
+            {
+              "ns": 0,
+              "title": "KaiOS"
+            },
+            {
+              "ns": 0,
+              "title": "Kaisen Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Kali Linux"
+            },
+            {
+              "ns": 0,
+              "title": "Kali NetHunter"
+            },
+            {
+              "ns": 0,
+              "title": "Kanotix"
+            },
+            {
+              "ns": 0,
+              "title": "Kaspersky Lab"
+            },
+            {
+              "ns": 0,
+              "title": "KateOS"
+            },
+            {
+              "ns": 0,
+              "title": "Kernel (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "Kernel Assisted Superuser"
+            },
+            {
+              "ns": 0,
+              "title": "Kickstarter"
+            },
+            {
+              "ns": 0,
+              "title": "Kindle Fire"
+            },
+            {
+              "ns": 0,
+              "title": "Kingo Root"
+            },
+            {
+              "ns": 0,
+              "title": "Knoppix"
+            },
+            {
+              "ns": 0,
+              "title": "Kongoni (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "KornShell"
+            },
+            {
+              "ns": 0,
+              "title": "Korora (operating system)"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770668976.4760938
+}

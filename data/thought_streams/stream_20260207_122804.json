@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-07T12:28:04.693444",
+  "thought_count": 1,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-07T12:28:04.692444",
+      "type": "research",
+      "content": "Crawled Wikipedia: Amplitude (physics)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 0,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 4,
+    "reflection": 2,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

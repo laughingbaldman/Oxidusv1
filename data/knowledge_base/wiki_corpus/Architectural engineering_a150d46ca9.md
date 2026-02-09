@@ -1,0 +1,963 @@
+---
+title: "Architectural engineering"
+domain: "engineering"
+source_id: "wikipedia"
+source_url: "https://en.wikipedia.org/wiki/Architectural_engineering"
+source_title: "Architectural engineering"
+source_type: "wiki"
+topic_type: "wiki_article"
+license: "CC BY-SA 4.0"
+curator: "oxidus_wiki_crawler"
+created_utc: "2026-02-09T13:37:57.002813"
+updated_utc: "2026-02-09T20:37:57Z"
+lifecycle_state: "raw"
+content_length: 14815
+links_count: 866
+trust_tier: "secondary"
+---
+
+Architectural engineering or architecture engineering, also known as building engineering, is a discipline that deals with the engineering and construction of buildings, such as environmental, structural, mechanical, electrical, computational, embeddable, and other research domains. It is related to Architecture, Mechatronics Engineering, Computer Engineering, Aerospace Engineering, and Civil Engineering, but distinguished from Interior Design and Architectural Design as an art and science of designing infrastructure through these various engineering disciplines, from which properly align with many related surrounding engineering advancements.
+From reduction of greenhouse gas emissions to the construction of resilient buildings, architectural engineers are at the forefront of addressing several major challenges of the 21st century. They apply the latest scientific knowledge and technologies to the design of buildings. Architectural engineering as a relatively new licensed profession emerged in the 20th century as a result of the rapid technological developments. Architectural engineers are at the forefront of two major historical opportunities that today's world is immersed in: (1) that of rapidly advancing computer-technology, and (2) the parallel revolution of environmental sustainability.
+Architects and architectural engineers both play crucial roles in building design and construction, but they focus on different aspects. Architectural engineers specialize in the technical and structural aspects, ensuring buildings are safe, efficient, and sustainable. Their education blends architecture with engineering, focusing on structural integrity, mechanical systems, and energy efficiency. They design and analyze building systems, conduct feasibility studies, and collaborate with architects to integrate technical requirements into the overall design. Architects, on the other hand, emphasize the aesthetic, functional, and spatial elements, developing design concepts and detailed plans to meet client needs and comply with regulations. Their education focuses on design theory, history, and artistic aspects, and they oversee the construction process to ensure the design is correctly implemented.
+
+
+== Subdisciplines of architectural engineering ==
+
+
+=== Mechanical, electrical, and plumbing (MEP) ===
+
+Mechanical engineering and electrical engineering engineers are specialists when engaged in the building design fields. This is known as mechanical, electrical, and plumbing (MEP) throughout the United States, or building services engineering in the United Kingdom, Canada, and Australia. Mechanical engineers often design and oversee the heating, ventilation and air conditioning (HVAC), plumbing, and rainwater systems. Plumbing designers often include design specifications for simple active fire protection systems, but for more complicated projects, fire protection engineers are often separately retained. Electrical engineers are responsible for the building's electric power distribution, telecommunication, fire alarm, signalization, lightning protection and control systems, as well as lighting systems.
+
+
+=== Structural Engineering ===
+
+Structural engineering involves the analysis and design of the built environment (buildings, bridges, equipment supports, towers and walls). Those concentrating on buildings are sometimes informally referred to as "building engineers". Structural engineers require expertise in strength of materials, structural analysis, and in predicting structural load such as from weight of the building, occupants and contents, and extreme events such as wind, rain, ice, and seismic design of structures which is referred to as earthquake engineering. Architectural engineers sometimes incorporate structural as one aspect of their designs; the structural discipline when practiced as a specialty works closely with architects and other engineering specialists.
+
+
+=== Sustainable Engineering ===
+
+Sustainable engineering involves designing or operating systems to use energy and resources in a way that maintains environmental balance and ensures that future generations can meet their own needs without compromising the natural environment. Architectural engineers are influenced by sustainable engineering principles in their education, training, and practice, integrating sustainable design strategies to create buildings and structures that minimize environmental impact and enhance energy efficiency.
+
+
+=== Building Envelope Engineering ===
+
+Building enclosure and façade engineering involves the design and management of the outer shell of a building, which acts as a barrier between the interior and exterior environments. This includes walls, roofs, windows, doors, and other components that collectively ensure the building is protected from external elements such as air, water, heat, light, and noise.
+The building envelope plays a crucial role in maintaining indoor comfort by controlling temperature, humidity, and airflow. It also contributes to the building's energy efficiency by minimizing heat loss in the winter and heat gain in the summer. Engineers in this field work on making sure the envelope is structurally sound, aesthetically pleasing, and performs effectively to meet various functional requirements.
+
+
+=== Fire Protection Engineering ===
+
+Fire protection engineering is a subfield of building engineering focused on the design and application of systems and practices that prevent, control, and mitigate the impact of fires. This discipline aims to protect people, property, and the environment from the destructive effects of fire through a combination of preventive measures, detection systems, and response strategies.
+Fire protection engineers use their expertise to analyze potential fire scenarios, model the spread of fire and smoke, and design systems that effectively protect lives and property. They collaborate with architects, builders, and safety officials to integrate fire protection measures into the overall design and operation of buildings and facilities.
+
+
+=== Acoustical Engineering ===
+
+Acoustical or acoustics engineering in building design focuses on controlling sound within and around buildings to create a comfortable and functional auditory environment. This discipline involves the study and application of principles to manage noise levels, improve sound quality, and ensure effective sound insulation.
+Acoustical engineers work closely with architects, builders, and other engineers to integrate sound control measures into the overall design of a building. They use advanced modeling and simulation tools to predict how sound will behave in different spaces and employ various materials and techniques to achieve the desired acoustic performance. Their goal is to create environments that are acoustically comfortable, meeting the specific needs of the building's occupants and its intended use.
+
+
+== The architectural engineer (PE) in the United States ==
+
+In many jurisdictions of the United States, the architectural engineer is a licensed engineering professional. Usually a graduate of an EAC/ABET-accredited architectural engineering university program preparing students to perform whole-building design in competition with architect-engineer teams; or for practice in one of structural, mechanical or electrical fields of building design, but with an appreciation of integrated architectural requirements. Although some states require a BS degree from an EAC/ABET-accredited engineering program, with no exceptions, about two thirds of the states accept BS degrees from ETAC/ABET-accredited architectural engineering technology programs to become licensed engineering professionals. Architectural engineering technology graduates, with applied engineering skills, often gain further learning with an MS degree in engineering and/or NAAB-accredited Masters of Architecture to become licensed as both an engineer and architect. This path requires the individual to pass state licensing exams in both disciplines. States handle this situation differently on experienced gained working under a licensed engineer and/or registered architect prior to taking the examinations. This education model is more in line with the educational system in the United Kingdom where an accredited MEng or MS degree in engineering for further learning is required by the Engineering Council to be registered as a Chartered Engineer. The National Council of Architectural Registration Boards (NCARB) facilitate the licensure and credentialing of architects but requirements for registration often vary between states. In the state of New Jersey, a registered architect is allowed to sit for the PE exam and a professional engineer is allowed to take the design portions of the Architectural Registration Exam (ARE), to become a registered architect.
+Formal architectural engineering education, following the engineering model of earlier disciplines, developed in the late 19th century, and became widespread in the United States by the mid-20th century.  With the establishment of a specific "architectural engineering" NCEES Professional Engineering registration examination in the 1990s, and first offering in April 2003, architectural engineering became recognized as a distinct engineering discipline in the United States. Up to date NCEES account allows engineers to apply to other states PE license "by comity".
+In most license-regulated jurisdictions, architectural engineers are not entitled to practice architecture unless they are also licensed as architects.  Practice of structural engineering in high-risk locations, e.g., due to strong earthquakes, or on specific types of higher importance buildings such as hospitals, may require separate licensing as well.  Regulations and customary practice vary widely by state or city.
+
+
+== The architect as architectural engineer ==
+
+In some countries, the practice of architecture includes planning, designing and overseeing the building's construction, and architecture, as a profession providing architectural services, is referred to as "architectural engineering". In Japan, a "first-class architect" plays the dual role of architect and building engineer, although the services of a licensed "structural design first-class architect"(構造設計一級建築士) are required for buildings over a certain scale.
+In some languages, such as Korean and Arabic, "architect" is literally translated as "architectural engineer". In some countries, an "architectural engineer" (such as the ingegnere edile in Italy) is entitled to practice architecture and is often referred to as an architect. These individuals are often also structural engineers. In other countries, such as Germany, Austria, Iran, and most of the Arab countries, architecture graduates receive an engineering degree (Dipl.-Ing. – Diplom-Ingenieur).
+In Spain, an "architect" has a technical university education and legal powers to carry out building structure and facility projects.
+In Brazil, architects and engineers used to share the same accreditation process (Conselho Federal de Engenheiros, Arquitetos e Agrônomos (CONFEA) – Federal Council of Engineering, Architecture and Agronomy). Now the Brazilian architects and urbanists have their own accreditation process (CAU – Architecture and Urbanism Council). Besides traditional architecture design training, Brazilian architecture courses also offer complementary training in engineering disciplines such as structural, electrical, hydraulic and mechanical engineering. After graduation, architects focus in architectural planning, yet they can be responsible to the whole building, when it concerns to small buildings (except in electric wiring, where the architect autonomy is limited to systems up to 30kVA, and it has to be done by an Electrical Engineer), applied to buildings, urban environment, built cultural heritage, landscape planning, interiorscape planning and regional planning.
+In Greece licensed architectural engineers are graduates from architecture faculties that belong to the Polytechnic University, obtaining an "Engineering Diploma". They graduate after 5 years of studies and are fully entitled architects once they become members of the Technical Chamber of Greece (TEE – Τεχνικό Επιμελητήριο Ελλάδος). The Technical Chamber of Greece has more than 100,000 members encompassing all the engineering disciplines as well as architecture. A prerequisite for being a member is to be licensed as a qualified engineer or architect and to be a graduate of an engineering and architecture schools of a Greek university, or of an equivalent school from abroad. The Technical Chamber of Greece is the authorized body to provide work licenses to engineers of all disciplines as well as architects, graduated in Greece or abroad. The license is awarded after examinations. The examinations take place three to four times a year. The Engineering Diploma equals a master's degree in ECTS units (300) according to the Bologna Accords.
+
+
+== Education ==
+
+The architectural, structural, mechanical and electrical engineering branches each have well established educational requirements that are usually fulfilled by completion of a university program.
+In Canada, a CEAB-accredited engineer degree is the minimum academic requirement for registration as a P.Eng (professional engineer) anywhere in Canada and the standard against which all other engineering academic qualifications are measured. A graduate of a non-CEAB-accredited program must demonstrate that his or her education is at least equivalent to that of a graduate of a CEAB-accredited program.
+In Vietnam, the engineer's degree is called Bằng kỹ sư, the first degree after five years of study. The Ministry of Education of Vietnam has also issued separate regulations for the naming of degrees not in accordance with international regulation.
+
+
+=== Architectural engineering as a single integrated field of study ===
+
+Its multi-disciplinary engineering approach is what differentiates architectural engineering from architecture (the field of the architect): which is an integrated, separate and single, field of study when compared to other engineering disciplines.
+Through training in and appreciation of architecture, the field seeks integration of building systems within its overall building design. Architectural engineering includes the design of building systems including heating, ventilation and air conditioning (HVAC), plumbing, fire protection, electrical, lighting, architectural acoustics, and structural systems. In some university programs, students are required to concentrate on one of the systems; in others, they can receive a generalist architectural or building engineering degree.
+
+
+== See also ==
+
+
+=== Associations ===
+
+
+== References ==
+
+## Links
+- ABET
+- ASHRAE
+- ASHRAE Handbook
+- ASTM International
+- Absorption-compression heat pump
+- Absorption refrigerator
+- Academic discipline
+- Acoustic engineering
+- Acoustical engineering
+- Acoustics
+- Active fire protection
+- Aerospace engineering
+- Agricultural engineering
+- Air-mixing plenum
+- Air Conditioning, Heating and Refrigeration Institute
+- Air Movement and Control Association
+- Air barrier
+- Air changes per hour
+- Air conditioner inverter
+- Air conditioning
+- Air door
+- Air filter
+- Air flow meter
+- Air handler
+- Air handling unit
+- Air ioniser
+- Air purifier
+- Air source heat pump
+- Air traffic obstacle
+- American Institute of Architects
+- American Institute of Constructors
+- American Society of Civil Engineers
+- American Society of Plumbing Engineers
+- Antenna height considerations
+- Antifreeze
+- Aquastat
+- Arabic language
+- Architect
+- Architectural acoustics
+- Architectural design
+- Architectural drawing
+- Architectural engineer (PE)
+- Architectural lighting design
+- Architectural style
+- Architectural technologist
+- Architectural technology
+- Architectural theory
+- Architecture
+- Artificial intelligence engineering
+- Asbestos Testing and Consultancy Association
+- Associated General Contractors of America
+- Association of Plumbing and Heating Contractors
+- Attic fan
+- Audio engineer
+- Automatic balancing valve
+- Automation engineering
+- Automobile air conditioning
+- Automotive engineering
+- Autonomous building
+- BACnet
+- BSRIA
+- Bachelor of Engineering
+- Bachelor of Science
+- Back boiler
+- Bake-out
+- Banksman
+- Barrier pipe
+- Biochemical engineering
+- Bioinformatics
+- Biological engineering
+- Biomaterial
+- Biomechanical engineering
+- Biomedical engineering
+- Bioresource engineering
+- Blast damper
+- Blower door
+- Boiler
+- Boilermaker
+- Bologna Process
+- Bricklayer
+- British industrial architecture
+- Broadcast engineering
+- Build UK
+- Builder's signature
+- Builders' rites
+- Building
+- Building Research Establishment
+- Building automation
+- Building code
+- Building engineer
+- Building engineering education
+- Building envelope
+- Building estimator
+- Building information modeling
+- Building insulation material
+- Building material
+- Building officials
+- Building science
+- Building services engineering
+- Buildings
+- Carbon dioxide sensor
+- Carpentry
+- Central heating
+- Central solar heating
+- Centrifugal fan
+- Ceramic engineering
+- Ceramic heater
+- Chartered Building Surveyor
+- Chartered Engineer (UK)
+- Chartered Institute of Plumbing and Heating Engineering
+- Chartered Institution of Building Services Engineers
+- Chartered Institution of Civil Engineering Surveyors
+- Chemical engineering
+- Chemical reaction engineering
+- Chilled beam
+- Chilled water
+- Chiller
+- Civil Engineering Contractors Association
+- Civil engineer
+- Civil engineering
+- Civil estimator
+- Clean air delivery rate
+- Clerk of works
+- Climate engineering
+- Clinical engineering
+- Coastal engineering
+- Comparison of EDA software
+- Comparison of EM simulation software
+- Comparison of nucleic acid simulation software
+- Comparison of optimization software
+- Comparison of software for molecular mechanics modeling
+- Comparison of system dynamics software
+- Compressor
+- Computer engineering
+- Computer network engineering
+- Concrete finisher
+- Condensate pump
+- Condenser (heat transfer)
+- Condensing boiler
+- Constant air volume
+- Construction
+- Construction History Society
+- Construction Management Association of America
+- Construction Specifications Institute
+- Construction bidding
+- Construction delay
+- Construction engineering
+- Construction equipment theft
+- Construction foreman
+- Construction industry in India
+- Construction industry in Iran
+- Construction industry in Japan
+- Construction industry in Romania
+- Construction industry in Taiwan
+- Construction industry in the United Kingdom
+- Construction industry in the United States
+- Construction law
+- Construction management
+- Construction site safety
+- Construction waste
+- Construction worker
+- Contour crafting
+- Control engineering
+- Control systems
+- Control valve
+- Convection
+- Convection heater
+- Coolant
+- Cooling tower
+- Cornerstone
+- Corrosion engineering
+- Cross ventilation
+- Cybersecurity engineering
+- César Pelli
+- DFMA
+- DIN 276
+- Damp (structural)
+- Damp proofing
+- Damper (flow)
+- Data engineering
+- Dedicated outdoor air system
+- Deep energy retrofit
+- Deep water source cooling
+- Dehumidifier
+- Demand controlled ventilation
+- Demolition
+- Design
+- Design engineer
+- Design–bid–build
+- Design–build
+- Dilution (equation)
+- Displacement ventilation
+- District cooling
+- District heating
+- Doctorate
+- Doi (identifier)
+- Domestic energy consumption
+- Duct (flow)
+- Duct cleaning
+- Duct leakage testing
+- Early skyscrapers
+- Earthbag construction
+- Earthquake engineering
+- Ecological engineering
+- Economizer
+- Electric heating
+- Electric power distribution
+- Electrical
+- Electrical engineering
+- Electrician
+- Electrochemical engineering
+- Electromechanics
+- Electronic engineering
+- Electronics engineering
+- Electrostatic precipitator
+- Energy engineering
+- Energy recovery ventilation
+- Engineer
+- Engineer's degree
+- Engineering
+- Engineering disciplines
+- Engineering drawing
+- Engineering education
+- Engineering ethics
+- Engineering management
+- Engineering mathematics
+- Engineering physics
+- Enthalpy
+- Environmental engineering
+- Evaporative cooler
+- Evaporator
+- Exhaust hood
+- Expansion tank
+- Explosives engineering
+- FIDIC
+- Facilities engineering
+- Fan (machine)
+- Fan coil unit
+- Fan filter unit
+- Fan heater
+- Fire alarm
+- Fire damper
+- Fire investigation
+- Fire protection
+- Fire protection engineering
+- Fireplace
+- Fireplace insert
+- Fireproofing
+- Firestop
+- Floor loan
+- Flue
+- Fluid dynamics
+- Food engineering
+- Forced-air
+- Forced-air gas
+- Forensic engineering
+- Free cooling
+- Freeze stat
+- Freon
+- Fume hood
+- Furnace (house heating)
+- Gas compressor
+- Gas detector
+- Gas heater
+- Gasoline heater
+- Genetic engineering
+- Geological engineering
+- Geomatics engineering
+- Geotechnical engineering
+- Gigantomania
+- Glazier
+- Glossary
+- Glossary of HVAC terms
+- Glossary of aerospace engineering
+- Glossary of civil engineering
+- Glossary of electrical and electronics engineering
+- Glossary of engineering
+- Glossary of engineering: A–L
+- Glossary of engineering: M–Z
+- Glossary of mechanical engineering
+- Glossary of structural engineering
+- Graduate certificate
+- Grease duct
+- Greenhouse gas emissions
+- Grille (architecture)
+- Ground-coupled heat exchanger
+- Ground source heat pump
+- Groundscraper
+- Guyed mast
+- HEPA
+- HVAC
+- HVAC control system
+- Harling (wall finish)
+- Health technology
+- Heat exchanger
+- Heat pipe
+- Heat pump
+- Heat pump and refrigeration cycle
+- Heat recovery ventilation
+- Heat transfer
+- Heating, ventilation, and air conditioning
+- Heating, ventilation and air conditioning
+- Heating film
+- Heating system
+- Heavy equipment
+- Height restriction laws
+- High-pressure cut-off switch
+- High efficiency glandless circulating pump
+- History of architectural engineering
+- History of architecture
+- History of construction
+- History of engineering
+- History of infrastructure
+- History of structural engineering
+- History of the world's tallest buildings
+- History of the world's tallest structures
+- History of water supply and sanitation
+- Home Builders Federation
+- Home construction
+- Home energy monitor
+- Humidifier
+- Humidistat
+- Humidity
+- Hybrid heat
+- Hydraulic engineering
+- Hydronic balancing
+- Hydronics
+- ISBN (identifier)
+- Ice storage air conditioning
+- Illegal construction
+- Illuminating Engineering Society
+- Indigenous architecture
+- Indoor air quality
+- Industrial architecture
+- Industrial engineering
+- Industrialization of construction
+- Infiltration (HVAC)
+- Information engineering
+- Infrared heater
+- Infrared thermometer
+- Institute of Electrical and Electronics Engineers
+- Institute of Refrigeration
+- Instrumentation and control engineering
+- Instrumentation engineering
+- Intelligent buildings
+- Interdisciplinarity
+- Interior architecture
+- Interior design
+- International Building Code
+- International Institute of Refrigeration
+- Inverter compressor
+- Ironworker
+- Jacob Burckhardt
+- Kerosene heater
+- Kitchen exhaust cleaning
+- Kitchen ventilation
+- Knopf Doubleday Publishing Group
+- Korean language
+- Landscape architecture
+- Latent heat
+- Leadership in Energy and Environmental Design
+- Lighting
+- Lighting Association
+- Lightning protection
+- List of 3D printing software
+- List of Ferris wheels
+- List of HDL simulators
+- List of RNA structure prediction software
+- List of aerospace engineering software
+- List of architects of supertall buildings
+- List of architectural styles
+- List of automotive engineering software
+- List of bioinformatics software
+- List of building information modeling software
+- List of building materials
+- List of buildings with 100 floors or more
+- List of chemical process simulators
+- List of cities in Australia with the most skyscrapers
+- List of cities in Canada with the most skyscrapers
+- List of cities in the United States with the most skyscrapers
+- List of cities with the most skyscrapers
+- List of civil engineering software
+- List of colossal sculpture in situ
+- List of computational chemistry software
+- List of computational fluid dynamics software
+- List of computational physics software
+- List of computer-aided engineering software
+- List of computer-aided manufacturing software
+- List of construction methods
+- List of construction trades
+- List of countries with the most skyscrapers
+- List of data science software
+- List of deepest mines
+- List of discrete event simulation software
+- List of early skyscrapers
+- List of elevator test towers
+- List of engineering awards
+- List of engineering branches
+- List of engineering journals and magazines
+- List of engineering schools
+- List of engineering societies
+- List of finite element analysis software
+- List of fires in high-rise buildings
+- List of flagpoles by height
+- List of free electronics circuit simulators
+- List of future tallest buildings
+- List of gene prediction software
+- List of genetic engineering software
+- List of highest church naves
+- List of hyperboloid structures
+- List of largest buildings
+- List of mechanical engineering software
+- List of megaprojects
+- List of megatall skyscrapers
+- List of most expensive buildings
+- List of numerical analysis software
+- List of numerical libraries
+- List of open-source libraries
+- List of plasma physics software
+- List of programming software development tools
+- List of protein structure prediction software
+- List of roller coaster rankings
+- List of sequence alignment software
+- List of skyscrapers by floor area
+- List of software for nanostructures modeling
+- List of software for nuclear engineering
+- List of structural engineering software
+- List of supertall skyscrapers
+- List of tallest Eastern Orthodox church buildings
+- List of tallest Hindu deity statues
+- List of tallest bridges
+- List of tallest buildings
+- List of tallest buildings and structures in Afghanistan
+- List of tallest buildings and structures in Egypt
+- List of tallest buildings and structures in Greece
+- List of tallest buildings and structures in the Indian subcontinent
+- List of tallest buildings by U.S. state and territory
+- List of tallest buildings by city
+- List of tallest buildings by country
+- List of tallest buildings by height to roof
+- List of tallest buildings designed by women
+- List of tallest buildings in Africa
+- List of tallest buildings in Albania
+- List of tallest buildings in Algeria
+- List of tallest buildings in Argentina
+- List of tallest buildings in Asia
+- List of tallest buildings in Australia
+- List of tallest buildings in Austria
+- List of tallest buildings in Azerbaijan
+- List of tallest buildings in Bangladesh
+- List of tallest buildings in Bolivia
+- List of tallest buildings in Bosnia and Herzegovina
+- List of tallest buildings in Brazil
+- List of tallest buildings in Bulgaria
+- List of tallest buildings in Cambodia
+- List of tallest buildings in Canada
+- List of tallest buildings in Central America
+- List of tallest buildings in Chile
+- List of tallest buildings in China
+- List of tallest buildings in Colombia
+- List of tallest buildings in Croatia
+- List of tallest buildings in Cyprus
+- List of tallest buildings in Denmark
+- List of tallest buildings in Ecuador
+- List of tallest buildings in Estonia
+- List of tallest buildings in Europe
+- List of tallest buildings in Finland
+- List of tallest buildings in France
+- List of tallest buildings in Georgia (country)
+- List of tallest buildings in Germany
+- List of tallest buildings in Hong Kong
+- List of tallest buildings in Iceland
+- List of tallest buildings in India
+- List of tallest buildings in Indonesia
+- List of tallest buildings in Iran
+- List of tallest buildings in Ireland
+- List of tallest buildings in Israel
+- List of tallest buildings in Italy
+- List of tallest buildings in Japan
+- List of tallest buildings in Kazakhstan
+- List of tallest buildings in Kenya
+- List of tallest buildings in Kuwait
+- List of tallest buildings in Latin America
+- List of tallest buildings in Latvia
+- List of tallest buildings in Lebanon
+- List of tallest buildings in Lithuania
+- List of tallest buildings in Macau
+- List of tallest buildings in Malaysia
+- List of tallest buildings in Malta
+- List of tallest buildings in Mexico
+- List of tallest buildings in Monaco
+- List of tallest buildings in Mongolia
+- List of tallest buildings in Morocco
+- List of tallest buildings in Myanmar
+- List of tallest buildings in New Zealand
+- List of tallest buildings in Nigeria
+- List of tallest buildings in North America
+- List of tallest buildings in North Korea
+- List of tallest buildings in North Macedonia
+- List of tallest buildings in Norway
+- List of tallest buildings in Oceania
+- List of tallest buildings in Pakistan
+- List of tallest buildings in Panama City
+- List of tallest buildings in Paraguay
+- List of tallest buildings in Peru
+- List of tallest buildings in Poland
+- List of tallest buildings in Portugal
+- List of tallest buildings in Qatar
+- List of tallest buildings in Romania
+- List of tallest buildings in Russia
+- List of tallest buildings in Saudi Arabia
+- List of tallest buildings in Scandinavia
+- List of tallest buildings in Singapore
+- List of tallest buildings in Slovakia
+- List of tallest buildings in Slovenia
+- List of tallest buildings in South Africa
+- List of tallest buildings in South America
+- List of tallest buildings in South Asia
+- List of tallest buildings in South Korea
+- List of tallest buildings in Southeast Asia
+- List of tallest buildings in Spain
+- List of tallest buildings in Sweden
+- List of tallest buildings in Switzerland
+- List of tallest buildings in Taiwan
+- List of tallest buildings in Tanzania
+- List of tallest buildings in Turkey
+- List of tallest buildings in Ukraine
+- List of tallest buildings in Uruguay
+- List of tallest buildings in Uzbekistan
+- List of tallest buildings in Venezuela
+- List of tallest buildings in Vietnam
+- List of tallest buildings in Zimbabwe
+- List of tallest buildings in the Baltic states
+- List of tallest buildings in the Czech Republic
+- List of tallest buildings in the European Union
+- List of tallest buildings in the Netherlands
+- List of tallest buildings in the Philippines
+- List of tallest buildings in the Southern Hemisphere
+- List of tallest buildings in the United Arab Emirates
+- List of tallest buildings in the United Kingdom
+- List of tallest buildings in the United States
+- List of tallest chimneys
+- List of tallest church buildings
+- List of tallest clock towers
+- List of tallest cooling towers
+- List of tallest crosses in the world
+- List of tallest dams
+- List of tallest demolished freestanding structures
+- List of tallest domes
+- List of tallest educational buildings
+- List of tallest freestanding steel structures
+- List of tallest freestanding structures
+- List of tallest gopurams
+- List of tallest hospitals
+- List of tallest hotels
+- List of tallest lighthouses
+- List of tallest minarets
+- List of tallest mosques
+- List of tallest oil platforms
+- List of tallest pyramids
+- List of tallest residential buildings
+- List of tallest statues
+- List of tallest structures
+- List of tallest structures built before the 20th century
+- List of tallest structures built in the Soviet Union
+- List of tallest structures by country
+- List of tallest structures in Africa
+- List of tallest structures in Albania
+- List of tallest structures in Algeria
+- List of tallest structures in Armenia
+- List of tallest structures in Australia
+- List of tallest structures in Austria
+- List of tallest structures in Bahrain
+- List of tallest structures in Belgium
+- List of tallest structures in Bulgaria
+- List of tallest structures in Canada
+- List of tallest structures in China
+- List of tallest structures in Denmark
+- List of tallest structures in Estonia
+- List of tallest structures in Europe
+- List of tallest structures in Finland
+- List of tallest structures in France
+- List of tallest structures in Germany
+- List of tallest structures in Hungary
+- List of tallest structures in Iceland
+- List of tallest structures in India
+- List of tallest structures in Indonesia
+- List of tallest structures in Iran
+- List of tallest structures in Ireland
+- List of tallest structures in Italy
+- List of tallest structures in Japan
+- List of tallest structures in Luxembourg
+- List of tallest structures in Mongolia
+- List of tallest structures in Morocco
+- List of tallest structures in Myanmar
+- List of tallest structures in New Zealand
+- List of tallest structures in Norway
+- List of tallest structures in Poland
+- List of tallest structures in Portugal
+- List of tallest structures in Romania
+- List of tallest structures in Serbia
+- List of tallest structures in Slovakia
+- List of tallest structures in South Africa
+- List of tallest structures in South America
+- List of tallest structures in Spain
+- List of tallest structures in Sri Lanka
+- List of tallest structures in Sweden
+- List of tallest structures in Switzerland
+- List of tallest structures in Thailand
+- List of tallest structures in Tunisia
+- List of tallest structures in Turkey
+- List of tallest structures in Turkmenistan
+- List of tallest structures in Uzbekistan
+- List of tallest structures in the Czech Republic
+- List of tallest structures in the Middle East
+- List of tallest structures in the Netherlands
+- List of tallest structures in the Philippines
+- List of tallest structures in the United Kingdom
+- List of tallest structures in the United States
+- List of tallest structures in the United States by height
+- List of tallest twin buildings and structures
+- List of tallest voluntarily demolished buildings
+- List of tallest wooden buildings and structures
+- List of the tallest structures in Saudi Arabia
+- List of visionary tall buildings and structures
+- Lists of buildings and structures
+- Lists of engineering software
+- Lists of engineers
+- Lists of open-source artificial intelligence software
+- Logistics engineering
+- LonWorks
+- Louver
+- Manufacturing engineering
+- Marine engineering
+- Master's degree
+- Materials engineering
+- Materials science
+- Mathematical software
+- Mechanical, electrical, and plumbing
+- Mechanical engineering
+- Mechanical room
+- Mechatronics
+- Mechatronics Engineering
+- Mechatronics engineering
+- Megaproject
+- Megastructure
+- Metallurgy
+- Microgeneration
+- Microwave engineering
+- Military engineering
+- Millwork
+- Millwright
+- Minimum efficiency reporting value
+- Mining engineering
+- Mixed-mode ventilation
+- Modern methods of construction
+- Mold growth, assessment, and remediation
+- Molecular design software
+- Molecular engineering
+- Monocrete construction
+- Municipal or urban engineering
+- NCEES
+- Nanotechnology
+- National Association of Home Builders
+- National Association of Women in Construction
+- National Council of Architectural Registration Boards
+- National Fire Protection Association
+- National Kitchen & Bath Association
+- National Railroad Construction and Maintenance Association
+- National Society of Professional Engineers
+- National Tile Contractors Association
+- Naval architecture
+- Noise control
+- Normal temperature and pressure
+- Nuclear engineering
+- Offshore construction
+- Offshore engineering
+- Oil heater
+- Ontology engineering
+- OpenTherm
+- Optical engineering
+- Outgassing
+- Outline of architecture
+- Outline of computer engineering
+- Outline of construction
+- Outline of engineering
+- Packaged terminal air conditioner
+- Packaging engineering
+- Paper engineering
+- Parge coat
+- Particulates
+- Passive cooling
+- Passive daytime radiative cooling
+- Passive house
+- Passive smoking
+- Passive ventilation
+- Peter Murray (art historian)
+- Petroleum engineering
+- Pharmaceutical engineering
+- Plasterer
+- Plasterwork
+- Plenum space
+- Plumber
+- Plumbing
+- Polymer engineering
+- Polytechnic (Greece)
+- Power engineering
+- Power engineering software
+- Pressurisation ductwork
+- Privacy engineering
+- Process duct work
+- Process engineering
+- Profession
+- Professional Engineer
+- Professional engineer
+- Programmable communicating thermostat
+- Programmable thermostat
+- Project manager
+- Psychrometrics
+- Quantity surveyor
+- Radiant cooling
+- Radiant heating
+- Radiant heating and cooling
+- Radiator (heating)
+- Radiator reflector
+- Radio-frequency engineering
+- Radon mitigation
+- Railway Tie Association
+- Railway engineering
+- Rain gutter
+- Raised floor
+- Ratner Athletic Center
+- Real-estate bubble
+- Real estate development
+- Recuperator
+- Refrigerant
+- Refrigerant reclamation
+- Refrigeration
+- Register (air and heating)
+- Regulation and licensure in engineering
+- Rehabilitation engineering
+- Renewable heat
+- Reverse Engineering
+- Reversing valve
+- River engineering
+- Robotics engineering
+- Roofer
+- Room air distribution
+- Room temperature
+- Roughcast
+- Royal Institution of Chartered Surveyors
+- Run-around coil
+- S2CID (identifier)
+- Safety engineering
+- Sail switch
+- Sanitary engineering
+- Scottish Building Federation
+- Scroll compressor
+- Security engineering
+- Seismic design
+- Semiconductor device
+- Sensible heat
+- Sheet Metal and Air Conditioning Contractors' National Association
+- Sick building syndrome
+- Signal processing
+- Site manager
+- Skyscraper
+- Skyscraper Index
+- Slip forming
+- Smart thermostat
+- Smoke canopy
+- Smoke damper
+- Smoke exhaust ductwork
+- Society of Construction Arbitrators
+- Society of Fire Protection Engineers
+- Software engineering
+- Solar-assisted heat pump
+- Solar air heat
+- Solar chimney
+- Solar combisystem
+- Solar cooling
+- Solar heating
+- Soundproofing
+- Space heater
+- Sports engineering
+- Stack effect
+- Standard temperature and pressure
+- Steel fixer
+- Stonemasonry
+- Storey
+- Storm hardening
+- Strength of materials
+- Structural alignment software
+- Structural analysis
+- Structural engineer
+- Structural engineering
+- Structural load
+- Superintendent (construction)
+- Surface engineering
+- Survey engineering
+- Sustainability in construction
+- Sustainable engineering
+- Systems engineering
+- Tallest industrial buildings
+- Tallest structures by category
+- Telecommunication
+- Telecommunications engineering
+- Testing, adjusting, balancing
+- Textile engineering
+- The Concrete Society
+- Thermal comfort
+- Thermal destratification
+- Thermal engineering
+- Thermal expansion valve
+- Thermal insulation
+- Thermal mass
+- Thermal wheel
+- Thermodynamics
+- Thermographic camera
+- Thermosiphon
+- Thermostat
+- Thermostatic radiator valve
+- Timeline of architecture
+- Tissue engineering
+- Topping out
+- Tower block
+- Traffic engineering (transportation)
+- Transportation engineering
+- Tribology
+- Trickle vent
+- Trombe wall
+- Tunnel construction
+- TurboSwing
+- Turkish construction and contracting industry
+- Turning vanes
+- U.S. Green Building Council
+- UNESCO
+- Ultra-low particulate air
+- Underfloor air distribution
+- Underfloor heating
+- Underground construction
+- Unfinished building
+- Uniform Mechanical Code
+- Urban design
+- Urban planning
+- Vanity height
+- Vapor-compression refrigeration
+- Vapor barrier
+- Vapour pressure of water
+- Variable air volume
+- Variable refrigerant flow
+- Ventilation (architecture)
+- Vernacular architecture
+- Vietnam
+- Volatile organic compound
+- Warm Spaces
+- Water heat recycling
+- Welder
+- Whole-house fan
+- Wind energy software
+- Windcatcher
+- Wire rope
+- Wood-burning stove
+- World Refrigeration Day
+- Zone valve
+- Zoning

@@ -1,0 +1,373 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "111194": {
+          "pageid": 111194,
+          "ns": 0,
+          "title": "Pyroxene",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ALH84001"
+            },
+            {
+              "ns": 0,
+              "title": "Aegirine"
+            },
+            {
+              "ns": 0,
+              "title": "Aegirine-augite"
+            },
+            {
+              "ns": 0,
+              "title": "Afghanistan"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminium"
+            },
+            {
+              "ns": 0,
+              "title": "Amphibole"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek"
+            },
+            {
+              "ns": 0,
+              "title": "Andesite"
+            },
+            {
+              "ns": 0,
+              "title": "Augite"
+            },
+            {
+              "ns": 0,
+              "title": "Basalt"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bridgmanite"
+            },
+            {
+              "ns": 0,
+              "title": "Bronzite"
+            },
+            {
+              "ns": 0,
+              "title": "Calcium"
+            },
+            {
+              "ns": 0,
+              "title": "Cations"
+            },
+            {
+              "ns": 0,
+              "title": "CheMin"
+            },
+            {
+              "ns": 0,
+              "title": "Chromium"
+            },
+            {
+              "ns": 0,
+              "title": "Cleavage (mineralogy)"
+            },
+            {
+              "ns": 0,
+              "title": "Clinoenstatite"
+            },
+            {
+              "ns": 0,
+              "title": "Clinopyroxene thermobarometry"
+            },
+            {
+              "ns": 0,
+              "title": "Cobalt"
+            },
+            {
+              "ns": 0,
+              "title": "Coupled substitution"
+            },
+            {
+              "ns": 0,
+              "title": "Curiosity rover"
+            },
+            {
+              "ns": 0,
+              "title": "Diopside"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Emerald"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Enstatite"
+            },
+            {
+              "ns": 0,
+              "title": "Esseneite"
+            },
+            {
+              "ns": 0,
+              "title": "Feldspar"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrosilite"
+            },
+            {
+              "ns": 0,
+              "title": "Gabbro"
+            },
+            {
+              "ns": 0,
+              "title": "Hedenbergite"
+            },
+            {
+              "ns": 0,
+              "title": "History of mineralogy"
+            },
+            {
+              "ns": 0,
+              "title": "Hypersthene"
+            },
+            {
+              "ns": 0,
+              "title": "I-beam"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Igneous rock"
+            },
+            {
+              "ns": 0,
+              "title": "Industrial mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "Jadeite"
+            },
+            {
+              "ns": 0,
+              "title": "K-feldspar"
+            },
+            {
+              "ns": 0,
+              "title": "Kanoite"
+            },
+            {
+              "ns": 0,
+              "title": "Kosmochlor"
+            },
+            {
+              "ns": 0,
+              "title": "Lava"
+            },
+            {
+              "ns": 0,
+              "title": "List of minerals"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium"
+            },
+            {
+              "ns": 0,
+              "title": "Magnesium"
+            },
+            {
+              "ns": 0,
+              "title": "Manganese"
+            },
+            {
+              "ns": 0,
+              "title": "Mantle (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Martian soil"
+            },
+            {
+              "ns": 0,
+              "title": "Metamorphic rock"
+            },
+            {
+              "ns": 0,
+              "title": "Mica"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Mineralogy"
+            },
+            {
+              "ns": 0,
+              "title": "Miscibility gap"
+            },
+            {
+              "ns": 0,
+              "title": "Monoclinic"
+            },
+            {
+              "ns": 0,
+              "title": "NASA"
+            },
+            {
+              "ns": 0,
+              "title": "Olivine"
+            },
+            {
+              "ns": 0,
+              "title": "Omphacite"
+            },
+            {
+              "ns": 0,
+              "title": "Orthorhombic"
+            },
+            {
+              "ns": 0,
+              "title": "Peridotite"
+            },
+            {
+              "ns": 0,
+              "title": "Phenocryst"
+            },
+            {
+              "ns": 0,
+              "title": "Pigeonite"
+            },
+            {
+              "ns": 0,
+              "title": "Plagioclase"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroxenite"
+            },
+            {
+              "ns": 0,
+              "title": "Pyroxenoid"
+            },
+            {
+              "ns": 0,
+              "title": "Quartz"
+            },
+            {
+              "ns": 0,
+              "title": "Rhodonite"
+            },
+            {
+              "ns": 0,
+              "title": "Rock (geology)"
+            },
+            {
+              "ns": 0,
+              "title": "Rocknest (Mars)"
+            },
+            {
+              "ns": 0,
+              "title": "Scandium"
+            },
+            {
+              "ns": 0,
+              "title": "Silicate minerals"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium"
+            },
+            {
+              "ns": 0,
+              "title": "Solid solution"
+            },
+            {
+              "ns": 0,
+              "title": "Spinel"
+            },
+            {
+              "ns": 0,
+              "title": "Spodumene"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrahedra"
+            },
+            {
+              "ns": 0,
+              "title": "Thin section"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium"
+            },
+            {
+              "ns": 0,
+              "title": "Upper mantle (Earth)"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium"
+            },
+            {
+              "ns": 0,
+              "title": "Volcanic glass"
+            },
+            {
+              "ns": 0,
+              "title": "Wollastonite"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray crystallography"
+            },
+            {
+              "ns": 0,
+              "title": "Xenolith"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770328600.2996895
+}

@@ -1,0 +1,1021 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "25006": {
+          "pageid": 25006,
+          "ns": 0,
+          "title": "Procyon",
+          "links": [
+            {
+              "ns": 0,
+              "title": "11 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "14 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "1 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "4C 05.34"
+            },
+            {
+              "ns": 0,
+              "title": "61 Cygni"
+            },
+            {
+              "ns": 0,
+              "title": "6 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "AZ Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Amazonas (Brazilian state)"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent visual magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Aquila (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arabic"
+            },
+            {
+              "ns": 0,
+              "title": "Argument of periastron"
+            },
+            {
+              "ns": 0,
+              "title": "Arthur Auwers"
+            },
+            {
+              "ns": 0,
+              "title": "Asterism (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Asteroseismology"
+            },
+            {
+              "ns": 0,
+              "title": "Astrolabe"
+            },
+            {
+              "ns": 0,
+              "title": "Astrometry"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical unit"
+            },
+            {
+              "ns": 0,
+              "title": "BC Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "BG Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "BU Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Babylonians"
+            },
+            {
+              "ns": 0,
+              "title": "Bailer"
+            },
+            {
+              "ns": 0,
+              "title": "Bayer designation"
+            },
+            {
+              "ns": 0,
+              "title": "Beta Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Betelgeuse"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binary star"
+            },
+            {
+              "ns": 0,
+              "title": "Bonner Durchmusterung"
+            },
+            {
+              "ns": 0,
+              "title": "Bright Star Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Brown dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Minor"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Minor (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Minor in Chinese astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Canopus"
+            },
+            {
+              "ns": 0,
+              "title": "Capella"
+            },
+            {
+              "ns": 0,
+              "title": "Castor (star)"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Centimetre–gram–second system of units"
+            },
+            {
+              "ns": 0,
+              "title": "Color index"
+            },
+            {
+              "ns": 0,
+              "title": "Compact star"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "Convection"
+            },
+            {
+              "ns": 0,
+              "title": "Convection zone"
+            },
+            {
+              "ns": 0,
+              "title": "Culmination"
+            },
+            {
+              "ns": 0,
+              "title": "DENIS J1048−3956"
+            },
+            {
+              "ns": 0,
+              "title": "DX Cancri"
+            },
+            {
+              "ns": 0,
+              "title": "Decimal exponent"
+            },
+            {
+              "ns": 0,
+              "title": "Declination"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate matter"
+            },
+            {
+              "ns": 0,
+              "title": "Delta1 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Delta2 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Delta3 Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Distance (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "EZ Aquarii"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Eccentricity (orbit)"
+            },
+            {
+              "ns": 0,
+              "title": "Effective temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Einstein Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Epoch (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Eridani"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Eridani b"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Indi"
+            },
+            {
+              "ns": 0,
+              "title": "Epsilon Indi Ab"
+            },
+            {
+              "ns": 0,
+              "title": "Equinox (celestial coordinates)"
+            },
+            {
+              "ns": 0,
+              "title": "Erigone (daughter of Icarius)"
+            },
+            {
+              "ns": 0,
+              "title": "Eta Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "European Space Agency"
+            },
+            {
+              "ns": 0,
+              "title": "Exoplanet"
+            },
+            {
+              "ns": 0,
+              "title": "F-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Flag of Brazil"
+            },
+            {
+              "ns": 0,
+              "title": "Flamsteed designation"
+            },
+            {
+              "ns": 0,
+              "title": "Friedrich Bessel"
+            },
+            {
+              "ns": 0,
+              "title": "G-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "GJ 1061"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Gigayear"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 1"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 15 Ab"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 15 Ac"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 674"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 674 b"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese 687"
+            },
+            {
+              "ns": 0,
+              "title": "Gliese Catalogue of Nearby Stars"
+            },
+            {
+              "ns": 0,
+              "title": "Gomeisa"
+            },
+            {
+              "ns": 0,
+              "title": "Groombridge 34"
+            },
+            {
+              "ns": 0,
+              "title": "HD 60803"
+            },
+            {
+              "ns": 0,
+              "title": "HD 61563"
+            },
+            {
+              "ns": 0,
+              "title": "HD 66141"
+            },
+            {
+              "ns": 0,
+              "title": "Habitable zone"
+            },
+            {
+              "ns": 0,
+              "title": "Harvard Revised catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Hawaiian language"
+            },
+            {
+              "ns": 0,
+              "title": "Hdl (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Helium"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Draper Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Hipparcos"
+            },
+            {
+              "ns": 0,
+              "title": "Hipparcos Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Horizon"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Icarius"
+            },
+            {
+              "ns": 0,
+              "title": "Inclination"
+            },
+            {
+              "ns": 0,
+              "title": "International Astronomical Union"
+            },
+            {
+              "ns": 0,
+              "title": "Inuit astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "JSTOR (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "James B. Kaler"
+            },
+            {
+              "ns": 0,
+              "title": "John Martin Schaeberle"
+            },
+            {
+              "ns": 0,
+              "title": "K-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Kalapalo"
+            },
+            {
+              "ns": 0,
+              "title": "Kapteyn's Star"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kruger 60"
+            },
+            {
+              "ns": 0,
+              "title": "LHS 292"
+            },
+            {
+              "ns": 0,
+              "title": "Lacaille 8760"
+            },
+            {
+              "ns": 0,
+              "title": "Lacaille 9352"
+            },
+            {
+              "ns": 0,
+              "title": "Lacaille 9352 c"
+            },
+            {
+              "ns": 0,
+              "title": "Latinisation of names"
+            },
+            {
+              "ns": 0,
+              "title": "Lick Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Light-year"
+            },
+            {
+              "ns": 0,
+              "title": "List of brightest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of stars in Canis Minor"
+            },
+            {
+              "ns": 0,
+              "title": "Longitude of the node"
+            },
+            {
+              "ns": 0,
+              "title": "Luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Luyten's Star"
+            },
+            {
+              "ns": 0,
+              "title": "Luyten Half-Second Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Luyten b"
+            },
+            {
+              "ns": 0,
+              "title": "MOST satellite telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Maera (hound)"
+            },
+            {
+              "ns": 0,
+              "title": "Main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Main sequence"
+            },
+            {
+              "ns": 0,
+              "title": "Manioc"
+            },
+            {
+              "ns": 0,
+              "title": "Marduk"
+            },
+            {
+              "ns": 0,
+              "title": "Mato Grosso"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (planet)"
+            },
+            {
+              "ns": 0,
+              "title": "Metallicity"
+            },
+            {
+              "ns": 0,
+              "title": "Milliarcsecond"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly Notices of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Māori culture"
+            },
+            {
+              "ns": 0,
+              "title": "Māori language"
+            },
+            {
+              "ns": 0,
+              "title": "NASA"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2485"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2491"
+            },
+            {
+              "ns": 0,
+              "title": "New General Catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Night sky"
+            },
+            {
+              "ns": 0,
+              "title": "Northern Hemisphere"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Orbit"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital eccentricity"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital period"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital plane"
+            },
+            {
+              "ns": 0,
+              "title": "Orbiting Astronomical Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Orion (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford English Dictionary"
+            },
+            {
+              "ns": 0,
+              "title": "PKS 0736+017"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Parsec"
+            },
+            {
+              "ns": 0,
+              "title": "Periastron"
+            },
+            {
+              "ns": 0,
+              "title": "Photometry (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Pollux (star)"
+            },
+            {
+              "ns": 0,
+              "title": "Procyon (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Procyon (genus)"
+            },
+            {
+              "ns": 0,
+              "title": "Projected rotational velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Proper motion"
+            },
+            {
+              "ns": 0,
+              "title": "Radial velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation zone"
+            },
+            {
+              "ns": 0,
+              "title": "Radius"
+            },
+            {
+              "ns": 0,
+              "title": "Rainy season"
+            },
+            {
+              "ns": 0,
+              "title": "Red dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Right ascension"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Burnham Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Ross 128"
+            },
+            {
+              "ns": 0,
+              "title": "Ross 128 b"
+            },
+            {
+              "ns": 0,
+              "title": "Ross 248"
+            },
+            {
+              "ns": 0,
+              "title": "Ross 614"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SCR 1845−6357"
+            },
+            {
+              "ns": 0,
+              "title": "SIMBAD"
+            },
+            {
+              "ns": 0,
+              "title": "S Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Sea ice"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-major axis"
+            },
+            {
+              "ns": 0,
+              "title": "Sirius"
+            },
+            {
+              "ns": 0,
+              "title": "Slavic Macedonians"
+            },
+            {
+              "ns": 0,
+              "title": "Smithsonian Astrophysical Observatory Star Catalog"
+            },
+            {
+              "ns": 0,
+              "title": "Soft X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "Solar-like oscillations"
+            },
+            {
+              "ns": 0,
+              "title": "Solar luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Solar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Solar radius"
+            },
+            {
+              "ns": 0,
+              "title": "Spectral type"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star catalogue"
+            },
+            {
+              "ns": 0,
+              "title": "Star system"
+            },
+            {
+              "ns": 0,
+              "title": "Stars in astrology"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar atmosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar classification"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Struve 2398"
+            },
+            {
+              "ns": 0,
+              "title": "Subgiant"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Sun's luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Surface gravity"
+            },
+            {
+              "ns": 0,
+              "title": "TD-1A"
+            },
+            {
+              "ns": 0,
+              "title": "TZ Arietis"
+            },
+            {
+              "ns": 0,
+              "title": "Tau Ceti"
+            },
+            {
+              "ns": 0,
+              "title": "Teegarden's Star"
+            },
+            {
+              "ns": 0,
+              "title": "Teegarden's Star b"
+            },
+            {
+              "ns": 0,
+              "title": "Teegarden's Star c"
+            },
+            {
+              "ns": 0,
+              "title": "Teuira Henry"
+            },
+            {
+              "ns": 0,
+              "title": "Tim Bedding"
+            },
+            {
+              "ns": 0,
+              "title": "UGPS J072227.51−054031.2"
+            },
+            {
+              "ns": 0,
+              "title": "Uranus"
+            },
+            {
+              "ns": 0,
+              "title": "Van Maanen 2"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star designation"
+            },
+            {
+              "ns": 0,
+              "title": "Vermilion Bird"
+            },
+            {
+              "ns": 0,
+              "title": "Vertex (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "VizieR"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Well (Chinese constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "White dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Wide Field Infrared Explorer"
+            },
+            {
+              "ns": 0,
+              "title": "Winter Triangle"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf 1061"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf 1061b"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf 1061c"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf 1061d"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf 424"
+            },
+            {
+              "ns": 0,
+              "title": "Working Group on Star Names"
+            },
+            {
+              "ns": 0,
+              "title": "YY Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "YZ Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "YZ Ceti"
+            },
+            {
+              "ns": 0,
+              "title": "Year"
+            },
+            {
+              "ns": 0,
+              "title": "ZZ Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Zeta Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Β Canis Minoris"
+            },
+            {
+              "ns": 0,
+              "title": "Β Scorpii"
+            },
+            {
+              "ns": 0,
+              "title": "Ε Canis Minoris"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770328591.1725466
+}

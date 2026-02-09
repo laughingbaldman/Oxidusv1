@@ -1,0 +1,886 @@
+---
+title: "Aircraft"
+domain: "engineering"
+source_id: "wikipedia"
+source_url: "https://en.wikipedia.org/wiki/Aircraft"
+source_title: "Aircraft"
+source_type: "wiki"
+topic_type: "wiki_article"
+license: "CC BY-SA 4.0"
+curator: "oxidus_wiki_crawler"
+created_utc: "2026-02-08T13:57:58.575388"
+updated_utc: "2026-02-08T20:57:58Z"
+lifecycle_state: "raw"
+content_length: 29673
+links_count: 615
+trust_tier: "secondary"
+---
+
+An aircraft is a vehicle that is able to fly by gaining support from the air. It counters the force of gravity by using either static lift or the dynamic lift of an airfoil, or, in a few cases, direct downward thrust from its engines. Common examples of aircraft include airplanes, drones, rotorcraft (including helicopters), airships (including blimps), gliders, paramotors, and hot air balloons. Part 1 (Definitions and Abbreviations) of Subchapter A of Chapter I of Title 14 of the U. S. Code of Federal Regulations states that aircraft "means a device that is used or intended to be used for flight in the air."
+The human activity that surrounds aircraft is called aviation. The science of aviation includes, designing and building aircraft, is called aeronautics. Crewed aircraft are flown by an onboard pilot, whereas unmanned aerial vehicles may be remotely controlled or self-controlled by onboard computers. Aircraft may be classified by different criteria, such as lift type, aircraft propulsion (if any), usage and others.
+
+
+== History ==
+
+The history of aviation spans over two millennia, from the earliest innovations like kites and attempts at tower jumping to supersonic and hypersonic flight in powered, heavier-than-air jet aircraft. Kite flying in China, dating back several hundred years BC, is considered the earliest example of man-made flight. In the 15th century, Leonardo da Vinci created flying machine designs incorporating aeronautical concepts, but they were unworkable due to the limitations of contemporary knowledge.
+In the late 18th century, the Montgolfier brothers invented the hot-air balloon which soon led to manned flights. At almost the same time, the discovery of hydrogen gas led to the invention of the hydrogen balloon. Various theories in mechanics by physicists during the same period, such as fluid dynamics and Newton's laws of motion, led to the development of modern aerodynamics; most notably by Sir George Cayley. Balloons, both free-flying and tethered, began to be used for military purposes from the end of the 18th century, with France establishing balloon companies during the French Revolution.
+In the 19th century, especially the second half, experiments with gliders provided the basis for learning the dynamics of winged aircraft; most notably by Cayley, Otto Lilienthal, and Octave Chanute. By the early 20th century, advances in engine technology and aerodynamics made controlled, powered, manned heavier-than-air flight possible for the first time. In 1903, following their pioneering research and experiments with wing design and aircraft control, the Wright brothers successfully incorporated all of the required elements to create and fly the first airplane. In 1906 Charles Frederick Page was granted the first U.S. patent for an aircraft. The basic configuration with its characteristic cruciform tail was established by 1909, followed by rapid design and performance improvements aided by the development of more powerful engines.
+The first vessels of the air were the rigid steerable balloons pioneered by Ferdinand von Zeppelin that became synonymous with airships and dominated long-distance flight until the 1930s, when large flying boats became popular for trans-oceanic routes. After World War II, the flying boats were in turn replaced by airplanes operating from land, made far more capable first by improved propeller engines, then by jet engines, which revolutionized both civilian air travel and military aviation.
+In the latter half of the 20th century, the development of digital electronics led to major advances in flight instrumentation and "fly-by-wire" systems. The 21st century has seen the widespread use of pilotless drones for military, commercial, and recreational purposes. With computerized controls, inherently unstable aircraft designs, such as flying wings, have also become practical.
+
+
+== Methods of lift ==
+
+
+=== Lighter-than-air ===
+
+Lighter-than-air aircraft or aerostats use buoyancy to float in the air in much the same way that ships float on the water. They are characterized by one or more large cells or canopies, filled with a lifting gas such as helium, hydrogen or hot air, which is less dense than the surrounding air. Other gases lighter than air also theoretically work, however, such gases also needs to be safe for human use (non-flammable, non-toxic).
+Small hot-air balloons, called sky lanterns, were first invented in ancient China prior to the 3rd century BC and used primarily in cultural celebrations, although they also had military purposes. They, along with kites, were two forms of unmanned aircraft that originated from China. Kites were also used in the military, but unlike sky lanterns, their flight is caused by the differences of air pressure beneath and above the kite.
+A balloon was originally any aerostat, while the term airship was used for large, powered aircraft designs — usually fixed-wing. In 1919, Frederick Handley Page was reported as referring to "ships of the air," with smaller passenger types as "Air yachts." In the 1930s, large intercontinental flying boats were also sometimes referred to as "ships of the air" or "flying-ships".
+Lighter-than-air aircraft don't typically require a pilot's license in the United States. In most countries in Europe, standards for flying Lighter-than-air aircraft tend to be stricter compared to the United States.
+
+
+=== Heavier-than-air ===
+Heavier-than-air aircraft or aerodynes are denser than air and thus must find some way to obtain enough lift that can overcome the aircraft's weight. There are two ways to produce dynamic upthrust — aerodynamic lift by having air flowing past an aerofoil (such dynamic interaction of aerofoils with air is the origin of the term "aerodyne"), or powered lift in the form of reactional lift from downward engine thrust.
+Aerodynamic lift involving wings is the most common, and can be achieved via two methods. Fixed-wing aircraft (airplanes and gliders) achieve airflow past the wings by having the entire aircraft moving forward through the air, while rotorcraft (helicopters and autogyros) do so by having mobile, elongated wings spinning rapidly around a mast in an assembly known as the rotor.
+
+
+==== Fixed-wing aircraft ====
+
+Gliders were one of the first forms of a fixed wing aircraft. They are a special type of aircraft that doesn't require an engine. The first person to successfully build a human-carrying glider was George Cayley, who also was the first to discover the four major aerodynamic forces. The first powered aircraft (Airplane) was invented by Wilbur and Orville Wright.
+
+
+==== Rotorcraft ====
+
+A rotary-wing aircraft, rotorwing aircraft or rotorcraft is a heavier-than-air aircraft with rotary wings that spin around a vertical mast to generate lift. The assembly of several rotor blades mounted on a single mast is referred to as a rotor. The International Civil Aviation Organization (ICAO) defines a rotorcraft as "supported in flight by the reactions of the air on one or more rotors".
+Rotorcraft generally include aircraft where one or more rotors provide lift throughout the entire flight, such as helicopters, gyroplanes, autogyros, and gyrodynes Compound rotorcraft augment the rotor with additional thrust engines, propellers, or static lifting surfaces. Some types, such as helicopters, are capable of vertical takeoff and landing. An aircraft which uses rotor lift for vertical flight but changes to solely fixed-wing lift in horizontal flight is not a rotorcraft but a convertiplane.
+
+
+==== Other methods of lift ====
+
+A lifting body is an aircraft which produces lift through the shape of its body, rather than its wings or rotors, like conventional aircraft. Lifting bodies were first experimented by NASA in the 1960s-70s, but the idea was already conceived in the 1950s.
+A powered lift aircraft is one which has the capability of vertical takeoff and landing. These aircraft must transition from vertical to lateral movement, which is considered the most dangerous phases of a flight. Classes of powered lift types include VTOL jet aircraft (such as the Harrier jump jet) and tiltrotors, such as the Bell Boeing V-22 Osprey, among others.
+An ornithopter is an aircraft that produces lift through the movement of its wings, akin to how a bird flies.
+
+
+== Size and speed extremes ==
+
+
+=== Size ===
+The largest aircraft by dimensions and volume (as of 2016) is the 302 ft (92 m) long British Airlander 10, a hybrid blimp, with helicopter and fixed-wing features, and reportedly capable of speeds up to 90 mph (140 km/h; 78 kn), and an airborne endurance of two weeks with a payload of up to 22,050 lb (10,000 kg).
+The largest aircraft by weight and largest regular fixed-wing aircraft ever built, as of 2016, was the Antonov An-225 Mriya. That Soviet-built (Ukrainian SSR) six-engine transport of the 1980s was 84 m (276 ft) long, with an 88 m (289 ft) wingspan. It holds the world payload record, after transporting 428,834 lb (194,516 kg) of goods, and has flown 100 t (220,000 lb) loads commercially. With a maximum loaded weight of 550–700 t (1,210,000–1,540,000 lb), it was also the heaviest aircraft built to date. It could cruise at 500 mph (800 km/h; 430 kn). The aircraft was destroyed during the Russo-Ukrainian War.
+The largest military airplanes are the Ukrainian Antonov An-124 Ruslan (world's second-largest airplane, also used as a civilian transport), and American Lockheed C-5 Galaxy transport, weighing, loaded, over 380 t (840,000 lb). The 8-engine, piston/propeller Hughes H-4 Hercules "Spruce Goose" — an American World War II wooden flying boat transport with a greater wingspan (94m/260 ft) than any current aircraft and a tail height equal to the tallest (Airbus A380-800 at 24.1m/78 ft) — flew only one short hop in the late 1940s and never flew out of ground effect.
+The largest civilian airplanes, apart from the above-noted An-225 and An-124, are the Airbus Beluga cargo transport derivative of the Airbus A300 jet airliner, the Boeing Dreamlifter cargo transport derivative of the Boeing 747 jet airliner/transport (the 747-200B was, at its creation in the 1960s, the heaviest aircraft ever built, with a maximum weight of over 400 t (880,000 lb)), and the double-decker Airbus A380 "super-jumbo" jet airliner (the world's largest passenger airliner).
+
+
+=== Speeds ===
+
+The fastest fixed-wing aircraft and fastest glider, is the Space Shuttle, which re-entered the atmosphere at nearly Mach 25 or 17,500 mph (28,200 km/h)
+The fastest recorded powered aircraft flight and fastest recorded aircraft flight of an air-breathing powered aircraft was of the NASA X-43A Pegasus, a scramjet-powered, hypersonic, lifting body experimental research aircraft, at Mach 9.68 or 6,755 mph (10,870 km/h) on 16 November 2004.
+Prior to the X-43A, the fastest recorded powered airplane flight, and still the record for the fastest manned powered airplane, was the North American X-15, rocket-powered airplane at Mach 6.7 or 7,274 km/h (4,520 mph) on 3 October 1967.
+The fastest manned, air-breathing powered airplane is the Lockheed SR-71 Blackbird, a U.S. reconnaissance jet fixed-wing aircraft, having reached 3,530 km/h (2,193 mph) on 28 July 1976.
+
+
+== Propulsion and steering ==
+
+
+=== Unpowered aircraft ===
+The main feature of unpowered aircraft is the inability to directly provide thrust through its engines. This means that all unpowered aircraft rely on the environment for sustained flight. Gliders, for example, take advantage of their aerodynamic properties to enable them to travel long distances. Techniques such as thermal circling, where gliders fly into warm air which allows them to rise, prolongs flight time.
+Due to the lack of an engine, initial propulsion assistance is usually necessary to ensure flight. A common glider launching method is aerotowing, where another aircraft tows the glider to an altitude from which sustained flight is possible. Steering for a glider is also rudimentary, while more complex gliders like sailplanes usually have joysticks for steering, more basic aircraft like hang gliders rely on the pilot's physical coordination to change the centre of gravity.
+
+
+=== Powered aircraft ===
+
+A powered aircraft is an aircraft with a source of mechanical power, used to produce thrust. Such sources are generally engines, as is the case with airplanes, but can be human-powered in more extreme cases.
+
+
+==== Propeller aircraft ====
+Propeller aircraft, as their name suggests, rely on propellers to produce thrust for the airplane.
+
+
+==== Jet aircraft ====
+
+Compared to engines using propellers, jet engines can provide much higher thrust, higher speeds and, above about 40,000 ft (12,000 m), greater efficiency.
+
+
+==== Rotorcraft ====
+
+Although some rotorcraft, such as rotor kites, can be unpowered, most rotorcraft are powered by either piston engines or turboprops.  Some rotorcraft, including autogyros and gyrodynes, are propelled by a conventional propeller or jet engine, with the rotor unpowered, but most modern rotorcraft have a powered rotor, allowing them to hover in place.  Autogyros and gyrodynes are steered using a rudder, similarly to propeller and jet aircraft, and rotorcraft with powered rotors, such as helicopters, turn by adjusting the pitch of the rotor cylically, so that the rotors on one side produce more lift than the other.  Rotorcraft with powered rotors typically need a tail rotor to counter the rotational thrust produced by the rotor, which can cause the helicopter to spin.
+
+
+== Design and construction ==
+The key parts of an aircraft are generally divided into three categories:
+
+The structure ("airframe") comprises the main load-bearing elements and associated equipment, as well as flight controls.
+The propulsion system ("powerplant") (if it is powered) comprises the power source and associated equipment, as described above.
+The avionics comprise the electrical and electronic control, navigation and communication systems.
+
+
+=== Structure ===
+
+
+==== Aerostats ====
+
+An aerostat or lighter-than-air aircraft relies on buoyancy to maintain flight. Aerostats include unpowered balloons (free-flying or tethered) and powered airships. The relative density of an aerostat as a whole is lower than that of the surrounding atmospheric air (hence the name "lighter-than-air"). Its main component is one or more gas capsules made of lightweight skins, containing a lifting gas (hot air, or any gas with lower density than air, typically hydrogen or helium) that displaces a large volume of air to generate enough buoyancy to overcome its own weight. Payload (passengers and cargo) can then be carried on attached components such as a basket, a gondola, a cabin or various hardpoints. With airships, which need to be able to fly against wind, the lifting gas capsules are often protected by a more rigid outer envelope or an airframe, with other gasbags such as ballonets to help modulate buoyancy.
+Aerostats are so named because they use aerostatic buoyant force that does not require any forward movement through the surrounding air mass, resulting in the inherent ability to levitate and perform vertical takeoff and landing. This contrasts with the heavier-than-air aerodynes that primarily use aerodynamic lift, which must have consistent airflow over an aerofoil (wing) surface to stay airborne. The term has also been used in a narrower sense, to refer to the statically tethered balloon in contrast to the free-flying airship. This article uses the term in its broader sense.
+
+
+==== Aerodynes ====
+
+An aerodyne is a heavier-than-air aircraft that relies on aerodynamic lift, or upthrust produced by the airflow, to fly. Aerodynes include rotorcraft, airplanes, gliders, and several other varieties of aircraft. Airplanes use wings, or airfoils, to direct the airflow to produce lift. Wings are usually constructed with a wooden or metal inner framework, and a skin stretched over it. Rotorcraft use a rotor which acts like a rotating wing, allowing them to hover in place. When aerodynes carry a payload, it is usually carried inside the aircraft's fuselage, or central structure, but aerodynes can also carry loads attached outside the aircraft or inside the wing. Unlike aerostats, which control their altitude by changing their weight, aerodynes use control surfaces to control their altitude, or raise or lower the lift on their wing by adjusting their speed. As they typically travel at higher speeds than aerostats, most aerodynes have a rigid structure consisting of a frame covered by a skin.
+
+
+=== Power ===
+
+The source of motive power for an aircraft is normally called the powerplant, and includes engine or motor, propeller or rotor, (if any), jet nozzles and thrust reversers (if any), and accessories essential to the functioning of the engine or motor (e.g.: starter, ignition system, intake system, exhaust system, fuel system, lubrication system, engine cooling system, and engine controls).
+Powered aircraft are typically powered by internal combustion engines (piston or turbine) burning fossil fuels—typically gasoline (avgas) or jet fuel. A very few are powered by rocket power, ramjet propulsion, or by electric motors, or by internal combustion engines of other types, or using other fuels. A very few have been powered, for short flights, by human muscle energy (e.g.: Gossamer Condor).
+
+
+=== Avionics ===
+
+The avionics comprise any electronic aircraft flight control systems and related equipment, including electronic cockpit instrumentation, navigation, radar, monitoring, and communications systems.
+
+
+== Flight characteristics ==
+
+
+=== Flight envelope ===
+
+The flight envelope of an aircraft refers to its approved design capabilities in terms of airspeed, load factor and altitude.
+
+
+=== Range ===
+
+The maximal total range is the maximum distance an aircraft can fly between takeoff and landing. Powered aircraft range is limited by the aviation fuel energy storage capacity (chemical or electrical) considering both weight and volume limits. Unpowered aircraft range depends on factors such as cross-country speed and environmental conditions. The range can be seen as the cross-country ground speed multiplied by the maximum time in the air. The fuel time limit for powered aircraft is fixed by the available fuel (considering reserve fuel requirements) and rate of consumption. The Airbus A350-900ULR is among the longest range airliners.
+Some aircraft can gain energy while airborne through the environment (e.g. collecting solar energy or through rising air currents from mechanical or thermal lifting) or from in-flight refueling. These aircraft could theoretically have an infinite range.
+Ferry range means the maximum range that an aircraft engaged in ferry flying can achieve. This usually means maximum fuel load, optionally with extra fuel tanks and minimum equipment. It refers to the transport of aircraft without any passengers or cargo. Combat radius is a related measure based on the maximum distance a warplane can travel from its base of operations, accomplish some objective, and return to its original airfield with minimal reserves.
+
+
+=== Flight dynamics ===
+
+Flight dynamics is the science of air vehicle orientation and control in three dimensions. The three critical flight dynamics parameters are the angles of rotation in three dimensions about the vehicle's center of gravity (cg), known as pitch, roll and yaw. These are collectively known as aircraft attitude, often principally relative to the atmospheric frame in normal flight, but also relative to terrain during takeoff or landing, or when operating at low elevation. The concept of attitude is not specific to fixed-wing aircraft, but also extends to rotary aircraft such as helicopters, and dirigibles, where the flight dynamics involved in establishing and controlling attitude are entirely different.
+Control systems adjust the orientation of a vehicle about its cg. A control system includes control surfaces which, when deflected, generate a moment (or couple from ailerons) about the cg which rotates the aircraft in pitch, roll, and yaw.  For example, a pitching moment comes from a force applied at a distance forward or aft of the cg, causing the aircraft to pitch up or down.
+A fixed-wing aircraft increases or decreases the lift generated by the wings when it pitches nose up or down by increasing or decreasing the angle of attack (AOA). The roll angle is also known as bank angle on a fixed-wing aircraft, which usually "banks" to change the horizontal direction of flight. An aircraft is streamlined from nose to tail to reduce drag making it advantageous to keep the sideslip angle near zero, though an aircraft may be deliberately "sideslipped" to increase drag and descent rate during landing, to keep aircraft heading same as runway heading during cross-wind landings and during flight with asymmetric power.
+
+
+==== Stability ====
+A fixed wing is typically unstable in pitch, roll, and yaw. Pitch and yaw stabilities of conventional fixed wing designs require horizontal and vertical stabilisers, which act similarly to the feathers on an arrow. These stabilizing surfaces allow equilibrium of aerodynamic forces and to stabilise the flight dynamics of pitch and yaw.
+
+
+==== Control ====
+In fixed-wing aircraft, multiple control surfaces are used to adjust the aircraft's roll, pitch, and yaw.  Ailerons, hinged surfaces normally located on the rear edge of the wing, can raise or lower the lift produced by one side of the wing, causing the aircraft to bank to one side.  Elevators, usually located in the horizontal stabilizer, are used to increase or decrease the lift produced by the tail, causing the aircraft to pitch upwards or downwards, which in turn affects the lift of the wing. However, when the ailerons are used to turn an aircraft to the left, the right aileron must be tilted downwards, producing more drag than the left aileron and causing the aircraft to yaw right.  To counteract this force, most fixed-wing aircraft have a rudder mounted on the vertical stabilizer which can deflect the airflow to the tail left or right to control the aircraft's yaw.  In rotorcraft, control is mainly accomplished through the cyclical tilting of the rotor's blades, increasing the angle of attack of the blades on one side and decreasing the angle of attack on the other.  Similarly to the rudder on fixed-wing aircraft, rotorcraft with powered rotors have a tail rotor, which counters the rotational thrust produced by the rotor and allows the aircraft to turn in forward flight.  Rotorcraft with unpowered rotors, such as autogyros, use a rudder for yaw.
+
+
+== Environmental impact ==
+
+Aircraft engines produce gases, noise, and particulates from fossil fuel combustion, raising environmental concerns over their global effects and on local air quality.
+Jet airliners contribute to climate change by emitting carbon dioxide (CO2), the best understood greenhouse gas, and, with less scientific understanding, nitrogen oxides, contrails and particulates. Their radiative forcing is estimated at 1.4 that of CO2 alone, excluding induced cirrus cloud with a very low level of scientific understanding.
+In 2018, global commercial operations generated 2.4% of CO2 emissions. Jet airliners have become more fuel efficient and CO2 emissions per revenue ton-kilometer (RTK) in 2018 were 47% of those in 1990. In 2018, CO2 emissions averaged 88 grams of CO2 per revenue passenger per km. While the aviation industry is more fuel efficient, overall emissions have risen as the volume of air travel has increased. By 2020, aviation emissions were 70% higher than in 2005 and they could grow by 300% by 2050.
+Aircraft noise pollution disrupts sleep, children's education and could increase cardiovascular risk. Airports can generate water pollution due to their extensive handling of jet fuel and deicing chemicals if not contained, contaminating nearby water bodies. Aviation activities emit ozone and ultrafine particles, both of which are health hazards. Piston engines used in general aviation burn Avgas, releasing toxic lead.
+Aviation's environmental footprint can be reduced by better fuel economy in aircraft, or air traffic control and flight routes can be optimized to lower non-CO2 effects on climate from NOx, particulates or contrails.
+Aviation biofuel, emissions trading and carbon offsetting, part of the ICAO's CORSIA, can lower CO2 emissions. Aviation usage can be lowered by short-haul flight bans, train connections, personal choices and aviation taxation and subsidies. Fuel-powered aircraft may be replaced by hybrid electric aircraft and electric aircraft or by hydrogen-powered aircraft.
+Since 2021, the IATA members plan net-zero carbon emissions by 2050, followed by the ICAO in 2022.
+
+
+== Uses for aircraft ==
+
+
+=== Military ===
+
+A military aircraft is any aircraft that is operated by a legal or insurrectionary armed service of any type. Military aircraft can be either combat or non-combat:
+
+Combat aircraft are aircraft designed to destroy enemy equipment using its own armament. Combat aircraft are typically developed and procured only by military forces.
+Non-combat aircraft, such as transports and tankers, are not designed for combat as their primary function but may carry weapons for self-defense. These mainly operate in support roles, and may be developed by either military forces or civilian organizations.
+
+
+=== Civil ===
+
+Civil aviation is one of two major categories of flying, representing all non-military and non-state aviation, which can be both private and commercial.  Most countries in the world are members of the International Civil Aviation Organization and work together to establish common Standards and Recommended Practices for civil aviation through that agency.
+Civil aviation includes three major categories:
+
+Commercial air transport, including scheduled and non-scheduled passenger and cargo flights
+Aerial work, in which an aircraft is used for specialized services such as agriculture, photography, surveying, search and rescue, etc.
+General aviation (GA), including all other civil flights, private or commercial
+Although scheduled air transport is the larger operation in terms of passenger numbers, GA is larger in the number of flights (and flight hours, in the U.S.) In the U.S., GA carries 166 million passengers each year, more than any individual airline, though less than all the airlines combined. Since 2004, the U.S. airlines combined have carried over 600 million passengers each year, and in 2014, they carried a combined 662,819,232 passengers.
+Some countries also make a regulatory distinction based on whether aircraft are flown for hire, like:
+
+Commercial aviation includes most or all flying done for hire, particularly scheduled service on airlines; and
+Private aviation includes pilots flying for their own purposes (recreation, business meetings, etc.) without receiving any kind of remuneration.
+
+All scheduled air transport is commercial, but general aviation can be either commercial or private.  Normally, the pilot, aircraft, and operator must all be authorized to perform commercial operations through separate commercial licensing, registration, and operation certificates.
+
+
+=== Experimental ===
+
+An experimental aircraft is an aircraft intended for testing new aerospace technologies and design concepts.
+The term research aircraft or testbed aircraft, by contrast, generally denotes aircraft modified to perform scientific studies, such as weather research or geophysical surveying, similar to a research vessel.
+The term "experimental aircraft" also has specific legal meaning in Australia, the United States and some other countries; usually used to refer to aircraft flown with an experimental certificate. In the United States, this also includes most homebuilt aircraft, many of which are based on conventional designs and hence are experimental only in name because of certain restrictions in operation.
+
+
+=== Model ===
+
+Model aircraft are typically small-scale replicas of flying aircraft, or new designs built smaller than most passenger aircraft.  Static model aircraft, which cannot fly, are usually not considered to be aircraft, but they can be used to test aspects of a flying aircraft, such as its aerodynamics.  Flying models are commonly propelled by electric motors, combustion engines, or are gliders, but there are many alternate methods of propulsion, such as wound rubber bands and small jet engines.   Most flying model aircraft are either radio-controlled aircraft, fly freely, or are controlled by wires held by the pilot.
+
+
+== See also ==
+
+
+=== Lists ===
+Early flying machines
+Flight altitude record
+List of aircraft
+List of civil aircraft
+List of fighter aircraft
+List of individual aircraft
+List of large aircraft
+List of aviation, aerospace and aeronautical terms
+
+
+=== Topics ===
+Aircraft hijacking
+Aircraft spotting
+Air traffic control
+Airport
+Flying car
+Personal air vehicle
+Powered parachute
+Spacecraft
+Spaceplane
+
+
+== References ==
+
+Gunston, Bill (1987). Jane's Aerospace Dictionary 1987. London, England: Jane's Publishing Company Limited. ISBN 978-0-7106-0365-4.
+
+
+== External links ==
+
+
+=== History ===
+The Evolution of Modern Aircraft (NASA) Archived 27 December 2007 at the Wayback Machine
+Virtual Museum
+Smithsonian Air and Space Museum – online collection with a particular focus on history of aircraft and spacecraft
+Amazing Early Flying Machines Archived 13 December 2009 at the Wayback Machine slideshow by Life magazine
+
+
+=== Information ===
+Airliners.net
+Aviation Dictionary – free aviation terms, phrases and jargons
+New Scientist's aviation page
+
+## Links
+- Adaptive compliant wing
+- Aerodynamic
+- Aerodynamic drag
+- Aerodynamic lift
+- Aerodynamics
+- Aerofoil
+- Aeronautics
+- Aerospace
+- Aerostat
+- Aerostatic
+- Aft pressure bulkhead
+- AgustaWestland AW101
+- AgustaWestland AW109
+- Aileron
+- Ailerons
+- Air
+- Air brake (aeronautics)
+- Air data boom
+- Air data computer
+- Air traffic control
+- Air travel
+- Airborne collision avoidance system
+- Airbus A300
+- Airbus A350
+- Airbus A380
+- Airbus Beluga
+- Aircraft canopy
+- Aircraft dope
+- Aircraft engine
+- Aircraft fabric covering
+- Aircraft fairing
+- Aircraft flight control system
+- Aircraft flight dynamics
+- Aircraft fuel system
+- Aircraft hijacking
+- Aircraft lavatory
+- Aircraft noise
+- Aircraft noise pollution
+- Aircraft periscope
+- Aircraft pilot
+- Aircraft spotting
+- Aircraft systems
+- Aircraft tire
+- Aircrew
+- Airfoil
+- Airframe
+- Airlander 10
+- Airline
+- Airlines for America
+- Airplane
+- Airplanes
+- Airport
+- Airport rail link
+- Airports
+- Airship
+- Airspeed
+- Airspeed indicator
+- Airway (aviation)
+- Airworthiness certificate
+- Altimeter
+- Angle of attack
+- Angles of rotation
+- Annunciator panel
+- Anti-shock body
+- Antonov An-124 Ruslan
+- Antonov An-225 Mriya
+- Arresting gear
+- Astrodome (aeronautics)
+- Atmosphere of Earth
+- Atmospheric
+- Attitude indicator
+- Autobrake
+- Autogyro
+- Autogyros
+- Autopilot
+- Autorotation
+- Autothrottle
+- Auxiliary power unit
+- Avgas
+- Aviation
+- Aviation biofuel
+- Aviation fuel
+- Aviation taxation and subsidies
+- Avionics
+- Avro Canada VZ-9 Avrocar
+- Ballonet
+- Balloon (aeronautics)
+- Balloon (aircraft)
+- Balloon helicopter
+- Basket
+- Bell Boeing V-22 Osprey
+- Bill Gunston
+- Bleed air
+- Blimp
+- Blown flap
+- Boeing 737
+- Boeing 747
+- Boeing 777
+- Boeing B-17 Flying Fortress
+- Boeing Dreamlifter
+- Boeing X-53 Active Aeroelastic Wing
+- Buoyancy
+- Bush plane
+- Business jet
+- CNN
+- Cabane strut
+- Cabin (aircraft)
+- Canard (aeronautics)
+- Carbon Offsetting and Reduction Scheme for International Aviation
+- Carbon dioxide
+- Carbon offsetting
+- Cardiovascular risk
+- Center of gravity
+- Centre stick
+- Cessna 172 Skyhawk
+- Channel wing
+- Charles Frederick Page
+- Cirrus cloud
+- Civil aviation
+- Climate change
+- Cockpit
+- Coleopter
+- Combat radius
+- Combustion engines
+- Commercial aviation
+- Communications system
+- Compass
+- Computer
+- Condensation trails
+- Control system
+- Conventional landing gear
+- Convertiplane
+- Course deviation indicator
+- Crack arrestor
+- Cruciform tail
+- De Havilland Canada DHC-6 Twin Otter
+- Deceleron
+- Deicing
+- Deicing boot
+- Density
+- Digital electronics
+- Dimensions
+- Dirigibles
+- Displacement (fluid)
+- Dive brake
+- Double-deck aircraft
+- Drag-reducing aerospike
+- Drag (physics)
+- Drogue parachute
+- Drop tank
+- Dual control (aviation)
+- Dunkeswell Aerodrome
+- Early flying machines
+- Ejection seat
+- Electric aircraft
+- Electric motors
+- Electro-hydraulic actuator
+- Electronic flight instrument system
+- Elevator (aeronautics)
+- Elevators
+- Elevon
+- Emergency oxygen system
+- Emissions trading
+- Empennage
+- Engine
+- Engine-indicating and crew-alerting system
+- Engine controls
+- Engine cooling system
+- Environment (biophysical)
+- Environmental control system
+- Environmental impact of aviation
+- Escape crew capsule
+- Eurocopter AS350 Écureuil
+- Exhaust system
+- Experimental aircraft
+- Ezekiel Airship
+- FADEC
+- Federal Aviation Administration
+- Ferdinand von Zeppelin
+- Ferry flying
+- Fixed-wing aircraft
+- Flap (aeronautics)
+- Flaperon
+- Flettner airplane
+- Flight
+- Flight airspeed record
+- Flight altitude record
+- Flight control modes
+- Flight control surfaces
+- Flight dynamics
+- Flight envelope
+- Flight instruments
+- Flight management system
+- Flight recorder
+- Flight shame
+- Floatplane
+- Fluid dynamics
+- Fly-by-wire
+- Flying boat
+- Flying car
+- Flying wing
+- Flying wires
+- Former
+- Fossil fuel
+- Fossil fuels
+- Four-engined jet aircraft
+- Frederick Handley Page
+- French Revolution
+- Fuel
+- Fuel economy in aircraft
+- Fuel efficient
+- Fuel tank
+- Fuselage
+- Fédération Aéronautique Internationale
+- Gas turbine engine
+- Gascolator
+- Gasoline
+- General aviation
+- George Cayley
+- Glass cockpit
+- Glider (aircraft)
+- Glider (sailplane)
+- Global Positioning System
+- Gondola (airship)
+- Gossamer Condor
+- Gouge flap
+- Gravity
+- Greenhouse gas
+- Ground-effect vehicle
+- Ground effect (aerodynamics)
+- Ground speed
+- Gurney flap
+- Gust lock
+- Gyrodyne
+- Gyrodynes
+- Gyroplane
+- HOTAS
+- Hang gliding
+- Hardpoint
+- Harrier jump jet
+- Head-up display
+- Heading indicator
+- Health hazard
+- Heavier-than-air flight
+- Helicopter
+- Helicopter rotor
+- Helium
+- High-lift device
+- History of aviation
+- Homebuilt aircraft
+- Horizontal situation indicator
+- Horizontal stabilizer
+- Hot air balloon
+- Hovercraft
+- Hughes H-4 Hercules
+- Human-powered aircraft
+- Hybrid airship
+- Hybrid electric aircraft
+- Hydraulic fluid
+- Hydrogen
+- Hydrogen-powered aircraft
+- Hydrogen balloon
+- Hypersonic flight
+- Hypersonic speed
+- ICAO
+- ISBN (identifier)
+- Ice protection system
+- Ignition system
+- In-flight entertainment
+- Inertial navigation system
+- Inlet cone
+- Intake
+- Intake ramp
+- Integrated standby instrument system
+- Internal combustion engine
+- International Air Transport Association
+- International Civil Aviation Organization
+- International Council on Clean Transportation
+- Interplane strut
+- Jet aircraft
+- Jet airliners
+- Jet engine
+- Jet engines
+- Jet fuel
+- Jet nozzle
+- Jury strut
+- Kite
+- Krueger flap
+- Kytoon
+- Landing
+- Landing gear
+- Landing gear extender
+- Landing lights
+- Lead poisoning
+- Leading-edge cuff
+- Leading-edge droop flap
+- Leading-edge extension
+- Leading-edge slat
+- Leading-edge slot
+- Leading edge
+- Leonardo da Vinci
+- Levitation (physics)
+- Life (magazine)
+- Lift (force)
+- Lift (physics)
+- Lift strut
+- Lifting body
+- Lifting gas
+- Light-sport aircraft
+- List of Afghan Air Force aircraft
+- List of Albanian Air Force aircraft
+- List of Belize Defence Force Air Wing aircraft
+- List of STOL aircraft
+- List of VTOL aircraft
+- List of World War I Central Powers aircraft
+- List of World War I Entente aircraft
+- List of X-planes
+- List of active Bangladesh military aircraft
+- List of active Brazilian military aircraft
+- List of active Bulgarian military aircraft
+- List of active Chile military aircraft
+- List of active Indian military aircraft
+- List of active Italian military aircraft
+- List of active Moroccan military aircraft
+- List of active New Zealand military aircraft
+- List of active Pakistan military aircraft
+- List of active People's Liberation Army aircraft
+- List of active Turkish Air Force aircraft
+- List of active United Kingdom military aircraft
+- List of active United States military aircraft
+- List of active military aircraft of the Philippines
+- List of aerobatic aircraft
+- List of airborne early warning aircraft
+- List of aircraft
+- List of aircraft (0–Ah)
+- List of aircraft (Ai–Am)
+- List of aircraft (An–Az)
+- List of aircraft (Bf–Bo)
+- List of aircraft (Br–Bz)
+- List of aircraft (B–Be)
+- List of aircraft (Cd–Cn)
+- List of aircraft (Co–Cz)
+- List of aircraft (C–Cc)
+- List of aircraft (D)
+- List of aircraft (E)
+- List of aircraft (F)
+- List of aircraft (Go–Gz)
+- List of aircraft (G–Gn)
+- List of aircraft (H)
+- List of aircraft (I)
+- List of aircraft (J)
+- List of aircraft (K)
+- List of aircraft (La–Lh)
+- List of aircraft (Li–Lz)
+- List of aircraft (M)
+- List of aircraft (N)
+- List of aircraft (O)
+- List of aircraft (P)
+- List of aircraft (Q)
+- List of aircraft (R)
+- List of aircraft (S)
+- List of aircraft (T)
+- List of aircraft (U)
+- List of aircraft (V)
+- List of aircraft (W)
+- List of aircraft (X)
+- List of aircraft (Y)
+- List of aircraft (Z)
+- List of aircraft (pre-1914)
+- List of aircraft by date and usage category
+- List of aircraft by tail number
+- List of aircraft of Canada's air forces
+- List of aircraft of World War II
+- List of aircraft of the Argentine Air Force
+- List of aircraft of the Egyptian Air Force
+- List of aircraft of the Hellenic Air Force
+- List of aircraft of the Indonesian National Armed Forces
+- List of aircraft of the Iranian Air Force
+- List of aircraft of the Irish Air Corps
+- List of aircraft of the Israeli Air Force
+- List of aircraft of the Malaysian Armed Forces
+- List of aircraft of the Portuguese Air Force
+- List of aircraft of the Romanian Air Force
+- List of aircraft of the Royal Thai Air Force
+- List of aircraft of the South African Air Force
+- List of aircraft of the Spanish Air and Space Force
+- List of aircraft of the Swiss Air Force
+- List of airliners by maximum takeoff weight
+- List of attack aircraft
+- List of bomber aircraft
+- List of carrier-based aircraft
+- List of civil aircraft
+- List of current Royal Australian Air Force aircraft
+- List of current production certified light aircraft
+- List of currently active Russian military aircraft
+- List of electric aircraft
+- List of experimental aircraft
+- List of fighter aircraft
+- List of flying boats and floatplanes
+- List of flying wings
+- List of gliders
+- List of human-powered aircraft
+- List of individual aircraft
+- List of interwar military aircraft
+- List of jet aircraft of World War II
+- List of jet airliners
+- List of large aircraft
+- List of maritime patrol aircraft
+- List of military aircraft of Denmark
+- List of military aircraft of Finland
+- List of military aircraft of France
+- List of military aircraft of Germany
+- List of military aircraft of Japan
+- List of military aircraft of Norway
+- List of military aircraft of Sri Lanka
+- List of military aircraft of Sweden
+- List of military aircraft of the Czech Republic
+- List of most-produced aircraft
+- List of racing aircraft
+- List of regional airliners
+- List of retired Polish Air Force aircraft
+- List of rocket aircraft
+- List of rotorcraft
+- List of submarine-borne aircraft
+- List of supersonic aircraft
+- List of tanker aircraft
+- List of torpedo bombers
+- List of triplanes
+- List of unmanned aerial vehicles
+- List of utility helicopters
+- List of very light jets
+- Lists of military aircraft by nation
+- Load factor (aeronautics)
+- Lockheed C-5 Galaxy
+- Lockheed Martin F-22 Raptor
+- Lockheed SR-71 Blackbird
+- Longeron
+- Lubrication
+- Mach number
+- Mechanics
+- Mil Mi-8
+- Military aircraft
+- Military aviation
+- Military transport aircraft
+- Model aircraft
+- Montgolfier brothers
+- Moored balloon
+- Motor
+- Multi-function display
+- NACA cowling
+- NACA duct
+- NASA
+- NASA X-43
+- Nacelle
+- Narrow-body aircraft
+- National Aeronautics and Space Administration
+- Navigation light
+- Newton's laws of motion
+- Nitrogen oxides
+- North American X-15
+- Octave Chanute
+- Oleo strut
+- Ornithopter
+- Otto Lilienthal
+- Ozone
+- Particulates
+- Passenger aircraft
+- Passenger service unit
+- Payload
+- Personal air vehicle
+- Pilotless drone
+- Piston engine
+- Piston engines
+- Pitching moment
+- Pitot–static system
+- Powered aircraft
+- Powered lift
+- Powered parachute
+- Powered paragliding
+- Powerplant
+- Private aviation
+- Prone pilot
+- Propeller
+- Propeller engine
+- Propulsion
+- Radar
+- Radar altimeter
+- Radiative forcing
+- Radio-controlled aircraft
+- Ram air turbine
+- Ramjet
+- Range (aeronautics)
+- Reaction (physics)
+- Reconnaissance
+- Rega (air rescue)
+- Regional airliner
+- Regional jet
+- Relative density
+- Research vessel
+- Rib (aeronautics)
+- Rocket engine
+- Rolladen-Schneider LS4
+- Rolls-Royce Thrust Measuring Rig
+- Rotary aircraft
+- Rotor kite
+- Rotor kites
+- Rotor wing
+- Rotorcraft
+- Rudder
+- Rudder pedal
+- Russo-Ukrainian War
+- San Diego International Airport
+- Scientific method
+- Scramjet
+- Self-sealing fuel tank
+- Servo tab
+- Short-haul flight ban
+- Side-stick
+- Sir George Cayley
+- Skin (aeronautics)
+- Sky lantern
+- Sleep
+- Slip (aerodynamics)
+- Smithsonian Institution
+- Space Shuttle
+- Spacecraft
+- Spaceplane
+- Spar (aeronautics)
+- Spill containment
+- Splitter plate (aeronautics)
+- Spoiler (aeronautics)
+- Spoileron
+- Stabilator
+- Stabilizer (aeronautics)
+- Stall strips
+- Standards and Recommended Practices
+- Starter motor
+- Stick pusher
+- Stick shaker
+- Strake (aeronautics)
+- Stressed skin
+- Strut
+- Supersonic speed
+- T-tail
+- Tail (aircraft)
+- Tail rotor
+- Tailhook
+- Tailplane
+- Takeoff
+- Tanker (aircraft)
+- Testbed aircraft
+- Tethered Aerostat Radar System
+- Tethered balloon
+- The New York Times
+- Throttle
+- Thrust
+- Thrust lever
+- Thrust reversal
+- Thrust reverser
+- Tiltrotor
+- Tiltwing
+- Timeline of aviation
+- Ton-kilometer
+- Townend ring
+- Traffic collision avoidance system
+- Trailing edge
+- Transponder (aeronautics)
+- Tricycle landing gear
+- Trijet
+- Trim tab
+- Trimotor
+- Tundra tire
+- Turboprop
+- Turboprops
+- Turn and slip indicator
+- Twin tail
+- Twinjet
+- U.S. Department of Homeland Security
+- USS Akron
+- Ukrainian SSR
+- Ultrafine particles
+- United Airlines
+- United States
+- Unmanned aerial vehicle
+- Unpowered aircraft
+- V-tail
+- VTOL
+- Van's RV-6
+- Variable-sweep wing
+- Variometer
+- Vehicle
+- Vertical stabilizer
+- Vertical takeoff and landing
+- Vortex generator
+- Vortilon
+- War emergency power
+- Water pollution
+- Wayback Machine
+- Weight
+- Wet wing
+- Wide-body aircraft
+- Wind
+- Wing
+- Wing fence
+- Wing root
+- Wing tip
+- Wing warping
+- Wingbox
+- Wingtip device
+- World War II
+- Wright brothers
+- Yaw (aviation)
+- Yaw damper
+- Yaw string
+- Yoke (aeronautics)

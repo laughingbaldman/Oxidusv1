@@ -1,0 +1,1373 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "47139": {
+          "pageid": 47139,
+          "ns": 0,
+          "title": "Incandescent light bulb",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Microwave oven"
+            },
+            {
+              "ns": 0,
+              "title": "Mill (grinding)"
+            },
+            {
+              "ns": 0,
+              "title": "Mining"
+            },
+            {
+              "ns": 0,
+              "title": "Mirror"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile phone"
+            },
+            {
+              "ns": 0,
+              "title": "Modem"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular mass"
+            },
+            {
+              "ns": 0,
+              "title": "Molybdenum"
+            },
+            {
+              "ns": 0,
+              "title": "Money"
+            },
+            {
+              "ns": 0,
+              "title": "Moses G. Farmer"
+            },
+            {
+              "ns": 0,
+              "title": "Motherboard"
+            },
+            {
+              "ns": 0,
+              "title": "Motion Picture Patents Company"
+            },
+            {
+              "ns": 0,
+              "title": "Motor vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Movie camera"
+            },
+            {
+              "ns": 0,
+              "title": "Multifaceted reflector"
+            },
+            {
+              "ns": 0,
+              "title": "Multimeter"
+            },
+            {
+              "ns": 0,
+              "title": "Musical instrument"
+            },
+            {
+              "ns": 0,
+              "title": "Nanomaterials"
+            },
+            {
+              "ns": 0,
+              "title": "Natural rubber"
+            },
+            {
+              "ns": 0,
+              "title": "Navigation"
+            },
+            {
+              "ns": 0,
+              "title": "Navigation light"
+            },
+            {
+              "ns": 0,
+              "title": "Neo-Luddism"
+            },
+            {
+              "ns": 0,
+              "title": "Neon lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Neon lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Nernst lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Newcastle Chemical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Newcastle upon Tyne"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel–iron battery"
+            },
+            {
+              "ns": 0,
+              "title": "Nightlight"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Nordic countries"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear power"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear technology"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear weapon"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "OSTI (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ohm"
+            },
+            {
+              "ns": 0,
+              "title": "Oil drilling"
+            },
+            {
+              "ns": 0,
+              "title": "Oil lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Opera house"
+            },
+            {
+              "ns": 0,
+              "title": "Operating system"
+            },
+            {
+              "ns": 0,
+              "title": "Optical disc"
+            },
+            {
+              "ns": 0,
+              "title": "Optical fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Optical instrument"
+            },
+            {
+              "ns": 0,
+              "title": "Optical microscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Oregon Railroad and Navigation Company"
+            },
+            {
+              "ns": 0,
+              "title": "Oriental Telephone Company"
+            },
+            {
+              "ns": 0,
+              "title": "Oscilloscope"
+            },
+            {
+              "ns": 0,
+              "title": "Osmium"
+            },
+            {
+              "ns": 0,
+              "title": "Osram"
+            },
+            {
+              "ns": 0,
+              "title": "Osram Sylvania"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of technology"
+            },
+            {
+              "ns": 0,
+              "title": "Oven"
+            },
+            {
+              "ns": 0,
+              "title": "Oxidation"
+            },
+            {
+              "ns": 0,
+              "title": "Oxyhydrogen torch"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Paper"
+            },
+            {
+              "ns": 0,
+              "title": "Paper lantern"
+            },
+            {
+              "ns": 0,
+              "title": "Parabolic aluminized reflector"
+            },
+            {
+              "ns": 0,
+              "title": "Parabolic aluminized reflector light"
+            },
+            {
+              "ns": 0,
+              "title": "Particle accelerator"
+            },
+            {
+              "ns": 0,
+              "title": "Patent"
+            },
+            {
+              "ns": 0,
+              "title": "Paul Israel (historian)"
+            },
+            {
+              "ns": 0,
+              "title": "Pearl Street Station"
+            },
+            {
+              "ns": 0,
+              "title": "Peer-to-peer"
+            },
+            {
+              "ns": 0,
+              "title": "Pendant light"
+            },
+            {
+              "ns": 0,
+              "title": "Pendulum"
+            },
+            {
+              "ns": 0,
+              "title": "Persuasive technology"
+            },
+            {
+              "ns": 0,
+              "title": "Pesticide"
+            },
+            {
+              "ns": 0,
+              "title": "Petromax"
+            },
+            {
+              "ns": 0,
+              "title": "Philips"
+            },
+            {
+              "ns": 0,
+              "title": "Philosophy of technology"
+            },
+            {
+              "ns": 0,
+              "title": "Phoebus cartel"
+            },
+            {
+              "ns": 0,
+              "title": "Phonograph"
+            },
+            {
+              "ns": 0,
+              "title": "Phonomotor"
+            },
+            {
+              "ns": 0,
+              "title": "Phosphoric anhydride"
+            },
+            {
+              "ns": 0,
+              "title": "Photoflood"
+            },
+            {
+              "ns": 0,
+              "title": "Photography"
+            },
+            {
+              "ns": 0,
+              "title": "Photoluminescence"
+            },
+            {
+              "ns": 0,
+              "title": "Photometry (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Photonic crystal"
+            },
+            {
+              "ns": 0,
+              "title": "Photonic lattice"
+            },
+            {
+              "ns": 0,
+              "title": "Photovoltaics"
+            },
+            {
+              "ns": 0,
+              "title": "Pigment"
+            },
+            {
+              "ns": 0,
+              "title": "Piston"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma globe"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Plastic"
+            },
+            {
+              "ns": 0,
+              "title": "Platinum"
+            },
+            {
+              "ns": 0,
+              "title": "Plough"
+            },
+            {
+              "ns": 0,
+              "title": "Plumbing"
+            },
+            {
+              "ns": 0,
+              "title": "Pneumatics"
+            },
+            {
+              "ns": 0,
+              "title": "Polymerase chain reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Positive feedback"
+            },
+            {
+              "ns": 0,
+              "title": "Potter's wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Pottery"
+            },
+            {
+              "ns": 0,
+              "title": "Power factor"
+            },
+            {
+              "ns": 0,
+              "title": "Precautionary principle"
+            },
+            {
+              "ns": 0,
+              "title": "Printing press"
+            },
+            {
+              "ns": 0,
+              "title": "Programming language"
+            },
+            {
+              "ns": 0,
+              "title": "Propeller"
+            },
+            {
+              "ns": 0,
+              "title": "Prosthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Pulley"
+            },
+            {
+              "ns": 0,
+              "title": "Pump"
+            },
+            {
+              "ns": 0,
+              "title": "Quadruplex telegraph"
+            },
+            {
+              "ns": 0,
+              "title": "Qulliq"
+            },
+            {
+              "ns": 0,
+              "title": "RAM"
+            },
+            {
+              "ns": 0,
+              "title": "Rack and pinion"
+            },
+            {
+              "ns": 0,
+              "title": "Radar"
+            },
+            {
+              "ns": 0,
+              "title": "Radio"
+            },
+            {
+              "ns": 0,
+              "title": "Radioluminescence"
+            },
+            {
+              "ns": 0,
+              "title": "Railroad"
+            },
+            {
+              "ns": 0,
+              "title": "Rammed earth"
+            },
+            {
+              "ns": 0,
+              "title": "Recessed light"
+            },
+            {
+              "ns": 0,
+              "title": "Recycling"
+            },
+            {
+              "ns": 0,
+              "title": "Red phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Refrigeration"
+            },
+            {
+              "ns": 0,
+              "title": "Refrigerator"
+            },
+            {
+              "ns": 0,
+              "title": "Regulator (automatic control)"
+            },
+            {
+              "ns": 0,
+              "title": "Relative atomic mass"
+            },
+            {
+              "ns": 0,
+              "title": "Research and development"
+            },
+            {
+              "ns": 0,
+              "title": "Resistance wire"
+            },
+            {
+              "ns": 0,
+              "title": "Resistor"
+            },
+            {
+              "ns": 0,
+              "title": "Retroreflector"
+            },
+            {
+              "ns": 0,
+              "title": "Rhenium"
+            },
+            {
+              "ns": 0,
+              "title": "Rhodium"
+            },
+            {
+              "ns": 0,
+              "title": "Rivet gun"
+            },
+            {
+              "ns": 0,
+              "title": "Road"
+            },
+            {
+              "ns": 0,
+              "title": "Robotic arm"
+            },
+            {
+              "ns": 0,
+              "title": "Robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Rocket"
+            },
+            {
+              "ns": 0,
+              "title": "Rough service"
+            },
+            {
+              "ns": 0,
+              "title": "Router (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Institution"
+            },
+            {
+              "ns": 0,
+              "title": "Rushlight"
+            },
+            {
+              "ns": 0,
+              "title": "Ruthenium"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SS Columbia (1880)"
+            },
+            {
+              "ns": 0,
+              "title": "Safety lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Safety reflector"
+            },
+            {
+              "ns": 0,
+              "title": "Sailing"
+            },
+            {
+              "ns": 0,
+              "title": "Sandia National Laboratories"
+            },
+            {
+              "ns": 0,
+              "title": "Sanitation"
+            },
+            {
+              "ns": 0,
+              "title": "Satellite"
+            },
+            {
+              "ns": 0,
+              "title": "Savoy Theatre"
+            },
+            {
+              "ns": 0,
+              "title": "Scaffolding"
+            },
+            {
+              "ns": 0,
+              "title": "Scanning electron microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Science and technology studies"
+            },
+            {
+              "ns": 0,
+              "title": "Science policy"
+            },
+            {
+              "ns": 0,
+              "title": "Sconce (light fixture)"
+            },
+            {
+              "ns": 0,
+              "title": "Scoop (theater)"
+            },
+            {
+              "ns": 0,
+              "title": "Screw"
+            },
+            {
+              "ns": 0,
+              "title": "Scuba set"
+            },
+            {
+              "ns": 0,
+              "title": "Seaplane"
+            },
+            {
+              "ns": 0,
+              "title": "Searchlight"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Separation process"
+            },
+            {
+              "ns": 0,
+              "title": "Sewing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Shadoof"
+            },
+            {
+              "ns": 0,
+              "title": "Ship"
+            },
+            {
+              "ns": 0,
+              "title": "Siemens"
+            },
+            {
+              "ns": 0,
+              "title": "Signal lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Silica"
+            },
+            {
+              "ns": 0,
+              "title": "Simple machine"
+            },
+            {
+              "ns": 0,
+              "title": "Sintered"
+            },
+            {
+              "ns": 0,
+              "title": "Sir Joseph Wilson Swan"
+            },
+            {
+              "ns": 0,
+              "title": "Soap"
+            },
+            {
+              "ns": 0,
+              "title": "Social construction of technology"
+            },
+            {
+              "ns": 0,
+              "title": "Social media"
+            },
+            {
+              "ns": 0,
+              "title": "Sodium-vapor lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Software"
+            },
+            {
+              "ns": 0,
+              "title": "Solar lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Solar power"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Space station"
+            },
+            {
+              "ns": 0,
+              "title": "Space suit"
+            },
+            {
+              "ns": 0,
+              "title": "Spacecraft"
+            },
+            {
+              "ns": 0,
+              "title": "Spectrometer"
+            },
+            {
+              "ns": 0,
+              "title": "Spinning wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Spotlight (theatre lighting)"
+            },
+            {
+              "ns": 0,
+              "title": "Spreadsheet"
+            },
+            {
+              "ns": 0,
+              "title": "Sprengel pump"
+            },
+            {
+              "ns": 0,
+              "title": "Spring (device)"
+            },
+            {
+              "ns": 0,
+              "title": "Stage lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Stage lighting instrument"
+            },
+            {
+              "ns": 0,
+              "title": "Statue of Thomas Edison"
+            },
+            {
+              "ns": 0,
+              "title": "Steel"
+            },
+            {
+              "ns": 0,
+              "title": "Stirrup"
+            },
+            {
+              "ns": 0,
+              "title": "Stonemasonry"
+            },
+            {
+              "ns": 0,
+              "title": "Strategy of Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Street light"
+            },
+            {
+              "ns": 0,
+              "title": "Strobe light"
+            },
+            {
+              "ns": 0,
+              "title": "Stroboscope"
+            },
+            {
+              "ns": 0,
+              "title": "Sublimation (phase transition)"
+            },
+            {
+              "ns": 0,
+              "title": "Submarine"
+            },
+            {
+              "ns": 0,
+              "title": "Sulfur lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Surgery"
+            },
+            {
+              "ns": 0,
+              "title": "Surveying"
+            },
+            {
+              "ns": 0,
+              "title": "Sustainable design"
+            },
+            {
+              "ns": 0,
+              "title": "Sustainable engineering"
+            },
+            {
+              "ns": 0,
+              "title": "Swaging"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Sándor Just"
+            },
+            {
+              "ns": 0,
+              "title": "TNT"
+            },
+            {
+              "ns": 0,
+              "title": "TRIAC"
+            },
+            {
+              "ns": 0,
+              "title": "Tactical light"
+            },
+            {
+              "ns": 0,
+              "title": "Tales from the Bully Pulpit"
+            },
+            {
+              "ns": 0,
+              "title": "Tampere, Finland"
+            },
+            {
+              "ns": 0,
+              "title": "Tanning lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Tantalum"
+            },
+            {
+              "ns": 0,
+              "title": "Tasimeter"
+            },
+            {
+              "ns": 0,
+              "title": "Task lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Techno-progressivism"
+            },
+            {
+              "ns": 0,
+              "title": "Technocracy movement"
+            },
+            {
+              "ns": 0,
+              "title": "Technological convergence"
+            },
+            {
+              "ns": 0,
+              "title": "Technological determinism"
+            },
+            {
+              "ns": 0,
+              "title": "Technological singularity"
+            },
+            {
+              "ns": 0,
+              "title": "Technological utopianism"
+            },
+            {
+              "ns": 0,
+              "title": "Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Technology acceptance model"
+            },
+            {
+              "ns": 0,
+              "title": "Technology assessment"
+            },
+            {
+              "ns": 0,
+              "title": "Technology forecasting"
+            },
+            {
+              "ns": 0,
+              "title": "Technology lifecycle"
+            },
+            {
+              "ns": 0,
+              "title": "Technology transfer"
+            },
+            {
+              "ns": 0,
+              "title": "Technorealism"
+            },
+            {
+              "ns": 0,
+              "title": "Telecommunications"
+            },
+            {
+              "ns": 0,
+              "title": "Telegraph"
+            },
+            {
+              "ns": 0,
+              "title": "Telephone"
+            },
+            {
+              "ns": 0,
+              "title": "Telephonoscope"
+            },
+            {
+              "ns": 0,
+              "title": "Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Television"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature coefficient of resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature coefficient of resistivity"
+            },
+            {
+              "ns": 0,
+              "title": "Tesla (2020 film)"
+            },
+            {
+              "ns": 0,
+              "title": "Textile"
+            },
+            {
+              "ns": 0,
+              "title": "The Current War"
+            },
+            {
+              "ns": 0,
+              "title": "The Execution of Mary Stuart"
+            },
+            {
+              "ns": 0,
+              "title": "The Future Eve"
+            },
+            {
+              "ns": 0,
+              "title": "The Kiss (1896 film)"
+            },
+            {
+              "ns": 0,
+              "title": "The Times"
+            },
+            {
+              "ns": 0,
+              "title": "The Wizard of Evergreen Terrace"
+            },
+            {
+              "ns": 0,
+              "title": "Theodore Miller Edison"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal insulation"
+            },
+            {
+              "ns": 0,
+              "title": "Thermionic emission"
+            },
+            {
+              "ns": 0,
+              "title": "Thermolysis"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film optics"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas A. Edison, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Alva Edison"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Alva Edison Birthplace"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Alva Edison Memorial Tower and Museum"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Alva Edison silver dollar"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Edison"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Edison Depot Museum"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Edison House"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Edison National Historical Park"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas Edison in popular culture"
+            },
+            {
+              "ns": 0,
+              "title": "Thomas P. Hughes (historian)"
+            },
+            {
+              "ns": 0,
+              "title": "Thorn Lighting Ltd"
+            },
+            {
+              "ns": 0,
+              "title": "Ticker tape"
+            },
+            {
+              "ns": 0,
+              "title": "Tilley lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of historic inventions"
+            },
+            {
+              "ns": 0,
+              "title": "Toilet"
+            },
+            {
+              "ns": 0,
+              "title": "Tool"
+            },
+            {
+              "ns": 0,
+              "title": "Torch"
+            },
+            {
+              "ns": 0,
+              "title": "Torchère"
+            },
+            {
+              "ns": 0,
+              "title": "Toronto Star"
+            },
+            {
+              "ns": 0,
+              "title": "Toshiba"
+            },
+            {
+              "ns": 0,
+              "title": "Touchscreen"
+            },
+            {
+              "ns": 0,
+              "title": "Tower"
+            },
+            {
+              "ns": 0,
+              "title": "Toy"
+            },
+            {
+              "ns": 0,
+              "title": "Track lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Trade secret"
+            },
+            {
+              "ns": 0,
+              "title": "Trafficators"
+            },
+            {
+              "ns": 0,
+              "title": "Train"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Transhumanism"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transport"
+            },
+            {
+              "ns": 0,
+              "title": "Troffer"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsram"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten nitride"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten pentoxide"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten trioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel"
+            },
+            {
+              "ns": 0,
+              "title": "Turbine"
+            },
+            {
+              "ns": 0,
+              "title": "Typewriter"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Underhill, Low Fell, Gateshead"
+            },
+            {
+              "ns": 0,
+              "title": "United Kingdom"
+            },
+            {
+              "ns": 0,
+              "title": "United States Electric Lighting Company"
+            },
+            {
+              "ns": 0,
+              "title": "United States Patent and Trademark Office"
+            },
+            {
+              "ns": 0,
+              "title": "Vaccine"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum pump"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Valve"
+            },
+            {
+              "ns": 0,
+              "title": "Verlag Europa-Lehrmittel"
+            },
+            {
+              "ns": 0,
+              "title": "Video game"
+            },
+            {
+              "ns": 0,
+              "title": "Vincenzo Balzani"
+            },
+            {
+              "ns": 0,
+              "title": "Visible light"
+            },
+            {
+              "ns": 0,
+              "title": "Vitrite"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Vulcanization"
+            },
+            {
+              "ns": 0,
+              "title": "Walther Nernst"
+            },
+            {
+              "ns": 0,
+              "title": "War of the currents"
+            },
+            {
+              "ns": 0,
+              "title": "Warren De la Rue"
+            },
+            {
+              "ns": 0,
+              "title": "Washing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Water splitting"
+            },
+            {
+              "ns": 0,
+              "title": "Watercraft"
+            },
+            {
+              "ns": 0,
+              "title": "Waterwheel"
+            },
+            {
+              "ns": 0,
+              "title": "Weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Web browser"
+            },
+            {
+              "ns": 0,
+              "title": "Wedge"
+            },
+            {
+              "ns": 0,
+              "title": "Wedge base"
+            },
+            {
+              "ns": 0,
+              "title": "Welding"
+            },
+            {
+              "ns": 0,
+              "title": "Wellsboro, Pennsylvania"
+            },
+            {
+              "ns": 0,
+              "title": "Wheel"
+            },
+            {
+              "ns": 0,
+              "title": "Whippletree (mechanism)"
+            },
+            {
+              "ns": 0,
+              "title": "William D. Coolidge"
+            },
+            {
+              "ns": 0,
+              "title": "William E. Sawyer"
+            },
+            {
+              "ns": 0,
+              "title": "William Preece"
+            },
+            {
+              "ns": 0,
+              "title": "Windmill"
+            },
+            {
+              "ns": 0,
+              "title": "Wine"
+            },
+            {
+              "ns": 0,
+              "title": "Wing"
+            },
+            {
+              "ns": 0,
+              "title": "Word processor"
+            },
+            {
+              "ns": 0,
+              "title": "Working animal"
+            },
+            {
+              "ns": 0,
+              "title": "World Wide Web"
+            },
+            {
+              "ns": 0,
+              "title": "Writing"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon arc lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Yablochkov candle"
+            },
+            {
+              "ns": 0,
+              "title": "Young Tom Edison"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium"
+            },
+            {
+              "ns": 0,
+              "title": "⌀"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329541.7035453
+}

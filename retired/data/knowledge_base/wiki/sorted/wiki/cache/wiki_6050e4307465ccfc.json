@@ -1,0 +1,1097 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "5218": {
+          "pageid": 5218,
+          "ns": 0,
+          "title": "Central processing unit",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Parallel port"
+            },
+            {
+              "ns": 0,
+              "title": "Parametron"
+            },
+            {
+              "ns": 0,
+              "title": "Parasitic capacitance"
+            },
+            {
+              "ns": 0,
+              "title": "Pentagrid converter"
+            },
+            {
+              "ns": 0,
+              "title": "Pentium"
+            },
+            {
+              "ns": 0,
+              "title": "Pentium 4"
+            },
+            {
+              "ns": 0,
+              "title": "Pentode"
+            },
+            {
+              "ns": 0,
+              "title": "Pentode transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Perf (Linux)"
+            },
+            {
+              "ns": 0,
+              "title": "Performance per watt"
+            },
+            {
+              "ns": 0,
+              "title": "Peripheral"
+            },
+            {
+              "ns": 0,
+              "title": "Personal computer"
+            },
+            {
+              "ns": 0,
+              "title": "Phone connector (audio)"
+            },
+            {
+              "ns": 0,
+              "title": "Photodetector"
+            },
+            {
+              "ns": 0,
+              "title": "Photodiode"
+            },
+            {
+              "ns": 0,
+              "title": "Photomultiplier tube"
+            },
+            {
+              "ns": 0,
+              "title": "Phototube"
+            },
+            {
+              "ns": 0,
+              "title": "Physics processing unit"
+            },
+            {
+              "ns": 0,
+              "title": "Pin grid array"
+            },
+            {
+              "ns": 0,
+              "title": "Pipeline stall"
+            },
+            {
+              "ns": 0,
+              "title": "Place and route"
+            },
+            {
+              "ns": 0,
+              "title": "Placement (electronic design automation)"
+            },
+            {
+              "ns": 0,
+              "title": "PlayStation 3"
+            },
+            {
+              "ns": 0,
+              "title": "Plotter"
+            },
+            {
+              "ns": 0,
+              "title": "Point-contact transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Pointer machine"
+            },
+            {
+              "ns": 0,
+              "title": "Pointing device"
+            },
+            {
+              "ns": 0,
+              "title": "Pointing stick"
+            },
+            {
+              "ns": 0,
+              "title": "Pool (computer science)"
+            },
+            {
+              "ns": 0,
+              "title": "Post–Turing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Potentiometer"
+            },
+            {
+              "ns": 0,
+              "title": "PowerPC"
+            },
+            {
+              "ns": 0,
+              "title": "Power ISA"
+            },
+            {
+              "ns": 0,
+              "title": "Power MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Power Management Unit"
+            },
+            {
+              "ns": 0,
+              "title": "Power management"
+            },
+            {
+              "ns": 0,
+              "title": "Power management integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Power supply unit (computer)"
+            },
+            {
+              "ns": 0,
+              "title": "Preemption (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Printed electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Printer (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Probabilistic Turing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Process (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Processor (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Processor core"
+            },
+            {
+              "ns": 0,
+              "title": "Processor design"
+            },
+            {
+              "ns": 0,
+              "title": "Processor register"
+            },
+            {
+              "ns": 0,
+              "title": "Program counter"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable Array Logic"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable logic array"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable logic device"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable unijunction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Propagation delay"
+            },
+            {
+              "ns": 0,
+              "title": "Protection ring"
+            },
+            {
+              "ns": 0,
+              "title": "Punched card"
+            },
+            {
+              "ns": 0,
+              "title": "Punched tape"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum Turing machine"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum cellular automaton"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum computer"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum computing"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum logic gate"
+            },
+            {
+              "ns": 0,
+              "title": "Queue automaton"
+            },
+            {
+              "ns": 0,
+              "title": "RF CMOS"
+            },
+            {
+              "ns": 0,
+              "title": "RF connector"
+            },
+            {
+              "ns": 0,
+              "title": "RISC-V"
+            },
+            {
+              "ns": 0,
+              "title": "ROM image"
+            },
+            {
+              "ns": 0,
+              "title": "Random-access machine"
+            },
+            {
+              "ns": 0,
+              "title": "Random-access memory"
+            },
+            {
+              "ns": 0,
+              "title": "Random-access stored-program machine"
+            },
+            {
+              "ns": 0,
+              "title": "Re-order buffer"
+            },
+            {
+              "ns": 0,
+              "title": "Reduced instruction set computer"
+            },
+            {
+              "ns": 0,
+              "title": "Reed relay"
+            },
+            {
+              "ns": 0,
+              "title": "Refreshable braille display"
+            },
+            {
+              "ns": 0,
+              "title": "Register-transfer level"
+            },
+            {
+              "ns": 0,
+              "title": "Register file"
+            },
+            {
+              "ns": 0,
+              "title": "Register machine"
+            },
+            {
+              "ns": 0,
+              "title": "Register renaming"
+            },
+            {
+              "ns": 0,
+              "title": "Register–memory architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Relay"
+            },
+            {
+              "ns": 0,
+              "title": "Removable media"
+            },
+            {
+              "ns": 0,
+              "title": "Reservation station"
+            },
+            {
+              "ns": 0,
+              "title": "Resettable fuse"
+            },
+            {
+              "ns": 0,
+              "title": "Resistor"
+            },
+            {
+              "ns": 0,
+              "title": "Return-oriented programming"
+            },
+            {
+              "ns": 0,
+              "title": "Routing (electronic design automation)"
+            },
+            {
+              "ns": 0,
+              "title": "Runt pulse"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SATA"
+            },
+            {
+              "ns": 0,
+              "title": "SIMD"
+            },
+            {
+              "ns": 0,
+              "title": "SPARC"
+            },
+            {
+              "ns": 0,
+              "title": "SPECint"
+            },
+            {
+              "ns": 0,
+              "title": "SUPS"
+            },
+            {
+              "ns": 0,
+              "title": "SWAR"
+            },
+            {
+              "ns": 0,
+              "title": "Sandy Bridge (microarchitecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Scalar processor"
+            },
+            {
+              "ns": 0,
+              "title": "Schottky diode"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific computing"
+            },
+            {
+              "ns": 0,
+              "title": "Scoreboarding"
+            },
+            {
+              "ns": 0,
+              "title": "Scratchpad memory"
+            },
+            {
+              "ns": 0,
+              "title": "Secondary storage"
+            },
+            {
+              "ns": 0,
+              "title": "Secure cryptoprocessor"
+            },
+            {
+              "ns": 0,
+              "title": "Selectron tube"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor device"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor device fabrication"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor manufacturing process"
+            },
+            {
+              "ns": 0,
+              "title": "Sequential logic"
+            },
+            {
+              "ns": 0,
+              "title": "Serial ATA"
+            },
+            {
+              "ns": 0,
+              "title": "Serial port"
+            },
+            {
+              "ns": 0,
+              "title": "Sigreturn-oriented programming"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon-gate"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon controlled rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Simultaneous and heterogeneous multithreading"
+            },
+            {
+              "ns": 0,
+              "title": "Simultaneous multithreading"
+            },
+            {
+              "ns": 0,
+              "title": "Single-core"
+            },
+            {
+              "ns": 0,
+              "title": "Single-ended primary-inductor converter"
+            },
+            {
+              "ns": 0,
+              "title": "Single instruction, multiple data"
+            },
+            {
+              "ns": 0,
+              "title": "Single instruction, multiple threads"
+            },
+            {
+              "ns": 0,
+              "title": "Single instruction, single data"
+            },
+            {
+              "ns": 0,
+              "title": "Single program, multiple data"
+            },
+            {
+              "ns": 0,
+              "title": "Soft microprocessor"
+            },
+            {
+              "ns": 0,
+              "title": "Softcam"
+            },
+            {
+              "ns": 0,
+              "title": "Software"
+            },
+            {
+              "ns": 0,
+              "title": "Solaristor"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state drive"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state hybrid drive"
+            },
+            {
+              "ns": 0,
+              "title": "Solid Logic Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Sony Vaio E series"
+            },
+            {
+              "ns": 0,
+              "title": "Sound card"
+            },
+            {
+              "ns": 0,
+              "title": "Sound chip"
+            },
+            {
+              "ns": 0,
+              "title": "Speculative execution"
+            },
+            {
+              "ns": 0,
+              "title": "Speculative multithreading"
+            },
+            {
+              "ns": 0,
+              "title": "Split-pi topology"
+            },
+            {
+              "ns": 0,
+              "title": "Square wave (waveform)"
+            },
+            {
+              "ns": 0,
+              "title": "Stack machine"
+            },
+            {
+              "ns": 0,
+              "title": "Stack register"
+            },
+            {
+              "ns": 0,
+              "title": "Stanford MIPS"
+            },
+            {
+              "ns": 0,
+              "title": "Static induction thyristor"
+            },
+            {
+              "ns": 0,
+              "title": "Static induction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Static random-access memory"
+            },
+            {
+              "ns": 0,
+              "title": "Status register"
+            },
+            {
+              "ns": 0,
+              "title": "Step recovery diode"
+            },
+            {
+              "ns": 0,
+              "title": "Storage tube"
+            },
+            {
+              "ns": 0,
+              "title": "Stored-program computer"
+            },
+            {
+              "ns": 0,
+              "title": "Stream processing"
+            },
+            {
+              "ns": 0,
+              "title": "Streaming SIMD Extensions"
+            },
+            {
+              "ns": 0,
+              "title": "Structural hazard"
+            },
+            {
+              "ns": 0,
+              "title": "Subroutine"
+            },
+            {
+              "ns": 0,
+              "title": "Subthreshold leakage"
+            },
+            {
+              "ns": 0,
+              "title": "Sum-addressed decoder"
+            },
+            {
+              "ns": 0,
+              "title": "SuperH"
+            },
+            {
+              "ns": 0,
+              "title": "Supercomputer"
+            },
+            {
+              "ns": 0,
+              "title": "Superscalar"
+            },
+            {
+              "ns": 0,
+              "title": "Superscalar processor"
+            },
+            {
+              "ns": 0,
+              "title": "Supervisor mode"
+            },
+            {
+              "ns": 0,
+              "title": "Sutton tube"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Switched-mode power supply"
+            },
+            {
+              "ns": 0,
+              "title": "Switched capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Switching circuit theory"
+            },
+            {
+              "ns": 0,
+              "title": "Switching regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Symmetric multiprocessing"
+            },
+            {
+              "ns": 0,
+              "title": "Synchronous circuit"
+            },
+            {
+              "ns": 0,
+              "title": "System/360"
+            },
+            {
+              "ns": 0,
+              "title": "System/370"
+            },
+            {
+              "ns": 0,
+              "title": "System in a package"
+            },
+            {
+              "ns": 0,
+              "title": "System on a chip"
+            },
+            {
+              "ns": 0,
+              "title": "Systems on chip"
+            },
+            {
+              "ns": 0,
+              "title": "TRIAC"
+            },
+            {
+              "ns": 0,
+              "title": "TRIPS architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Task-level parallelism"
+            },
+            {
+              "ns": 0,
+              "title": "Task parallelism"
+            },
+            {
+              "ns": 0,
+              "title": "Telephony"
+            },
+            {
+              "ns": 0,
+              "title": "Temporal multithreading"
+            },
+            {
+              "ns": 0,
+              "title": "Tensor Processing Unit"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrode"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrode transistor"
+            },
+            {
+              "ns": 0,
+              "title": "The Johns Hopkins University Press"
+            },
+            {
+              "ns": 0,
+              "title": "Thermistor"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Thread (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Three-dimensional integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Throughput"
+            },
+            {
+              "ns": 0,
+              "title": "Thunderbolt (interface)"
+            },
+            {
+              "ns": 0,
+              "title": "Thyratron"
+            },
+            {
+              "ns": 0,
+              "title": "Thyristor"
+            },
+            {
+              "ns": 0,
+              "title": "Tick–tock model"
+            },
+            {
+              "ns": 0,
+              "title": "Tile processor"
+            },
+            {
+              "ns": 0,
+              "title": "Tomasulo's algorithm"
+            },
+            {
+              "ns": 0,
+              "title": "Touchpad"
+            },
+            {
+              "ns": 0,
+              "title": "Touchscreen"
+            },
+            {
+              "ns": 0,
+              "title": "Tracing (software)"
+            },
+            {
+              "ns": 0,
+              "title": "Trackball"
+            },
+            {
+              "ns": 0,
+              "title": "Trancitor"
+            },
+            {
+              "ns": 0,
+              "title": "Transaction-level modeling"
+            },
+            {
+              "ns": 0,
+              "title": "Transaction processing"
+            },
+            {
+              "ns": 0,
+              "title": "Transactional memory"
+            },
+            {
+              "ns": 0,
+              "title": "Transactions per second"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor computer"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor count"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor–transistor logic"
+            },
+            {
+              "ns": 0,
+              "title": "Translation lookaside buffer"
+            },
+            {
+              "ns": 0,
+              "title": "Transport triggered architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Traveling-wave tube"
+            },
+            {
+              "ns": 0,
+              "title": "Trigatron"
+            },
+            {
+              "ns": 0,
+              "title": "Triode"
+            },
+            {
+              "ns": 0,
+              "title": "Trochotron"
+            },
+            {
+              "ns": 0,
+              "title": "True Performance Index"
+            },
+            {
+              "ns": 0,
+              "title": "Turing machine"
+            },
+            {
+              "ns": 0,
+              "title": "USB"
+            },
+            {
+              "ns": 0,
+              "title": "USB flash drive"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra-low-voltage processor"
+            },
+            {
+              "ns": 0,
+              "title": "UltraSPARC T1"
+            },
+            {
+              "ns": 0,
+              "title": "Uncore"
+            },
+            {
+              "ns": 0,
+              "title": "Unicore"
+            },
+            {
+              "ns": 0,
+              "title": "Uniform memory access"
+            },
+            {
+              "ns": 0,
+              "title": "Unijunction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Universal Turing machine"
+            },
+            {
+              "ns": 0,
+              "title": "University of Manchester"
+            },
+            {
+              "ns": 0,
+              "title": "University of Pennsylvania"
+            },
+            {
+              "ns": 0,
+              "title": "VAX"
+            },
+            {
+              "ns": 0,
+              "title": "VGA connector"
+            },
+            {
+              "ns": 0,
+              "title": "VISC architecture"
+            },
+            {
+              "ns": 0,
+              "title": "VMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum-tube computer"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum diode"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Variable capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Varicap"
+            },
+            {
+              "ns": 0,
+              "title": "Varistor"
+            },
+            {
+              "ns": 0,
+              "title": "Vector (geometric)"
+            },
+            {
+              "ns": 0,
+              "title": "Vector processor"
+            },
+            {
+              "ns": 0,
+              "title": "Very long instruction word"
+            },
+            {
+              "ns": 0,
+              "title": "Video camera tube"
+            },
+            {
+              "ns": 0,
+              "title": "Video game console"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual memory"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual private server"
+            },
+            {
+              "ns": 0,
+              "title": "Virtualization"
+            },
+            {
+              "ns": 0,
+              "title": "Vision processing unit"
+            },
+            {
+              "ns": 0,
+              "title": "Volt"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage-regulator tube"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage regulator module"
+            },
+            {
+              "ns": 0,
+              "title": "Von Neumann architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Wait state"
+            },
+            {
+              "ns": 0,
+              "title": "Webcam"
+            },
+            {
+              "ns": 0,
+              "title": "Wide-issue"
+            },
+            {
+              "ns": 0,
+              "title": "Williams tube"
+            },
+            {
+              "ns": 0,
+              "title": "Wire"
+            },
+            {
+              "ns": 0,
+              "title": "Wollaston wire"
+            },
+            {
+              "ns": 0,
+              "title": "Word (computer architecture)"
+            },
+            {
+              "ns": 0,
+              "title": "Word (data type)"
+            },
+            {
+              "ns": 0,
+              "title": "Write buffer"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "X86"
+            },
+            {
+              "ns": 0,
+              "title": "X86-64"
+            },
+            {
+              "ns": 0,
+              "title": "Xbox 360"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon (processor)"
+            },
+            {
+              "ns": 0,
+              "title": "Z/Architecture"
+            },
+            {
+              "ns": 0,
+              "title": "Zener diode"
+            },
+            {
+              "ns": 0,
+              "title": "Zeno machine"
+            },
+            {
+              "ns": 0,
+              "title": "Zero instruction set computer"
+            },
+            {
+              "ns": 0,
+              "title": "Ćuk converter"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329384.3343296
+}

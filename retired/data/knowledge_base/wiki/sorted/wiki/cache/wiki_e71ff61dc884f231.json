@@ -1,0 +1,809 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "921432": {
+          "pageid": 921432,
+          "ns": 0,
+          "title": "Barred spiral galaxy",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Active galactic nuclei"
+            },
+            {
+              "ns": 0,
+              "title": "Active galactic nucleus"
+            },
+            {
+              "ns": 0,
+              "title": "Andromeda (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Anemic galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Astrophysical jet"
+            },
+            {
+              "ns": 0,
+              "title": "BL Lacertae object"
+            },
+            {
+              "ns": 0,
+              "title": "Barred Magellanic spiral"
+            },
+            {
+              "ns": 0,
+              "title": "Barred irregular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Barred lenticular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binary galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Blazar"
+            },
+            {
+              "ns": 0,
+              "title": "Blue Nugget"
+            },
+            {
+              "ns": 0,
+              "title": "Blueberry galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Brightest cluster galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Canis Major"
+            },
+            {
+              "ns": 0,
+              "title": "Ceers-2112 galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Central massive object"
+            },
+            {
+              "ns": 0,
+              "title": "Coma Berenices"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "DRAGN"
+            },
+            {
+              "ns": 0,
+              "title": "Dark galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Dark matter halo"
+            },
+            {
+              "ns": 0,
+              "title": "Dead disk"
+            },
+            {
+              "ns": 0,
+              "title": "Density wave theory"
+            },
+            {
+              "ns": 0,
+              "title": "Disc galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dorado"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf elliptical galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf spheroidal galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Dwarf spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "ELIRG"
+            },
+            {
+              "ns": 0,
+              "title": "Edwin Hubble"
+            },
+            {
+              "ns": 0,
+              "title": "Elliptical galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Eridanus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "European Southern Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Extragalactic astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Faint blue galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Field galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Firehose instability"
+            },
+            {
+              "ns": 0,
+              "title": "Flocculent spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Fornax"
+            },
+            {
+              "ns": 0,
+              "title": "Fossil galaxy group"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic Center"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic bulge"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic cannibalism"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic coordinate system"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic corona"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic disc"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic habitable zone"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic halo"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic magnetic fields"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic orientation"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic plane"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic quadrant"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic ridge"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic tide"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy X (galaxy)"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy collision"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy color–magnitude diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy filament"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy formation and evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy group"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy groups and clusters"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy merger"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy morphological classification"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy rotation curve"
+            },
+            {
+              "ns": 0,
+              "title": "Grand design spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational lens"
+            },
+            {
+              "ns": 0,
+              "title": "Gravitational microlensing"
+            },
+            {
+              "ns": 0,
+              "title": "Green bean galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "HLIRG"
+            },
+            {
+              "ns": 0,
+              "title": "Hanny's Voorwerp"
+            },
+            {
+              "ns": 0,
+              "title": "Horologium (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Hot, dust-obscured galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble sequence"
+            },
+            {
+              "ns": 0,
+              "title": "IC 1011"
+            },
+            {
+              "ns": 0,
+              "title": "IC 3447"
+            },
+            {
+              "ns": 0,
+              "title": "IC 5201"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Illustris project"
+            },
+            {
+              "ns": 0,
+              "title": "Interacting galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Intergalactic dust"
+            },
+            {
+              "ns": 0,
+              "title": "Intergalactic star"
+            },
+            {
+              "ns": 0,
+              "title": "Intergalactic travel"
+            },
+            {
+              "ns": 0,
+              "title": "Intermediate spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar gas"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar medium"
+            },
+            {
+              "ns": 0,
+              "title": "Irregular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Jellyfish galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Large quasar group"
+            },
+            {
+              "ns": 0,
+              "title": "Lenticular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Leo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "List of astronomical objects named after people"
+            },
+            {
+              "ns": 0,
+              "title": "List of galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "List of galaxy groups and clusters"
+            },
+            {
+              "ns": 0,
+              "title": "List of largest galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "List of polar-ring galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "List of quasars"
+            },
+            {
+              "ns": 0,
+              "title": "List of ring galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "List of spiral galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "List of the most distant astronomical objects"
+            },
+            {
+              "ns": 0,
+              "title": "List of voids"
+            },
+            {
+              "ns": 0,
+              "title": "Lists of galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "Little red dot (astronomical object)"
+            },
+            {
+              "ns": 0,
+              "title": "Low-ionization nuclear emission-line region"
+            },
+            {
+              "ns": 0,
+              "title": "Low surface brightness galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Luminous infrared galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Lyman-alpha emitter"
+            },
+            {
+              "ns": 0,
+              "title": "Lyman-break galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Magellanic Clouds"
+            },
+            {
+              "ns": 0,
+              "title": "Magellanic spiral"
+            },
+            {
+              "ns": 0,
+              "title": "Markarian galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 108"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 95"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1073"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1300"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1512"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2787"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2903"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3953"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4314"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 4921"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 5398"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 55"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7541"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 7640"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital resonance"
+            },
+            {
+              "ns": 0,
+              "title": "PMC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Pea galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Peculiar galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Pegasus (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Pisces (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Polar-ring galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Press release"
+            },
+            {
+              "ns": 0,
+              "title": "Protogalaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Quasar"
+            },
+            {
+              "ns": 0,
+              "title": "Radio galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Red nugget"
+            },
+            {
+              "ns": 0,
+              "title": "Ring galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Satellite galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific American"
+            },
+            {
+              "ns": 0,
+              "title": "Seyfert galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Simon & Schuster"
+            },
+            {
+              "ns": 0,
+              "title": "Sky & Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Sky and Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Southern Pinwheel Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy M109"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy M58"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy M91"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy M95"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy NGC 1300"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy NGC 1365"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral Galaxy NGC 2217"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral arm"
+            },
+            {
+              "ns": 0,
+              "title": "Spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Starburst galaxies"
+            },
+            {
+              "ns": 0,
+              "title": "Starburst galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar kinematics"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar nursery"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar population"
+            },
+            {
+              "ns": 0,
+              "title": "Supercluster"
+            },
+            {
+              "ns": 0,
+              "title": "Supermassive black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Thick disk"
+            },
+            {
+              "ns": 0,
+              "title": "Thin disk"
+            },
+            {
+              "ns": 0,
+              "title": "Tucana"
+            },
+            {
+              "ns": 0,
+              "title": "Type-cD galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "UGC 12158"
+            },
+            {
+              "ns": 0,
+              "title": "ULIRG"
+            },
+            {
+              "ns": 0,
+              "title": "Ultra diffuse galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Ultramassive black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Unbarred lenticular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Unbarred spiral galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "University of Wisconsin System"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Major"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "Void (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Void galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "W. H. Freeman"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wide-field Infrared Survey Explorer"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf-Rayet galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "X-shaped radio galaxy"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324333.8781278
+}

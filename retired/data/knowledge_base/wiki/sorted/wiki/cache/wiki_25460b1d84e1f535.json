@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "Wikipedia:Vital_articles/Level/3/Science",
+          "to": "Wikipedia:Vital articles/Level/3/Science"
+        }
+      ],
+      "pages": {
+        "22828880": {
+          "pageid": 22828880,
+          "ns": 4,
+          "title": "Wikipedia:Vital articles/Level/3/Science"
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323559.7863367
+}

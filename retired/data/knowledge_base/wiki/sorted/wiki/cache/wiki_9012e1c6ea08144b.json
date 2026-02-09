@@ -1,0 +1,553 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "33498": {
+          "pageid": 33498,
+          "ns": 0,
+          "title": "Wire",
+          "links": [
+            {
+              "ns": 0,
+              "title": "2nd Dynasty"
+            },
+            {
+              "ns": 0,
+              "title": "Alloy"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Aluminum wire"
+            },
+            {
+              "ns": 0,
+              "title": "American wire gauge"
+            },
+            {
+              "ns": 0,
+              "title": "Anatolia"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient technology"
+            },
+            {
+              "ns": 0,
+              "title": "Annealing (metallurgy)"
+            },
+            {
+              "ns": 0,
+              "title": "Anvil"
+            },
+            {
+              "ns": 0,
+              "title": "BCE"
+            },
+            {
+              "ns": 0,
+              "title": "Barbed wire"
+            },
+            {
+              "ns": 0,
+              "title": "Bobbin"
+            },
+            {
+              "ns": 0,
+              "title": "Brass"
+            },
+            {
+              "ns": 0,
+              "title": "Bronze"
+            },
+            {
+              "ns": 0,
+              "title": "Bronze Age"
+            },
+            {
+              "ns": 0,
+              "title": "Carding"
+            },
+            {
+              "ns": 0,
+              "title": "Cello"
+            },
+            {
+              "ns": 0,
+              "title": "Chicken wire"
+            },
+            {
+              "ns": 0,
+              "title": "Cimbalom"
+            },
+            {
+              "ns": 0,
+              "title": "Circle packing"
+            },
+            {
+              "ns": 0,
+              "title": "Coaxial cable"
+            },
+            {
+              "ns": 0,
+              "title": "Coil spring"
+            },
+            {
+              "ns": 0,
+              "title": "Company of Mineral and Battery Works"
+            },
+            {
+              "ns": 0,
+              "title": "Computer mouse"
+            },
+            {
+              "ns": 0,
+              "title": "Copper"
+            },
+            {
+              "ns": 0,
+              "title": "Copper wire and cable"
+            },
+            {
+              "ns": 0,
+              "title": "Cylinder (geometry)"
+            },
+            {
+              "ns": 0,
+              "title": "Data cable"
+            },
+            {
+              "ns": 0,
+              "title": "Diamond"
+            },
+            {
+              "ns": 0,
+              "title": "Die (manufacturing)"
+            },
+            {
+              "ns": 0,
+              "title": "Dobro"
+            },
+            {
+              "ns": 0,
+              "title": "Draw plate"
+            },
+            {
+              "ns": 0,
+              "title": "Drawing (manufacturing)"
+            },
+            {
+              "ns": 0,
+              "title": "Ductile"
+            },
+            {
+              "ns": 0,
+              "title": "Dulcimer"
+            },
+            {
+              "ns": 0,
+              "title": "Eastern Mediterranean"
+            },
+            {
+              "ns": 0,
+              "title": "Edward IV"
+            },
+            {
+              "ns": 0,
+              "title": "Egypt"
+            },
+            {
+              "ns": 0,
+              "title": "Electric generator"
+            },
+            {
+              "ns": 0,
+              "title": "Electric light"
+            },
+            {
+              "ns": 0,
+              "title": "Electric motor"
+            },
+            {
+              "ns": 0,
+              "title": "Electric power transmission"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical cable"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical conductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical heating"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical wire"
+            },
+            {
+              "ns": 0,
+              "title": "Electricity"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic coil"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Etruscan civilisation"
+            },
+            {
+              "ns": 0,
+              "title": "Fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Fibula (brooch)"
+            },
+            {
+              "ns": 0,
+              "title": "Filigree"
+            },
+            {
+              "ns": 0,
+              "title": "Fish hook"
+            },
+            {
+              "ns": 0,
+              "title": "Germanium diode"
+            },
+            {
+              "ns": 0,
+              "title": "Gold"
+            },
+            {
+              "ns": 0,
+              "title": "Great Britain"
+            },
+            {
+              "ns": 0,
+              "title": "Guitar"
+            },
+            {
+              "ns": 0,
+              "title": "Hairpin (fashion)"
+            },
+            {
+              "ns": 0,
+              "title": "Headphone"
+            },
+            {
+              "ns": 0,
+              "title": "Heating element"
+            },
+            {
+              "ns": 0,
+              "title": "Helix"
+            },
+            {
+              "ns": 0,
+              "title": "High-voltage cable"
+            },
+            {
+              "ns": 0,
+              "title": "Hugh Chisholm"
+            },
+            {
+              "ns": 0,
+              "title": "IEC 60228"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Inductor"
+            },
+            {
+              "ns": 0,
+              "title": "Insulation (electric)"
+            },
+            {
+              "ns": 0,
+              "title": "Iron"
+            },
+            {
+              "ns": 0,
+              "title": "Iron Age"
+            },
+            {
+              "ns": 0,
+              "title": "Jewellery"
+            },
+            {
+              "ns": 0,
+              "title": "Jewelry"
+            },
+            {
+              "ns": 0,
+              "title": "Lamé (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Lead"
+            },
+            {
+              "ns": 0,
+              "title": "Light bulb"
+            },
+            {
+              "ns": 0,
+              "title": "Litz wire"
+            },
+            {
+              "ns": 0,
+              "title": "Loudspeaker"
+            },
+            {
+              "ns": 0,
+              "title": "Magnet wire"
+            },
+            {
+              "ns": 0,
+              "title": "Manufacturing"
+            },
+            {
+              "ns": 0,
+              "title": "Metal"
+            },
+            {
+              "ns": 0,
+              "title": "Metal fatigue"
+            },
+            {
+              "ns": 0,
+              "title": "Monopoly"
+            },
+            {
+              "ns": 0,
+              "title": "Nichrome"
+            },
+            {
+              "ns": 0,
+              "title": "Nickel"
+            },
+            {
+              "ns": 0,
+              "title": "No. 36 gauge"
+            },
+            {
+              "ns": 0,
+              "title": "Old World"
+            },
+            {
+              "ns": 0,
+              "title": "Packing problem"
+            },
+            {
+              "ns": 0,
+              "title": "Paraffin wax"
+            },
+            {
+              "ns": 0,
+              "title": "Phoenicia"
+            },
+            {
+              "ns": 0,
+              "title": "Piano"
+            },
+            {
+              "ns": 0,
+              "title": "Piano wire"
+            },
+            {
+              "ns": 0,
+              "title": "Platinum"
+            },
+            {
+              "ns": 0,
+              "title": "Polymer"
+            },
+            {
+              "ns": 0,
+              "title": "Power cabling"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Proximity effect (electromagnetism)"
+            },
+            {
+              "ns": 0,
+              "title": "Public domain"
+            },
+            {
+              "ns": 0,
+              "title": "Razor wire"
+            },
+            {
+              "ns": 0,
+              "title": "Resistance wire"
+            },
+            {
+              "ns": 0,
+              "title": "Resistor"
+            },
+            {
+              "ns": 0,
+              "title": "Ruby"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Signal (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Silver"
+            },
+            {
+              "ns": 0,
+              "title": "Skin effect"
+            },
+            {
+              "ns": 0,
+              "title": "Slinky"
+            },
+            {
+              "ns": 0,
+              "title": "Solderability"
+            },
+            {
+              "ns": 0,
+              "title": "Sophie Ryder"
+            },
+            {
+              "ns": 0,
+              "title": "Speaker wire"
+            },
+            {
+              "ns": 0,
+              "title": "Steel"
+            },
+            {
+              "ns": 0,
+              "title": "Stringed instruments"
+            },
+            {
+              "ns": 0,
+              "title": "Structural load"
+            },
+            {
+              "ns": 0,
+              "title": "Suspension bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Swaging"
+            },
+            {
+              "ns": 0,
+              "title": "Textile"
+            },
+            {
+              "ns": 0,
+              "title": "Tinned"
+            },
+            {
+              "ns": 0,
+              "title": "Tinsel wire"
+            },
+            {
+              "ns": 0,
+              "title": "Tintern"
+            },
+            {
+              "ns": 0,
+              "title": "Torc"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Violin"
+            },
+            {
+              "ns": 0,
+              "title": "Voice coil"
+            },
+            {
+              "ns": 0,
+              "title": "Wire (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Wire bonding"
+            },
+            {
+              "ns": 0,
+              "title": "Wire drawing"
+            },
+            {
+              "ns": 0,
+              "title": "Wire gauge"
+            },
+            {
+              "ns": 0,
+              "title": "Wire netting"
+            },
+            {
+              "ns": 0,
+              "title": "Wire rope"
+            },
+            {
+              "ns": 0,
+              "title": "Wire wrapped jewelry"
+            },
+            {
+              "ns": 0,
+              "title": "Wollaston wire"
+            },
+            {
+              "ns": 0,
+              "title": "Yorkshire Sculpture Park"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330129.9431736
+}

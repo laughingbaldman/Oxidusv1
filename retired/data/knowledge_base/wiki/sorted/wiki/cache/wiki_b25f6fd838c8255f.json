@@ -1,0 +1,505 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "293396": {
+          "pageid": 293396,
+          "ns": 0,
+          "title": "Flat-panel display",
+          "links": [
+            {
+              "ns": 0,
+              "title": "1080i"
+            },
+            {
+              "ns": 0,
+              "title": "4K UHD"
+            },
+            {
+              "ns": 0,
+              "title": "Active-matrix"
+            },
+            {
+              "ns": 0,
+              "title": "Active-matrix liquid-crystal display"
+            },
+            {
+              "ns": 0,
+              "title": "Active-matrix organic light-emitting diode"
+            },
+            {
+              "ns": 0,
+              "title": "Aiken tube"
+            },
+            {
+              "ns": 0,
+              "title": "Amazon Kindle"
+            },
+            {
+              "ns": 0,
+              "title": "Backlight"
+            },
+            {
+              "ns": 0,
+              "title": "Bell Labs"
+            },
+            {
+              "ns": 0,
+              "title": "Bernard J. Lechner"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bistability"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitive touch screen"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Ching W. Tang"
+            },
+            {
+              "ns": 0,
+              "title": "Cholesteric liquid crystal"
+            },
+            {
+              "ns": 0,
+              "title": "Clive Sinclair"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison of CRT, LCD, plasma, and OLED displays"
+            },
+            {
+              "ns": 0,
+              "title": "Computer History Museum"
+            },
+            {
+              "ns": 0,
+              "title": "Computer monitor"
+            },
+            {
+              "ns": 0,
+              "title": "Consumer electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Dawon Kahng"
+            },
+            {
+              "ns": 0,
+              "title": "Dennis Gabor"
+            },
+            {
+              "ns": 0,
+              "title": "Digital Light Processing"
+            },
+            {
+              "ns": 0,
+              "title": "Digital display"
+            },
+            {
+              "ns": 0,
+              "title": "Display device"
+            },
+            {
+              "ns": 0,
+              "title": "Display motion blur"
+            },
+            {
+              "ns": 0,
+              "title": "Display technology"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dynamic scattering"
+            },
+            {
+              "ns": 0,
+              "title": "E-book"
+            },
+            {
+              "ns": 0,
+              "title": "E-ink"
+            },
+            {
+              "ns": 0,
+              "title": "E Ink"
+            },
+            {
+              "ns": 0,
+              "title": "Eastman Kodak"
+            },
+            {
+              "ns": 0,
+              "title": "Electroluminescent display"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic paper"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic visual display"
+            },
+            {
+              "ns": 0,
+              "title": "Electronics industry"
+            },
+            {
+              "ns": 0,
+              "title": "Electrophoretic display"
+            },
+            {
+              "ns": 0,
+              "title": "Epson"
+            },
+            {
+              "ns": 0,
+              "title": "FPD-Link"
+            },
+            {
+              "ns": 0,
+              "title": "Field-emission display"
+            },
+            {
+              "ns": 0,
+              "title": "Flexible display"
+            },
+            {
+              "ns": 0,
+              "title": "Gamut"
+            },
+            {
+              "ns": 0,
+              "title": "General Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Gyricon"
+            },
+            {
+              "ns": 0,
+              "title": "HP Labs"
+            },
+            {
+              "ns": 0,
+              "title": "Heads up display"
+            },
+            {
+              "ns": 0,
+              "title": "Hewlett-Packard"
+            },
+            {
+              "ns": 0,
+              "title": "Hewlett-Packard Journal"
+            },
+            {
+              "ns": 0,
+              "title": "High-resolution"
+            },
+            {
+              "ns": 0,
+              "title": "Holography"
+            },
+            {
+              "ns": 0,
+              "title": "Hynix"
+            },
+            {
+              "ns": 0,
+              "title": "IEEE Transactions on Electron Devices"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "In-plane switching"
+            },
+            {
+              "ns": 0,
+              "title": "Interferometric modulator display"
+            },
+            {
+              "ns": 0,
+              "title": "John Wiley & Sons"
+            },
+            {
+              "ns": 0,
+              "title": "LCD"
+            },
+            {
+              "ns": 0,
+              "title": "LCOS"
+            },
+            {
+              "ns": 0,
+              "title": "LED"
+            },
+            {
+              "ns": 0,
+              "title": "LED-backlit LCD"
+            },
+            {
+              "ns": 0,
+              "title": "LED-backlit LCD television"
+            },
+            {
+              "ns": 0,
+              "title": "Large-screen television technology"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting diode"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid-crystal display"
+            },
+            {
+              "ns": 0,
+              "title": "List of flat panel display manufacturers"
+            },
+            {
+              "ns": 0,
+              "title": "MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Mains electricity"
+            },
+            {
+              "ns": 0,
+              "title": "MicroLED"
+            },
+            {
+              "ns": 0,
+              "title": "Mobile display"
+            },
+            {
+              "ns": 0,
+              "title": "Mohamed Atalla"
+            },
+            {
+              "ns": 0,
+              "title": "Mohamed M. Atalla"
+            },
+            {
+              "ns": 0,
+              "title": "Movie trailer"
+            },
+            {
+              "ns": 0,
+              "title": "Neon"
+            },
+            {
+              "ns": 0,
+              "title": "Nixie tube"
+            },
+            {
+              "ns": 0,
+              "title": "OLED"
+            },
+            {
+              "ns": 0,
+              "title": "Organic LED"
+            },
+            {
+              "ns": 0,
+              "title": "Organic semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Patent battle"
+            },
+            {
+              "ns": 0,
+              "title": "Paul K. Weimer"
+            },
+            {
+              "ns": 0,
+              "title": "Philco Predicta"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma display panel"
+            },
+            {
+              "ns": 0,
+              "title": "Pocket TV"
+            },
+            {
+              "ns": 0,
+              "title": "Power outage"
+            },
+            {
+              "ns": 0,
+              "title": "Proceedings of the IRE"
+            },
+            {
+              "ns": 0,
+              "title": "Qualia (Sony)"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum dot display"
+            },
+            {
+              "ns": 0,
+              "title": "RCA Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "RCA Laboratories"
+            },
+            {
+              "ns": 0,
+              "title": "Rear projection"
+            },
+            {
+              "ns": 0,
+              "title": "Research and development"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "SK Hynix"
+            },
+            {
+              "ns": 0,
+              "title": "Samsung Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Sharp Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "Sony"
+            },
+            {
+              "ns": 0,
+              "title": "Sony Watchman"
+            },
+            {
+              "ns": 0,
+              "title": "Sony XEL-1"
+            },
+            {
+              "ns": 0,
+              "title": "Sound & Vision (magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "Springer Science & Business Media"
+            },
+            {
+              "ns": 0,
+              "title": "Stereoscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Steven Van Slyke"
+            },
+            {
+              "ns": 0,
+              "title": "Surface-conduction electron-emitter display"
+            },
+            {
+              "ns": 0,
+              "title": "T. Peter Brody"
+            },
+            {
+              "ns": 0,
+              "title": "TV"
+            },
+            {
+              "ns": 0,
+              "title": "Taipei Arena"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film-transistor liquid-crystal display"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Touch panel"
+            },
+            {
+              "ns": 0,
+              "title": "Touch screen"
+            },
+            {
+              "ns": 0,
+              "title": "Transparent display"
+            },
+            {
+              "ns": 0,
+              "title": "Twisted nematic field effect"
+            },
+            {
+              "ns": 0,
+              "title": "University of Illinois"
+            },
+            {
+              "ns": 0,
+              "title": "Wall socket"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Westinghouse Electric Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "World Scientific"
+            },
+            {
+              "ns": 0,
+              "title": "Zurich S-Bahn"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329496.15082
+}

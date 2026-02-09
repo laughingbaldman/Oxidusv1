@@ -1,0 +1,455 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "normalized": [
+        {
+          "from": "Wikipedia:Vital_articles/Level/4/Physical_sciences",
+          "to": "Wikipedia:Vital articles/Level/4/Physical sciences"
+        }
+      ],
+      "pages": {
+        "21271228": {
+          "pageid": 21271228,
+          "ns": 4,
+          "title": "Wikipedia:Vital articles/Level/4/Physical sciences",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Theoretical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Theory of relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic free energy"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Thermohaline circulation"
+            },
+            {
+              "ns": 0,
+              "title": "Thiol"
+            },
+            {
+              "ns": 0,
+              "title": "Thorium"
+            },
+            {
+              "ns": 0,
+              "title": "Thrust fault"
+            },
+            {
+              "ns": 0,
+              "title": "Thulium"
+            },
+            {
+              "ns": 0,
+              "title": "Thunderstorm"
+            },
+            {
+              "ns": 0,
+              "title": "Tidal locking"
+            },
+            {
+              "ns": 0,
+              "title": "Tide"
+            },
+            {
+              "ns": 0,
+              "title": "Time"
+            },
+            {
+              "ns": 0,
+              "title": "Tin"
+            },
+            {
+              "ns": 0,
+              "title": "Titan (moon)"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium"
+            },
+            {
+              "ns": 0,
+              "title": "Titanium dioxide"
+            },
+            {
+              "ns": 0,
+              "title": "Ton"
+            },
+            {
+              "ns": 0,
+              "title": "Tornado"
+            },
+            {
+              "ns": 0,
+              "title": "Torque"
+            },
+            {
+              "ns": 0,
+              "title": "Trade winds"
+            },
+            {
+              "ns": 0,
+              "title": "Transition metal"
+            },
+            {
+              "ns": 0,
+              "title": "Transparency and translucency"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulum Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Triassic"
+            },
+            {
+              "ns": 0,
+              "title": "Triassic–Jurassic extinction"
+            },
+            {
+              "ns": 0,
+              "title": "Triple point"
+            },
+            {
+              "ns": 0,
+              "title": "Triton (moon)"
+            },
+            {
+              "ns": 0,
+              "title": "Tropical climate"
+            },
+            {
+              "ns": 0,
+              "title": "Tropical cyclone"
+            },
+            {
+              "ns": 0,
+              "title": "Tropical rainforest"
+            },
+            {
+              "ns": 0,
+              "title": "Tsunami"
+            },
+            {
+              "ns": 0,
+              "title": "Tuff"
+            },
+            {
+              "ns": 0,
+              "title": "Tundra"
+            },
+            {
+              "ns": 0,
+              "title": "Tungsten"
+            },
+            {
+              "ns": 0,
+              "title": "Turbulence"
+            },
+            {
+              "ns": 0,
+              "title": "Ultimate fate of the universe"
+            },
+            {
+              "ns": 0,
+              "title": "Ultrasound"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Uncertainty principle"
+            },
+            {
+              "ns": 0,
+              "title": "Unit of measurement"
+            },
+            {
+              "ns": 0,
+              "title": "United States customary units"
+            },
+            {
+              "ns": 0,
+              "title": "Universe"
+            },
+            {
+              "ns": 0,
+              "title": "Uranium"
+            },
+            {
+              "ns": 0,
+              "title": "Uranus"
+            },
+            {
+              "ns": 0,
+              "title": "Urea"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Major"
+            },
+            {
+              "ns": 0,
+              "title": "Ursa Minor"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum"
+            },
+            {
+              "ns": 0,
+              "title": "Valence bond theory"
+            },
+            {
+              "ns": 0,
+              "title": "Valley"
+            },
+            {
+              "ns": 0,
+              "title": "Vanadium"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star"
+            },
+            {
+              "ns": 0,
+              "title": "Vega"
+            },
+            {
+              "ns": 0,
+              "title": "Velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Venus"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo Cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo Supercluster"
+            },
+            {
+              "ns": 0,
+              "title": "Viscosity"
+            },
+            {
+              "ns": 0,
+              "title": "Visible spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Void (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Volcano"
+            },
+            {
+              "ns": 0,
+              "title": "Volt"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage"
+            },
+            {
+              "ns": 0,
+              "title": "W and Z bosons"
+            },
+            {
+              "ns": 0,
+              "title": "Walker circulation"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "Water cycle"
+            },
+            {
+              "ns": 0,
+              "title": "Water vapor"
+            },
+            {
+              "ns": 0,
+              "title": "Waterfall"
+            },
+            {
+              "ns": 0,
+              "title": "Watt"
+            },
+            {
+              "ns": 0,
+              "title": "Wave"
+            },
+            {
+              "ns": 0,
+              "title": "Wave equation"
+            },
+            {
+              "ns": 0,
+              "title": "Wave function"
+            },
+            {
+              "ns": 0,
+              "title": "Wave interference"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Wave–particle duality"
+            },
+            {
+              "ns": 0,
+              "title": "Weak interaction"
+            },
+            {
+              "ns": 0,
+              "title": "Weather"
+            },
+            {
+              "ns": 0,
+              "title": "Weather forecasting"
+            },
+            {
+              "ns": 0,
+              "title": "Weather front"
+            },
+            {
+              "ns": 0,
+              "title": "Weathering"
+            },
+            {
+              "ns": 0,
+              "title": "Weber (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Week"
+            },
+            {
+              "ns": 0,
+              "title": "Weighing scale"
+            },
+            {
+              "ns": 0,
+              "title": "Weight"
+            },
+            {
+              "ns": 0,
+              "title": "Wetland"
+            },
+            {
+              "ns": 0,
+              "title": "Whirlpool Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "White"
+            },
+            {
+              "ns": 0,
+              "title": "White dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Wildfire"
+            },
+            {
+              "ns": 0,
+              "title": "Wind"
+            },
+            {
+              "ns": 0,
+              "title": "Winter"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf–Rayet star"
+            },
+            {
+              "ns": 0,
+              "title": "Work (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Wrought iron"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon"
+            },
+            {
+              "ns": 0,
+              "title": "Year"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow"
+            },
+            {
+              "ns": 0,
+              "title": "Ytterbium"
+            },
+            {
+              "ns": 0,
+              "title": "Yttrium"
+            },
+            {
+              "ns": 0,
+              "title": "Zinc"
+            },
+            {
+              "ns": 0,
+              "title": "Zirconium"
+            },
+            {
+              "ns": 0,
+              "title": "Zodiac"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770323559.4088473
+}

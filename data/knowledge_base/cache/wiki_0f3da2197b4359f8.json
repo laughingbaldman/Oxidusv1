@@ -1,0 +1,177 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "173354": {
+          "pageid": 173354,
+          "ns": 0,
+          "title": "Automation",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Transportation Research Board"
+            },
+            {
+              "ns": 0,
+              "title": "Turnaround time"
+            },
+            {
+              "ns": 0,
+              "title": "U.S. Congress"
+            },
+            {
+              "ns": 0,
+              "title": "Ubiquitous robot"
+            },
+            {
+              "ns": 0,
+              "title": "Unified Modeling Language"
+            },
+            {
+              "ns": 0,
+              "title": "Unified modeling language"
+            },
+            {
+              "ns": 0,
+              "title": "United States Secretary of Transportation"
+            },
+            {
+              "ns": 0,
+              "title": "Universal Robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned aerial vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned ground vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unmanned vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Unstructured data"
+            },
+            {
+              "ns": 0,
+              "title": "Use case"
+            },
+            {
+              "ns": 0,
+              "title": "Valve"
+            },
+            {
+              "ns": 0,
+              "title": "Valvo (company)"
+            },
+            {
+              "ns": 0,
+              "title": "Variable structure control"
+            },
+            {
+              "ns": 0,
+              "title": "Vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Vehicular automation"
+            },
+            {
+              "ns": 0,
+              "title": "Vending machine"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual assistant"
+            },
+            {
+              "ns": 0,
+              "title": "Vision-guided robot systems"
+            },
+            {
+              "ns": 0,
+              "title": "Visual odometry"
+            },
+            {
+              "ns": 0,
+              "title": "Waiting staff"
+            },
+            {
+              "ns": 0,
+              "title": "Warehouse"
+            },
+            {
+              "ns": 0,
+              "title": "Water clock"
+            },
+            {
+              "ns": 0,
+              "title": "Water frame"
+            },
+            {
+              "ns": 0,
+              "title": "Watson computer"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weaving machines"
+            },
+            {
+              "ns": 0,
+              "title": "Wind farm"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless World"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf Robotics"
+            },
+            {
+              "ns": 0,
+              "title": "Work 4.0"
+            },
+            {
+              "ns": 0,
+              "title": "Working paper"
+            },
+            {
+              "ns": 0,
+              "title": "Working time"
+            },
+            {
+              "ns": 0,
+              "title": "Workplace robotics safety"
+            },
+            {
+              "ns": 0,
+              "title": "World Bank"
+            },
+            {
+              "ns": 0,
+              "title": "World Development Report"
+            },
+            {
+              "ns": 0,
+              "title": "Yaskawa Electric Corporation"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770670094.3929403
+}

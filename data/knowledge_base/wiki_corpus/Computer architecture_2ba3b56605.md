@@ -1,0 +1,477 @@
+---
+title: "Computer architecture"
+domain: "computing"
+url: "https://en.wikipedia.org/wiki/Computer_architecture"
+source: "wikipedia"
+timestamp: "2026-02-08T13:30:28.211357"
+content_length: 18552
+links_count: 350
+---
+
+In computer science and computer engineering, a computer architecture is the structure of a computer system made from component parts. It can sometimes be a high-level description that ignores details of the implementation. At a more detailed level, the description may include the instruction set architecture design, microarchitecture design, logic design, and implementation.
+
+
+== History ==
+The first documented computer architecture was in the correspondence between Charles Babbage and Ada Lovelace, describing the analytical engine. While building the computer Z1 in 1936, Konrad Zuse described in two patent applications for his future projects that machine instructions could be stored in the same storage used for data, i.e., the stored-program concept. Two other early and important examples are:
+
+John von Neumann's 1945 paper, First Draft of a Report on the EDVAC, which described an organization of logical elements; and
+Alan Turing's more detailed Proposed Electronic Calculator for the Automatic Computing Engine, also 1945 and which cited John von Neumann's paper.
+The term "architecture" in computer literature can be traced to the work of Lyle R. Johnson and Frederick P. Brooks, Jr., members of the Machine Organization department in IBM's main research center in 1959. Johnson had the opportunity to write a proprietary research communication about the Stretch, an IBM-developed supercomputer for Los Alamos National Laboratory (at the time known as Los Alamos Scientific Laboratory). To describe the level of detail for discussing the luxuriously embellished computer, he noted that his description of formats, instruction types, hardware parameters, and speed enhancements were at the level of "system architecture", a term that seemed more useful than "machine organization".
+Subsequently, Brooks, a Stretch designer, opened Chapter 2 of a book called Planning a Computer System: Project Stretch by stating, "Computer architecture, like other architecture, is the art of determining the needs of the user of a structure and then designing to meet those needs as effectively as possible within economic and technological constraints."
+Brooks went on to help develop the IBM System/360 line of computers, in which "architecture" became a noun defining "what the user needs to know". The System/360 line was succeeded by several compatible lines of computers, including the current IBM Z line. Later, computer users came to use the term in many less explicit ways.
+The earliest computer architectures were designed on paper and then directly built into the final hardware form.
+Later, computer architecture prototypes were physically built in the form of a transistor–transistor logic (TTL) computer—such as the prototypes of the 6800 and the PA-RISC—tested, and tweaked, before committing to the final hardware form.
+As of the 1990s, new computer architectures are typically "built", tested, and tweaked—inside some other computer architecture in a computer architecture simulator; or inside a FPGA as a soft microprocessor; or both—before committing to the final hardware form.
+
+
+== Subcategories ==
+The discipline of computer architecture has three main subcategories:
+
+Instruction set architecture (ISA): defines the machine code that a processor reads and acts upon as well as the word size, memory address modes, processor registers, and data type.
+Microarchitecture: also known as "computer organization", this describes how a particular processor will implement the ISA. The size of a computer's CPU cache for instance, is an issue that generally has nothing to do with the ISA.
+Systems design: includes all of the other hardware components within a computing system, such as data processing other than the CPU (e.g., direct memory access), virtualization, and multiprocessing.
+There are other technologies in computer architecture. The following technologies are used in bigger companies like Intel, and were estimated in 2002 to count for 1% of all of computer architecture:
+
+Macroarchitecture: architectural layers more abstract than microarchitecture
+Assembly instruction set architecture: a smart assembler may convert an abstract assembly language common to a group of machines into slightly different machine language for different implementations.
+Programmer-visible macroarchitecture: higher-level language tools such as compilers may define a consistent interface or contract to programmers using them, abstracting differences between underlying ISAs and microarchitectures. For example, the C, C++, or Java standards define different programmer-visible macroarchitectures.
+Microcode: microcode is software that translates instructions to run on a chip. It acts like a wrapper around the hardware, presenting a preferred version of the hardware's instruction set interface. This instruction translation facility gives chip designers flexible options: E.g. 1. A new improved version of the chip can use microcode to present the same instruction set as the old chip version, so all software targeting that instruction set will run on the new chip without needing changes. E.g. 2. Microcode can present a variety of instruction sets for the same underlying chip, allowing it to run a wider variety of software.
+Pin architecture: the hardware functions that a microprocessor should provide to a hardware platform, e.g., the x86 pins A20M, FERR/IGNNE or FLUSH. Also, messages that the processor should emit so that external caches can be invalidated (emptied). Pin architecture functions are more flexible than ISA functions because external hardware can adapt to new encodings, or change from a pin to a message. The term "architecture" fits, because the functions must be provided for compatible systems, even if the detailed method changes.
+
+
+== Roles ==
+
+
+=== Definition ===
+Computer architecture is concerned with balancing the performance, efficiency, cost, and reliability of a computer system. The case of instruction set architecture can be used to illustrate the balance of these competing factors. More complex instruction sets enable programmers to write more space efficient programs, since a single instruction can encode some higher-level abstraction (such as the x86 Loop instruction). However, longer and more complex instructions take longer for the processor to decode and can be more costly to implement effectively. The increased complexity from a large instruction set also creates more room for unreliability when instructions interact in unexpected ways.
+The implementation involves integrated circuit design, packaging, power, and cooling. Optimization of the design requires familiarity with topics from compilers and operating systems to logic design and packaging.
+
+
+=== Instruction set architecture ===
+
+An instruction set architecture (ISA) is the interface between the computer's software and hardware and also can be viewed as the programmer's view of the machine. Computers do not understand high-level programming languages such as Java, C++, or most programming languages used. A processor only understands instructions encoded in some numerical fashion, usually as binary numbers. Software tools, such as compilers, translate those high level languages into instructions that the processor can understand.
+Besides instructions, the ISA defines items in the computer that are available to a program—e.g., data types, registers, addressing modes, and memory.  Instructions locate these available items with register indexes (or names) and memory addressing modes.
+The ISA of a computer is usually described in a small instruction manual, which describes how the instructions are encoded. Also, it may define short (vaguely) mnemonic names for the instructions. The names can be recognized by a software development tool called an assembler. An assembler is a computer program that translates a human-readable form of the ISA into a computer-readable form. Disassemblers are also widely available, usually in debuggers and software programs to isolate and correct malfunctions in binary computer programs.
+ISAs vary in quality and completeness. A good ISA compromises between programmer convenience (how easy the code is to understand), size of the code (how much code is required to do a specific action), cost of the computer to interpret the instructions (more complexity means more hardware needed to decode and execute the instructions), and speed of the computer (with more complex decoding hardware comes longer decode time). Memory organization defines how instructions interact with the memory, and how memory interacts with itself.
+During design emulation, emulators can run programs written in a proposed instruction set. Modern emulators can measure size, cost, and speed to determine whether a particular ISA is meeting its goals.
+
+
+=== Computer organization ===
+
+Computer organization helps optimize performance-based products. For example, software engineers need to know the processing power of processors. They may need to optimize software in order to gain the most performance for the lowest price. This can require quite a detailed analysis of the computer's organization.  For example, in an SD card, the designers might need to arrange the card so that the most data can be processed in the fastest possible way.
+Computer organization also helps plan the selection of a processor for a particular project. Multimedia projects may need very rapid data access, while virtual machines may need fast interrupts. Sometimes certain tasks need additional components as well. For example, a computer capable of running a virtual machine needs virtual memory hardware so that the memory of different virtual computers can be kept separated. Computer organization and features also affect power consumption and processor cost.
+
+
+=== Implementation ===
+Once an instruction set and microarchitecture have been designed, a practical machine must be developed. This design process is called the implementation. Implementation is usually not considered architectural design, but rather hardware design engineering. Implementation can be further broken down into several steps:
+
+Logic implementation designs the circuits required at a logic-gate level.
+Circuit implementation does transistor-level designs of basic elements (e.g., gates, multiplexers, latches) as well as of some larger blocks (ALUs, caches etc.) that may be implemented at the logic-gate level, or even at the physical level if the design calls for it.
+Physical implementation draws physical circuits.  The different circuit components are placed in a chip floor plan or on a board and the wires connecting them are created.
+Design validation tests the computer as a whole to see if it works in all situations and all timings. Once the design validation process starts, the design at the logic level are tested using logic emulators. However, this is usually too slow to run a realistic test. So, after making corrections based on the first test, prototypes are constructed using Field-Programmable Gate-Arrays (FPGAs). Most hobby projects stop at this stage. The final step is to test prototype integrated circuits, which may require several redesigns.
+For CPUs, the entire implementation process is organized differently and is often referred to as CPU design.
+
+
+== Design goals ==
+The exact form of a computer system depends on the constraints and goals. Computer architectures usually trade off standards, power versus performance, cost, memory capacity, latency (latency is the amount of time that it takes for information from one node to travel to the source) and throughput. Sometimes other considerations, such as features, size, weight, reliability, and expandability are also factors.
+The most common scheme does an in-depth power analysis and figures out how to keep power consumption low while maintaining adequate performance.
+
+
+=== Performance ===
+Modern computer performance is often described in instructions per cycle (IPC), which measures the efficiency of the architecture at any clock frequency; a higher IPC means the computer can do more work per unit of time. Older computers had IPC counts as low as 0.1 while modern processors easily reach nearly 1. Superscalar processors may reach three to five IPC by executing several instructions per clock cycle.
+Counting machine-language instructions would be misleading because they can do varying amounts of work in different ISAs. The "instruction" in the standard measurements is not a count of the ISA's machine-language instructions, but a unit of measurement, usually based on the speed of the VAX computer architecture.
+Many people used to measure a computer's speed by the clock rate (usually in MHz or GHz). This refers to the cycles per second of the main clock of the CPU. However, this metric is somewhat misleading, as a machine with a higher clock rate may not necessarily have greater performance. As a result, manufacturers have moved away from clock speed as a measure of performance.
+Other factors influence speed, such as the mix of functional units, bus speeds, available memory, and the type and order of instructions in the programs.
+There are two main types of speed: latency and throughput. Latency is the time between the start of a process and its completion. Throughput is the amount of work done per unit time. Interrupt latency is the guaranteed maximum response time of the system to an electronic event (like when the disk drive finishes moving some data).
+Performance is affected by a very wide range of design choices — for example, pipelining a processor usually makes latency worse, but makes throughput better. Computers that control machinery usually need low interrupt latencies. These computers operate in a real-time environment and fail if an operation is not completed in a specified amount of time. For example, computer-controlled anti-lock brakes must begin braking within a predictable and limited time period after the brake pedal is sensed or else failure of the brake will occur.
+Benchmarking takes all these factors into account by measuring the time a computer takes to run through a series of test programs. Although benchmarking shows strengths, it should not be how you choose a computer. Often the measured machines split on different measures. For example, one system might handle scientific applications quickly, while another might render video games more smoothly. Furthermore, designers may target and add special features to their products, through hardware or software, that permit a specific benchmark to execute quickly but do not offer similar advantages to general tasks.
+
+
+=== Power efficiency ===
+
+Power efficiency is another important measurement in modern computers. Higher power efficiency can often be traded for lower speed or higher cost. Historically, the typical measurement when referring to power consumption in computer architecture was MIPS/W (millions of instructions per second per watt), though modern designs use more sophisticated measurements such as performance-per-watt benchmarks and energy-per-instruction.
+Modern integrated circuits consume more total power despite improvements in per-transistor energy efficiency achieved through process scaling. This increase stems from the rapid growth in transistor count per die, which demands increasingly complex power delivery networks. Additionally, power density (watts per unit area) rises as feature sizes (e.g., transistor size) shrink, making thermal management more challenging. Elevated operating temperatures further complicate these thermal challenges by increasing interconnect resistance, creating a positive feedback loop between power consumption and heat generation.
+As transistor scaling has slowed and power constraints have become limiting factors, power efficiency is starting to become as important, if not more important than fitting more and more transistors into a single chip. Recent processor designs have shown this emphasis as they put more focus on power efficiency rather than cramming as many transistors into a single chip as possible. In the world of embedded computers, power efficiency has long been an important goal next to throughput and latency.
+
+
+=== Shifts in market demand ===
+Increases in clock frequency have grown more slowly over the past few years, compared to power reduction improvements. This has been driven by the end of Moore's Law and demand for longer battery life and reductions in size for mobile technology. This change in focus from higher clock rates to power consumption and miniaturization can be shown by the significant reductions in power consumption, as much as 50%, that were reported by Intel in their release of the Haswell microarchitecture; where they dropped their power consumption benchmark from 30–40 watts down to 10–20 watts. Comparing this to the processing speed increase of 3 GHz to 4 GHz (2002 to 2006), it can be seen that the focus in research and development is shifting away from clock frequency and moving towards consuming less power and taking up less space.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Sources ==
+John L. Hennessy and David Patterson (2006). Computer Architecture: A Quantitative Approach (Fourth ed.). Morgan Kaufmann. ISBN 978-0-12-370490-0.
+Barton, Robert S., "Functional Design of Computers", Communications of the ACM 4(9): 405 (1961).
+Barton, Robert S., "A New Approach to the Functional Design of a Digital Computer", Proceedings of the Western Joint Computer Conference, May 1961, pp. 393–396. About the design of the Burroughs B5000 computer.
+Bell, C. Gordon; and Newell, Allen (1971). "Computer Structures: Readings and Examples", McGraw-Hill.
+Blaauw, G.A., and Brooks, F.P., Jr., "The Structure of System/360, Part I-Outline of the Logical Structure", IBM Systems Journal, vol. 3, no. 2, pp. 119–135, 1964.
+Tanenbaum, Andrew S. (1979). Structured Computer Organization. Englewood Cliffs, New Jersey: Prentice-Hall. ISBN 0-13-148521-0.
+
+
+== External links ==
+
+Carnegie Mellon Computer Architecture Lectures
+ISCA: Proceedings of the International Symposium on Computer Architecture
+Micro: IEEE/ACM International Symposium on Microarchitecture
+HPCA: International Symposium on High Performance Computer Architecture
+ASPLOS: International Conference on Architectural Support for Programming Languages and Operating Systems
+ACM Transactions on Architecture and Code Optimization
+IEEE Transactions on Computers
+The von Neumann Architecture of Computer Systems at the Wayback Machine (archived 2017-10-31)
+
+## Links
+- ACM Computing Classification System
+- Ada Lovelace
+- Addressing mode
+- Alan M. Turing
+- Algorithm
+- Algorithm design
+- Algorithmic efficiency
+- Allen Newell
+- Analysis of algorithms
+- Analytical engine
+- Andrew S. Tanenbaum
+- Application-specific integrated circuit
+- Application security
+- Architectural layer
+- Arithmetic logic unit
+- Artificial intelligence
+- Assembler (computer programming)
+- Assembly language
+- Asynchronous circuit
+- Augmented reality
+- Automata theory
+- Automated planning and scheduling
+- Automatic Computing Engine
+- Battery life
+- Benchmark (computing)
+- Bibcode (identifier)
+- Binary numeral system
+- Bit-serial architecture
+- Boolean algebra
+- Boolean circuit
+- Burroughs large systems
+- C++
+- CPU cache
+- CPU design
+- C (programming language)
+- Capacitor
+- Central processing unit
+- Charles Babbage
+- Circuit minimization for Boolean functions
+- Clock rate
+- Combinational logic
+- Communication protocol
+- Comparison of CPU architectures
+- Compiler
+- Compiler construction
+- Complex programmable logic device
+- Computability theory
+- Computational biology
+- Computational chemistry
+- Computational complexity
+- Computational complexity theory
+- Computational engineering
+- Computational geometry
+- Computational mathematics
+- Computational physics
+- Computational problem
+- Computational social science
+- Computer
+- Computer accessibility
+- Computer animation
+- Computer architecture simulator
+- Computer bus
+- Computer cooling
+- Computer data storage
+- Computer engineering
+- Computer graphics
+- Computer hardware
+- Computer memory
+- Computer network
+- Computer performance
+- Computer processor
+- Computer science
+- Computer security
+- Computer vision
+- Computing
+- Computing platform
+- Concurrency (computer science)
+- Concurrent computing
+- Control flow
+- Control theory
+- Cross-validation (statistics)
+- Cryptography
+- Cyber-physical system
+- Cyberwarfare
+- Data mining
+- Data type
+- Database
+- Dataflow architecture
+- David Patterson (scientist)
+- Debugger
+- Decision support system
+- Dependability
+- Die (integrated circuit)
+- Digital art
+- Digital audio
+- Digital cinematography
+- Digital electronics
+- Digital library
+- Digital marketing
+- Digital photography
+- Digital radio
+- Digital signal
+- Digital signal (signal processing)
+- Digital signal processing
+- Digital television
+- Digital video
+- Direct memory access
+- Disassembler
+- Discrete mathematics
+- Distributed artificial intelligence
+- Distributed computing
+- Document management system
+- Doi (identifier)
+- Domain-specific language
+- E-commerce
+- Educational technology
+- Electric power
+- Electrical resistance and conductance
+- Electronic circuit
+- Electronic component
+- Electronic design automation
+- Electronic literature
+- Electronic publishing
+- Electronic voting
+- Electronics design
+- Embedded computers
+- Embedded system
+- Emitter-coupled logic
+- Emulator
+- Engineering design process
+- Englewood Cliffs, New Jersey
+- Enterprise information system
+- Enterprise software
+- Erasable programmable logic device
+- FPGA
+- Fault tolerance
+- Field-programmable gate array
+- Field-programmable object array
+- Finite-state machine
+- First Draft of a Report on the EDVAC
+- Flip-flop (electronics)
+- Floating point
+- Floorplan (microelectronics)
+- Flynn's taxonomy
+- Form factor (design)
+- Formal equivalence checking
+- Formal language
+- Formal methods
+- Fred Brooks
+- Functional unit
+- Gate equivalent
+- Generic Array Logic
+- Geographic information system
+- Gerrit Blaauw
+- Gordon Bell
+- Graphics processing unit
+- Green computing
+- Hardware acceleration
+- Hardware description language
+- Hardware security
+- Harvard architecture
+- Haswell (microarchitecture)
+- Health informatics
+- Hierarchical state machine
+- High-level programming language
+- High-level synthesis
+- Human-centered computing
+- Human–computer interaction
+- Hybrid integrated circuit
+- IBM 7030 Stretch
+- IBM System/360
+- IBM Z
+- ISBN (identifier)
+- ISSN (identifier)
+- Image compression
+- Implementation
+- Inductor
+- Industrial process control
+- Influence of the IBM PC on the personal computer market
+- Information retrieval
+- Information security
+- Information system
+- Information theory
+- Instruction set
+- Instruction set architecture
+- Instructions per cycle
+- Integrated circuit
+- Integrated circuit design
+- Integrated development environment
+- Intel
+- Interaction design
+- Interpreter (computing)
+- Interrupt latency
+- Intrusion detection system
+- Java (programming language)
+- John L. Hennessy
+- John von Neumann
+- Knowledge representation and reasoning
+- Konrad Zuse
+- Latency (engineering)
+- Library (computing)
+- List of computer size categories
+- Logic design
+- Logic gate
+- Logic in computer science
+- Logic synthesis
+- Los Alamos National Laboratory
+- Low-power electronics
+- MHz
+- Machine code
+- Machine language
+- Machine learning
+- Macrocell array
+- Mathematical analysis
+- Mathematical optimization
+- Mathematical software
+- Memory cell (computing)
+- Memory organisation
+- Metastability (electronics)
+- Microarchitecture
+- Microcode
+- Microprocessor
+- Middleware
+- Mixed-signal integrated circuit
+- Mobile computing
+- Mobile technology
+- Model of computation
+- Modeling language
+- Modified Harvard architecture
+- Moore's Law
+- Morgan Kaufmann Publishers
+- Motorola 6800
+- Multi-task learning
+- Multimedia
+- Multimedia database
+- Multiplexer
+- Multiprocessing
+- Multithreading (computer architecture)
+- Natural language processing
+- Network architecture
+- Network performance
+- Network scheduler
+- Network security
+- Network service
+- Networking hardware
+- Numerical analysis
+- Open-source software
+- Operating system
+- Operations research
+- Orthogonal instruction set
+- Outline of computer science
+- PA-RISC
+- Parallel computing
+- Performance per watt
+- Peripheral
+- Philosophy of artificial intelligence
+- Photograph manipulation
+- Pipeline (computing)
+- Place and route
+- Placement (electronic design automation)
+- Printed circuit board
+- Printed electronics
+- Probability
+- Processing power
+- Processor (computing)
+- Processor register
+- Programmable Array Logic
+- Programmable logic array
+- Programmable logic device
+- Programmer
+- Programming language
+- Programming language theory
+- Programming paradigm
+- Programming team
+- Programming tool
+- Quantum computing
+- Randomized algorithm
+- Real-time computing
+- Reconfigurable computing
+- Register-transfer level
+- Reinforcement learning
+- Rendering (computer graphics)
+- Requirements analysis
+- Resistor
+- Robert S. Barton
+- Routing (electronic design automation)
+- Runt pulse
+- S2CID (identifier)
+- SD card
+- Security hacker
+- Security service (telecommunication)
+- Semantics (computer science)
+- Sequential logic
+- Social computing
+- Social software
+- Soft microprocessor
+- Software architecture
+- Software configuration management
+- Software construction
+- Software deployment
+- Software design
+- Software development
+- Software development process
+- Software engineering
+- Software framework
+- Software maintenance
+- Software quality
+- Software repository
+- Solid modeling
+- Statistics
+- Stochastic computing
+- Stored-program computer
+- Supercomputer
+- Superscalar
+- Supervised learning
+- Switching circuit theory
+- Synchronous circuit
+- System on a chip
+- Systems design
+- Telephony
+- Tensor Processing Unit
+- Theoretical computer science
+- Theory of computation
+- Thermodynamic computing
+- Three-dimensional integrated circuit
+- Throughput
+- Transaction-level modeling
+- Transistor
+- Transistor–transistor logic
+- Transport triggered architecture
+- Ubiquitous computing
+- Unsupervised learning
+- VAX
+- Very-large-scale integration
+- Video game
+- Virtual machine
+- Virtual memory
+- Virtual reality
+- Virtualization
+- Visualization (graphics)
+- Von Neumann architecture
+- Watt
+- Wayback Machine
+- Wireless sensor network
+- Word processor
+- Word size
+- World Wide Web
+- X86
+- X86 instruction listings
+- Z1 (computer)

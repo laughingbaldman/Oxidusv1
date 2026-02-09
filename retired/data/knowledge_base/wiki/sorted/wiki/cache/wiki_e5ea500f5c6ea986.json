@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "81926544": {
+          "pageid": 81926544,
+          "ns": 0,
+          "title": "NGC 4352",
+          "links": [
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "Declination"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Lenticular galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Right ascension"
+            },
+            {
+              "ns": 0,
+              "title": "Sloan Digital Sky Survey"
+            },
+            {
+              "ns": 0,
+              "title": "Virgo (constellation)"
+            },
+            {
+              "ns": 0,
+              "title": "William Herschel"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330258.2812135
+}

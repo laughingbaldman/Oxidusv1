@@ -1,0 +1,173 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "12610483": {
+          "pageid": 12610483,
+          "ns": 0,
+          "title": "Android (operating system)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Windows Mobile"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Phone"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Phone 7"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Phone 8"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Phone 8.1"
+            },
+            {
+              "ns": 0,
+              "title": "Windows RT"
+            },
+            {
+              "ns": 0,
+              "title": "Windows Subsystem for Android"
+            },
+            {
+              "ns": 0,
+              "title": "Windows XP editions"
+            },
+            {
+              "ns": 0,
+              "title": "Winux"
+            },
+            {
+              "ns": 0,
+              "title": "Wired (website)"
+            },
+            {
+              "ns": 0,
+              "title": "Wired News"
+            },
+            {
+              "ns": 0,
+              "title": "X86"
+            },
+            {
+              "ns": 0,
+              "title": "X86-64"
+            },
+            {
+              "ns": 0,
+              "title": "XB Machine"
+            },
+            {
+              "ns": 0,
+              "title": "XDA Developers"
+            },
+            {
+              "ns": 0,
+              "title": "XML"
+            },
+            {
+              "ns": 0,
+              "title": "XNU"
+            },
+            {
+              "ns": 0,
+              "title": "XOS (operating system)"
+            },
+            {
+              "ns": 0,
+              "title": "X Window System"
+            },
+            {
+              "ns": 0,
+              "title": "Xandros"
+            },
+            {
+              "ns": 0,
+              "title": "Xda-developers"
+            },
+            {
+              "ns": 0,
+              "title": "Xiaomi"
+            },
+            {
+              "ns": 0,
+              "title": "Xiaomi 12"
+            },
+            {
+              "ns": 0,
+              "title": "Xiaomi 13"
+            },
+            {
+              "ns": 0,
+              "title": "Xiaomi HyperOS"
+            },
+            {
+              "ns": 0,
+              "title": "Xiaomi Pad 5"
+            },
+            {
+              "ns": 0,
+              "title": "XobotOS"
+            },
+            {
+              "ns": 0,
+              "title": "Xubuntu"
+            },
+            {
+              "ns": 0,
+              "title": "Yahoo! Tech"
+            },
+            {
+              "ns": 0,
+              "title": "Yandex"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow Dog Linux"
+            },
+            {
+              "ns": 0,
+              "title": "YouTube"
+            },
+            {
+              "ns": 0,
+              "title": "ZDNet"
+            },
+            {
+              "ns": 0,
+              "title": "Zenwalk"
+            },
+            {
+              "ns": 0,
+              "title": "Zero-day (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Zircon (microkernel)"
+            },
+            {
+              "ns": 0,
+              "title": "Zorin OS"
+            },
+            {
+              "ns": 0,
+              "title": "Ångström distribution"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770668976.9007826
+}

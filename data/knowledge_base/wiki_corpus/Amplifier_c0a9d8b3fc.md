@@ -1,0 +1,738 @@
+---
+title: "Amplifier"
+domain: "engineering"
+source_id: "wikipedia"
+source_url: "https://en.wikipedia.org/wiki/Amplifier"
+source_title: "Amplifier"
+source_type: "wiki"
+topic_type: "wiki_article"
+license: "CC BY-SA 4.0"
+curator: "oxidus_wiki_crawler"
+created_utc: "2026-02-09T13:28:36.450674"
+updated_utc: "2026-02-09T20:28:36Z"
+lifecycle_state: "raw"
+content_length: 40464
+links_count: 492
+trust_tier: "secondary"
+---
+
+An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal (a time-varying voltage or current).  It is a two-port electronic circuit that uses electric power from a power supply to increase the amplitude (magnitude of the voltage or current) of a signal applied to its input terminals, producing a proportionally greater amplitude signal at its output. The amount of amplification provided by an amplifier is measured by its gain: the ratio of output voltage, current, or power to input. An amplifier is defined as a circuit that has a power gain greater than one.
+An amplifier can be either a separate piece of equipment or an electrical circuit contained within another device. Amplification is fundamental to modern electronics, and amplifiers are widely used in almost all electronic equipment. Amplifiers can be categorized in different ways. One is by the frequency of the electronic signal being amplified. For example, audio amplifiers amplify signals of less than 20 kHz, radio frequency (RF) amplifiers amplify frequencies in the range between 20 kHz and 300 GHz, and servo amplifiers and instrumentation amplifiers may work with very low frequencies down to direct current. Amplifiers can also be categorized by their physical placement in the signal chain; a preamplifier may precede other signal processing stages, for example, while a power amplifier is usually used after other amplifier stages to provide enough output power for the final use of the signal. The first practical electrical device which could amplify was the triode vacuum tube, invented in 1906 by Lee de Forest, which led to the first amplifiers around 1912. Today most amplifiers use transistors.
+
+
+== History ==
+
+
+=== Vacuum tubes ===
+The first practical prominent device that could amplify was the triode vacuum tube, invented in 1906 by Lee De Forest, which led to the first amplifiers around 1912.  Vacuum tubes were used in almost all amplifiers until the 1960s–1970s when transistors replaced them.  Today, most amplifiers use transistors, but vacuum tubes continue to be used in some applications.
+
+The development of audio communication technology in form of the telephone, first patented in 1876, created the need to increase the amplitude of electrical signals to extend the transmission of signals over increasingly long distances. In telegraphy, this problem had been solved with intermediate devices at stations that replenished the dissipated energy by operating a signal recorder and transmitter back-to-back, forming a relay, so that a local energy source at each intermediate station powered the next leg of transmission.
+For duplex transmission, i.e. sending and receiving in both directions, bi-directional relay repeaters were developed starting with the work of C. F. Varley for telegraphic transmission. Duplex transmission was essential for telephony and the problem was not satisfactorily solved until 1904, when H. E. Shreeve of the American Telephone and Telegraph Company improved existing attempts at constructing a telephone repeater consisting of back-to-back carbon-granule transmitter and electrodynamic receiver pairs. The Shreeve repeater was first tested on a line between Boston and Amesbury, MA, and more refined devices remained in service for some time.  After the turn of the century it was found that negative resistance mercury lamps could amplify, and were also tried in repeaters, with little success.
+The development of thermionic valves which began around 1902, provided an entirely electronic method of amplifying signals. The first practical version of such devices was the Audion triode, invented in 1906 by Lee De Forest, which led to the first amplifiers around 1912.  Since the only previous device which was widely used to strengthen a signal was the relay used in telegraph systems, the amplifying vacuum tube was first called an electron relay.  The terms amplifier and amplification, derived from the Latin amplificare, (to enlarge or expand), were first used for this new capability around 1915 when triodes became widespread.
+The amplifying vacuum tube revolutionized electrical technology.  It made possible long-distance telephone lines, public address systems, radio broadcasting, talking motion pictures, practical audio recording, radar, television, and the first computers.  For 50 years virtually all consumer electronic devices used vacuum tubes.    Early tube amplifiers often had positive feedback (regeneration), which could increase gain but also make the amplifier unstable and prone to oscillation.  Much of the mathematical theory of amplifiers was developed at Bell Telephone Laboratories during the 1920s to 1940s.  Distortion levels in early amplifiers were high, usually around 5%, until 1934, when Harold Black developed negative feedback; this allowed the distortion levels to be greatly reduced, at the cost of lower gain.  Other advances in the theory of amplification were made by Harry Nyquist and Hendrik Wade Bode.
+The vacuum tube was virtually the only amplifying device, other than specialized power devices such as the magnetic amplifier and amplidyne, for 40 years.  Power control circuitry used magnetic amplifiers until the latter half of the twentieth century when power semiconductor devices became more economical, with higher operating speeds. The old Shreeve electroacoustic carbon repeaters were used in adjustable amplifiers in telephone subscriber sets for the hearing impaired until the transistor provided smaller and higher quality amplifiers in the 1950s.
+
+
+=== Transistors ===
+
+The first working transistor was a point-contact transistor invented by John Bardeen and Walter Brattain in 1947 at Bell Labs, where William Shockley later invented the bipolar junction transistor (BJT) in 1948. They were followed by the invention of the metal–oxide–semiconductor field-effect transistor (MOSFET) by Mohamed M. Atalla and Dawon Kahng at Bell Labs in 1959. Due to MOSFET scaling, the ability to scale down to increasingly small sizes, the MOSFET has since become the most widely used amplifier.
+The replacement of bulky electron tubes with transistors during the 1960s and 1970s created a revolution in electronics, making possible a large class of portable electronic devices, such as the transistor radio developed in 1954.  Today, use of vacuum tubes is limited to some high power applications, such as radio transmitters, as well as some musical instrument and high-end audiophile amplifiers.
+Beginning in the 1970s, more and more transistors were connected on a single chip thereby creating higher scales of integration (such as small-scale, medium-scale and large-scale integration) in integrated circuits. Many amplifiers commercially available today are based on integrated circuits.
+For special purposes, other active elements have been used. For example, in the early days of the satellite communication, parametric amplifiers were used. The core circuit was a diode whose capacitance was changed by an RF signal created locally. Under certain conditions, this RF signal provided energy that was modulated by the extremely weak satellite signal received at the earth station.
+Advances in digital electronics since the late 20th century provided new alternatives to the conventional linear-gain amplifiers by using digital switching to vary the pulse-shape of fixed amplitude signals, resulting in devices such as the Class-D amplifier.
+
+
+== Theory of Operation ==
+
+In principle, an amplifier is an electrical two-port network that produces a signal at the output port that is a replica of the signal applied to the input port, but increased in magnitude.
+The input port can be idealized as either being a voltage input, which takes no current, with the output proportional to the voltage across the port; or a current input, with no voltage across it, in which the output is proportional to the current through the port.  The output port can be idealized as being either a dependent voltage source, with zero source resistance and its output voltage dependent on the input; or a dependent current source, with infinite source resistance and the output current dependent on the input. Combinations of these choices lead to four types of ideal amplifiers. In idealized form they are represented by each of the four types of dependent source used in linear analysis, as shown in the figure, namely:
+
+Each type of amplifier in its ideal form has an ideal input and output resistance that is the same as that of the corresponding dependent source:
+
+In real amplifiers the ideal impedances are not possible to achieve, but these ideal elements can be used to construct equivalent circuits of real amplifiers by adding impedances (resistance, capacitance and inductance) to the input and output.   For any particular circuit, a small-signal analysis is often used to find the actual impedance. A small-signal AC test current Ix is applied to the input or output node, all external sources are set to AC zero, and the corresponding alternating voltage Vx across the test current source determines the impedance seen at that node as R = Vx / Ix.
+Amplifiers designed to attach to a transmission line at input and output, especially RF amplifiers, do not fit into this classification approach.  Rather than dealing with voltage or current individually, they ideally couple with an input or output impedance matched to the transmission line impedance, that is, match ratios of voltage to current.  Many real RF amplifiers come close to this ideal.  Although, for a given appropriate source and load impedance, RF amplifiers can be characterized as amplifying voltage or current, they fundamentally are amplifying power.
+
+
+== Properties ==
+
+Amplifier properties are given by parameters that include: 
+
+Gain, the ratio between the magnitude of output and input signals
+Bandwidth, the width of the useful frequency range
+Efficiency, the ratio between the power of the output and total power consumption
+Linearity, the extent to which the proportion between input and output amplitude is the same for high amplitude and low amplitude input
+Noise, a measure of undesired noise mixed into the output
+Output dynamic range, the ratio of the largest and the smallest useful output levels
+Slew rate, the maximum rate of change of the output
+Rise time, settling time, ringing and overshoot that characterize the step response
+Stability, the ability to avoid self-oscillation
+Amplifiers are described according to the properties of their inputs, their outputs, and how they relate. All amplifiers have gain, a multiplication factor that relates the magnitude of some property of the output signal to a property of the input signal. The gain may be specified as the ratio of output voltage to input voltage (voltage gain), output power to input power (power gain), or some combination of current, voltage, and power. In many cases the property of the output that varies is dependent on the same property of the input, making the gain unitless (though often expressed in decibels (dB)).
+Most amplifiers are designed to be linear. That is, they provide constant gain for any normal input level and output signal. If an amplifier's gain is not linear, the output signal can become distorted. There are, however, cases where variable gain is useful. Certain signal processing applications use exponential gain amplifiers.
+Amplifiers are usually designed to function well in a specific application, for example: radio and television transmitters and receivers, high-fidelity ("hi-fi") stereo equipment, microcomputers and other digital equipment, and guitar and other instrument amplifiers. Every amplifier includes at least one active device, such as a vacuum tube or transistor.
+
+
+== Negative feedback ==
+
+Negative feedback is a technique used in most modern amplifiers to increase bandwidth, reduce distortion, and control gain.  In a negative feedback amplifier part of the output is fed back and added to the input in the opposite phase, subtracting from the input.   The main effect is to reduce the overall gain of the system. However, any unwanted signals introduced by the amplifier, such as distortion are also fed back.  Since they are not part of the original input, they are added to the input in opposite phase, subtracting them from the input. In this way, negative feedback also reduces nonlinearity, distortion and other errors introduced by the amplifier. Large amounts of negative feedback can reduce errors to the point that the response of the amplifier itself becomes almost irrelevant as long as it has a large gain, and the output performance of the system (the "closed loop performance") is defined entirely by the components in the feedback loop.  This technique is used particularly with operational amplifiers (op-amps).
+Non-feedback amplifiers can achieve only about 1% distortion for audio-frequency signals. With negative feedback, distortion can typically be reduced to 0.001%.  Noise, even crossover distortion, can be practically eliminated.  Negative feedback also compensates for changing temperatures, and degrading or nonlinear components in the gain stage, but any change or nonlinearity in the components in the feedback loop will affect the output. Indeed, the ability of the feedback loop to define the output is used to make active filter circuits.
+Another advantage of negative feedback is that it extends the bandwidth of the amplifier.    The concept of feedback is used in operational amplifiers to precisely define gain, bandwidth, and other parameters entirely based on the components in the feedback loop.
+Negative feedback can be applied at each stage of an amplifier to stabilize the operating point of active devices against minor changes in power-supply voltage or device characteristics.
+Some feedback, positive or negative, is unavoidable and often undesirable—introduced, for example, by parasitic elements, such as inherent capacitance between input and output of devices such as transistors, and capacitive coupling of external wiring. Excessive frequency-dependent positive feedback can produce parasitic oscillation and turn an amplifier into an oscillator.
+
+
+== Categories ==
+
+
+=== Active devices ===
+All amplifiers include some form of active device: this is the device that does the actual amplification. The active device can be a vacuum tube, discrete solid state component, such as a single transistor, or part of an integrated circuit, as in an op-amp.
+Transistor amplifiers (or solid state amplifiers) are the most common type of amplifier in use today. A transistor is used as the active element. The gain of the amplifier is determined by the properties of the transistor itself as well as the circuit it is contained within.
+Common active devices in transistor amplifiers include bipolar junction transistors (BJTs) and metal oxide semiconductor field-effect transistors (MOSFETs).
+Applications are numerous. Some common examples are audio amplifiers in a home stereo or public address system, RF high power generation for semiconductor equipment, to RF and microwave applications such as radio transmitters.
+Transistor-based amplification can be realized using various configurations: for example a bipolar junction transistor can realize common base, common collector or common emitter amplification; a MOSFET can realize common gate, common source or common drain amplification. Each configuration has different characteristics.
+Vacuum-tube amplifiers (also known as tube amplifiers or valve amplifiers) use a vacuum tube as the active device. While semiconductor amplifiers have largely displaced valve amplifiers for low-power applications, valve amplifiers can be much more cost effective in high power applications such as radar, countermeasures equipment, and communications equipment. Many microwave amplifiers are specially designed valve amplifiers, such as the klystron, gyrotron, traveling wave tube, and crossed-field amplifier, and these microwave valves provide much greater single-device power output at microwave frequencies than solid-state devices. Vacuum tubes remain in use in some high end audio equipment, as well as in musical instrument amplifiers, due to a preference for "tube sound".
+Magnetic amplifiers are devices somewhat similar to a transformer where one winding is used to control the saturation of a magnetic core and hence alter the impedance of the other winding. They have largely fallen out of use due to development in semiconductor amplifiers but are still useful in HVDC control, and in nuclear power control circuitry due to not being affected by radioactivity.
+Negative resistances can be used as amplifiers, such as the tunnel diode amplifier.
+
+
+=== Power amplifiers ===
+
+A power amplifier is an amplifier designed primarily to increase the power available to a load. In practice, amplifier power gain depends on the source and load impedances, as well as the inherent voltage and current gain. A radio frequency (RF) amplifier design typically optimizes impedances for power transfer, while audio and instrumentation amplifier designs normally optimize input and output impedance for least loading and highest signal integrity. An amplifier that is said to have a gain of 20 dB might have a voltage gain of 20 dB and an available power gain of much more than 20 dB (power ratio of 100)—yet actually deliver a much lower power gain if, for example, the input is from a 600 Ω microphone and the output connects to a 47 kΩ input socket for a power amplifier. In general, the power amplifier is the last 'amplifier' or actual circuit in a signal chain (the output stage) and is the amplifier stage that requires attention to power efficiency.
+Audio power amplifiers are typically used to drive loudspeakers. They will often have two output channels and deliver equal power to each. An RF power amplifier is found in radio transmitter final stages. A servo motor controller amplifies a control voltage to adjust the speed of a motor, or the position of a motorized system.
+Power amplifier circuits (output stages) are classified as A, B, AB and C for analog designs—and class D and E for switching designs. The power amplifier classes are based on the proportion of each input cycle (conduction angle) during which an amplifying device passes current. The image of the conduction angle derives from amplifying a sinusoidal signal. If the device is always on, the conducting angle is 360°. If it is on for only half of each cycle, the angle is 180°. The angle of flow is closely related to the amplifier power efficiency.
+
+
+=== Operational amplifiers (op-amps) ===
+
+An operational amplifier is an amplifier circuit which typically has very high open loop gain and differential inputs. Op amps have become very widely used as standardized "gain blocks" in circuits due to their versatility; their gain, bandwidth and other characteristics can be controlled by feedback through an external circuit.  Though the term today commonly applies to integrated circuits, the original operational amplifier design used valves, and later designs used discrete transistor circuits.
+A fully differential amplifier is similar to the operational amplifier, but also has differential outputs. These are usually constructed using BJTs or FETs.
+
+
+=== Distributed amplifiers ===
+
+These use balanced transmission lines to separate individual single stage amplifiers, the outputs of which are summed by the same transmission line. The transmission line is a balanced type with the input at one end and on one side only of the balanced transmission line and the output at the opposite end is also the opposite side of the balanced transmission line. The gain of each stage adds linearly to the output rather than multiplies one on the other as in a cascade configuration. This allows a higher bandwidth to be achieved than could otherwise be realised  even with the same gain stage elements.
+
+
+=== Switched mode amplifiers ===
+
+These nonlinear amplifiers have much higher efficiencies than linear amps, and are used where the power saving justifies the extra complexity. Class-D amplifiers are the main example of this type of amplification.
+
+
+=== Negative resistance amplifier ===
+
+A negative resistance amplifier is a type of regenerative amplifier that can use the feedback between the transistor's source and gate to transform a capacitive impedance on the transistor's source to a negative resistance on its gate. Compared to other types of amplifiers, a negative resistance amplifier will require only a tiny amount of power to achieve very high gain, maintaining a good noise figure at the same time.
+
+
+== Applications ==
+
+
+=== Video amplifiers ===
+Video amplifiers are designed to process video signals and have varying bandwidths depending on whether the video signal is for SDTV, EDTV, HDTV 720p or 1080i/p etc. The specification of the bandwidth itself depends on what kind of filter is used—and at which point (−1 dB or −3 dB for example) the bandwidth is measured. Certain requirements for step response and overshoot are necessary for an acceptable TV image.
+
+
+=== Microwave amplifiers ===
+Traveling wave tube amplifiers (TWTAs) are used for high power amplification at low microwave frequencies. They typically can amplify across a broad spectrum of frequencies; however, they are usually not as tunable as klystrons.
+Klystrons are specialized linear-beam vacuum-devices, designed to provide high power, widely tunable amplification of millimetre and sub-millimetre waves. Klystrons are designed for large scale operations and despite having a narrower bandwidth than TWTAs, they have the advantage of coherently amplifying a reference signal so its output may be precisely controlled in amplitude, frequency and phase.
+Solid-state devices such as silicon short channel MOSFETs like double-diffused metal–oxide–semiconductor (DMOS) FETs, GaAs FETs, SiGe and GaAs heterojunction bipolar transistors/HBTs, HEMTs, IMPATT diodes, and others, are used especially at lower microwave frequencies and power levels on the order of watts specifically in applications like portable RF terminals/cell phones and access points where size and efficiency are the drivers. New materials like gallium nitride (GaN) or GaN on silicon or on silicon carbide/SiC are emerging in HEMT transistors and applications where improved efficiency, wide bandwidth, operation roughly from few to few tens of GHz with output power of few watts to few hundred of watts are needed.
+Depending on the amplifier specifications and size requirements microwave amplifiers can be realised as monolithically integrated, integrated as modules or based on discrete parts or any combination of those.
+The maser is a non-electronic microwave amplifier.
+
+
+=== Musical instrument amplifiers ===
+Instrument amplifiers are a range of audio power amplifiers used to increase the sound level of musical instruments, for example guitars, during performances. An amplifier's tone mainly comes from the order and amount in which it applies EQ and distortion.
+
+
+== Classification of amplifier stages and systems ==
+
+
+=== Common terminal ===
+
+One set of classifications for amplifiers is based on which device terminal is common to both the input and the output circuit. In the case of bipolar junction transistors, the three classes are common emitter, common base, and common collector. For field-effect transistors, the corresponding configurations are common source, common gate, and common drain; for vacuum tubes, common cathode, common grid, and common plate.
+The common emitter (or common source, common cathode, etc.) is most often configured to provide amplification of a voltage applied between base and emitter, and the output signal taken between collector and emitter is inverted, relative to the input. The common collector arrangement applies the input voltage between base and collector, and to take the output voltage between emitter and collector. This causes negative feedback, and the output voltage tends to follow the input voltage. This arrangement is also used as the input presents a high impedance and does not load the signal source, though the voltage amplification is less than one. The common-collector circuit is, therefore, better known as an emitter follower, source follower, or cathode follower.
+
+
+=== Unilateral or bilateral ===
+An amplifier whose output exhibits no feedback to its input side is described as 'unilateral'. The input impedance of a unilateral amplifier is independent of load, and output impedance is independent of signal source impedance.
+An amplifier that uses feedback to connect part of the output back to the input is a bilateral amplifier. Bilateral amplifier input impedance depends on the load, and output impedance on the signal source impedance.
+All amplifiers are bilateral to some degree; however they may often be modeled as unilateral under operating conditions where feedback is small enough to neglect for most purposes, simplifying analysis (see the common base article for an example).
+
+
+=== Inverting or non-inverting ===
+
+Another way to classify amplifiers is by the phase relationship of the input signal to the output signal.  An 'inverting' amplifier produces an output 180 degrees out of phase with the input signal (that is, a polarity inversion or mirror image of the input as seen on an oscilloscope). A 'non-inverting' amplifier maintains the phase of the input signal waveforms. An emitter follower is a type of non-inverting amplifier, indicating that the signal at the emitter of a transistor is following (that is, matching with unity gain but perhaps an offset) the input signal. Voltage follower is also non-inverting type of amplifier having unity gain.
+This description can apply to a single stage of an amplifier, or to a complete amplifier system.
+
+
+=== Function ===
+Other amplifiers may be classified by their function or output characteristics. These functional descriptions usually apply to complete amplifier systems or sub-systems and rarely to individual stages.
+
+A servo amplifier indicates an integrated feedback loop to actively control the output at some desired level. A DC servo indicates use at frequencies down to DC levels, where the rapid fluctuations of an audio or RF signal do not occur. These are often used in mechanical actuators, or devices such as DC motors that must maintain a constant speed or torque. An AC servo amp. can do this for some AC motors.
+A linear amplifier responds to different frequency components independently, and does not generate harmonic distortion or intermodulation distortion. No amplifier can provide perfect linearity (even the most linear amplifier has some nonlinearities, since the amplifying devices—transistors or vacuum tubes—follow nonlinear power laws such as square-laws and rely on circuitry techniques to reduce those effects).
+A nonlinear amplifier generates significant distortion and so changes the harmonic content; there are situations where this is useful. Amplifier circuits intentionally providing a non-linear transfer function include:
+a device like a silicon controlled rectifier or a transistor used as a switch may be employed to turn either fully on or off a load such as a lamp based on a threshold in a continuously variable input.
+a non-linear amplifier in an analog computer or true RMS converter for example can provide  a special transfer function, such as logarithmic or square-law.
+a Class C RF amplifier may be chosen because it can be very efficient—but is non-linear. Following such an amplifier with a so-called tank tuned circuit can reduce unwanted harmonics (distortion) sufficiently to make it useful in transmitters, or some desired harmonic may be selected by setting the resonant frequency of the tuned circuit to a higher frequency rather than fundamental frequency in frequency multiplier circuits.
+Automatic gain control circuits require an amplifier's gain be controlled by the time-averaged amplitude so that the output amplitude varies little when weak stations are being received. The non-linearities are assumed arranged so the relatively small signal amplitude suffers from little distortion (cross-channel interference or intermodulation) yet is still modulated by the relatively large gain-control DC voltage.
+AM detector circuits that use amplification such as anode-bend detectors, precision rectifiers and infinite impedance detectors (so excluding unamplified detectors such as cat's-whisker detectors), as well as peak detector circuits, rely on changes in amplification based on the signal's instantaneous amplitude to derive a direct current from an alternating current input.
+Operational amplifier comparator and detector circuits.
+A wideband amplifier has a precise amplification factor over a wide frequency range, and is often used to boost signals for relay in communications systems. A narrowband amp amplifies a specific narrow range of frequencies, to the exclusion of other frequencies.
+An RF amplifier amplifies signals in the radio frequency range of the electromagnetic spectrum, and is often used to increase the sensitivity of a receiver or the output power of a transmitter.
+An audio amplifier amplifies audio frequencies. This category subdivides into small signal amplification, and power amps that are optimised to driving speakers, sometimes with multiple amps grouped together as separate or bridgeable channels to accommodate different audio reproduction requirements. Frequently used terms within audio amplifiers include:
+Preamplifier (preamp.), which may include a phono stage with RIAA equalization, or tape head preamps with CCIR equalisation filters. They may include filters or tone control circuitry.
+Power amplifier (normally drives loudspeakers), headphone amplifiers, and public address amplifiers.
+Stereo amplifiers imply two channels of output (left and right), though the term simply means "solid" sound (referring to three-dimensional)—so quadraphonic stereo was used for amplifiers with four channels. 5.1 and 7.1 systems refer to Home theatre systems with 5 or 7 normal spatial channels, plus a subwoofer channel.
+Buffer amplifiers, which may include emitter followers, provide a high impedance input for a device (perhaps another amplifier, or perhaps an energy-hungry load such as lights) that would otherwise draw too much current from the source. Line drivers are a type of buffer that feeds long or interference-prone interconnect cables, possibly with differential outputs through twisted pair cables.
+
+
+=== Interstage coupling method ===
+
+Amplifiers are sometimes classified by the coupling method of the signal at the input, output, or between stages. Different types of these include:
+
+Resistive-capacitive (RC) coupled amplifier, using a network of resistors and capacitors
+By design these amplifiers cannot amplify DC signals as the capacitors block the DC component of the input signal. RC-coupled amplifiers were used very often in circuits with vacuum tubes or discrete transistors. In the days of the integrated circuit a few more transistors on a chip are much cheaper and smaller than a capacitor.
+Inductive-capacitive (LC) coupled amplifier, using a network of inductors and capacitors
+This kind of amplifier is most often used in selective radio-frequency circuits.
+Transformer coupled amplifier, using a transformer to match impedances or to decouple parts of the circuits
+Quite often LC-coupled and transformer-coupled amplifiers cannot be distinguished as a transformer is some kind of inductor.
+Direct coupled amplifier, using no impedance and bias matching components
+This class of amplifier was very uncommon in the vacuum tube days when the anode (output) voltage was at greater than several hundred volts and the grid (input) voltage at a few volts minus. So they were used only if the gain was specified down to DC (e.g., in an oscilloscope). In the context of modern electronics developers are encouraged to use directly coupled amplifiers whenever possible. In FET and CMOS technologies direct coupling is dominant since gates of MOSFETs theoretically pass no current through themselves. Therefore, DC component of the input signals is automatically filtered.
+
+
+=== Frequency range ===
+
+Depending on the frequency range and other properties amplifiers are designed according to different principles.
+Frequency ranges down to DC are used only when this property is needed. Amplifiers for direct current signals are vulnerable to minor variations in the properties of components with time.  Special methods, such as chopper stabilized amplifiers are used to prevent objectionable drift in the amplifier's properties for DC. "DC-blocking" capacitors can be added to remove DC and sub-sonic frequencies from audio amplifiers.
+Depending on the frequency range specified different design principles must be used. Up to the MHz range only "discrete" properties need be considered; e.g., a terminal has an input impedance.
+As soon as any connection within the circuit gets longer than perhaps 1% of the wavelength of the highest specified frequency (e.g., at 100 MHz the wavelength is 3 m, so the critical connection length is approx. 3 cm) design properties radically change. For example, a specified length and width of a PCB trace can be used as a selective or impedance-matching entity.
+Above a few hundred MHz, it gets difficult to use discrete elements, especially inductors. In most cases, PCB traces of very closely defined shapes are used instead (stripline techniques).
+The frequency range handled by an amplifier might be specified in terms of bandwidth (normally implying a response that is 3 dB down when the frequency reaches the specified bandwidth), or by specifying a frequency response that is within a certain number of decibels between a lower and an upper frequency (e.g. "20 Hz to 20 kHz plus or minus 1 dB").
+
+
+== Example amplifier circuit ==
+
+The practical amplifier circuit shown above could be the basis for a moderate-power audio amplifier. It features a typical (though substantially simplified) design as found in modern amplifiers, with a class-AB push–pull output stage, and uses some overall negative feedback. Bipolar transistors are shown, but this design would also be realizable with FETs or valves.
+The input signal is coupled through capacitor C1 to the base of transistor Q1. The capacitor allows the AC signal to pass, but blocks the DC bias voltage established by resistors R1 and R2 so that any preceding circuit is not affected by it. Q1 and Q2 form a differential amplifier (an amplifier that multiplies the difference between two inputs by some constant), in an arrangement known as a long-tailed pair. This arrangement is used to conveniently allow the use of negative feedback, which is fed from the output to Q2 via R7 and R8.
+The negative feedback into the difference amplifier allows the amplifier to compare the input to the actual output. The amplified signal from Q1 is directly fed to the second stage, Q3, which is a common emitter stage that provides further amplification of the signal and the DC bias for the output stages, Q4 and Q5. R6 provides the load for Q3 (a better design would probably use some form of active load here, such as a constant-current sink). So far, all of the amplifier is operating in class A. The output pair are arranged in class-AB push–pull, also called a complementary pair. They provide the majority of the current amplification (while consuming low quiescent current) and directly drive the load, connected via DC-blocking capacitor C2. The diodes D1 and D2 provide a small amount of constant voltage bias for the output pair, just biasing them into the conducting state so that crossover distortion is minimized. That is, the diodes push the output stage firmly into class-AB mode (assuming that the base-emitter drop of the output transistors is reduced by heat dissipation).
+This design is simple, but a good basis for a practical design because it automatically stabilises its operating point, since feedback internally operates from DC up through the audio range and beyond. Further circuit elements would probably be found in a real design that would roll-off the frequency response above the needed range to prevent the possibility of unwanted oscillation. Also, the use of fixed diode bias as shown here can cause problems if the diodes are not both electrically and thermally matched to the output transistors –  if the output transistors turn on too much, they can easily overheat and destroy themselves, as the full current from the power supply is not limited at this stage.
+A common solution to help stabilise the output devices is to include some emitter resistors, typically one ohm or so. Calculating the values of the circuit's resistors and capacitors is done based on the components employed and the intended use of the amp.
+
+
+== Notes on implementation ==
+
+Any real amplifier is an imperfect realization of an ideal amplifier. An important limitation of a real amplifier is that the output it generates is ultimately limited by the power available from the power supply. An amplifier saturates and clips the output if the input signal becomes too large for the amplifier to reproduce or exceeds operational limits for the device. The power supply may influence the output, so must be considered in the design. The power output from an amplifier cannot exceed its input power.
+The amplifier circuit has an "open loop" performance. This is described by various parameters (gain, slew rate, output impedance, distortion, bandwidth, signal-to-noise ratio, etc.). Many modern amplifiers use negative feedback techniques to hold the gain at the desired value and reduce distortion. Negative loop feedback has the intended effect of lowering the output impedance and thereby increasing electrical damping of loudspeaker motion at and near the resonance frequency of the speaker.
+When assessing rated amplifier power output, it is useful to consider the applied load, the signal type (e.g., speech or music), required power output duration (i.e., short-time or continuous), and required dynamic range (e.g., recorded or live audio). In high-powered audio applications that require long cables to the load (e.g., cinemas and shopping centres) it may be more efficient to connect to the load at line output voltage, with matching transformers at source and loads. This avoids long runs of heavy speaker cables.
+To prevent instability or overheating requires care to ensure solid state amplifiers are adequately loaded. Most have a rated minimum load impedance.
+All amplifiers generate heat through electrical losses. The amplifier must dissipate this heat via convection or forced air cooling. Heat can damage or reduce electronic component service life. Designers and installers must also consider heating effects on adjacent equipment.
+Different power supply types result in many different methods of bias. Bias is a technique by which active devices are set to operate in a particular region, or by which the DC component of the output signal is set to the midpoint between the maximum voltages available from the power supply. Most amplifiers use several devices at each stage; they are typically matched in specifications except for polarity. Matched inverted polarity devices are called complementary pairs. Class-A amplifiers generally use only one device, unless the power supply is set to provide both positive and negative voltages, in which case a dual device symmetrical design may be used. Class-C amplifiers, by definition, use a single polarity supply.
+Amplifiers often have multiple stages in cascade to increase gain. Each stage of these designs may be a different type of amp to suit the needs of that stage. For instance, the first stage might be a class-A stage, feeding a class-AB push–pull second stage, which then drives a class-G final output stage, taking advantage of the strengths of each type, while minimizing their weaknesses.
+
+
+== Special types ==
+
+
+== See also ==
+Power added efficiency
+
+
+== References ==
+
+
+== External links ==
+
+AES guide to amplifier classes
+"Amplifier Anatomy - Part 1" (PDF). Archived from the original (PDF) on 2004-06-10. – contains an explanation of different amplifier classes
+"Reinventing the power amplifier" (PDF). Archived from the original (PDF) on 2013-04-03.
+
+## Links
+- 20th century
+- 8-track tape
+- AC power plugs and sockets
+- Acorn tube
+- Active device
+- Active filter
+- Alternating current
+- American Telephone and Telegraph Company
+- Amplidyne
+- Amplifier (disambiguation)
+- Amplifier figures of merit
+- Amplitude
+- Amplitude modulation
+- Analog circuit
+- Analog computer
+- Analog recording
+- Anode-bend detector
+- Antifuse
+- Audio Engineering Society
+- Audio amplifier
+- Audio and video interfaces and connectors
+- Audio channel
+- Audio engineer
+- Audio equalization
+- Audio power amplifier
+- Audio recording
+- Audion
+- Audiophile
+- Automatic gain control
+- Avalanche diode
+- BIBO stability
+- Backward-wave oscillator
+- Bandwidth (signal processing)
+- Bass amplifier
+- Beam deflection tube
+- Beam tetrode
+- Bell Labs
+- Bell Telephone Laboratories
+- BiCMOS
+- Bias (electrical engineering)
+- Bibcode (identifier)
+- Binaural recording
+- Bio-FET
+- Bipolar junction transistor
+- Boost converter
+- Buck converter
+- Buck–boost converter
+- Buffer amplifiers
+- C. F. Varley
+- CMOS
+- CMOS amplifier
+- Cam timer
+- Capacitor
+- Capacitor types
+- Carbon microphone
+- Cassette deck
+- Cat's-whisker detector
+- Cathode ray tube
+- Cavity magnetron
+- Cell phones
+- Ceramic resonator
+- Charactron
+- Charge pump
+- Charge transfer amplifier
+- Chemical field-effect transistor
+- Chiptune
+- Chopper (electronics)
+- Circuit bending
+- Class-D amplifier
+- Cold cathode
+- Comité consultatif international pour la radio
+- Common base
+- Common collector
+- Common drain
+- Common emitter
+- Common gate
+- Common source
+- Compact Cassette
+- Compact disc
+- Compactron
+- Comparison of analog and digital recording
+- Computer
+- Concert
+- Constant-current diode
+- Convection
+- Crossatron
+- Crossed-field amplifier
+- Crystal oscillator
+- Current sense amplifier
+- DC motor
+- DIAC
+- DJ
+- Darlington transistor
+- Dawon Kahng
+- Decibel
+- Dekatron
+- Dependent current source
+- Dependent source
+- Dependent voltage source
+- Depletion-load NMOS logic
+- Differential amplifier
+- Differential signaling
+- Diffused junction transistor
+- Digital Audio Tape
+- Digital audio
+- Digital audio editor
+- Digital audio workstation
+- Digital electronics
+- Digital potentiometer
+- Digital recording
+- Digital signal processing
+- Dimensionless quantity
+- Diode
+- Direct coupled amplifier
+- Direct current
+- Distortion
+- Distributed amplifier
+- Doherty amplifier
+- Doi (identifier)
+- Double-tuned amplifier
+- Drum machine
+- Dynamic range
+- EFuse
+- Effects unit
+- Electric current
+- Electric telegraph
+- Electrical circuit
+- Electrical efficiency
+- Electrical impedance
+- Electrical load
+- Electrical reactance
+- Electrolytic detector
+- Electromagnetic radiation
+- Electromagnetic spectrum
+- Electronic component
+- Electronic drums
+- Electronic filter
+- Electronic music
+- Electronic musical instrument
+- Emitter follower
+- Equivalent circuit
+- Experimental musical instrument
+- Faithful amplifier
+- Feedback
+- Feedback loop
+- Ferrite core
+- Field-effect transistor
+- Field effect transistor
+- Filter (signal processing)
+- Fin field-effect transistor
+- Fleming valve
+- Floating-gate MOSFET
+- Foldback (sound engineering)
+- Frequency
+- Frequency multiplier
+- Frequency response
+- Fritz Zwicky
+- Fully differential amplifier
+- Fundamental frequency
+- Fuse (electrical)
+- GaN
+- Gain (electronics)
+- GarageBand
+- Gas-filled tube
+- Goji Electronics
+- Guitar
+- Guitar amplifier
+- Guitar tech
+- Gunn diode
+- Gyrotron
+- HEMT
+- HVDC
+- Hard disk recorder
+- Harmonic
+- Harmonic distortion
+- Harold Stephen Black
+- Harry Nyquist
+- Headphone amplifier
+- Headphones
+- Hendrik Wade Bode
+- Heterojunction bipolar transistor
+- Heterostructure barrier varactor
+- High-fidelity
+- High fidelity
+- History of the transistor
+- Home audio
+- Home cinema
+- Home theatre system
+- Hot-wire barretter
+- Hybrid integrated circuit
+- IMPATT diode
+- IRCAM
+- ISBN (identifier)
+- ISFET
+- Iconoscope
+- Ignitron
+- Inductive output tube
+- Inductor
+- Infinite impedance detector
+- Institute of Broadcast Sound
+- Instrument amplifier
+- Instrument amplifiers
+- Instrumentation amplifier
+- Insulated-gate bipolar transistor
+- Integrated circuit
+- Intermediate power amplifier
+- Intermodulation
+- JFET
+- John Bardeen
+- Keyboard amplifier
+- Klystron
+- Krytron
+- LC circuit
+- LDMOS
+- Large-scale integration
+- Laser diode
+- Lee De Forest
+- Lee de Forest
+- Lejaren Hiller
+- Light-emitting diode
+- Light-emitting transistor
+- Light emitting capacitor
+- Line driver
+- Linear regulator
+- Lock-in amplifier
+- Long-tailed pair
+- Loop performance
+- Loudspeaker
+- Louis Nashelsky
+- Low-dropout regulator
+- Low-noise amplifier
+- MIDI
+- MIDI controller
+- MOSFET
+- MOSFET scaling
+- MOS integrated circuit
+- MP3
+- Magic eye tube
+- Magnetic amplifier
+- Magnetic tape
+- Maser
+- Max Mathews
+- McIntosh Laboratory
+- Media control symbols
+- Memistor
+- Memory cell (computing)
+- Memristor
+- Memtransistor
+- Mercury-arc valve
+- Mercury lamp
+- Mercury relay
+- Metal-oxide varistor
+- Metal oxide semiconductor field-effect transistor
+- Metal–oxide–semiconductor field-effect transistor
+- Microphone
+- Microphone preamplifier
+- MiniDisc
+- Mixed-signal integrated circuit
+- Mixing console
+- Mixing engineer
+- Modulated
+- Mohamed M. Atalla
+- Monitor engineer
+- Monoscope
+- Multigate device
+- Multistage amplifier
+- Multitrack recording
+- Music sequencer
+- Music store
+- Music technology
+- Music technology (electric)
+- Music technology (electronic and digital)
+- Music technology (mechanical)
+- Music workstation
+- Musical Electronics Library
+- Musical instrument amplifier
+- NMOS logic
+- Negative-feedback amplifier
+- Negative feedback
+- Negative feedback amplifier
+- Negative resistance
+- Neon lamp
+- Neutron generator
+- New Interfaces for Musical Expression
+- Nixie tube
+- Noise (electronics)
+- Non-linear circuits
+- Nonlinear system
+- Nonode
+- Nuvistor
+- OLED
+- Ohm
+- Operating point
+- Operational amplifier
+- Operational amplifier applications
+- Optical amplifier
+- Opus (audio format)
+- Organic field-effect transistor
+- Organic light-emitting transistor
+- Organic semiconductor
+- Oscillation
+- Oscillator
+- Oscilloscope
+- Outboard gear
+- Overshoot (signal)
+- PIN diode
+- PMOS logic
+- Parametric amplifier
+- Parametron
+- Parasitic element (electrical networks)
+- Parasitic oscillation
+- Peak detector
+- Pentagrid converter
+- Pentode
+- Pentode transistor
+- Phono stage
+- Phonograph
+- Phonograph record
+- Photodetector
+- Photodiode
+- Photomultiplier tube
+- Phototube
+- Piano tuner
+- Player piano
+- Point-contact transistor
+- Positive feedback
+- Potentiometer
+- Power MOSFET
+- Power added efficiency
+- Power amplifier
+- Power amplifier classes
+- Power gain
+- Power laws
+- Power supply
+- Preamplifier
+- Precision rectifier
+- Printed circuit board
+- Printed electronics
+- ProTools
+- Professional Lighting and Sound Association
+- Professional audio store
+- Programmable-gain amplifier
+- Programmable unijunction transistor
+- Public address
+- Public address system
+- Push–pull output
+- Quadraphonic
+- Quantum circuit
+- RF CMOS
+- RF connector
+- RF power amplifier
+- RIAA equalization
+- Radar
+- Radio
+- Radio broadcasting
+- Radio frequency
+- Radio transmitter
+- Re-recording mixer
+- Receiver (radio)
+- Record producer
+- Reed relay
+- Reel-to-reel audio tape recording
+- Regenerative circuit
+- Relay
+- Repeater
+- Resettable fuse
+- Resistor
+- Reverb effect
+- Ringing (signal)
+- Rise time
+- Robert Moog
+- Roll-off
+- S2CID (identifier)
+- STEIM
+- Sampler (musical instrument)
+- Satellite communication
+- Schottky diode
+- Scorewriter
+- Selectron tube
+- Semiconductor device
+- Servo drive
+- Servomechanism
+- Settling time
+- Siemens (unit)
+- Signal-to-noise ratio
+- Signal (electrical engineering)
+- Signal (information theory)
+- Signal chain
+- Silicon carbide
+- Silicon controlled rectifier
+- Single-ended primary-inductor converter
+- Skyworks Solutions
+- Slew rate
+- Smartphone
+- Society of Motion Picture and Television Engineers
+- Software
+- Software effect processor
+- Software sampler
+- Software synthesizer
+- Solaristor
+- Solid-state device
+- Sound designer
+- Sound follower
+- Sound module
+- Sound operator
+- Sound recording
+- Sound recording and reproduction
+- Sound reinforcement system
+- Sound reproduction
+- Speaker enclosure
+- Split-pi topology
+- Static induction thyristor
+- Static induction transistor
+- Step recovery diode
+- Step response
+- Stereo
+- Stereophonic sound
+- Storage tube
+- Stripline
+- Subwoofer
+- Sutton tube
+- Switch
+- Switched capacitor
+- Switching regulator
+- Synthesizer
+- TRIAC
+- Talking motion picture
+- Tape head
+- Tape op
+- Tape recorder
+- Telegraphy
+- Telephone
+- Television
+- Tetrode
+- Tetrode transistor
+- Theremin
+- Thermistor
+- Thin-film transistor
+- Three-dimensional integrated circuit
+- Thyratron
+- Thyristor
+- Timeline of audio formats
+- Tone control
+- Torque
+- Trancitor
+- Transconductance
+- Transfer function
+- Transformer
+- Transistor
+- Transistor radio
+- Transistors
+- Transmission line
+- Transmitter
+- Transmitters
+- Transresistance
+- Traveling-wave tube
+- Traveling wave tube
+- Trigatron
+- Triode
+- Trochotron
+- True RMS converter
+- Tube sound
+- Tuned amplifier
+- Tuned circuit
+- Tunnel diode
+- Twisted pair
+- Two-port network
+- Unijunction transistor
+- VMOS
+- Vacuum diode
+- Vacuum tube
+- Vacuum tubes
+- Valve amplifier
+- Variable-gain amplifier
+- Variable capacitor
+- Varicap
+- Varistor
+- Vehicle audio
+- Video camera tube
+- Voltage
+- Voltage-regulator tube
+- Voltage gain
+- Voltage regulator
+- Walter Brattain
+- William Shockley
+- Williams tube
+- Wire
+- Wollaston wire
+- X-ray tube
+- YouTube
+- Zener diode
+- Ćuk converter

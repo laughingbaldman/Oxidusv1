@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-02-09T13:51:12.666386",
+  "thought_count": 4,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:51:05.662708",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Axe'? (source: Axe)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:51:05.662708",
+      "type": "question",
+      "content": "How do adze blade, against, axes interact or influence each other? (source: Axe)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:51:05.662708",
+      "type": "question",
+      "content": "Why does this topic connect most to humanity? (source: Axe)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:51:05.662708",
+      "type": "question",
+      "content": "What is missing or uncertain about adze blade in this source? (source: Axe)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 135,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 3,
+    "reflection": 2,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

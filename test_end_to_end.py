@@ -8,8 +8,18 @@ import requests
 import json
 import time
 from datetime import datetime
+import pytest
 
 BASE_URL = "http://127.0.0.1:5000"
+
+
+def _require_server() -> None:
+    try:
+        response = requests.get(f"{BASE_URL}/api/status", timeout=2)
+        if response.status_code != 200:
+            pytest.skip("Oxidus API not ready")
+    except requests.exceptions.RequestException:
+        pytest.skip("Oxidus API not running")
 
 class Colors:
     GREEN = '\033[92m'
@@ -34,6 +44,7 @@ def print_info(message):
 def test_status_endpoint():
     """Test the status endpoint"""
     print_test("Status Endpoint")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/status")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -48,11 +59,12 @@ def test_status_endpoint():
         return True
     except Exception as e:
         print_fail(f"Status test failed: {e}")
-        return False
+        raise
 
 def test_thoughts_endpoint():
     """Test the thoughts endpoint"""
     print_test("Thoughts Endpoint")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/thoughts")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -69,15 +81,16 @@ def test_thoughts_endpoint():
             print_info(f"Latest: [{thought['type']}] {thought['content'][:80]}...")
         else:
             print_pass("No thoughts yet (system just started)")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Thoughts test failed: {e}")
-        return False
+        raise
 
 def test_conversation_endpoint():
     """Test the conversation history endpoint"""
     print_test("Conversation History Endpoint")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/conversation")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -89,15 +102,16 @@ def test_conversation_endpoint():
         if len(data) > 0:
             latest = data[-1]
             print_info(f"Latest from {latest['speaker']}: {latest['message'][:80]}...")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Conversation test failed: {e}")
-        return False
+        raise
 
 def test_send_message():
     """Test sending a message to Oxidus"""
     print_test("Send Message to Oxidus")
+    _require_server()
     try:
         test_message = "Hello Oxidus, this is an automated test. Can you acknowledge this message?"
         
@@ -116,15 +130,16 @@ def test_send_message():
         oxidus_reply = data['oxidus_response']['message']
         print_pass(f"Message sent and response received")
         print_info(f"Oxidus replied: {oxidus_reply[:150]}...")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Send message test failed: {e}")
-        return False
+        raise
 
 def test_understanding_endpoint():
     """Test the understanding endpoint"""
     print_test("Understanding Summary Endpoint")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/understanding")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -138,15 +153,16 @@ def test_understanding_endpoint():
         if data['total_concepts'] > 0:
             sample_concepts = list(data['concepts'].keys())[:3]
             print_info(f"Sample concepts: {', '.join(sample_concepts)}")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Understanding test failed: {e}")
-        return False
+        raise
 
 def test_memories_endpoint():
     """Test the memories endpoint"""
     print_test("Memories Endpoint")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/memories")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -160,15 +176,16 @@ def test_memories_endpoint():
             print_info(f"Total memories: {len(data['memories'])}")
         else:
             print_pass("Memory indexing not yet initialized (expected)")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Memories test failed: {e}")
-        return False
+        raise
 
 def test_knowledge_organization():
     """Test the knowledge organization endpoint"""
     print_test("Knowledge Organization Endpoint")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/knowledge")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -186,15 +203,16 @@ def test_knowledge_organization():
                 print_info("No knowledge organized yet (expected for new system)")
         else:
             print_pass("Knowledge organizer not initialized")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Knowledge organization test failed: {e}")
-        return False
+        raise
 
 def test_conversation_mode():
     """Test conversation mode endpoint"""
     print_test("Conversation Mode Endpoint")
+    _require_server()
     try:
         # Get current mode
         response = requests.get(f"{BASE_URL}/api/mode")
@@ -207,15 +225,16 @@ def test_conversation_mode():
         current_mode = data['mode']
         print_pass(f"Current mode: {current_mode}")
         print_info(data['descriptor'])
-        
         return True
+        
     except Exception as e:
         print_fail(f"Conversation mode test failed: {e}")
-        return False
+        raise
 
 def test_initiate_conversation():
     """Test autonomous conversation initiation"""
     print_test("Autonomous Conversation Initiation")
+    _require_server()
     try:
         print_info("Asking Oxidus to initiate conversation...")
         response = requests.post(f"{BASE_URL}/api/initiate")
@@ -227,15 +246,16 @@ def test_initiate_conversation():
         message = data['oxidus_message']['message']
         print_pass("Oxidus initiated conversation")
         print_info(f"Oxidus says: {message[:150]}...")
-        
         return True
+        
     except Exception as e:
         print_fail(f"Initiate conversation test failed: {e}")
-        return False
+        raise
 
 def test_lm_studio_status():
     """Test LM Studio connection status"""
     print_test("LM Studio Connection Status")
+    _require_server()
     try:
         response = requests.get(f"{BASE_URL}/api/lm-studio-status")
         assert response.status_code == 200, f"Expected 200, got {response.status_code}"
@@ -249,11 +269,11 @@ def test_lm_studio_status():
                 print_info(f"Active model: {data['model']}")
         else:
             print_info("LM Studio not connected (expected if not configured)")
-        
         return True
+        
     except Exception as e:
         print_fail(f"LM Studio status test failed: {e}")
-        return False
+        raise
 
 def run_all_tests():
     """Run all end-to-end tests"""

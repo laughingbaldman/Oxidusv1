@@ -1,0 +1,819 @@
+---
+title: "Calcium chloride"
+domain: "physics"
+url: "https://en.wikipedia.org/wiki/Calcium_chloride"
+source: "wikipedia"
+timestamp: "2026-02-07T19:36:53.920119"
+content_length: 15355
+links_count: 684
+---
+
+Calcium chloride is an inorganic compound, a salt with the chemical formula CaCl2. It is a white crystalline solid at room temperature, and it is highly soluble in water. It can be created by neutralising hydrochloric acid with calcium hydroxide.
+Calcium chloride is commonly encountered as a hydrated solid with generic formula CaCl2·nH2O, where n = 0, 1, 2, 4, and 6. These compounds are mainly used for de-icing and dust control. Because the anhydrous salt is hygroscopic and deliquescent, it is used as a desiccant.
+
+
+== History ==
+Calcium chloride was apparently discovered in the 15th century but wasn't studied properly until the 18th century. It was historically called "fixed sal ammoniac" (Latin: sal ammoniacum fixum) because it was synthesized during the distillation of ammonium chloride with lime and was nonvolatile (while the former appeared to sublime); in more modern times (18th–19th cc.) it was called "muriate of lime" (Latin: murias calcis, calcaria muriatica).
+
+
+== Uses ==
+
+
+=== De-icing and freezing-point depression ===
+
+By depressing the freezing point of water, calcium chloride is used to prevent ice formation and is used to de-ice. This application consumes the greatest amount of calcium chloride. Calcium chloride is relatively harmless to plants and soil. As a de-icing agent, it is much more effective at lower temperatures than sodium chloride. When distributed for this use, it usually takes the form of small, white spheres a few millimeters in diameter, called prills. Solutions of calcium chloride can prevent freezing at temperatures as low as −52 °C (−62 °F), making it ideal for filling agricultural implement tires as a liquid ballast, aiding traction in cold climates.
+It is also used in domestic and industrial chemical air dehumidifiers.
+
+
+=== Road surfacing ===
+
+The second largest application of calcium chloride exploits its hygroscopic nature and the tackiness of its hydrates; calcium chloride is highly hygroscopic and its hydration is an exothermic process. A concentrated solution keeps a liquid layer on the surface of dirt roads, which suppresses the formation of dust. It keeps the finer dust particles on the road, providing a cushioning layer. If these are allowed to blow away, the large aggregate begins to shift around and the road breaks down. Using calcium chloride reduces the need for grading by as much as 50% and the need for fill-in materials as much as 80%.
+
+
+=== Food ===
+In the food industry, calcium chloride is frequently employed as a firming agent in canned vegetables, particularly for canned tomatoes and cucumber pickles. It is also used in firming soybean curds into tofu and in producing a caviar substitute from vegetable or fruit juices. It is also used to enhance the texture of various other products, such as whole apples, whole hot peppers, whole and sliced strawberries, diced tomatoes, and whole peaches.
+The firming effect of calcium chloride can be attributed to several mechanisms:
+
+Complexation, since calcium ions form coordination complexes with pectin, a polysaccharide found in the cell wall and middle lamella of plant tissues.
+Membrane stabilization, since calcium ions contribute to the stabilization of the cell membrane.
+Turgor pressure regulation, since calcium ions influence cell turgor pressure, which is the pressure exerted by the cell contents against the cell wall.
+Calcium chloride's freezing-point depression properties are used to slow the freezing of the caramel in caramel-filled chocolate bars. Also, it is frequently added to sliced apples to maintain texture.
+In brewing beer, calcium chloride is sometimes used to correct mineral deficiencies in the brewing water. It affects flavor and chemical reactions during the brewing process, and can also affect yeast function during fermentation.
+In cheesemaking, calcium chloride is sometimes added to processed (pasteurized/homogenized) milk to restore the natural balance between calcium and protein in casein. It is added before the coagulant.
+Calcium chloride is also commonly used as an "electrolyte" in sports drinks and other beverages; as a food additive used in conjunction with other inorganic salts it adds taste to bottled water.
+The average intake of calcium chloride as food additives has been estimated to be 160–345 mg/day. Calcium chloride is permitted as a food additive in the European Union for use as a sequestrant and firming agent with the E number E509. It is considered as generally recognized as safe (GRAS) by the U.S. Food and Drug Administration. Its use in organic crop production is generally prohibited under the US National Organic Program.
+The elemental calcium content in calcium chloride hexahydrate (CaCl2·6H2O) is approximately 18.2%. This means that for every gram of calcium chloride hexahydrate, there are about 182 milligrams of elemental calcium.
+For anhydrous calcium chloride (CaCl2), the elemental calcium content is almost twice higher, that is around 36.1% (for every gram of anhydrous calcium chloride there are about 361 milligrams of elemental calcium).
+Calcium chloride has a very salty taste and can cause mouth and throat irritation at high concentrations, so it is typically not the first choice for long-term oral supplementation (as a calcium supplement). Calcium chloride is highly soluble in water – dissociating into calcium and chloride ions when dissolved. These ions are efficiently absorbed from the intestine. The dissolution of calcium chloride in water is exothermic; releasing energy as heat. If undissolved calcium chloride is ingested, this can lead to burns in the mouth, throat, esophagus, and stomach. Ingestion of large amounts of undissolved calcium chloride has been reported to result in burns, and rarely, necrosis of the stomach.
+The extremely salty taste of calcium chloride is used to flavor pickles without increasing the food's sodium content.
+Calcium chloride is used to prevent cork spot and bitter pit on apples by spraying on the tree during the late growing season.
+
+
+=== Laboratory and related drying operations ===
+Drying tubes are frequently packed with calcium chloride. Kelp is dried with calcium chloride for use in producing sodium carbonate. Anhydrous calcium chloride has been approved by the FDA as a packaging aid to ensure dryness (CPG 7117.02).
+The hydrated salt can be dried for re-use but will dissolve in its own water of hydration if heated quickly and form a hard amalgamated solid when cooled.
+
+
+=== Metal reduction flux ===
+Similarly, CaCl2 is used as a flux and electrolyte in the FFC Cambridge electrolysis process for titanium production, where it ensures the proper exchange of calcium and oxygen ions between the electrodes.
+
+
+=== Medical use ===
+Calcium chloride infusions may be used as an intravenous therapy to prevent hypocalcemia.
+Calcium chloride is a highly soluble calcium salt. Hexahydrate calcium chloride (CaCl2·6H2O) has solubility in water of 811 g/L at 25 °C. Calcium chloride when taken orally completely dissociates into calcium ions (Ca2+) in the gastrointestinal tract, resulting in readily bioavailable calcium. The high concentration of calcium ions facilitates efficient absorption in the small intestine. However, the use of calcium chloride as a source of calcium taken orally is less common compared to other calcium salts because of potential adverse effects such as gastrointestinal irritation and discomfort.
+When tasted, calcium chloride exhibits a distinctive bitter flavor alongside its salty taste. The bitterness is attributable to the calcium ions and their interaction with human taste receptors: certain members of the TAS2R family of bitter taste receptors respond to calcium ions; the bitter perception of calcium is thought to be a protective mechanism to avoid ingestion of toxic substances, as many poisonous compounds taste bitter. While chloride ions (Cl−) primarily contribute to saltiness, at higher concentrations, they can enhance the bitter sensation. The combination of calcium and chloride ions intensifies the overall bitterness. At lower concentrations, calcium chloride may taste predominantly salty. The salty taste arises from the electrolyte nature of the compound, similar to sodium chloride (table salt). As the concentration increases, the bitter taste becomes more pronounced: the increased presence of calcium ions enhances the activation of bitterness receptors.
+
+
+=== Other applications ===
+
+Calcium chloride is used in concrete mixes to accelerate the initial setting, but chloride ions lead to corrosion of steel rebar, so it should not be used in reinforced concrete. The anhydrous form of calcium chloride may also be used for this purpose and can provide a measure of the moisture in concrete.
+Calcium chloride is included as an additive in plastics and in fire extinguishers, in blast furnaces as an additive to control scaffolding (clumping and adhesion of materials that prevent the furnace charge from descending), and in fabric softener as a thinner.
+The exothermic dissolution of calcium chloride is used in self-heating cans and heating pads.
+Calcium chloride is used as a water hardener in the maintenance of hot tub water, as insufficiently hard water can lead to corrosion and foaming.
+In the oil industry, calcium chloride is used to increase the density of solids-free brines. It is also used to provide inhibition of swelling clays in the water phase of invert emulsion drilling fluids.
+Calcium chloride (CaCl2) acts as flux material, decreasing the melting point, in the Davy process for the industrial production of sodium metal through the electrolysis of molten NaCl.
+Calcium chloride is also used in the production of activated charcoal.
+Calcium chloride can be used to precipitate fluoride ions from water as insoluble CaF2.
+Calcium chloride is also an ingredient used in ceramic slipware. It suspends clay particles so that they float within the solution, making it easier to use in a variety of slipcasting techniques.
+For watering plants to use as a fertilizer, a moderate concentration of calcium chloride is used to avoid potential toxicity: 5 to 10 mM (millimolar) is generally effective and safe for most plants—that is 0.55–1.11 grams (0.019–0.039 oz) of anhydrous calcium chloride (CaCl2) per liter of water or 1.10–2.19 grams (0.039–0.077 oz) of calcium chloride hexahydrate (CaCl2·6H2O) per liter of water. Calcium chloride solution is used immediately after preparation to prevent potential alterations in its chemical composition. Besides that, calcium chloride is highly hygroscopic, meaning it readily absorbs moisture from the air. If the solution is left standing, it can absorb additional water vapor, leading to dilution and a decrease in the intended concentration. Prolonged standing may lead to the precipitation of calcium hydroxide or other insoluble calcium compounds, reducing the availability of calcium ions in the solution and reducing the effectiveness of the solution as a calcium source for plants. Nutrient solutions can become a medium for microbial growth if stored for extended periods. Microbial contamination may alter the composition of the solution and potentially introduce pathogens to the plants. When dissolved in water, calcium chloride can undergo hydrolysis, especially over time, which can lead to the formation of small amounts of hydrochloric acid and calcium hydroxide: Ca+2+2H2O ⇌ Ca(OH)2+2H+. This reaction can lower the pH of the solution, making it more acidic. Acidic solutions may harm plant tissues and disrupt nutrient uptake.
+Calcium chloride dihydrate (20 percent by weight) dissolved in ethanol (95 percent ABV) has been used as a sterilant for male animals. The solution is injected into the testes of the animal. Within one month, necrosis of testicular tissue results in sterilization.
+Cocaine producers in Colombia import tons of calcium chloride to recover solvents that are on the INCB Red List and are more tightly controlled.
+
+
+== Hazards ==
+Although the salt is non-toxic in small quantities when wet, the strongly hygroscopic properties of non-hydrated calcium chloride present some hazards. It can act as an irritant by desiccating moist skin. Solid calcium chloride dissolves exothermically, and burns can result in the mouth and esophagus if it is ingested. Ingestion of concentrated solutions or solid products may cause gastrointestinal irritation or ulceration.
+Consumption of calcium chloride can lead to hypercalcemia.
+
+
+== Properties ==
+
+Calcium chloride dissolves in water, producing chloride and the aquo complex [Ca(H2O)6]2+. In this way, these solutions are sources of "free" calcium and free chloride ions. This description is illustrated by the fact that these solutions react with phosphate sources to give a solid precipitate of calcium phosphate:
+
+3 CaCl2 + 2 PO3−4 → Ca3(PO4)2 + 6 Cl−
+Calcium chloride has a very high enthalpy change of solution, indicated by considerable temperature rise accompanying dissolution of the anhydrous salt in water. This property is the basis for its largest-scale application.
+Aqueous solutions of calcium chloride tend to be slightly acidic due to the influence of the chloride ions on the hydrogen ion concentration in water. The slight acidity of calcium chloride solutions is primarily due to the increased ionic strength of the solution, which can influence the activity of hydrogen ions and lower the pH slightly. The pH of calcium chloride in aqueous solution is the following:
+
+Molten calcium chloride can be electrolysed to give calcium metal and chlorine gas:
+
+CaCl2 → Ca + Cl2
+
+
+== Preparation ==
+
+In much of the world, calcium chloride is derived from limestone as a by-product of the Solvay process, which follows the net reaction below:
+
+2 NaCl + CaCO3 → Na2CO3 + CaCl2
+North American consumption in 2002 was 1,529,000 tonnes (3.37 billion pounds). In the US, most calcium chloride is obtained by purification from brine. As with most bulk commodity salt products, trace amounts of other cations from the alkali metals and alkaline earth metals (groups 1 and 2) and other anions from the halogens (group 17) typically occur.
+
+
+=== Occurrence ===
+Calcium chloride occurs as the rare evaporite minerals sinjarite (dihydrate) and antarcticite (hexahydrate). Another natural hydrate known is ghiaraite – a tetrahydrate. The related minerals chlorocalcite (potassium calcium chloride, KCaCl3) and tachyhydrite (calcium magnesium chloride, Ca Mg2Cl6·12H2O) are also very rare. The same is true for rorisite, CaClF (calcium chloride fluoride).
+
+
+== See also ==
+Calcium(I) chloride
+Calcium chloride transformation
+Magnesium chloride
+Calcium supplement
+
+
+== References ==
+
+Greenwood NN, Earnshaw A (1997). Chemistry of the Elements (2nd ed.). Butterworth-Heinemann. doi:10.1016/C2009-0-30414-6. ISBN 978-0-08-037941-8.
+
+
+== External links ==
+
+International Chemical Safety Card 1184
+Product and Application Information (Formerly Dow Chemical Calcium Chloride division) Archived 17 September 2023 at the Wayback Machine
+Report on steel corrosion by chloride including CaCl2 Archived 16 June 2011 at the Wayback Machine
+Collection of calcium chloride reports and articles
+Calcium chloride, Anhydrous MSDS
+Difusivity of calcium chloride
+Centers for Disease Control and Prevention, National Institutes of Occupational Safety and Health, "Calcium Chloride (anhydrous)"
+
+## Links
+- ATC code A12
+- ATC code B05
+- ATC code G04
+- Abraum salts
+- Acetic acid
+- Acetohydroxamic acid
+- Acetone
+- Acetylcysteine
+- Acid dissociation constant
+- Acidifier
+- Actinium(III) chloride
+- Activated charcoal
+- Adenosine triphosphate
+- Alaea salt
+- Alberger process
+- Alcohol (chemistry)
+- Alkali metal
+- Alkaline earth metal
+- Aluminium chloride
+- Aluminium monochloride
+- Americium(II) chloride
+- Americium(III) chloride
+- Ammonia
+- Ammonium chloride
+- Anatomical Therapeutic Chemical Classification System
+- Anhydrous
+- Animal sterilization
+- Anion
+- Antarcticite
+- Antimony pentachloride
+- Antimony trichloride
+- Antispasmodic
+- Aqueous solution
+- Aquo complex
+- Arsenic pentachloride
+- Arsenic trichloride
+- Arsenide chloride
+- Asin tibuok
+- Astatine monochloride
+- Asín tibuok
+- Barium chloride
+- Barium sulfate
+- Berkelium(III) chloride
+- Beryllium chloride
+- Beta-Hydroxy beta-methylbutyric acid
+- Bibcode (identifier)
+- Bismuth chloride
+- Bitter pit
+- Bittern (salt)
+- Blast furnace
+- Boca Raton, Florida
+- Bohrium
+- Boiling point
+- Borate chloride
+- Boron trichloride
+- Bottled water
+- Brewing
+- Brine
+- Brined cheese
+- Brining
+- Bromine monochloride
+- Burn (injury)
+- Butter salt
+- Butterworth-Heinemann
+- CAS Registry Number
+- CRC Handbook of Chemistry and Physics
+- CRC Press
+- Cadmium chloride
+- Caesium chloride
+- Calcium
+- Calcium(I) chloride
+- Calcium/cholecalciferol
+- Calcium acetate
+- Calcium arsenate
+- Calcium arsenide
+- Calcium ascorbate
+- Calcium azide
+- Calcium bicarbonate
+- Calcium bisulfite
+- Calcium borate
+- Calcium bromate
+- Calcium bromide
+- Calcium carbide
+- Calcium carbonate
+- Calcium chlorate
+- Calcium chloride transformation
+- Calcium chromate
+- Calcium citrate
+- Calcium compounds
+- Calcium cyanamide
+- Calcium cyanide
+- Calcium diglutamate
+- Calcium disilicide
+- Calcium dobesilate
+- Calcium erythorbate
+- Calcium fluoride
+- Calcium folinate
+- Calcium formate
+- Calcium fructoborate
+- Calcium fumarate
+- Calcium glubionate
+- Calcium glucoheptonate
+- Calcium gluconate
+- Calcium glycerylphosphate
+- Calcium guanylate
+- Calcium hydride
+- Calcium hydroxide
+- Calcium hydroxychloride
+- Calcium hypochlorite
+- Calcium inosinate
+- Calcium iodate
+- Calcium iodide
+- Calcium lactate
+- Calcium lactate gluconate
+- Calcium malate
+- Calcium monophosphide
+- Calcium monosilicide
+- Calcium nitrate
+- Calcium nitride
+- Calcium nitrite
+- Calcium oxalate
+- Calcium oxide
+- Calcium pangamate
+- Calcium perchlorate
+- Calcium permanganate
+- Calcium peroxide
+- Calcium phosphate
+- Calcium phosphide
+- Calcium propanoate
+- Calcium pyrophosphate
+- Calcium selenide
+- Calcium silicate
+- Calcium stearate
+- Calcium sulfate
+- Calcium sulfide
+- Calcium sulfite
+- Calcium supplement
+- Calcium titanate
+- Californium(III) chloride
+- Californium dichloride
+- Carbide chloride
+- Carbon tetrachloride
+- Carbonate chloride
+- Casein
+- Cation
+- Celery salt
+- Cement accelerator
+- Cerium(III) chloride
+- ChEBI
+- ChEMBL
+- Cheesemaking
+- ChemSpider
+- Chemical formula
+- Chemical nomenclature
+- Chloride
+- Chlorine
+- Chlorine azide
+- Chlorine dioxide
+- Chlorine monofluoride
+- Chlorine monoxide
+- Chlorine oxide
+- Chlorine pentafluoride
+- Chlorine perchlorate
+- Chlorine peroxide
+- Chlorine tetroxide
+- Chlorine trifluoride
+- Chloroauric acid
+- Chlorocalcite
+- Chloryl perchlorate
+- Chromium
+- Chromium(II) chloride
+- Chromium(III) chloride
+- Chromium(III) picolinate
+- Chromium(IV) chloride
+- Clinical trial
+- Cobalt(II) chloride
+- Cobalt(III) chloride
+- Cocaine
+- Code of Federal Regulations
+- Collagen
+- Colombia
+- CompTox Chemicals Dashboard
+- Coordination complex
+- Coordination geometry
+- Copper
+- Copper(I) chloride
+- Copper(II) chloride
+- Copper gluconate
+- Cork spot
+- Crystal structure
+- Curing salt
+- Curium(III) chloride
+- Cyclic salt
+- Cysteine
+- Cystine
+- Dairy salt
+- Dapoxetine
+- Darifenacin
+- De-ice
+- De-icing
+- Dehumidifiers
+- Density
+- Desfesoterodine
+- Desiccant
+- Desiccating
+- Diboron tetrachloride
+- Dicalcium phosphate
+- Dichlorine heptoxide
+- Dichlorine monoxide
+- Dichloroacetylene
+- Dimethyl sulfoxide
+- Diphosphorus tetrachloride
+- Dirt road
+- Disulfur dichloride
+- Docusate sodium
+- Dodecaboron dodecachloride
+- Dodecachloroneopentasilane
+- Doi (identifier)
+- Dow Chemical Company
+- DrugBank
+- Drying tube
+- Dubnium
+- Dysprosium(II) chloride
+- Dysprosium(III) chloride
+- ECHA InfoCard
+- E number
+- Einsteinium(II) chloride
+- Einsteinium(III) chloride
+- Electrolysis
+- Electrolyte
+- Elsevier
+- Emepronium bromide
+- Emulsion
+- Enthalpy change of solution
+- Erbium(III) chloride
+- Esophagus
+- Ethanol
+- Ethyl acetate
+- European Community number
+- European Union
+- Europium(III) chloride
+- Europium dichloride
+- Evaporite
+- Exothermic
+- Exothermic process
+- FFC Cambridge process
+- Fabric softener
+- Federal Highway Administration
+- Fermium dichloride
+- Fesoterodine
+- Fire extinguisher
+- Firming agent
+- Flake salt
+- Flame test
+- Flavoxate
+- Fleur de sel
+- Fluoride
+- Fluorine
+- Flux (metallurgy)
+- Food Standards Agency
+- Food additive
+- Francium chloride
+- Freezing-point depression
+- GHS hazard pictograms
+- GHS hazard statements
+- GHS precautionary statements
+- Gadolinium(III) chloride
+- Gallium monochloride
+- Gallium trichloride
+- Garlic salt
+- Gastrointestinal
+- Generally recognized as safe
+- Germanium dichloride
+- Germanium tetrachloride
+- Gibbs free energy
+- Globally Harmonized System of Classification and Labelling of Chemicals
+- Glutathione
+- Gold(I) chloride
+- Gold(I,III) chloride
+- Gold(III) chloride
+- Grading (engineering)
+- Grain of salt
+- Group (periodic table)
+- Hafnium tetrachloride
+- Halite
+- Halogen
+- Health effects of salt
+- Heat capacity
+- Heating pad
+- Heparin sodium
+- Hexachlorodisilane
+- Hexachloroethane
+- Hexachloroplatinate
+- Hexachloroplutonate
+- Hexahydrate
+- Himalayan salt
+- History of salt
+- History of salt in Middlewich
+- Holmium(III) chloride
+- Hot tub
+- Hydrochloric acid
+- Hydrogen chloride
+- Hydroxyapatite
+- Hydroxylapatite
+- Hygroscopic
+- Hypercalcemia
+- Hypocalcemia
+- ISBN (identifier)
+- Imidafenacin
+- Indium(I) chloride
+- Indium(II) chloride
+- Indium(III) chloride
+- Infusion therapy
+- Inorganic compound
+- International Chemical Identifier
+- International Narcotics Control Board
+- International Salt Co. v. United States
+- Intravenous sugar solution
+- Intravenous therapy
+- Iodine
+- Iodine monochloride
+- Iodine trichloride
+- Iodised salt
+- Ion
+- Ions
+- Iridium(II) chloride
+- Iridium(III) chloride
+- Iridium tetrachloride
+- Iron
+- Iron(II) chloride
+- Iron(II) fumarate
+- Iron(II) sulfate
+- Iron(III) chloride
+- Irritation
+- JSmol
+- Japan
+- John Wiley & Sons Ltd.
+- Jugyeom
+- Kala namak
+- Kelp
+- Khewra Salt Mine
+- Korean brining salt
+- Kosher salt
+- Lamella (cell biology)
+- Lanthanum(III) chloride
+- Latin language
+- Lattice constant
+- Lawrencium
+- Lead(II) chloride
+- Lead(IV) chloride
+- Lethal dose
+- Limestone
+- Lipoic acid
+- List of countries by salt production
+- List of edible salts
+- List of withdrawn drugs
+- Lithium
+- Lithium aspartate
+- Lithium carbonate
+- Lithium chloride
+- Lithium orotate
+- Lutetium(III) chloride
+- Lutetium (177Lu) chloride
+- Magnesium
+- Magnesium L-threonate
+- Magnesium ascorbate
+- Magnesium aspartate
+- Magnesium carbonate
+- Magnesium chloride
+- Magnesium citrate
+- Magnesium gluconate
+- Magnesium glycinate
+- Magnesium hydroxide
+- Magnesium lactate
+- Magnesium levulinate
+- Magnesium malate
+- Magnesium orotate
+- Magnesium oxide
+- Magnesium pidolate
+- Magnesium taurate
+- Magnetic susceptibility
+- Manganese(II) chloride
+- Manganese(III) chloride
+- Medical uses of magnesium sulfate
+- Meladrazine
+- Melting point
+- Mendelevium
+- Mercury(I) chloride
+- Mercury(II) chloride
+- Methanol
+- Methionine
+- Methylsulfonylmethane
+- Mineral (nutrient)
+- Mineral lick
+- Mirabegron
+- Molar mass
+- Molecular symmetry
+- Molybdenum(II) chloride
+- Molybdenum(III) chloride
+- Molybdenum(V) chloride
+- Molybdenum(VI) chloride
+- Molybdenum tetrachloride
+- Monocalcium aluminate
+- Monocalcium phosphate
+- Monosodium glutamate
+- Monosodium phosphate
+- Moshio salt
+- Mouth
+- Muscarinic antagonist
+- NFPA 704
+- National Organic Program
+- Necrosis
+- Neodymium(II) chloride
+- Neodymium(III) chloride
+- Neptunium(III) chloride
+- Neptunium tetrachloride
+- Nickel(II) chloride
+- Niobium(III) chloride
+- Niobium(IV) chloride
+- Niobium(V) chloride
+- Nitrate chlorides
+- Nitride chloride
+- Nitrogen trichloride
+- Nobelium
+- Norman Greenwood
+- Occupational safety and health
+- Octahedral
+- Odor
+- Oil industry
+- Old Salt Route
+- Onion powder
+- Open-pan salt making
+- Organic farming
+- Orthorhombic crystal system
+- Osmium(II) chloride
+- Osmium(III) chloride
+- Osmium(IV) chloride
+- Osmium(V) chloride
+- Oxybutynin
+- Oxychloride
+- PH
+- PMC (identifier)
+- PMID (identifier)
+- Palladium(II) chloride
+- Pearson symbol
+- Pectin
+- Pentosan polysulfate
+- Phases of clinical research
+- Phenazopyridine
+- Phenyl salicylate
+- Phosphate
+- Phosphide chloride
+- Phosphorus
+- Phosphorus pentachloride
+- Phosphorus trichloride
+- Pickled cucumber
+- Pickling salt
+- Platinum(II) chloride
+- Platinum(IV) chloride
+- Plutonium(III) chloride
+- Plutonium tetrachloride
+- Polonium dichloride
+- Polonium tetrachloride
+- Polysaccharide
+- Potassium
+- Potassium ascorbate
+- Potassium bicarbonate
+- Potassium bitartrate
+- Potassium carbonate
+- Potassium chloride
+- Potassium chloride (medical use)
+- Potassium citrate
+- Potassium citrate/potassium hydrogen carbonate
+- Potassium gluconate
+- Potassium iodide
+- Potassium lactate
+- Potassium malate
+- Potassium nitrate
+- Potassium permanganate
+- Potassium phosphate
+- Potassium sulfate
+- Praseodymium(III) chloride
+- Prills
+- Promethium(III) chloride
+- Propiverine
+- Protactinium(IV) chloride
+- Protactinium(V) chloride
+- Protamine sulfate
+- PubChem
+- Pyridine
+- RTECS
+- Radium chloride
+- Rebar
+- Refractive index
+- Reinforced concrete
+- Rhenium(III) chloride
+- Rhenium(IV) chloride
+- Rhenium(VI) chloride
+- Rhenium pentachloride
+- Rhodium(III) chloride
+- River reed salt
+- Road salt
+- Rubidium chloride
+- Ruthenium(II) chloride
+- Ruthenium(III) chloride
+- Ruthenium tetrachloride
+- Rutherfordium
+- Rutile
+- S-Adenosyl methionine
+- S2CID (identifier)
+- Salammoniac
+- Salicylhydroxamic acid
+- Salt
+- Salt-cured meat
+- Salt (chemistry)
+- Salt Commission
+- Salt March
+- Salt and cardiovascular disease
+- Salt evaporation pond
+- Salt in Cheshire
+- Salt in Chinese history
+- Salt in the American Civil War
+- Salt in the Bible
+- Salt industry in Ghana
+- Salt mining
+- Salt road
+- Salt substitute
+- Salt tax
+- Salt tectonics
+- Salt well
+- Salted fish
+- Saltiness
+- Salting (food)
+- Salting the earth
+- Samarium(II) chloride
+- Samarium(III) chloride
+- San Francisco Bay Salt Ponds
+- Scandium chloride
+- Sea salt
+- Seaborgium
+- Seasoned salt
+- Sel gris
+- Selenium
+- Selenium dichloride
+- Selenium monochloride
+- Selenium tetrachloride
+- Self-heating cans
+- Sequestrant
+- Sigma-Aldrich
+- Silicon tetrachloride
+- Silver chloride
+- Simplified molecular-input line-entry system
+- Sink works
+- Slipware
+- Smelling salts
+- Smoked salt
+- Sodium
+- Sodium ascorbate
+- Sodium calcium edetate
+- Sodium carbonate
+- Sodium chloride
+- Sodium citrate
+- Sodium fluoride
+- Sodium gluconate
+- Sodium hydrogen carbonate
+- Sodium lactate
+- Sodium malate
+- Sodium monofluorophosphate
+- Sodium nitrate
+- Sodium nitrite
+- Sodium nitroprusside
+- Sodium phosphates
+- Sodium selenate
+- Sodium selenite
+- Sodium stibogluconate
+- Sodium sulfate
+- Sodium thiosulfate
+- Solifenacin
+- Solubility
+- Soluble
+- Solvay process
+- Soybean
+- Space group
+- Spherification
+- Sports drink
+- Standard enthalpy change of formation
+- Standard molar entropy
+- Standard state
+- Strontium chloride
+- Sublimation (phase transition)
+- Succinimide
+- Sulfate chloride
+- Sulfur
+- Sulfur dichloride
+- Sulfur tetrachloride
+- Suramin sodium
+- TAS2R
+- Tachyhydrite
+- Tantalum(III) chloride
+- Tantalum(IV) chloride
+- Tantalum(V) chloride
+- Taurine
+- Technetium(IV) chloride
+- Technetium trichloride
+- Tellurium dichloride
+- Tellurium tetrachloride
+- Terbium(III) chloride
+- Terodiline
+- Tetracalcium phosphate
+- Tetrachloroethylene
+- Tetragonal crystal system
+- Thallium(I) chloride
+- Thallium trichloride
+- Thorium(III) chloride
+- Thorium(IV) chloride
+- Thulium(II) chloride
+- Thulium(III) chloride
+- Tin(II) chloride
+- Tin(IV) chloride
+- Tiopronin
+- Titanium
+- Titanium(II) chloride
+- Titanium(III) chloride
+- Titanium tetrachloride
+- Tofu
+- Tolterodine
+- Tonne
+- Trace element
+- Tricalcium aluminate
+- Tricalcium phosphate
+- Trigonal crystal system
+- Tritellurium dichloride
+- Trospium chloride
+- Truffle salt
+- Tungsten(II) chloride
+- Tungsten(III) chloride
+- Tungsten(IV) chloride
+- Tungsten(V) chloride
+- Tungsten hexachloride
+- Turgor pressure
+- Ulceration
+- Ultratrace element
+- Unique Ingredient Identifier
+- Uranium(III) chloride
+- Uranium hexachloride
+- Uranium pentachloride
+- Uranium tetrachloride
+- Urea
+- Urinary system
+- Urology
+- Valproic acid
+- Vanadium
+- Vanadium(II) chloride
+- Vanadium(III) chloride
+- Vanadium(V) chloride
+- Vanadium tetrachloride
+- Vanadyl sulfate
+- Vibegron
+- Viscosity
+- WHO Model List of Essential Medicines
+- Water
+- Water of crystallization
+- Water softening
+- Wayback Machine
+- Weathering
+- Xenon dichloride
+- Xenon monochloride
+- Xenon tetrachloride
+- Ximenes Redoubt
+- Ytterbium(II) chloride
+- Ytterbium(III) chloride
+- Yttrium(III) chloride
+- Zinc
+- Zinc L-aspartate
+- Zinc L-carnosine
+- Zinc acetate
+- Zinc chloride
+- Zinc gluconate
+- Zinc oxide
+- Zinc proteinate
+- Zinc sulfate (medical use)
+- Zirconium(II) chloride
+- Zirconium(III) chloride
+- Zirconium(IV) chloride

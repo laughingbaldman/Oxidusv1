@@ -1,0 +1,657 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "23637": {
+          "pageid": 23637,
+          "ns": 0,
+          "title": "Phase (matter)",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acid–base reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Allotropy"
+            },
+            {
+              "ns": 0,
+              "title": "Alloy"
+            },
+            {
+              "ns": 0,
+              "title": "Analytical chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Aniline"
+            },
+            {
+              "ns": 0,
+              "title": "Antiferromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Antimatter"
+            },
+            {
+              "ns": 0,
+              "title": "Argon"
+            },
+            {
+              "ns": 0,
+              "title": "Baryonic matter"
+            },
+            {
+              "ns": 0,
+              "title": "Binodal"
+            },
+            {
+              "ns": 0,
+              "title": "Biochemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Boiling"
+            },
+            {
+              "ns": 0,
+              "title": "Boiling point"
+            },
+            {
+              "ns": 0,
+              "title": "Bose–Einstein condensate"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical bond"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical equilibrium"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical law"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical reaction"
+            },
+            {
+              "ns": 0,
+              "title": "Chemist"
+            },
+            {
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Colloid"
+            },
+            {
+              "ns": 0,
+              "title": "Color-glass condensate"
+            },
+            {
+              "ns": 0,
+              "title": "Compressed fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Condensation"
+            },
+            {
+              "ns": 0,
+              "title": "Cooling curve"
+            },
+            {
+              "ns": 0,
+              "title": "Critical line (thermodynamics)"
+            },
+            {
+              "ns": 0,
+              "title": "Critical point (thermodynamics)"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallization"
+            },
+            {
+              "ns": 0,
+              "title": "Dark matter"
+            },
+            {
+              "ns": 0,
+              "title": "Degenerate matter"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Deposition (phase transition)"
+            },
+            {
+              "ns": 0,
+              "title": "Diamond"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Emulsion"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy of fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy of sublimation"
+            },
+            {
+              "ns": 0,
+              "title": "Enthalpy of vaporization"
+            },
+            {
+              "ns": 0,
+              "title": "Equation of state"
+            },
+            {
+              "ns": 0,
+              "title": "Ethylene glycol"
+            },
+            {
+              "ns": 0,
+              "title": "Evaporation"
+            },
+            {
+              "ns": 0,
+              "title": "Exotic matter"
+            },
+            {
+              "ns": 0,
+              "title": "Fermionic condensate"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrimagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Ferromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Flash evaporation"
+            },
+            {
+              "ns": 0,
+              "title": "Freezing"
+            },
+            {
+              "ns": 0,
+              "title": "Fullerene"
+            },
+            {
+              "ns": 0,
+              "title": "Gallium"
+            },
+            {
+              "ns": 0,
+              "title": "Gas"
+            },
+            {
+              "ns": 0,
+              "title": "Gibbs' Phase Rule"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of chemistry terms"
+            },
+            {
+              "ns": 0,
+              "title": "Graphite"
+            },
+            {
+              "ns": 0,
+              "title": "Heck reaction"
+            },
+            {
+              "ns": 0,
+              "title": "History of chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Ice"
+            },
+            {
+              "ns": 0,
+              "title": "Ice II"
+            },
+            {
+              "ns": 0,
+              "title": "Ice Ic"
+            },
+            {
+              "ns": 0,
+              "title": "Ice Ih"
+            },
+            {
+              "ns": 0,
+              "title": "Index of chemistry articles"
+            },
+            {
+              "ns": 0,
+              "title": "Inorganic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Interface (matter)"
+            },
+            {
+              "ns": 0,
+              "title": "Ion"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda point"
+            },
+            {
+              "ns": 0,
+              "title": "Latent heat"
+            },
+            {
+              "ns": 0,
+              "title": "Latent internal energy"
+            },
+            {
+              "ns": 0,
+              "title": "Leidenfrost effect"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid crystal"
+            },
+            {
+              "ns": 0,
+              "title": "List of chemistry awards"
+            },
+            {
+              "ns": 0,
+              "title": "List of chemistry journals"
+            },
+            {
+              "ns": 0,
+              "title": "List of chemists"
+            },
+            {
+              "ns": 0,
+              "title": "List of states of matter"
+            },
+            {
+              "ns": 0,
+              "title": "List of unsolved problems in chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Localization protected quantum order."
+            },
+            {
+              "ns": 0,
+              "title": "Macroscopic quantum phenomena"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetization"
+            },
+            {
+              "ns": 0,
+              "title": "Many-body localization"
+            },
+            {
+              "ns": 0,
+              "title": "Matter"
+            },
+            {
+              "ns": 0,
+              "title": "Melting"
+            },
+            {
+              "ns": 0,
+              "title": "Melting point"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury (element)"
+            },
+            {
+              "ns": 0,
+              "title": "Mesophase"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral oil"
+            },
+            {
+              "ns": 0,
+              "title": "Miscibility"
+            },
+            {
+              "ns": 0,
+              "title": "Mpemba effect"
+            },
+            {
+              "ns": 0,
+              "title": "Multiphasic liquid"
+            },
+            {
+              "ns": 0,
+              "title": "Order and disorder (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Organic chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Organofluorine chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of physical science"
+            },
+            {
+              "ns": 0,
+              "title": "Pascal (pressure)"
+            },
+            {
+              "ns": 0,
+              "title": "Perfluoro(dimethylcyclohexane)"
+            },
+            {
+              "ns": 0,
+              "title": "Perfluorocarbon"
+            },
+            {
+              "ns": 0,
+              "title": "Phase (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Phase diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Phase transition"
+            },
+            {
+              "ns": 0,
+              "title": "Phase transitions"
+            },
+            {
+              "ns": 0,
+              "title": "Phases of Matter (film)"
+            },
+            {
+              "ns": 0,
+              "title": "Photonic molecule"
+            },
+            {
+              "ns": 0,
+              "title": "Physical chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma recombination"
+            },
+            {
+              "ns": 0,
+              "title": "Polymorphism (materials science)"
+            },
+            {
+              "ns": 0,
+              "title": "Pressure"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable matter"
+            },
+            {
+              "ns": 0,
+              "title": "QCD matter"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum Hall effect"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum spin liquid"
+            },
+            {
+              "ns": 0,
+              "title": "Quark–gluon plasma"
+            },
+            {
+              "ns": 0,
+              "title": "Redox"
+            },
+            {
+              "ns": 0,
+              "title": "Refractive index"
+            },
+            {
+              "ns": 0,
+              "title": "Regelation"
+            },
+            {
+              "ns": 0,
+              "title": "Rhombohedral crystal system"
+            },
+            {
+              "ns": 0,
+              "title": "Rydberg matter"
+            },
+            {
+              "ns": 0,
+              "title": "Silicone oil"
+            },
+            {
+              "ns": 0,
+              "title": "Solid"
+            },
+            {
+              "ns": 0,
+              "title": "Solid solution"
+            },
+            {
+              "ns": 0,
+              "title": "Solubility"
+            },
+            {
+              "ns": 0,
+              "title": "Spinodal"
+            },
+            {
+              "ns": 0,
+              "title": "State of matter"
+            },
+            {
+              "ns": 0,
+              "title": "Strange matter"
+            },
+            {
+              "ns": 0,
+              "title": "String-net liquid"
+            },
+            {
+              "ns": 0,
+              "title": "Sublimation (phase transition)"
+            },
+            {
+              "ns": 0,
+              "title": "Superconductivity"
+            },
+            {
+              "ns": 0,
+              "title": "Supercooling"
+            },
+            {
+              "ns": 0,
+              "title": "Supercritical fluid"
+            },
+            {
+              "ns": 0,
+              "title": "Superfluidity"
+            },
+            {
+              "ns": 0,
+              "title": "Superglass"
+            },
+            {
+              "ns": 0,
+              "title": "Superheated water"
+            },
+            {
+              "ns": 0,
+              "title": "Superheating"
+            },
+            {
+              "ns": 0,
+              "title": "Supersolid"
+            },
+            {
+              "ns": 0,
+              "title": "Surface science"
+            },
+            {
+              "ns": 0,
+              "title": "Surface tension"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrahedron Letters"
+            },
+            {
+              "ns": 0,
+              "title": "Thermo-dielectric effect"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamic system"
+            },
+            {
+              "ns": 0,
+              "title": "Time crystal"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of states of matter and phase transitions"
+            },
+            {
+              "ns": 0,
+              "title": "Toluene"
+            },
+            {
+              "ns": 0,
+              "title": "Triple point"
+            },
+            {
+              "ns": 0,
+              "title": "Trouton's rule"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor"
+            },
+            {
+              "ns": 0,
+              "title": "Vaporization"
+            },
+            {
+              "ns": 0,
+              "title": "Vapor–liquid equilibrium"
+            },
+            {
+              "ns": 0,
+              "title": "Vitrification"
+            },
+            {
+              "ns": 0,
+              "title": "Volatility (chemistry)"
+            },
+            {
+              "ns": 0,
+              "title": "Water"
+            },
+            {
+              "ns": 0,
+              "title": "White phosphorus"
+            },
+            {
+              "ns": 0,
+              "title": "Wiley-VCH"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324776.6625087
+}

@@ -1,0 +1,441 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "23253": {
+          "pageid": 23253,
+          "ns": 0,
+          "title": "Parallax",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Airguns"
+            },
+            {
+              "ns": 0,
+              "title": "Angle"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent position"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Arcsecond"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binocular disparity"
+            },
+            {
+              "ns": 0,
+              "title": "Binocular vision"
+            },
+            {
+              "ns": 0,
+              "title": "Binoculars"
+            },
+            {
+              "ns": 0,
+              "title": "Bore axis"
+            },
+            {
+              "ns": 0,
+              "title": "Bow and arrow"
+            },
+            {
+              "ns": 0,
+              "title": "Bullet drop"
+            },
+            {
+              "ns": 0,
+              "title": "Coincidence rangefinder"
+            },
+            {
+              "ns": 0,
+              "title": "Collier's Encyclopedia"
+            },
+            {
+              "ns": 0,
+              "title": "Collimator"
+            },
+            {
+              "ns": 0,
+              "title": "Computer stereo vision"
+            },
+            {
+              "ns": 0,
+              "title": "Computer vision"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic distance ladder"
+            },
+            {
+              "ns": 0,
+              "title": "Depth perception"
+            },
+            {
+              "ns": 0,
+              "title": "Distance"
+            },
+            {
+              "ns": 0,
+              "title": "Distance measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Earth"
+            },
+            {
+              "ns": 0,
+              "title": "Ender's Game"
+            },
+            {
+              "ns": 0,
+              "title": "Ender's Shadow"
+            },
+            {
+              "ns": 0,
+              "title": "Epistemological"
+            },
+            {
+              "ns": 0,
+              "title": "Eye"
+            },
+            {
+              "ns": 0,
+              "title": "Eyepiece"
+            },
+            {
+              "ns": 0,
+              "title": "Field artillery"
+            },
+            {
+              "ns": 0,
+              "title": "Fire-control system"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia (spacecraft)"
+            },
+            {
+              "ns": 0,
+              "title": "Geometry"
+            },
+            {
+              "ns": 0,
+              "title": "Gunshot"
+            },
+            {
+              "ns": 0,
+              "title": "Half-angle"
+            },
+            {
+              "ns": 0,
+              "title": "Hegel"
+            },
+            {
+              "ns": 0,
+              "title": "Historic England"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Image stitching"
+            },
+            {
+              "ns": 0,
+              "title": "Jacques Lacan"
+            },
+            {
+              "ns": 0,
+              "title": "James Joyce"
+            },
+            {
+              "ns": 0,
+              "title": "Kojin Karatani"
+            },
+            {
+              "ns": 0,
+              "title": "Lutz–Kelker bias"
+            },
+            {
+              "ns": 0,
+              "title": "Macro photography"
+            },
+            {
+              "ns": 0,
+              "title": "Mark Renn"
+            },
+            {
+              "ns": 0,
+              "title": "Measurement"
+            },
+            {
+              "ns": 0,
+              "title": "Microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Mirror"
+            },
+            {
+              "ns": 0,
+              "title": "Multimeter"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzleloader"
+            },
+            {
+              "ns": 0,
+              "title": "Naval artillery"
+            },
+            {
+              "ns": 0,
+              "title": "Ontological"
+            },
+            {
+              "ns": 0,
+              "title": "Optical instrument"
+            },
+            {
+              "ns": 0,
+              "title": "Orson Scott Card"
+            },
+            {
+              "ns": 0,
+              "title": "Oscilloscope"
+            },
+            {
+              "ns": 0,
+              "title": "Parallax (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Parallax in astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Parallax mapping"
+            },
+            {
+              "ns": 0,
+              "title": "Parallax scrolling"
+            },
+            {
+              "ns": 0,
+              "title": "Parsec"
+            },
+            {
+              "ns": 0,
+              "title": "Perspective (graphical)"
+            },
+            {
+              "ns": 0,
+              "title": "Photogrammetry"
+            },
+            {
+              "ns": 0,
+              "title": "Pigeon"
+            },
+            {
+              "ns": 0,
+              "title": "Proxima Centauri"
+            },
+            {
+              "ns": 0,
+              "title": "Rangefinder camera"
+            },
+            {
+              "ns": 0,
+              "title": "RealPlayer"
+            },
+            {
+              "ns": 0,
+              "title": "Reciprocal (mathematics)"
+            },
+            {
+              "ns": 0,
+              "title": "Red dot sights"
+            },
+            {
+              "ns": 0,
+              "title": "Reflector sight"
+            },
+            {
+              "ns": 0,
+              "title": "Resection (surveying)"
+            },
+            {
+              "ns": 0,
+              "title": "Reticle"
+            },
+            {
+              "ns": 0,
+              "title": "Rimfire rifle"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Shotgun"
+            },
+            {
+              "ns": 0,
+              "title": "Shrewsbury"
+            },
+            {
+              "ns": 0,
+              "title": "Sight (device)"
+            },
+            {
+              "ns": 0,
+              "title": "Sightline"
+            },
+            {
+              "ns": 0,
+              "title": "Single-lens reflex camera"
+            },
+            {
+              "ns": 0,
+              "title": "Slavoj Žižek"
+            },
+            {
+              "ns": 0,
+              "title": "Small arm"
+            },
+            {
+              "ns": 0,
+              "title": "Small arms"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Spectroscopic parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Speedometer"
+            },
+            {
+              "ns": 0,
+              "title": "Spherical aberration"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Stereopsis"
+            },
+            {
+              "ns": 0,
+              "title": "Streetlight"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Surveying"
+            },
+            {
+              "ns": 0,
+              "title": "Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Telescopic sight"
+            },
+            {
+              "ns": 0,
+              "title": "The Parallax View (book)"
+            },
+            {
+              "ns": 0,
+              "title": "Theodolite"
+            },
+            {
+              "ns": 0,
+              "title": "Triangulation"
+            },
+            {
+              "ns": 0,
+              "title": "Trigonometry"
+            },
+            {
+              "ns": 0,
+              "title": "True range multilateration"
+            },
+            {
+              "ns": 0,
+              "title": "Twin-lens reflex camera"
+            },
+            {
+              "ns": 0,
+              "title": "Ulysses (novel)"
+            },
+            {
+              "ns": 0,
+              "title": "Viewfinder"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual image"
+            },
+            {
+              "ns": 0,
+              "title": "Visual perception"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Wiggle stereoscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Windage"
+            },
+            {
+              "ns": 0,
+              "title": "Xallarap"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324764.323354
+}

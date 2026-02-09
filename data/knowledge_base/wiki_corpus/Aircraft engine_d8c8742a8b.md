@@ -1,0 +1,350 @@
+---
+title: "Aircraft engine"
+domain: "engineering"
+source_id: "wikipedia"
+source_url: "https://en.wikipedia.org/wiki/Aircraft_engine"
+source_title: "Aircraft engine"
+source_type: "wiki"
+topic_type: "wiki_article"
+license: "CC BY-SA 4.0"
+curator: "oxidus_wiki_crawler"
+created_utc: "2026-02-09T13:21:18.051542"
+updated_utc: "2026-02-09T20:21:18Z"
+lifecycle_state: "raw"
+content_length: 12712
+links_count: 171
+trust_tier: "secondary"
+---
+
+An aircraft engine, often referred to as an aero engine, is the power component of an aircraft propulsion system. Aircraft using power components are referred to as powered flight. Most aircraft engines are either piston engines or gas turbines, although a few have been rocket powered and in recent years many small UAVs have used electric motors.
+
+
+== Manufacturing industry ==
+
+As of 2025, five European and American manufacturers dominate the global market for aircraft engines:
+
+The market for aircraft engines, especially jet engines, has very high barriers to entry. Aircraft engines use highly advanced technology and materials, take around eight years and billions of dollars or euros to develop, and must pass exacting safety certifications by aviation safety authorities. 
+Consequently, entering the engine market is extremely capital- and time-intensive, which helps protect existing manufacturers from competition. The last successful entry in the global market for jet engines was General Electric in the 1970s. These barriers to entry make the market very lucrative for existing manufacturers. As of 2025, the leading jet engine manufacturers reported shareholder returns from between 100 and 1,000 percent over the last five years, compared to small or negative returns for their principal clients, Airbus and Boeing.
+The engines themselves are typically sold at a loss, but manufacturers derive their profits from the sale of maintenance services and spare parts over the roughly thirty-year lifespan of an engine, following the razor and blades business model. This creates a perverse incentive for manufacturers to slow the production or delay the delivery of new engines, because they profit most from the use of old engines, which need more service and spare parts than new ones. This contributed to the unavailability of new engines, creating a bottleneck for Airbus and Boeing's efforts to ramp up aircraft production in the post-COVID resurgence of aviation after 2023.
+
+
+== Development history ==
+
+1903: Manly–Balzer engine sets standards for later radial engines.
+1910: Coandă-1910, an unsuccessful ducted fan aircraft exhibited at Paris Aero Salon, powered by a piston engine. The aircraft never flew, but a patent was filed for routing exhaust gases into the duct to augment thrust.
+1914: Auguste Rateau suggests using exhaust-powered compressor – a turbocharger – to improve high-altitude performance; not accepted after the tests
+1918: Sanford Alexander Moss picks up Rateau's idea and creates the first successful turbocharger
+1926: Armstrong Siddeley Jaguar IV (S), the first series-produced supercharged engine for aircraft use.
+2020: Pipistrel E-811 is the first electric aircraft engine to be awarded a type certificate by EASA. It powers the Pipistrel Velis Electro, the first fully electric EASA type-certified aeroplane.
+
+
+== Shaft engines ==
+
+
+=== Reciprocating (piston) engines ===
+
+
+==== In-line engine ====
+For other configurations of aviation inline engine, such as X-engines, U-engines, H-engines, etc., see inline engine (aeronautics).
+
+
+==== V-type engine ====
+
+
+==== Horizontally opposed engine ====
+
+
+==== H configuration engine ====
+
+
+==== Radial engine ====
+
+A radial engine has the cylinders placed in a circle around the crankshaft. The engine is air-cooled, which can be a problem since they may overheat. Compared to liquid-cooled engines, radial engines have the advantage of being more rugged and capable of absorbing damage.
+
+
+==== Rotating Radial engine ====
+
+Rotating radial engines have the cylinders in a circle around the crankcase, as in a radial engine, (see above), but the crankshaft is fixed to the airframe and the propeller is fixed to the engine case, so that the crankcase and cylinders rotate. The advantage of this arrangement is that a satisfactory flow of cooling air is maintained even at low airspeeds, retaining the weight advantage and simplicity of a conventional air-cooled engine without one of their major drawbacks.
+The first practical rotary engine was the Gnome Omega designed by the Seguin brothers and first flown in 1909. Its relative reliability and good power to weight ratio changed aviation dramatically.
+
+
+==== Wankel engine ====
+
+The Wankel is a type of rotary engine. The Wankel engine is about one half the weight and size of a traditional four-stroke cycle piston engine of equal power output, and much lower in complexity. In an aircraft application, the power-to-weight ratio is very important, making the Wankel engine a good choice. Because the engine is typically constructed with an aluminium housing and a steel rotor, and aluminium expands more than steel when heated, a Wankel engine does not seize when overheated, unlike a piston engine. This is an important safety factor for aeronautical use. Considerable development of these designs started after World War II, but at the time the aircraft industry favored the use of turbine engines. It was believed that turbojet or turboprop engines could power all aircraft, from the largest to smallest designs. The Wankel engine did not find many applications in aircraft, but was used by Mazda in a popular line of sports cars. The French company Citroën had developed Wankel powered RE-2 helicopter in 1970's.
+In modern times the Wankel engine has been used in motor gliders where the compactness, light weight, and smoothness are crucially important.
+
+
+==== Combustion cycles ====
+Starting in the 1930s, attempts were made to produce a practical aircraft diesel engine. In general, Diesel engines are more reliable and much better suited to running for long periods of time at medium power settings. The lightweight alloys of the 1930s were not up to the task of handling the much higher compression ratios of diesel engines, so they generally had poor power-to-weight ratios and were uncommon for that reason, although the Clerget 14F Diesel radial engine (1939) has the same power to weight ratio as a gasoline radial. Improvements in Diesel technology in automobiles (leading to much better power-weight ratios), the Diesel's much better fuel efficiency, and the high relative taxation of AVGAS compared to Jet A1 in Europe have all seen a revival of interest in the use of diesels for aircraft. Thielert Aircraft Engines converted Mercedes Diesel automotive engines, certified them for aircraft use, and became an OEM provider to Diamond Aviation for their light twin. Financial problems have plagued Thielert, so Diamond's affiliate — Austro Engine — developed the new AE300 turbodiesel, also based on a Mercedes engine.
+
+
+=== Power turbines ===
+
+
+==== Turboprop ====
+
+A turboprop consists of an intake, reduction gearbox, compressor, combustor, turbine, and a propelling nozzle. Air enters the intake and is compressed by the compressor. Jet fuel is then added to the compressed air in the combustor, where it then combusts. The hot combustion gases expand through the turbine stages, generating power at the point of exhaust. Some of the power generated by the turbine is used to drive the compressor and electric generator. The gases are then exhausted from the turbine, but do not provide enough power to create a major portion of the total thrust, since almost all of the engine's power is used to drive the propeller.
+
+
+==== Turboshaft ====
+
+A turboshaft engine is a form of gas turbine that is optimized to produce shaft horsepower rather than jet thrust. The engine has two major parts assemblies: the 'gas generator' and the 'power section'. The gas generator consists of the compressor, combustion chambers with ignitors and fuel nozzles, and one or more stages of turbine. The power section consists of additional stages of turbines, a gear reduction system, and the shaft output. The gas generator creates the hot expanding gases to drive the power section; the engine accessories may be driven either by the gas generator or by the power section.
+
+
+=== Electric power ===
+A number of electrically powered aircraft, such as the QinetiQ Zephyr, have been designed since the 1960s. Some are used as military drones. In France in late 2007, a conventional light aircraft powered by an 18 kW electric motor using lithium polymer batteries was flown, covering more than 50 kilometers (31 mi), the first electric airplane to receive a certificate of airworthiness.
+On 18 May 2020, the Pipistrel E-811 was the first electric aircraft engine to be awarded a type certificate by EASA for use in general aviation. The E-811 powers the Pipistrel Velis Electro.
+Many big companies, such as Siemens, are developing high-performance electric engines for aircraft use; also, SAE shows new developments in elements as pure Copper core electric motors with a better efficiency. A hybrid system as emergency back-up and for added power in take-off is offered for sale by Axter Aerospace, Madrid, Spain.
+
+
+== Reaction engines ==
+
+
+=== Jet turbines ===
+
+
+==== Turbojet ====
+
+
+==== Turbofan ====
+
+
+==== Advanced technology engine ====
+
+The term advanced technology engine refers to the modern generation of jet engines.
+
+
+=== Pulsejets ===
+
+
+==== Gluhareff Pressure Jet ====
+
+
+=== Rocket ===
+
+
+==== Rocket turbine engine ====
+
+A rocket turbine engine is a combination of two types of propulsion engines: a liquid-propellant rocket and a turbine jet engine. Its power-to-weight ratio is a little higher than a regular jet engine, and it works at higher altitudes.
+
+
+=== Precooled jet engines ===
+
+
+=== Piston-turbofan hybrid ===
+At the April 2018 ILA Berlin Air Show, Munich-based research institute de:Bauhaus Luftfahrt presented a high-efficiency composite cycle engine for 2050, combining a geared turbofan with a piston engine core.
+The 2.87 m diameter, 16-blade fan gives a 33.7 ultra-high bypass ratio, driven by a geared low-pressure turbine but the high-pressure compressor drive comes from a piston-engine with two 10 piston banks without a high-pressure turbine, increasing efficiency with non-stationary isochoric-isobaric combustion for higher peak pressures and temperatures.
+The 11,200 lb (49.7 kN) engine could power a 50-seat regional jet.
+Its cruise TSFC would be 11.5 g/kN/s (0.406 lb/lbf/hr) for an overall engine efficiency of 48.2%, for a burner temperature of 1,700 K (1,430 °C), an overall pressure ratio of 38 and a peak pressure of 30 MPa (300 bar).
+Although engine weight increases by 30%, aircraft fuel consumption is reduced by 15%.
+Sponsored by the European Commission under Framework 7 project LEMCOTEC, Bauhaus Luftfahrt, MTU Aero Engines and GKN Aerospace presented the concept in 2015, raising the overall engine pressure ratio to over 100 for a 15.2% fuel burn reduction compared to 2025 engines.
+
+
+== Engine position numbering ==
+
+On multi-engine aircraft, engine positions are numbered from left to right from the point of view of the pilot looking forward, so for example on a four-engine aircraft such as the Boeing 747, engine No. 1 is on the left side, farthest from the fuselage, while engine No. 3 is on the right side nearest to the fuselage.
+In the case of the twin-engine English Electric Lightning, which has two fuselage-mounted jet engines one above the other, engine No. 1 is below and to the front of engine No. 2, which is above and behind.
+
+
+== Fuel ==
+Refineries blend Avgas with tetraethyllead (TEL) to achieve these high octane ratings, a practice that governments no longer permit for gasoline intended for road vehicles. The shrinking supply of TEL and the possibility of environmental legislation banning its use have made a search for replacement fuels for general aviation aircraft a priority for pilots’ organizations.
+Model aircraft typically use nitro engines (also known as "glow engines" due to the use of a glow plug) powered by glow fuel, a mixture of methanol, nitromethane, and lubricant. Electrically powered model airplanes and helicopters are also commercially available. Small multicopter UAVs are almost always powered by electricity, but larger gasoline-powered designs are under development.
+
+
+== See also ==
+Aviation safety
+Engine configuration
+Federal Aviation Regulations
+Hyper engine
+Model engine
+United States military aircraft engine designations
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Aircraft Engines and Aircraft Engine Theory (includes links to diagrams)
+The Aircraft Engine Historical Society
+Jet Engine Specification Database
+Aircraft Engine Efficiency: Comparison of Counter-rotating and Axial Aircraft LP Turbines
+The History of Aircraft Power Plants Briefly Reviewed: From the "7 lb. per h.p." Days to the "1 lb. per h.p." of To-day
+"The Quest for Power" a 1954 Flight article by Bill Gunston
+"Engine Directory". Flight International. 24 September 1997.
+
+## Links
+- Advanced technology engine
+- Aero-engined car
+- Aerospike engine
+- Air-augmented rocket
+- Air propulsion
+- Air turborocket
+- Airbus
+- Aircraft
+- Aircraft diesel engine
+- Alexander Schleicher GmbH & Co
+- Armstrong Siddeley Jaguar
+- Auguste Rateau
+- Austro Engine E4
+- Aviation safety
+- Avro York
+- Axial compressor
+- Barriers to entry
+- Bill Gunston
+- Boeing
+- Boeing 727
+- Boeing 747
+- Bypass ratio
+- CFM International CFM56
+- COVID-19 pandemic
+- Certificate of airworthiness
+- Charles Harvard Gibbs-Smith
+- Chris Hohn
+- Citroën
+- Citroën RE-2
+- Clerget aircraft engines
+- Clockwork
+- Coandă-1910
+- Combustion
+- Combustion chamber
+- Combustor
+- Compression ratio
+- Doi (identifier)
+- Drive shaft
+- Ducted fan
+- EASA
+- Earnings before interest, taxes, depreciation and amortization
+- Electric aircraft
+- Electric generator
+- Electric motor
+- Engine configuration
+- Engine efficiency
+- English Electric Lightning
+- European Commission
+- External combustion engine
+- Fairchild PT-19
+- Federal Aviation Regulations
+- Flat engine
+- Four-stroke cycle
+- France
+- Fuel economy in aircraft
+- G.N. Georgano
+- GE Aerospace
+- GKN Aerospace
+- Garrett AiResearch TPE-331
+- Gas compressor
+- Gas turbine
+- Gear reduction
+- Geared turbofan
+- General Electric
+- General Electric J85
+- General aviation
+- Germany
+- Glow fuel
+- Glow plug (model engine)
+- Gluhareff Pressure Jet
+- Gnome Omega
+- H engine
+- Helicopter
+- Helicopter rotor
+- Her Majesty's Stationery Office
+- Human-powered aircraft
+- Hyper engine
+- ILA Berlin Air Show
+- ISBN (identifier)
+- ISSN (identifier)
+- Inline engine (aeronautics)
+- Intake
+- Internal combustion engine
+- Isobaric process
+- Isochoric process
+- Jet engine
+- Jet fuel
+- Jet thrust
+- Liquid-propellant rocket
+- List of aircraft engines
+- MTU Aero Engines
+- Manly–Balzer engine
+- Market capitalization
+- Mazda
+- Mercedes (car)
+- Methanol
+- Model aircraft
+- Model engine
+- Motor glider
+- Motorjet
+- Multicopter
+- Munich
+- Neue Zürcher Zeitung
+- Nitro engine
+- Nitromethane
+- Nozzle
+- Overall pressure ratio
+- Perverse incentive
+- Physorg.com
+- Pipistrel E-811
+- Pipistrel Velis Electro
+- Piston engine
+- Power-to-weight ratio
+- Pratt & Whitney
+- Pratt & Whitney R-2800
+- Precooled jet engine
+- Propeller (aeronautics)
+- Propelling nozzle
+- Propfan
+- Pulse detonation engine
+- Pulsejet
+- QinetiQ Zephyr
+- Radial engine
+- Ramjet
+- Razor and blades model
+- Reaction Motors XLR-99
+- Reaction engine
+- Reciprocating engine
+- Reduction drive
+- Regional jet
+- Revenue
+- Rocket-powered aircraft
+- Rocket engine
+- Rocket turbine engine
+- Rolls-Royce Holdings
+- Rolls-Royce Merlin
+- Rotary engine
+- Rotating detonation engine
+- Safran Aircraft Engines
+- Sanford Alexander Moss
+- Schleicher ASH 26
+- Scramjet
+- Shaft horsepower
+- Shcramjet
+- Spool (aeronautics)
+- Sports cars
+- Steam-powered aircraft
+- Straight engine
+- Tetraethyllead
+- Thielert
+- Thrust lever
+- Thrust specific fuel consumption
+- Timeline of jet power
+- Total shareholder return
+- Turbine
+- Turbocharger
+- Turbofan
+- Turbojet
+- Turboprop
+- Turboshaft
+- Type certificate
+- UAV
+- ULPower Aero Engines
+- U engine
+- United States military aircraft engine designations
+- Unmanned aerial vehicle
+- V engine
+- Valveless pulsejet
+- Wankel engine
+- World War II
+- X engine

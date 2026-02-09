@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "updated_utc": "2026-02-08T00:00:00Z",
+  "types": [
+    {
+      "id": "domain",
+      "description": "Top-level area of knowledge",
+      "default_path": "data/knowledge_base/domains"
+    },
+    {
+      "id": "subdomain",
+      "description": "Subdivision within a domain",
+      "default_path": "data/knowledge_base/domains"
+    },
+    {
+      "id": "topic",
+      "description": "Specific topic or concept",
+      "default_path": "data/knowledge_base/curated"
+    },
+    {
+      "id": "person",
+      "description": "Individual bio or thinker",
+      "default_path": "data/knowledge_base/people"
+    },
+    {
+      "id": "framework",
+      "description": "Model, theory, or framework",
+      "default_path": "data/knowledge_base/frameworks"
+    },
+    {
+      "id": "case_study",
+      "description": "Applied example or case",
+      "default_path": "data/knowledge_base/case_studies"
+    },
+    {
+      "id": "timeline",
+      "description": "Chronology or sequence",
+      "default_path": "data/knowledge_base/timelines"
+    },
+    {
+      "id": "glossary_term",
+      "description": "Definition of a key term",
+      "default_path": "data/knowledge_base/glossary"
+    },
+    {
+      "id": "question",
+      "description": "Inquiry or prompt",
+      "default_path": "data/knowledge_base/questions"
+    },
+    {
+      "id": "experiment",
+      "description": "Test or hypothesis",
+      "default_path": "data/knowledge_base/experiments"
+    }
+  ]
+}

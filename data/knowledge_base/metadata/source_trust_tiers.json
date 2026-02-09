@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "tiers": [
+    {
+      "id": "tier-1",
+      "name": "primary",
+      "description": "Primary sources and official publications"
+    },
+    {
+      "id": "tier-2",
+      "name": "secondary",
+      "description": "Curated summaries and reputable references"
+    },
+    {
+      "id": "tier-3",
+      "name": "tertiary",
+      "description": "Aggregated or community references"
+    },
+    {
+      "id": "tier-4",
+      "name": "unknown",
+      "description": "Unknown or unverified sources"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-02-09T13:28:06.153810",
+  "thought_count": 4,
+  "thoughts": [
+    {
+      "timestamp": "2026-02-09T13:27:36.135065",
+      "type": "question",
+      "content": "How do active, ambulance, ambulance crew interact or influence each other? (source: Ambulance)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:27:36.135065",
+      "type": "question",
+      "content": "Why does this topic connect most to protection, duty? (source: Ambulance)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:27:36.135065",
+      "type": "question",
+      "content": "What is missing or uncertain about active in this source? (source: Ambulance)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-02-09T13:27:36.135065",
+      "type": "research",
+      "content": "Crawled Wikipedia: Ambulance (engineering)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 32,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 1,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

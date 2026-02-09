@@ -1,0 +1,749 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "212094": {
+          "pageid": 212094,
+          "ns": 0,
+          "title": "Ballistics",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Acoustics"
+            },
+            {
+              "ns": 0,
+              "title": "Aerodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Air drag"
+            },
+            {
+              "ns": 0,
+              "title": "Aircraft"
+            },
+            {
+              "ns": 0,
+              "title": "Albert of Saxony (philosopher)"
+            },
+            {
+              "ns": 0,
+              "title": "Analytical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greece"
+            },
+            {
+              "ns": 0,
+              "title": "Ancient Greek"
+            },
+            {
+              "ns": 0,
+              "title": "Apollo 11"
+            },
+            {
+              "ns": 0,
+              "title": "Applied physics"
+            },
+            {
+              "ns": 0,
+              "title": "Archery"
+            },
+            {
+              "ns": 0,
+              "title": "Arctic small tool tradition"
+            },
+            {
+              "ns": 0,
+              "title": "Aristotle"
+            },
+            {
+              "ns": 0,
+              "title": "Armour"
+            },
+            {
+              "ns": 0,
+              "title": "Armourer"
+            },
+            {
+              "ns": 0,
+              "title": "Arrow"
+            },
+            {
+              "ns": 0,
+              "title": "Artillery"
+            },
+            {
+              "ns": 0,
+              "title": "Astrophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Atmospheric physics"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic, molecular, and optical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Atomic physics"
+            },
+            {
+              "ns": 0,
+              "title": "BBC News"
+            },
+            {
+              "ns": 0,
+              "title": "Ball"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic conduction"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic fingerprinting"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic limit"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic missile"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic trauma"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistics (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Baseball"
+            },
+            {
+              "ns": 0,
+              "title": "Baseball (ball)"
+            },
+            {
+              "ns": 0,
+              "title": "Basic research"
+            },
+            {
+              "ns": 0,
+              "title": "Biophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Bloodstain pattern analysis"
+            },
+            {
+              "ns": 0,
+              "title": "Bow and arrow"
+            },
+            {
+              "ns": 0,
+              "title": "Branches of physics"
+            },
+            {
+              "ns": 0,
+              "title": "Bullet"
+            },
+            {
+              "ns": 0,
+              "title": "Cartridge (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Catapult"
+            },
+            {
+              "ns": 0,
+              "title": "Celestial mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Circular error probable"
+            },
+            {
+              "ns": 0,
+              "title": "Classical electromagnetism"
+            },
+            {
+              "ns": 0,
+              "title": "Classical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Classical optics"
+            },
+            {
+              "ns": 0,
+              "title": "Classical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Common chimpanzee"
+            },
+            {
+              "ns": 0,
+              "title": "Comparison microscope"
+            },
+            {
+              "ns": 0,
+              "title": "Computational physics"
+            },
+            {
+              "ns": 0,
+              "title": "Condensed matter physics"
+            },
+            {
+              "ns": 0,
+              "title": "Continuum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Cruise missile"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallography"
+            },
+            {
+              "ns": 0,
+              "title": "David D. Nolte"
+            },
+            {
+              "ns": 0,
+              "title": "Designer"
+            },
+            {
+              "ns": 0,
+              "title": "Ejection seat"
+            },
+            {
+              "ns": 0,
+              "title": "Elasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Encyclopædia Britannica Eleventh Edition"
+            },
+            {
+              "ns": 0,
+              "title": "Engineering physics"
+            },
+            {
+              "ns": 0,
+              "title": "Equations of motion"
+            },
+            {
+              "ns": 0,
+              "title": "Escape velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Experimental physics"
+            },
+            {
+              "ns": 0,
+              "title": "External ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "Falcon 9 Full Thrust"
+            },
+            {
+              "ns": 0,
+              "title": "Firearm"
+            },
+            {
+              "ns": 0,
+              "title": "Fireworks"
+            },
+            {
+              "ns": 0,
+              "title": "Fixed-wing aircraft"
+            },
+            {
+              "ns": 0,
+              "title": "Flight"
+            },
+            {
+              "ns": 0,
+              "title": "Force"
+            },
+            {
+              "ns": 0,
+              "title": "Forensic firearm examination"
+            },
+            {
+              "ns": 0,
+              "title": "Gaetano Marzagaglia"
+            },
+            {
+              "ns": 0,
+              "title": "Galileo"
+            },
+            {
+              "ns": 0,
+              "title": "General relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Geometrical optics"
+            },
+            {
+              "ns": 0,
+              "title": "Geophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Gun"
+            },
+            {
+              "ns": 0,
+              "title": "Gun barrel"
+            },
+            {
+              "ns": 0,
+              "title": "Gunshot residue"
+            },
+            {
+              "ns": 0,
+              "title": "Hamburg"
+            },
+            {
+              "ns": 0,
+              "title": "Harpoon"
+            },
+            {
+              "ns": 0,
+              "title": "High-speed camera"
+            },
+            {
+              "ns": 0,
+              "title": "High-speed photography"
+            },
+            {
+              "ns": 0,
+              "title": "History of China"
+            },
+            {
+              "ns": 0,
+              "title": "History of physics"
+            },
+            {
+              "ns": 0,
+              "title": "Holmegaard"
+            },
+            {
+              "ns": 0,
+              "title": "Human spaceflight"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrostatic shock"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Internal ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "Isaac Newton"
+            },
+            {
+              "ns": 0,
+              "title": "L.T.E. Thompson"
+            },
+            {
+              "ns": 0,
+              "title": "Latin"
+            },
+            {
+              "ns": 0,
+              "title": "Launch vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Marshall Space Flight Center"
+            },
+            {
+              "ns": 0,
+              "title": "Materials science"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Medical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Missile"
+            },
+            {
+              "ns": 0,
+              "title": "Missile guidance"
+            },
+            {
+              "ns": 0,
+              "title": "Modern physics"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular physics"
+            },
+            {
+              "ns": 0,
+              "title": "Momentum"
+            },
+            {
+              "ns": 0,
+              "title": "Muscle"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's law of universal gravitation"
+            },
+            {
+              "ns": 0,
+              "title": "Newton's laws of motion"
+            },
+            {
+              "ns": 0,
+              "title": "Newtonian drag"
+            },
+            {
+              "ns": 0,
+              "title": "Niccolò Tartaglia"
+            },
+            {
+              "ns": 0,
+              "title": "Nobel Prize in Physics"
+            },
+            {
+              "ns": 0,
+              "title": "Non-equilibrium thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Normal force"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear physics"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Optics"
+            },
+            {
+              "ns": 0,
+              "title": "Orbital mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Outline of astrophysics"
+            },
+            {
+              "ns": 0,
+              "title": "Particle physics"
+            },
+            {
+              "ns": 0,
+              "title": "Peter Bielkowicz"
+            },
+            {
+              "ns": 0,
+              "title": "Philosophiæ Naturalis Principia Mathematica"
+            },
+            {
+              "ns": 0,
+              "title": "Philosophy of physics"
+            },
+            {
+              "ns": 0,
+              "title": "Physical oceanography"
+            },
+            {
+              "ns": 0,
+              "title": "Physical optics"
+            },
+            {
+              "ns": 0,
+              "title": "Physics education"
+            },
+            {
+              "ns": 0,
+              "title": "Physics education research"
+            },
+            {
+              "ns": 0,
+              "title": "Physics of firearms"
+            },
+            {
+              "ns": 0,
+              "title": "Pistol"
+            },
+            {
+              "ns": 0,
+              "title": "Projectile"
+            },
+            {
+              "ns": 0,
+              "title": "Projectile motion"
+            },
+            {
+              "ns": 0,
+              "title": "Propellant"
+            },
+            {
+              "ns": 0,
+              "title": "Propelling nozzle"
+            },
+            {
+              "ns": 0,
+              "title": "Propulsion"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum information science"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Reaction (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Relativistic mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Rifling"
+            },
+            {
+              "ns": 0,
+              "title": "Rocket"
+            },
+            {
+              "ns": 0,
+              "title": "Rocket engine"
+            },
+            {
+              "ns": 0,
+              "title": "Rocket propellant"
+            },
+            {
+              "ns": 0,
+              "title": "Satellite"
+            },
+            {
+              "ns": 0,
+              "title": "Schlieren"
+            },
+            {
+              "ns": 0,
+              "title": "Scientific principle"
+            },
+            {
+              "ns": 0,
+              "title": "Shell (projectile)"
+            },
+            {
+              "ns": 0,
+              "title": "Shoulder"
+            },
+            {
+              "ns": 0,
+              "title": "Siege engine"
+            },
+            {
+              "ns": 0,
+              "title": "Sling (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Solid-state physics"
+            },
+            {
+              "ns": 0,
+              "title": "Space"
+            },
+            {
+              "ns": 0,
+              "title": "Space Age"
+            },
+            {
+              "ns": 0,
+              "title": "Space exploration"
+            },
+            {
+              "ns": 0,
+              "title": "Spacecraft"
+            },
+            {
+              "ns": 0,
+              "title": "Spallation"
+            },
+            {
+              "ns": 0,
+              "title": "Spear-thrower"
+            },
+            {
+              "ns": 0,
+              "title": "Special relativity"
+            },
+            {
+              "ns": 0,
+              "title": "Statistical mechanics"
+            },
+            {
+              "ns": 0,
+              "title": "Stokes' drag"
+            },
+            {
+              "ns": 0,
+              "title": "Stopping power"
+            },
+            {
+              "ns": 0,
+              "title": "Taser"
+            },
+            {
+              "ns": 0,
+              "title": "Tendon"
+            },
+            {
+              "ns": 0,
+              "title": "Terminal ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "Theoretical physics"
+            },
+            {
+              "ns": 0,
+              "title": "Thermodynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Throwing"
+            },
+            {
+              "ns": 0,
+              "title": "Throwing stick"
+            },
+            {
+              "ns": 0,
+              "title": "Thrust"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of fundamental physics discoveries"
+            },
+            {
+              "ns": 0,
+              "title": "Trajectory"
+            },
+            {
+              "ns": 0,
+              "title": "Transitional ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "Two New Sciences"
+            },
+            {
+              "ns": 0,
+              "title": "USS Iowa (BB-61)"
+            },
+            {
+              "ns": 0,
+              "title": "Unguided bomb"
+            },
+            {
+              "ns": 0,
+              "title": "Vaporific effect"
+            },
+            {
+              "ns": 0,
+              "title": "Vehicle"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Weapons engineer"
+            },
+            {
+              "ns": 0,
+              "title": "Wikisource"
+            },
+            {
+              "ns": 0,
+              "title": "William Gurstelle"
+            },
+            {
+              "ns": 0,
+              "title": "Wolfram Demonstrations Project"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324331.8016078
+}

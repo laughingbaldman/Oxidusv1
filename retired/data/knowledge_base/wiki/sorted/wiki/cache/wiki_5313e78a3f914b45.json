@@ -1,0 +1,2024 @@
+{
+  "success": true,
+  "data": {
+    "continue": {
+      "plcontinue": "38431|0|Textile_manufacturing",
+      "continue": "||"
+    },
+    "query": {
+      "pages": {
+        "38431": {
+          "pageid": 38431,
+          "ns": 0,
+          "title": "Wool",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Abacá"
+            },
+            {
+              "ns": 0,
+              "title": "Abruzzo"
+            },
+            {
+              "ns": 0,
+              "title": "Acrylic fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Aertex"
+            },
+            {
+              "ns": 0,
+              "title": "Alkali"
+            },
+            {
+              "ns": 0,
+              "title": "Allergic contact dermatitis"
+            },
+            {
+              "ns": 0,
+              "title": "Almerían silk"
+            },
+            {
+              "ns": 0,
+              "title": "Alpaca fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Alpaca wool"
+            },
+            {
+              "ns": 0,
+              "title": "Andes"
+            },
+            {
+              "ns": 0,
+              "title": "Androsia"
+            },
+            {
+              "ns": 0,
+              "title": "Angora wool"
+            },
+            {
+              "ns": 0,
+              "title": "Animal fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Animal rights"
+            },
+            {
+              "ns": 0,
+              "title": "Aramid"
+            },
+            {
+              "ns": 0,
+              "title": "Aran Islands"
+            },
+            {
+              "ns": 0,
+              "title": "Aran jumper"
+            },
+            {
+              "ns": 0,
+              "title": "Argyle (pattern)"
+            },
+            {
+              "ns": 0,
+              "title": "Armazine"
+            },
+            {
+              "ns": 0,
+              "title": "Armidale"
+            },
+            {
+              "ns": 0,
+              "title": "Armscye"
+            },
+            {
+              "ns": 0,
+              "title": "Arte della Lana"
+            },
+            {
+              "ns": 0,
+              "title": "Artificial leather"
+            },
+            {
+              "ns": 0,
+              "title": "Artificial silk"
+            },
+            {
+              "ns": 0,
+              "title": "Asbestos"
+            },
+            {
+              "ns": 0,
+              "title": "Aso Olona"
+            },
+            {
+              "ns": 0,
+              "title": "Aso oke"
+            },
+            {
+              "ns": 0,
+              "title": "Auction"
+            },
+            {
+              "ns": 0,
+              "title": "Aussiedown (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Back closure"
+            },
+            {
+              "ns": 0,
+              "title": "Bagasse"
+            },
+            {
+              "ns": 0,
+              "title": "Baize"
+            },
+            {
+              "ns": 0,
+              "title": "Ballistic nylon"
+            },
+            {
+              "ns": 0,
+              "title": "Bamboo textile"
+            },
+            {
+              "ns": 0,
+              "title": "Ban-Lon"
+            },
+            {
+              "ns": 0,
+              "title": "Barathea"
+            },
+            {
+              "ns": 0,
+              "title": "Barkcloth"
+            },
+            {
+              "ns": 0,
+              "title": "Basalt fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Batik"
+            },
+            {
+              "ns": 0,
+              "title": "Batiste"
+            },
+            {
+              "ns": 0,
+              "title": "Batting (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Bedford cord"
+            },
+            {
+              "ns": 0,
+              "title": "Bedouin"
+            },
+            {
+              "ns": 0,
+              "title": "Beetling"
+            },
+            {
+              "ns": 0,
+              "title": "Belt hook"
+            },
+            {
+              "ns": 0,
+              "title": "Bendigo"
+            },
+            {
+              "ns": 0,
+              "title": "Bengaline"
+            },
+            {
+              "ns": 0,
+              "title": "Beta cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Bingata"
+            },
+            {
+              "ns": 0,
+              "title": "Bizarre silk"
+            },
+            {
+              "ns": 0,
+              "title": "Black Death"
+            },
+            {
+              "ns": 0,
+              "title": "Blankets"
+            },
+            {
+              "ns": 0,
+              "title": "Bobbinet"
+            },
+            {
+              "ns": 0,
+              "title": "Bog people"
+            },
+            {
+              "ns": 0,
+              "title": "Boiled wool"
+            },
+            {
+              "ns": 0,
+              "title": "Bombazine"
+            },
+            {
+              "ns": 0,
+              "title": "Boron fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Bradford"
+            },
+            {
+              "ns": 0,
+              "title": "Brilliantine (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "British Wool Marketing Board"
+            },
+            {
+              "ns": 0,
+              "title": "Broadcloth"
+            },
+            {
+              "ns": 0,
+              "title": "Brocade"
+            },
+            {
+              "ns": 0,
+              "title": "Bronze"
+            },
+            {
+              "ns": 0,
+              "title": "Buckle"
+            },
+            {
+              "ns": 0,
+              "title": "Buckram"
+            },
+            {
+              "ns": 0,
+              "title": "Buckskin (leather)"
+            },
+            {
+              "ns": 0,
+              "title": "Bunting (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Bustline"
+            },
+            {
+              "ns": 0,
+              "title": "Button"
+            },
+            {
+              "ns": 0,
+              "title": "Buttonhole"
+            },
+            {
+              "ns": 0,
+              "title": "Byrd Cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Byssus"
+            },
+            {
+              "ns": 0,
+              "title": "Bògòlanfini"
+            },
+            {
+              "ns": 0,
+              "title": "CSIRO"
+            },
+            {
+              "ns": 0,
+              "title": "C change"
+            },
+            {
+              "ns": 0,
+              "title": "Calendering (textiles)"
+            },
+            {
+              "ns": 0,
+              "title": "Calfskin"
+            },
+            {
+              "ns": 0,
+              "title": "Calico"
+            },
+            {
+              "ns": 0,
+              "title": "Cambric"
+            },
+            {
+              "ns": 0,
+              "title": "Camel hair"
+            },
+            {
+              "ns": 0,
+              "title": "Camelid"
+            },
+            {
+              "ns": 0,
+              "title": "Camlet"
+            },
+            {
+              "ns": 0,
+              "title": "Canvas"
+            },
+            {
+              "ns": 0,
+              "title": "Canvas work"
+            },
+            {
+              "ns": 0,
+              "title": "Capilene"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon fibers"
+            },
+            {
+              "ns": 0,
+              "title": "Carbonization"
+            },
+            {
+              "ns": 0,
+              "title": "Carding"
+            },
+            {
+              "ns": 0,
+              "title": "Carlo Barbera"
+            },
+            {
+              "ns": 0,
+              "title": "Carpeting"
+            },
+            {
+              "ns": 0,
+              "title": "Carpetlayer"
+            },
+            {
+              "ns": 0,
+              "title": "Cashmere wool"
+            },
+            {
+              "ns": 0,
+              "title": "Castile (historical region)"
+            },
+            {
+              "ns": 0,
+              "title": "Catgut"
+            },
+            {
+              "ns": 0,
+              "title": "Cedar bark textile"
+            },
+            {
+              "ns": 0,
+              "title": "Ceiba pentandra"
+            },
+            {
+              "ns": 0,
+              "title": "Cellulose acetate"
+            },
+            {
+              "ns": 0,
+              "title": "Cellulose diacetate"
+            },
+            {
+              "ns": 0,
+              "title": "Cellulose triacetate"
+            },
+            {
+              "ns": 0,
+              "title": "Challis (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Champagne fairs"
+            },
+            {
+              "ns": 0,
+              "title": "Char cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Charmeuse"
+            },
+            {
+              "ns": 0,
+              "title": "Charvet (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Check (pattern)"
+            },
+            {
+              "ns": 0,
+              "title": "Cheesecloth"
+            },
+            {
+              "ns": 0,
+              "title": "Chenille fabric"
+            },
+            {
+              "ns": 0,
+              "title": "Chiengora"
+            },
+            {
+              "ns": 0,
+              "title": "Chiffon (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Chino cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Chintz"
+            },
+            {
+              "ns": 0,
+              "title": "Chris Brooks (academic)"
+            },
+            {
+              "ns": 0,
+              "title": "Cistercian"
+            },
+            {
+              "ns": 0,
+              "title": "Clerical collar"
+            },
+            {
+              "ns": 0,
+              "title": "Cloqué"
+            },
+            {
+              "ns": 0,
+              "title": "Cloth diapers"
+            },
+            {
+              "ns": 0,
+              "title": "Cloth of gold"
+            },
+            {
+              "ns": 0,
+              "title": "Coir"
+            },
+            {
+              "ns": 0,
+              "title": "Collar (clothing)"
+            },
+            {
+              "ns": 0,
+              "title": "Collar stays"
+            },
+            {
+              "ns": 0,
+              "title": "Colorado"
+            },
+            {
+              "ns": 0,
+              "title": "Combing"
+            },
+            {
+              "ns": 0,
+              "title": "Comeback (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Conductive textile"
+            },
+            {
+              "ns": 0,
+              "title": "Constantinople"
+            },
+            {
+              "ns": 0,
+              "title": "Convent"
+            },
+            {
+              "ns": 0,
+              "title": "Coolmax"
+            },
+            {
+              "ns": 0,
+              "title": "Cordura"
+            },
+            {
+              "ns": 0,
+              "title": "Corduroy"
+            },
+            {
+              "ns": 0,
+              "title": "Corriedale"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmetics"
+            },
+            {
+              "ns": 0,
+              "title": "Cotton"
+            },
+            {
+              "ns": 0,
+              "title": "Cotton duck"
+            },
+            {
+              "ns": 0,
+              "title": "Coutil"
+            },
+            {
+              "ns": 0,
+              "title": "Cretonne"
+            },
+            {
+              "ns": 0,
+              "title": "Crimp (wool)"
+            },
+            {
+              "ns": 0,
+              "title": "Crimplene"
+            },
+            {
+              "ns": 0,
+              "title": "Crêpe (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Cuff"
+            },
+            {
+              "ns": 0,
+              "title": "Cuticle (hair)"
+            },
+            {
+              "ns": 0,
+              "title": "Cyprus"
+            },
+            {
+              "ns": 0,
+              "title": "Damask"
+            },
+            {
+              "ns": 0,
+              "title": "Darlexx"
+            },
+            {
+              "ns": 0,
+              "title": "Dart (sewing)"
+            },
+            {
+              "ns": 0,
+              "title": "Decatising"
+            },
+            {
+              "ns": 0,
+              "title": "Denim"
+            },
+            {
+              "ns": 0,
+              "title": "Dermis"
+            },
+            {
+              "ns": 0,
+              "title": "Detachable collar"
+            },
+            {
+              "ns": 0,
+              "title": "Detergent"
+            },
+            {
+              "ns": 0,
+              "title": "Devoré"
+            },
+            {
+              "ns": 0,
+              "title": "Dimity"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Domestic sheep"
+            },
+            {
+              "ns": 0,
+              "title": "Donegal tweed"
+            },
+            {
+              "ns": 0,
+              "title": "Dormeuil"
+            },
+            {
+              "ns": 0,
+              "title": "Dornix"
+            },
+            {
+              "ns": 0,
+              "title": "Dorset Horn"
+            },
+            {
+              "ns": 0,
+              "title": "Dowlas"
+            },
+            {
+              "ns": 0,
+              "title": "Drill (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Drugget"
+            },
+            {
+              "ns": 0,
+              "title": "Drysdale (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Dyeing"
+            },
+            {
+              "ns": 0,
+              "title": "E-textiles"
+            },
+            {
+              "ns": 0,
+              "title": "E. Thomas"
+            },
+            {
+              "ns": 0,
+              "title": "Economies of scale"
+            },
+            {
+              "ns": 0,
+              "title": "Eisengarn"
+            },
+            {
+              "ns": 0,
+              "title": "Elasticity (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Elastomer"
+            },
+            {
+              "ns": 0,
+              "title": "Elliotdale"
+            },
+            {
+              "ns": 0,
+              "title": "Entrepreneur"
+            },
+            {
+              "ns": 0,
+              "title": "Eolienne"
+            },
+            {
+              "ns": 0,
+              "title": "Epidermis"
+            },
+            {
+              "ns": 0,
+              "title": "Ermenegildo Zegna (businessman)"
+            },
+            {
+              "ns": 0,
+              "title": "FAOSTAT"
+            },
+            {
+              "ns": 0,
+              "title": "Facing (sewing)"
+            },
+            {
+              "ns": 0,
+              "title": "Fastener"
+            },
+            {
+              "ns": 0,
+              "title": "Felt"
+            },
+            {
+              "ns": 0,
+              "title": "Felting"
+            },
+            {
+              "ns": 0,
+              "title": "Fernand Braudel"
+            },
+            {
+              "ns": 0,
+              "title": "Fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Fiber art"
+            },
+            {
+              "ns": 0,
+              "title": "Fiber crop"
+            },
+            {
+              "ns": 0,
+              "title": "Finishing (textiles)"
+            },
+            {
+              "ns": 0,
+              "title": "Finland"
+            },
+            {
+              "ns": 0,
+              "title": "Fique"
+            },
+            {
+              "ns": 0,
+              "title": "Flame spread"
+            },
+            {
+              "ns": 0,
+              "title": "Flanders"
+            },
+            {
+              "ns": 0,
+              "title": "Flannel"
+            },
+            {
+              "ns": 0,
+              "title": "Flax"
+            },
+            {
+              "ns": 0,
+              "title": "Fly (clothing)"
+            },
+            {
+              "ns": 0,
+              "title": "Formaldehyde"
+            },
+            {
+              "ns": 0,
+              "title": "Foulard"
+            },
+            {
+              "ns": 0,
+              "title": "Francesco Datini"
+            },
+            {
+              "ns": 0,
+              "title": "Fratelli Piacenza"
+            },
+            {
+              "ns": 0,
+              "title": "Frog (fastening)"
+            },
+            {
+              "ns": 0,
+              "title": "Fulling"
+            },
+            {
+              "ns": 0,
+              "title": "Fulling mill"
+            },
+            {
+              "ns": 0,
+              "title": "Fur clothing"
+            },
+            {
+              "ns": 0,
+              "title": "Fustian"
+            },
+            {
+              "ns": 0,
+              "title": "Gabardine"
+            },
+            {
+              "ns": 0,
+              "title": "Gannex"
+            },
+            {
+              "ns": 0,
+              "title": "Garbo workshops"
+            },
+            {
+              "ns": 0,
+              "title": "Garments"
+            },
+            {
+              "ns": 0,
+              "title": "Gauze"
+            },
+            {
+              "ns": 0,
+              "title": "Gazar"
+            },
+            {
+              "ns": 0,
+              "title": "Georgette (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Ghalamkar"
+            },
+            {
+              "ns": 0,
+              "title": "Ghent"
+            },
+            {
+              "ns": 0,
+              "title": "Gingham"
+            },
+            {
+              "ns": 0,
+              "title": "Glass fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Glass wool"
+            },
+            {
+              "ns": 0,
+              "title": "Glen plaid"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of sheep husbandry"
+            },
+            {
+              "ns": 0,
+              "title": "Glossary of textile manufacturing"
+            },
+            {
+              "ns": 0,
+              "title": "Goat"
+            },
+            {
+              "ns": 0,
+              "title": "Goatskin (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Gore-Tex"
+            },
+            {
+              "ns": 0,
+              "title": "Gore (segment)"
+            },
+            {
+              "ns": 0,
+              "title": "Grenadine (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "Grenfell Cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Grosgrain"
+            },
+            {
+              "ns": 0,
+              "title": "Guanaco"
+            },
+            {
+              "ns": 0,
+              "title": "Guild of Florence"
+            },
+            {
+              "ns": 0,
+              "title": "Guilds' restrictions"
+            },
+            {
+              "ns": 0,
+              "title": "Habutai"
+            },
+            {
+              "ns": 0,
+              "title": "Hair"
+            },
+            {
+              "ns": 0,
+              "title": "Hair follicle"
+            },
+            {
+              "ns": 0,
+              "title": "Haircloth"
+            },
+            {
+              "ns": 0,
+              "title": "Hand cream"
+            },
+            {
+              "ns": 0,
+              "title": "Harris tweed"
+            },
+            {
+              "ns": 0,
+              "title": "Heat of combustion"
+            },
+            {
+              "ns": 0,
+              "title": "Heatsetting"
+            },
+            {
+              "ns": 0,
+              "title": "Heavy Woollen District"
+            },
+            {
+              "ns": 0,
+              "title": "Hem"
+            },
+            {
+              "ns": 0,
+              "title": "Hemline"
+            },
+            {
+              "ns": 0,
+              "title": "Hemp"
+            },
+            {
+              "ns": 0,
+              "title": "Herringbone (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "Hessian fabric"
+            },
+            {
+              "ns": 0,
+              "title": "Hide (skin)"
+            },
+            {
+              "ns": 0,
+              "title": "Himroo"
+            },
+            {
+              "ns": 0,
+              "title": "History of clothing and textiles"
+            },
+            {
+              "ns": 0,
+              "title": "History of silk"
+            },
+            {
+              "ns": 0,
+              "title": "Hodden"
+            },
+            {
+              "ns": 0,
+              "title": "Holland & Sherry"
+            },
+            {
+              "ns": 0,
+              "title": "Hook-and-eye closure"
+            },
+            {
+              "ns": 0,
+              "title": "Hook-and-loop fastener"
+            },
+            {
+              "ns": 0,
+              "title": "Horse blanket"
+            },
+            {
+              "ns": 0,
+              "title": "Houndstooth"
+            },
+            {
+              "ns": 0,
+              "title": "House of Lords"
+            },
+            {
+              "ns": 0,
+              "title": "Huckaback"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrophilic"
+            },
+            {
+              "ns": 0,
+              "title": "Hygroscopic"
+            },
+            {
+              "ns": 0,
+              "title": "Hyvinkää"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "IWTO"
+            },
+            {
+              "ns": 0,
+              "title": "Iberia"
+            },
+            {
+              "ns": 0,
+              "title": "Indienne"
+            },
+            {
+              "ns": 0,
+              "title": "Industrial Revolution"
+            },
+            {
+              "ns": 0,
+              "title": "International Year of Natural Fibres"
+            },
+            {
+              "ns": 0,
+              "title": "Iran"
+            },
+            {
+              "ns": 0,
+              "title": "Irish linen"
+            },
+            {
+              "ns": 0,
+              "title": "Iron Age"
+            },
+            {
+              "ns": 0,
+              "title": "Jamdani"
+            },
+            {
+              "ns": 0,
+              "title": "Jersey (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Jute"
+            },
+            {
+              "ns": 0,
+              "title": "Kangaroo leather"
+            },
+            {
+              "ns": 0,
+              "title": "Karakul (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Kasuri"
+            },
+            {
+              "ns": 0,
+              "title": "Katazome"
+            },
+            {
+              "ns": 0,
+              "title": "Kelsch d'Alsace"
+            },
+            {
+              "ns": 0,
+              "title": "Kemp (wool)"
+            },
+            {
+              "ns": 0,
+              "title": "Kenaf"
+            },
+            {
+              "ns": 0,
+              "title": "Kente cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Kerseymere"
+            },
+            {
+              "ns": 0,
+              "title": "Kevlar"
+            },
+            {
+              "ns": 0,
+              "title": "Khaki drill"
+            },
+            {
+              "ns": 0,
+              "title": "Khādī"
+            },
+            {
+              "ns": 0,
+              "title": "Kijōka-bashōfu"
+            },
+            {
+              "ns": 0,
+              "title": "Kilotex"
+            },
+            {
+              "ns": 0,
+              "title": "Knitted fabric"
+            },
+            {
+              "ns": 0,
+              "title": "Knitting"
+            },
+            {
+              "ns": 0,
+              "title": "Knitting machine"
+            },
+            {
+              "ns": 0,
+              "title": "Lace"
+            },
+            {
+              "ns": 0,
+              "title": "Lambswool"
+            },
+            {
+              "ns": 0,
+              "title": "Lampas"
+            },
+            {
+              "ns": 0,
+              "title": "Lamé (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Lanificio Fratelli Cerruti"
+            },
+            {
+              "ns": 0,
+              "title": "Lanolin"
+            },
+            {
+              "ns": 0,
+              "title": "Lapel"
+            },
+            {
+              "ns": 0,
+              "title": "Larusmiani"
+            },
+            {
+              "ns": 0,
+              "title": "Lawn cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Leather"
+            },
+            {
+              "ns": 0,
+              "title": "Lenticular fabric"
+            },
+            {
+              "ns": 0,
+              "title": "Lincoln (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Linen"
+            },
+            {
+              "ns": 0,
+              "title": "Lining (sewing)"
+            },
+            {
+              "ns": 0,
+              "title": "Linsey-woolsey"
+            },
+            {
+              "ns": 0,
+              "title": "Lipid"
+            },
+            {
+              "ns": 0,
+              "title": "Lismore, Victoria"
+            },
+            {
+              "ns": 0,
+              "title": "Llama"
+            },
+            {
+              "ns": 0,
+              "title": "Llama wool"
+            },
+            {
+              "ns": 0,
+              "title": "Loden cape"
+            },
+            {
+              "ns": 0,
+              "title": "Longcloth"
+            },
+            {
+              "ns": 0,
+              "title": "Lopi (knitting)"
+            },
+            {
+              "ns": 0,
+              "title": "Loro Piana"
+            },
+            {
+              "ns": 0,
+              "title": "Los Aleros"
+            },
+            {
+              "ns": 0,
+              "title": "Lotus silk"
+            },
+            {
+              "ns": 0,
+              "title": "Low Countries"
+            },
+            {
+              "ns": 0,
+              "title": "Luxury-goods"
+            },
+            {
+              "ns": 0,
+              "title": "Lyocell"
+            },
+            {
+              "ns": 0,
+              "title": "Mackinaw cloth"
+            },
+            {
+              "ns": 0,
+              "title": "Madapollam"
+            },
+            {
+              "ns": 0,
+              "title": "Madras (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "Mallorca"
+            },
+            {
+              "ns": 0,
+              "title": "Mammal"
+            },
+            {
+              "ns": 0,
+              "title": "Medici"
+            },
+            {
+              "ns": 0,
+              "title": "Medieval English wool trade"
+            },
+            {
+              "ns": 0,
+              "title": "Melbourne"
+            },
+            {
+              "ns": 0,
+              "title": "Mercerised cotton"
+            },
+            {
+              "ns": 0,
+              "title": "Merino"
+            },
+            {
+              "ns": 0,
+              "title": "Merino wool"
+            },
+            {
+              "ns": 0,
+              "title": "Meseta Central"
+            },
+            {
+              "ns": 0,
+              "title": "Mesh"
+            },
+            {
+              "ns": 0,
+              "title": "Mesta"
+            },
+            {
+              "ns": 0,
+              "title": "Metallic fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Microfiber"
+            },
+            {
+              "ns": 0,
+              "title": "Micron (wool)"
+            },
+            {
+              "ns": 0,
+              "title": "Milk fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Milliskin"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral wool"
+            },
+            {
+              "ns": 0,
+              "title": "Mockado"
+            },
+            {
+              "ns": 0,
+              "title": "Modacrylic"
+            },
+            {
+              "ns": 0,
+              "title": "Mohair"
+            },
+            {
+              "ns": 0,
+              "title": "Moire (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Moleskin"
+            },
+            {
+              "ns": 0,
+              "title": "Moquette"
+            },
+            {
+              "ns": 0,
+              "title": "Mouflon"
+            },
+            {
+              "ns": 0,
+              "title": "Mulesing"
+            },
+            {
+              "ns": 0,
+              "title": "Musa basjoo"
+            },
+            {
+              "ns": 0,
+              "title": "Muslin"
+            },
+            {
+              "ns": 0,
+              "title": "Mérida, Mérida"
+            },
+            {
+              "ns": 0,
+              "title": "Nainsook"
+            },
+            {
+              "ns": 0,
+              "title": "Nankeen"
+            },
+            {
+              "ns": 0,
+              "title": "Nap (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Naples"
+            },
+            {
+              "ns": 0,
+              "title": "Natural History (Pliny)"
+            },
+            {
+              "ns": 0,
+              "title": "Natural fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Navigation Acts"
+            },
+            {
+              "ns": 0,
+              "title": "Neckline"
+            },
+            {
+              "ns": 0,
+              "title": "Needlerun net"
+            },
+            {
+              "ns": 0,
+              "title": "Net (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "New England (Australia)"
+            },
+            {
+              "ns": 0,
+              "title": "New International Encyclopedia"
+            },
+            {
+              "ns": 0,
+              "title": "New Mexico"
+            },
+            {
+              "ns": 0,
+              "title": "New South Wales"
+            },
+            {
+              "ns": 0,
+              "title": "Ninon"
+            },
+            {
+              "ns": 0,
+              "title": "Noil"
+            },
+            {
+              "ns": 0,
+              "title": "Nomex"
+            },
+            {
+              "ns": 0,
+              "title": "Nonwoven fabric"
+            },
+            {
+              "ns": 0,
+              "title": "North Sea"
+            },
+            {
+              "ns": 0,
+              "title": "North west England"
+            },
+            {
+              "ns": 0,
+              "title": "Northern Tablelands"
+            },
+            {
+              "ns": 0,
+              "title": "Nylon"
+            },
+            {
+              "ns": 0,
+              "title": "OCLC (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Oilskin"
+            },
+            {
+              "ns": 0,
+              "title": "Olefin fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Organdy"
+            },
+            {
+              "ns": 0,
+              "title": "Organza"
+            },
+            {
+              "ns": 0,
+              "title": "Osnaburg"
+            },
+            {
+              "ns": 0,
+              "title": "Ostrich leather"
+            },
+            {
+              "ns": 0,
+              "title": "Ottoman (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Owling (legal term)"
+            },
+            {
+              "ns": 0,
+              "title": "Oxford (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "PMID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Paduasoy"
+            },
+            {
+              "ns": 0,
+              "title": "Paisley (design)"
+            },
+            {
+              "ns": 0,
+              "title": "Parchmentising"
+            },
+            {
+              "ns": 0,
+              "title": "Pashmina"
+            },
+            {
+              "ns": 0,
+              "title": "Pashmina (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Percale"
+            },
+            {
+              "ns": 0,
+              "title": "Perpetuana"
+            },
+            {
+              "ns": 0,
+              "title": "Pile (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Pill (textile)"
+            },
+            {
+              "ns": 0,
+              "title": "Pinstripes"
+            },
+            {
+              "ns": 0,
+              "title": "Piña"
+            },
+            {
+              "ns": 0,
+              "title": "Piñatex"
+            },
+            {
+              "ns": 0,
+              "title": "Placket"
+            },
+            {
+              "ns": 0,
+              "title": "Pleat"
+            },
+            {
+              "ns": 0,
+              "title": "Pliny the Elder"
+            },
+            {
+              "ns": 0,
+              "title": "Plush"
+            },
+            {
+              "ns": 0,
+              "title": "Pocket"
+            },
+            {
+              "ns": 0,
+              "title": "Polar fleece"
+            },
+            {
+              "ns": 0,
+              "title": "Polka dot"
+            },
+            {
+              "ns": 0,
+              "title": "Polyester"
+            },
+            {
+              "ns": 0,
+              "title": "Polyethylene"
+            },
+            {
+              "ns": 0,
+              "title": "Polypropylene"
+            },
+            {
+              "ns": 0,
+              "title": "Pongee"
+            },
+            {
+              "ns": 0,
+              "title": "Poplin"
+            },
+            {
+              "ns": 0,
+              "title": "Potash"
+            },
+            {
+              "ns": 0,
+              "title": "Potash pit"
+            },
+            {
+              "ns": 0,
+              "title": "Powerhouse Museum"
+            },
+            {
+              "ns": 0,
+              "title": "Provins"
+            },
+            {
+              "ns": 0,
+              "title": "Qiviut"
+            },
+            {
+              "ns": 0,
+              "title": "Rabbit"
+            },
+            {
+              "ns": 0,
+              "title": "Rabbit hair"
+            },
+            {
+              "ns": 0,
+              "title": "Raffia palm"
+            },
+            {
+              "ns": 0,
+              "title": "Rakematiz"
+            },
+            {
+              "ns": 0,
+              "title": "Rambouillet (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Ramie"
+            },
+            {
+              "ns": 0,
+              "title": "Rattan"
+            },
+            {
+              "ns": 0,
+              "title": "Rayadillo"
+            },
+            {
+              "ns": 0,
+              "title": "Rayon"
+            },
+            {
+              "ns": 0,
+              "title": "Recycled wool"
+            },
+            {
+              "ns": 0,
+              "title": "Reda (fabric mill)"
+            },
+            {
+              "ns": 0,
+              "title": "Regenerated fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Renaissance"
+            },
+            {
+              "ns": 0,
+              "title": "Rep (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Restoration (England)"
+            },
+            {
+              "ns": 0,
+              "title": "Revers"
+            },
+            {
+              "ns": 0,
+              "title": "Rinzu"
+            },
+            {
+              "ns": 0,
+              "title": "Ripstop"
+            },
+            {
+              "ns": 0,
+              "title": "Rogan printing"
+            },
+            {
+              "ns": 0,
+              "title": "Roller printing on textiles"
+            },
+            {
+              "ns": 0,
+              "title": "Roman Empire"
+            },
+            {
+              "ns": 0,
+              "title": "Romney (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Melbourne Institute of Technology"
+            },
+            {
+              "ns": 0,
+              "title": "Ruffle (sewing)"
+            },
+            {
+              "ns": 0,
+              "title": "Russell cord"
+            },
+            {
+              "ns": 0,
+              "title": "Rōketsuzome"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Saga Nishiki"
+            },
+            {
+              "ns": 0,
+              "title": "Samite"
+            },
+            {
+              "ns": 0,
+              "title": "Sanforization"
+            },
+            {
+              "ns": 0,
+              "title": "Sateen"
+            },
+            {
+              "ns": 0,
+              "title": "Satin"
+            },
+            {
+              "ns": 0,
+              "title": "Saye"
+            },
+            {
+              "ns": 0,
+              "title": "Scabal"
+            },
+            {
+              "ns": 0,
+              "title": "Scarlet (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "Scotland"
+            },
+            {
+              "ns": 0,
+              "title": "Scrim (material)"
+            },
+            {
+              "ns": 0,
+              "title": "Sea silk"
+            },
+            {
+              "ns": 0,
+              "title": "Sealskin"
+            },
+            {
+              "ns": 0,
+              "title": "Seam (sewing)"
+            },
+            {
+              "ns": 0,
+              "title": "Seerhand muslin"
+            },
+            {
+              "ns": 0,
+              "title": "Seersucker"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-synthetic fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Sendal"
+            },
+            {
+              "ns": 0,
+              "title": "Serge (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Shagreen"
+            },
+            {
+              "ns": 0,
+              "title": "Shahtoosh"
+            },
+            {
+              "ns": 0,
+              "title": "Shank (sewing)"
+            },
+            {
+              "ns": 0,
+              "title": "Sheep"
+            },
+            {
+              "ns": 0,
+              "title": "Sheep husbandry"
+            },
+            {
+              "ns": 0,
+              "title": "Sheep shearer"
+            },
+            {
+              "ns": 0,
+              "title": "Sheep shearing"
+            },
+            {
+              "ns": 0,
+              "title": "Sheepskin"
+            },
+            {
+              "ns": 0,
+              "title": "Sheepwalk"
+            },
+            {
+              "ns": 0,
+              "title": "Shoddy"
+            },
+            {
+              "ns": 0,
+              "title": "Shot silk"
+            },
+            {
+              "ns": 0,
+              "title": "Shoulder pads (fashion)"
+            },
+            {
+              "ns": 0,
+              "title": "Shrinkage (fabric)"
+            },
+            {
+              "ns": 0,
+              "title": "Shweshwe"
+            },
+            {
+              "ns": 0,
+              "title": "Silk"
+            },
+            {
+              "ns": 0,
+              "title": "Silk Road"
+            },
+            {
+              "ns": 0,
+              "title": "Silnylon"
+            },
+            {
+              "ns": 0,
+              "title": "Sisal"
+            },
+            {
+              "ns": 0,
+              "title": "Sleeve"
+            },
+            {
+              "ns": 0,
+              "title": "Snakeskin"
+            },
+            {
+              "ns": 0,
+              "title": "Snap fastener"
+            },
+            {
+              "ns": 0,
+              "title": "Songket"
+            },
+            {
+              "ns": 0,
+              "title": "Spaghetti strap"
+            },
+            {
+              "ns": 0,
+              "title": "Spandex"
+            },
+            {
+              "ns": 0,
+              "title": "Specific thermal resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Spider silk"
+            },
+            {
+              "ns": 0,
+              "title": "Spinning (textiles)"
+            },
+            {
+              "ns": 0,
+              "title": "Staple (wool)"
+            },
+            {
+              "ns": 0,
+              "title": "Statuary"
+            },
+            {
+              "ns": 0,
+              "title": "Strap"
+            },
+            {
+              "ns": 0,
+              "title": "Stub-tex"
+            },
+            {
+              "ns": 0,
+              "title": "Stuff (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "Suffolk (sheep)"
+            },
+            {
+              "ns": 0,
+              "title": "Suit"
+            },
+            {
+              "ns": 0,
+              "title": "SympaTex"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic fabric"
+            },
+            {
+              "ns": 0,
+              "title": "Synthetic fiber"
+            },
+            {
+              "ns": 0,
+              "title": "Taffeta"
+            },
+            {
+              "ns": 0,
+              "title": "Tais"
+            },
+            {
+              "ns": 0,
+              "title": "Taiwan floral fabric"
+            },
+            {
+              "ns": 0,
+              "title": "Taranto"
+            },
+            {
+              "ns": 0,
+              "title": "Tartan"
+            },
+            {
+              "ns": 0,
+              "title": "Tattersall (cloth)"
+            },
+            {
+              "ns": 0,
+              "title": "Technical textile"
+            },
+            {
+              "ns": 0,
+              "title": "Technora"
+            },
+            {
+              "ns": 0,
+              "title": "Tendon"
+            },
+            {
+              "ns": 0,
+              "title": "Tenterhook"
+            },
+            {
+              "ns": 0,
+              "title": "Terrycloth"
+            },
+            {
+              "ns": 0,
+              "title": "Texas"
+            },
+            {
+              "ns": 0,
+              "title": "Textile"
+            },
+            {
+              "ns": 0,
+              "title": "Textile design"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770330132.8228827
+}

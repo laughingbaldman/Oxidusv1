@@ -1,0 +1,1673 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "8254": {
+          "pageid": 8254,
+          "ns": 0,
+          "title": "Diode",
+          "links": [
+            {
+              "ns": 0,
+              "title": "12SQ7"
+            },
+            {
+              "ns": 0,
+              "title": "1N400x general-purpose diodes"
+            },
+            {
+              "ns": 0,
+              "title": "1N4148 signal diode"
+            },
+            {
+              "ns": 0,
+              "title": "1N58xx schottky diodes"
+            },
+            {
+              "ns": 0,
+              "title": "AC power plugs and sockets"
+            },
+            {
+              "ns": 0,
+              "title": "Acorn tube"
+            },
+            {
+              "ns": 0,
+              "title": "Active rectification"
+            },
+            {
+              "ns": 0,
+              "title": "Alkaline earth metal"
+            },
+            {
+              "ns": 0,
+              "title": "Alternating current"
+            },
+            {
+              "ns": 0,
+              "title": "Alternator (auto)"
+            },
+            {
+              "ns": 0,
+              "title": "Amplitude"
+            },
+            {
+              "ns": 0,
+              "title": "Amplitude modulation"
+            },
+            {
+              "ns": 0,
+              "title": "Anode"
+            },
+            {
+              "ns": 0,
+              "title": "Antifuse"
+            },
+            {
+              "ns": 0,
+              "title": "Audio and video interfaces and connectors"
+            },
+            {
+              "ns": 0,
+              "title": "Audion"
+            },
+            {
+              "ns": 0,
+              "title": "Avalanche breakdown"
+            },
+            {
+              "ns": 0,
+              "title": "Avalanche diode"
+            },
+            {
+              "ns": 0,
+              "title": "Backward-wave oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Barium"
+            },
+            {
+              "ns": 0,
+              "title": "Battery (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Beam deflection tube"
+            },
+            {
+              "ns": 0,
+              "title": "Beam tetrode"
+            },
+            {
+              "ns": 0,
+              "title": "Bell Laboratories"
+            },
+            {
+              "ns": 0,
+              "title": "Bell Labs"
+            },
+            {
+              "ns": 0,
+              "title": "BiCMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Bio-FET"
+            },
+            {
+              "ns": 0,
+              "title": "Bipolar junction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Boolean Logic"
+            },
+            {
+              "ns": 0,
+              "title": "Boost converter"
+            },
+            {
+              "ns": 0,
+              "title": "Breakdown voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Bridge rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Buck converter"
+            },
+            {
+              "ns": 0,
+              "title": "Buck–boost converter"
+            },
+            {
+              "ns": 0,
+              "title": "CMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Cam timer"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitor types"
+            },
+            {
+              "ns": 0,
+              "title": "Capacitors"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode"
+            },
+            {
+              "ns": 0,
+              "title": "Cathode ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Cavity magnetron"
+            },
+            {
+              "ns": 0,
+              "title": "Ceramic resonator"
+            },
+            {
+              "ns": 0,
+              "title": "Charactron"
+            },
+            {
+              "ns": 0,
+              "title": "Charge-coupled device"
+            },
+            {
+              "ns": 0,
+              "title": "Charge carrier"
+            },
+            {
+              "ns": 0,
+              "title": "Charge pump"
+            },
+            {
+              "ns": 0,
+              "title": "Check valve"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Circuit diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Clamper (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Clipper (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Cockcroft–Walton generator"
+            },
+            {
+              "ns": 0,
+              "title": "Cold-cathode rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Cold cathode"
+            },
+            {
+              "ns": 0,
+              "title": "Commutator (electric)"
+            },
+            {
+              "ns": 0,
+              "title": "Compactron"
+            },
+            {
+              "ns": 0,
+              "title": "Computer History Museum"
+            },
+            {
+              "ns": 0,
+              "title": "Conceptual model"
+            },
+            {
+              "ns": 0,
+              "title": "Constant-current diode"
+            },
+            {
+              "ns": 0,
+              "title": "Conventional current"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic ray"
+            },
+            {
+              "ns": 0,
+              "title": "Crossatron"
+            },
+            {
+              "ns": 0,
+              "title": "Crossed-field amplifier"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal detector"
+            },
+            {
+              "ns": 0,
+              "title": "Crystal oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Crystalline silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Crystallinity"
+            },
+            {
+              "ns": 0,
+              "title": "Cuprous oxide"
+            },
+            {
+              "ns": 0,
+              "title": "Current–voltage characteristic"
+            },
+            {
+              "ns": 0,
+              "title": "DIAC"
+            },
+            {
+              "ns": 0,
+              "title": "Darlington transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Datasheets"
+            },
+            {
+              "ns": 0,
+              "title": "Dekatron"
+            },
+            {
+              "ns": 0,
+              "title": "Demodulation"
+            },
+            {
+              "ns": 0,
+              "title": "Depletion-load NMOS logic"
+            },
+            {
+              "ns": 0,
+              "title": "Depletion region"
+            },
+            {
+              "ns": 0,
+              "title": "Depletion width"
+            },
+            {
+              "ns": 0,
+              "title": "Detector (radio)"
+            },
+            {
+              "ns": 0,
+              "title": "Diffused junction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Digital potentiometer"
+            },
+            {
+              "ns": 0,
+              "title": "Diode-connected transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Diode (disambiguation)"
+            },
+            {
+              "ns": 0,
+              "title": "Diode logic"
+            },
+            {
+              "ns": 0,
+              "title": "Diode modelling"
+            },
+            {
+              "ns": 0,
+              "title": "Diode–transistor logic"
+            },
+            {
+              "ns": 0,
+              "title": "Direct bandgap"
+            },
+            {
+              "ns": 0,
+              "title": "Direct current"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Dopant"
+            },
+            {
+              "ns": 0,
+              "title": "Doping (semiconductor)"
+            },
+            {
+              "ns": 0,
+              "title": "Double diode triode"
+            },
+            {
+              "ns": 0,
+              "title": "EDN (magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "EFuse"
+            },
+            {
+              "ns": 0,
+              "title": "Electric current"
+            },
+            {
+              "ns": 0,
+              "title": "Electric lighting"
+            },
+            {
+              "ns": 0,
+              "title": "Electric potential"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical conductance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical generator"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical reactance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrical resistance and conductance"
+            },
+            {
+              "ns": 0,
+              "title": "Electrode"
+            },
+            {
+              "ns": 0,
+              "title": "Electrolytic detector"
+            },
+            {
+              "ns": 0,
+              "title": "Electromagnetic radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electron hole"
+            },
+            {
+              "ns": 0,
+              "title": "Electron volt"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic Industries Alliance"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic component"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic filter"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic keyboards"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Electronic symbol"
+            },
+            {
+              "ns": 0,
+              "title": "Electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Electron–hole pair"
+            },
+            {
+              "ns": 0,
+              "title": "Electrostatically"
+            },
+            {
+              "ns": 0,
+              "title": "Energy"
+            },
+            {
+              "ns": 0,
+              "title": "Envelope detector"
+            },
+            {
+              "ns": 0,
+              "title": "Exponential function"
+            },
+            {
+              "ns": 0,
+              "title": "Exponentiation"
+            },
+            {
+              "ns": 0,
+              "title": "Faraday rotator"
+            },
+            {
+              "ns": 0,
+              "title": "Fast diode"
+            },
+            {
+              "ns": 0,
+              "title": "Ferdinand Braun"
+            },
+            {
+              "ns": 0,
+              "title": "Ferrite core"
+            },
+            {
+              "ns": 0,
+              "title": "Field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Fin field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Flame rectification"
+            },
+            {
+              "ns": 0,
+              "title": "Fleming valve"
+            },
+            {
+              "ns": 0,
+              "title": "Floating-gate MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Flyback diode"
+            },
+            {
+              "ns": 0,
+              "title": "Frederick Guthrie (scientist)"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency-locked loop"
+            },
+            {
+              "ns": 0,
+              "title": "Frequency mixer"
+            },
+            {
+              "ns": 0,
+              "title": "Functional completeness"
+            },
+            {
+              "ns": 0,
+              "title": "Fuse (electrical)"
+            },
+            {
+              "ns": 0,
+              "title": "Gallium arsenide"
+            },
+            {
+              "ns": 0,
+              "title": "Gamma ray"
+            },
+            {
+              "ns": 0,
+              "title": "Gas-filled tube"
+            },
+            {
+              "ns": 0,
+              "title": "Germanium"
+            },
+            {
+              "ns": 0,
+              "title": "Gold"
+            },
+            {
+              "ns": 0,
+              "title": "Greek and Latin roots"
+            },
+            {
+              "ns": 0,
+              "title": "Greenleaf Whittier Pickard"
+            },
+            {
+              "ns": 0,
+              "title": "Gunn diode"
+            },
+            {
+              "ns": 0,
+              "title": "Gyrotron"
+            },
+            {
+              "ns": 0,
+              "title": "H-bridge"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Harrison Chase Dunwoody"
+            },
+            {
+              "ns": 0,
+              "title": "Heterostructure barrier varactor"
+            },
+            {
+              "ns": 0,
+              "title": "Hexode"
+            },
+            {
+              "ns": 0,
+              "title": "Hot-wire barretter"
+            },
+            {
+              "ns": 0,
+              "title": "Hot cathode"
+            },
+            {
+              "ns": 0,
+              "title": "Hybrid integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Hydraulic analogy"
+            },
+            {
+              "ns": 0,
+              "title": "IGBT"
+            },
+            {
+              "ns": 0,
+              "title": "IMPATT diode"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "ISFET"
+            },
+            {
+              "ns": 0,
+              "title": "ISSN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Iconoscope"
+            },
+            {
+              "ns": 0,
+              "title": "Ignitron"
+            },
+            {
+              "ns": 0,
+              "title": "Inductive output tube"
+            },
+            {
+              "ns": 0,
+              "title": "Inductor"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Insulated-gate bipolar transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Insulator (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated circuits"
+            },
+            {
+              "ns": 0,
+              "title": "Inverse function"
+            },
+            {
+              "ns": 0,
+              "title": "Inverter (logic gate)"
+            },
+            {
+              "ns": 0,
+              "title": "JEDEC"
+            },
+            {
+              "ns": 0,
+              "title": "JFET"
+            },
+            {
+              "ns": 0,
+              "title": "JIS semiconductor designation"
+            },
+            {
+              "ns": 0,
+              "title": "Jagadish Chandra Bose"
+            },
+            {
+              "ns": 0,
+              "title": "John Ambrose Fleming"
+            },
+            {
+              "ns": 0,
+              "title": "Karl Ferdinand Braun"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Keyboard (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Keyboard matrix circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Klystron"
+            },
+            {
+              "ns": 0,
+              "title": "Knee of a curve"
+            },
+            {
+              "ns": 0,
+              "title": "Krytron"
+            },
+            {
+              "ns": 0,
+              "title": "LDMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda diode"
+            },
+            {
+              "ns": 0,
+              "title": "Laser"
+            },
+            {
+              "ns": 0,
+              "title": "Laser diode"
+            },
+            {
+              "ns": 0,
+              "title": "Lead (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Leo Esaki"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting diode"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting diode physics"
+            },
+            {
+              "ns": 0,
+              "title": "Light-emitting transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Light emitting capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Linear regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Liquid nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Logarithm"
+            },
+            {
+              "ns": 0,
+              "title": "Logarithmic scale"
+            },
+            {
+              "ns": 0,
+              "title": "Logic gate"
+            },
+            {
+              "ns": 0,
+              "title": "Logical conjunction"
+            },
+            {
+              "ns": 0,
+              "title": "Logical disjunction"
+            },
+            {
+              "ns": 0,
+              "title": "Loudspeaker"
+            },
+            {
+              "ns": 0,
+              "title": "Low-dropout regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Lr-diode"
+            },
+            {
+              "ns": 0,
+              "title": "MIT"
+            },
+            {
+              "ns": 0,
+              "title": "MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "MOS integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Magic eye tube"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetron"
+            },
+            {
+              "ns": 0,
+              "title": "Majority carrier"
+            },
+            {
+              "ns": 0,
+              "title": "Marconi Company"
+            },
+            {
+              "ns": 0,
+              "title": "Maser"
+            },
+            {
+              "ns": 0,
+              "title": "McGraw-Hill"
+            },
+            {
+              "ns": 0,
+              "title": "Memistor"
+            },
+            {
+              "ns": 0,
+              "title": "Memory cell (computing)"
+            },
+            {
+              "ns": 0,
+              "title": "Memristor"
+            },
+            {
+              "ns": 0,
+              "title": "Memtransistor"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury-arc valve"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury relay"
+            },
+            {
+              "ns": 0,
+              "title": "Metal-oxide varistor"
+            },
+            {
+              "ns": 0,
+              "title": "Metal–semiconductor junction"
+            },
+            {
+              "ns": 0,
+              "title": "Microwave"
+            },
+            {
+              "ns": 0,
+              "title": "Mineral"
+            },
+            {
+              "ns": 0,
+              "title": "Mixed-signal integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Modulation"
+            },
+            {
+              "ns": 0,
+              "title": "Monoscope"
+            },
+            {
+              "ns": 0,
+              "title": "Motor controller"
+            },
+            {
+              "ns": 0,
+              "title": "Mullard"
+            },
+            {
+              "ns": 0,
+              "title": "Mullard–Philips tube designation"
+            },
+            {
+              "ns": 0,
+              "title": "Multigate device"
+            },
+            {
+              "ns": 0,
+              "title": "Musical keyboard"
+            },
+            {
+              "ns": 0,
+              "title": "N-type semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "NMOS logic"
+            },
+            {
+              "ns": 0,
+              "title": "Negative resistance"
+            },
+            {
+              "ns": 0,
+              "title": "Neon lamp"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron generator"
+            },
+            {
+              "ns": 0,
+              "title": "Nichrome"
+            },
+            {
+              "ns": 0,
+              "title": "Nixie tube"
+            },
+            {
+              "ns": 0,
+              "title": "Noise"
+            },
+            {
+              "ns": 0,
+              "title": "Noise generator"
+            },
+            {
+              "ns": 0,
+              "title": "Nonode"
+            },
+            {
+              "ns": 0,
+              "title": "Nuvistor"
+            },
+            {
+              "ns": 0,
+              "title": "OLED"
+            },
+            {
+              "ns": 0,
+              "title": "OSTI (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "One-way traffic"
+            },
+            {
+              "ns": 0,
+              "title": "Operational amplifier applications"
+            },
+            {
+              "ns": 0,
+              "title": "Optical cavity"
+            },
+            {
+              "ns": 0,
+              "title": "Optical communication"
+            },
+            {
+              "ns": 0,
+              "title": "Optical isolator"
+            },
+            {
+              "ns": 0,
+              "title": "Optical storage"
+            },
+            {
+              "ns": 0,
+              "title": "Opto-isolator"
+            },
+            {
+              "ns": 0,
+              "title": "Organic field-effect transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Organic light-emitting transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Organic semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Oscillation"
+            },
+            {
+              "ns": 0,
+              "title": "Oxide"
+            },
+            {
+              "ns": 0,
+              "title": "P-type semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "PIN diode"
+            },
+            {
+              "ns": 0,
+              "title": "PMOS logic"
+            },
+            {
+              "ns": 0,
+              "title": "Parametron"
+            },
+            {
+              "ns": 0,
+              "title": "Particle detector"
+            },
+            {
+              "ns": 0,
+              "title": "Peak inverse voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Peltier–Seebeck effect"
+            },
+            {
+              "ns": 0,
+              "title": "Pentagrid converter"
+            },
+            {
+              "ns": 0,
+              "title": "Pentode"
+            },
+            {
+              "ns": 0,
+              "title": "Pentode transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Phase-locked loop"
+            },
+            {
+              "ns": 0,
+              "title": "Photodetector"
+            },
+            {
+              "ns": 0,
+              "title": "Photodiode"
+            },
+            {
+              "ns": 0,
+              "title": "Photometry (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Photomultiplier tube"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Phototube"
+            },
+            {
+              "ns": 0,
+              "title": "Pinball machine"
+            },
+            {
+              "ns": 0,
+              "title": "Pinout"
+            },
+            {
+              "ns": 0,
+              "title": "Plate electrode"
+            },
+            {
+              "ns": 0,
+              "title": "Platinum"
+            },
+            {
+              "ns": 0,
+              "title": "Point-contact transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Potentiometer"
+            },
+            {
+              "ns": 0,
+              "title": "Power MOSFET"
+            },
+            {
+              "ns": 0,
+              "title": "Power electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Power semiconductor device"
+            },
+            {
+              "ns": 0,
+              "title": "Power supply"
+            },
+            {
+              "ns": 0,
+              "title": "Printed circuit board"
+            },
+            {
+              "ns": 0,
+              "title": "Printed electronics"
+            },
+            {
+              "ns": 0,
+              "title": "Pro Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Programmable unijunction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Pulse"
+            },
+            {
+              "ns": 0,
+              "title": "Purdue"
+            },
+            {
+              "ns": 0,
+              "title": "P–n diode"
+            },
+            {
+              "ns": 0,
+              "title": "P–n junction"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Quantum tunneling"
+            },
+            {
+              "ns": 0,
+              "title": "Quasi Fermi level"
+            },
+            {
+              "ns": 0,
+              "title": "RF CMOS"
+            },
+            {
+              "ns": 0,
+              "title": "RF connector"
+            },
+            {
+              "ns": 0,
+              "title": "Radio"
+            },
+            {
+              "ns": 0,
+              "title": "Radio frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Radio receiver"
+            },
+            {
+              "ns": 0,
+              "title": "Radio signal"
+            },
+            {
+              "ns": 0,
+              "title": "Rectification (electricity)"
+            },
+            {
+              "ns": 0,
+              "title": "Rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Red heat"
+            },
+            {
+              "ns": 0,
+              "title": "Reed relay"
+            },
+            {
+              "ns": 0,
+              "title": "Relay"
+            },
+            {
+              "ns": 0,
+              "title": "Resettable fuse"
+            },
+            {
+              "ns": 0,
+              "title": "Resistor"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Saturation current"
+            },
+            {
+              "ns": 0,
+              "title": "Schottky diode"
+            },
+            {
+              "ns": 0,
+              "title": "Scintillator"
+            },
+            {
+              "ns": 0,
+              "title": "Selectron tube"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium"
+            },
+            {
+              "ns": 0,
+              "title": "Selenium rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-log"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-log plot"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor detector"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor device"
+            },
+            {
+              "ns": 0,
+              "title": "Semiconductor materials"
+            },
+            {
+              "ns": 0,
+              "title": "Shockley diode equation"
+            },
+            {
+              "ns": 0,
+              "title": "Signal (electrical engineering)"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon bandgap temperature sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon carbide"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon controlled rectifier"
+            },
+            {
+              "ns": 0,
+              "title": "Single-ended primary-inductor converter"
+            },
+            {
+              "ns": 0,
+              "title": "Slew rate"
+            },
+            {
+              "ns": 0,
+              "title": "Small-signal model"
+            },
+            {
+              "ns": 0,
+              "title": "Solar cell"
+            },
+            {
+              "ns": 0,
+              "title": "Solaristor"
+            },
+            {
+              "ns": 0,
+              "title": "Solid state (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Split-pi topology"
+            },
+            {
+              "ns": 0,
+              "title": "Square-law detector"
+            },
+            {
+              "ns": 0,
+              "title": "Stabistor"
+            },
+            {
+              "ns": 0,
+              "title": "Static induction thyristor"
+            },
+            {
+              "ns": 0,
+              "title": "Static induction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Step recovery diode"
+            },
+            {
+              "ns": 0,
+              "title": "Stepper motor"
+            },
+            {
+              "ns": 0,
+              "title": "Storage tube"
+            },
+            {
+              "ns": 0,
+              "title": "Strontium"
+            },
+            {
+              "ns": 0,
+              "title": "Substrate (semiconductor)"
+            },
+            {
+              "ns": 0,
+              "title": "Sutton tube"
+            },
+            {
+              "ns": 0,
+              "title": "Switch"
+            },
+            {
+              "ns": 0,
+              "title": "Switched-mode power supply"
+            },
+            {
+              "ns": 0,
+              "title": "Switched capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Switching regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Sylvania Electric Products"
+            },
+            {
+              "ns": 0,
+              "title": "TRIAC"
+            },
+            {
+              "ns": 0,
+              "title": "Telegraphy"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature sensor"
+            },
+            {
+              "ns": 0,
+              "title": "Terminal (electronics)"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrode"
+            },
+            {
+              "ns": 0,
+              "title": "Tetrode transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal diode"
+            },
+            {
+              "ns": 0,
+              "title": "Thermionic emission"
+            },
+            {
+              "ns": 0,
+              "title": "Thermistor"
+            },
+            {
+              "ns": 0,
+              "title": "Thermoelectric cooling"
+            },
+            {
+              "ns": 0,
+              "title": "Thin-film transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Three-dimensional integrated circuit"
+            },
+            {
+              "ns": 0,
+              "title": "Thyratron"
+            },
+            {
+              "ns": 0,
+              "title": "Thyristor"
+            },
+            {
+              "ns": 0,
+              "title": "Time-division multiplexing"
+            },
+            {
+              "ns": 0,
+              "title": "Trancitor"
+            },
+            {
+              "ns": 0,
+              "title": "Transducer"
+            },
+            {
+              "ns": 0,
+              "title": "Transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Transient-voltage-suppression diode"
+            },
+            {
+              "ns": 0,
+              "title": "Transient (oscillation)"
+            },
+            {
+              "ns": 0,
+              "title": "Transient voltage suppression diode"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transistors"
+            },
+            {
+              "ns": 0,
+              "title": "Transorb"
+            },
+            {
+              "ns": 0,
+              "title": "Traveling-wave tube"
+            },
+            {
+              "ns": 0,
+              "title": "Trigatron"
+            },
+            {
+              "ns": 0,
+              "title": "Triode"
+            },
+            {
+              "ns": 0,
+              "title": "Trochotron"
+            },
+            {
+              "ns": 0,
+              "title": "Tunnel diode"
+            },
+            {
+              "ns": 0,
+              "title": "UK"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Unijunction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Uninterruptible power supply"
+            },
+            {
+              "ns": 0,
+              "title": "VMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum-tube"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum diode"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Varactor diode"
+            },
+            {
+              "ns": 0,
+              "title": "Variable capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Varicap"
+            },
+            {
+              "ns": 0,
+              "title": "Varistor"
+            },
+            {
+              "ns": 0,
+              "title": "Video camera tube"
+            },
+            {
+              "ns": 0,
+              "title": "Volt"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage-controlled oscillator"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage-regulator tube"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage multiplier"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage reference"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage spike"
+            },
+            {
+              "ns": 0,
+              "title": "Voltmeter"
+            },
+            {
+              "ns": 0,
+              "title": "Walter H. Schottky"
+            },
+            {
+              "ns": 0,
+              "title": "Wavelength"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Western Electric"
+            },
+            {
+              "ns": 0,
+              "title": "William Henry Eccles"
+            },
+            {
+              "ns": 0,
+              "title": "William Shockley"
+            },
+            {
+              "ns": 0,
+              "title": "Williams tube"
+            },
+            {
+              "ns": 0,
+              "title": "Wire"
+            },
+            {
+              "ns": 0,
+              "title": "Wireless telegraphy"
+            },
+            {
+              "ns": 0,
+              "title": "Wollaston wire"
+            },
+            {
+              "ns": 0,
+              "title": "Work function"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Xenon gas diode"
+            },
+            {
+              "ns": 0,
+              "title": "Zener breakdown"
+            },
+            {
+              "ns": 0,
+              "title": "Zener diode"
+            },
+            {
+              "ns": 0,
+              "title": "Ćuk converter"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329443.5540872
+}

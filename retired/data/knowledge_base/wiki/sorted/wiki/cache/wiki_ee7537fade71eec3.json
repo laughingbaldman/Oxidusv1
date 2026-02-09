@@ -1,0 +1,229 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "30906": {
+          "pageid": 30906,
+          "ns": 0,
+          "title": "Transformer",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Transformer utilization factor"
+            },
+            {
+              "ns": 0,
+              "title": "Transformerboard"
+            },
+            {
+              "ns": 0,
+              "title": "Transistor"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission system operator"
+            },
+            {
+              "ns": 0,
+              "title": "Transmission tower"
+            },
+            {
+              "ns": 0,
+              "title": "Traveling-wave tube"
+            },
+            {
+              "ns": 0,
+              "title": "Trembler coil"
+            },
+            {
+              "ns": 0,
+              "title": "Trigatron"
+            },
+            {
+              "ns": 0,
+              "title": "Trigger transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Triode"
+            },
+            {
+              "ns": 0,
+              "title": "Trochotron"
+            },
+            {
+              "ns": 0,
+              "title": "Unijunction transistor"
+            },
+            {
+              "ns": 0,
+              "title": "University of Pavia"
+            },
+            {
+              "ns": 0,
+              "title": "Utility frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Utility pole"
+            },
+            {
+              "ns": 0,
+              "title": "VMOS"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum diode"
+            },
+            {
+              "ns": 0,
+              "title": "Vacuum tube"
+            },
+            {
+              "ns": 0,
+              "title": "Variable-frequency transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Variable capacitor"
+            },
+            {
+              "ns": 0,
+              "title": "Variable renewable energy"
+            },
+            {
+              "ns": 0,
+              "title": "Varicap"
+            },
+            {
+              "ns": 0,
+              "title": "Varistor"
+            },
+            {
+              "ns": 0,
+              "title": "Vector group"
+            },
+            {
+              "ns": 0,
+              "title": "Vehicle-to-grid"
+            },
+            {
+              "ns": 0,
+              "title": "Very high frequency"
+            },
+            {
+              "ns": 0,
+              "title": "Video camera tube"
+            },
+            {
+              "ns": 0,
+              "title": "Virtual power plant"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage-regulator tube"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage control and reactive power management"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage converter"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage regulation"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage regulator"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage source"
+            },
+            {
+              "ns": 0,
+              "title": "Voltage transformer"
+            },
+            {
+              "ns": 0,
+              "title": "WEG Industries"
+            },
+            {
+              "ns": 0,
+              "title": "War of the currents"
+            },
+            {
+              "ns": 0,
+              "title": "Wave power"
+            },
+            {
+              "ns": 0,
+              "title": "Weber (unit)"
+            },
+            {
+              "ns": 0,
+              "title": "Westinghouse Electric"
+            },
+            {
+              "ns": 0,
+              "title": "Westinghouse Electric Corporation"
+            },
+            {
+              "ns": 0,
+              "title": "William Stanley, Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Williams tube"
+            },
+            {
+              "ns": 0,
+              "title": "Wind power"
+            },
+            {
+              "ns": 0,
+              "title": "Wire"
+            },
+            {
+              "ns": 0,
+              "title": "Wollaston wire"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray tube"
+            },
+            {
+              "ns": 0,
+              "title": "Yablochkov candle"
+            },
+            {
+              "ns": 0,
+              "title": "Zener diode"
+            },
+            {
+              "ns": 0,
+              "title": "Zigzag transformer"
+            },
+            {
+              "ns": 0,
+              "title": "Ćuk converter"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770329776.7205226
+}

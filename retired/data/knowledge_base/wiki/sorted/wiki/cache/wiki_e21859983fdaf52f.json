@@ -1,0 +1,1557 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "39674": {
+          "pageid": 39674,
+          "ns": 0,
+          "title": "Planetary nebula",
+          "links": [
+            {
+              "ns": 0,
+              "title": "A-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Abell 39"
+            },
+            {
+              "ns": 0,
+              "title": "Abell 78"
+            },
+            {
+              "ns": 0,
+              "title": "Absolute magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Absorption line"
+            },
+            {
+              "ns": 0,
+              "title": "Accretion (astrophysics)"
+            },
+            {
+              "ns": 0,
+              "title": "Accretion disk"
+            },
+            {
+              "ns": 0,
+              "title": "Alfvén surface"
+            },
+            {
+              "ns": 0,
+              "title": "Alpha process"
+            },
+            {
+              "ns": 0,
+              "title": "Am star"
+            },
+            {
+              "ns": 0,
+              "title": "Andromeda Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Antoine Darquier de Pellepoix"
+            },
+            {
+              "ns": 0,
+              "title": "Ap and Bp stars"
+            },
+            {
+              "ns": 0,
+              "title": "Apparent magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "ArXiv (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Asterism (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Asteroseismology"
+            },
+            {
+              "ns": 0,
+              "title": "Astronomical spectroscopy"
+            },
+            {
+              "ns": 0,
+              "title": "Asymptotic giant branch"
+            },
+            {
+              "ns": 0,
+              "title": "B(e) star"
+            },
+            {
+              "ns": 0,
+              "title": "B-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Barium star"
+            },
+            {
+              "ns": 0,
+              "title": "Be star"
+            },
+            {
+              "ns": 0,
+              "title": "Bibcode (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Binary pulsar"
+            },
+            {
+              "ns": 0,
+              "title": "Binary star"
+            },
+            {
+              "ns": 0,
+              "title": "Bipolar nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Bipolar outflow"
+            },
+            {
+              "ns": 0,
+              "title": "Black dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Black star (semiclassical gravity)"
+            },
+            {
+              "ns": 0,
+              "title": "Blitzar"
+            },
+            {
+              "ns": 0,
+              "title": "Blue dwarf (red-dwarf stage)"
+            },
+            {
+              "ns": 0,
+              "title": "Blue giant"
+            },
+            {
+              "ns": 0,
+              "title": "Blue loop"
+            },
+            {
+              "ns": 0,
+              "title": "Blue straggler"
+            },
+            {
+              "ns": 0,
+              "title": "Blue supergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Bok globule"
+            },
+            {
+              "ns": 0,
+              "title": "Boson star"
+            },
+            {
+              "ns": 0,
+              "title": "Bright giant"
+            },
+            {
+              "ns": 0,
+              "title": "Brown-dwarf desert"
+            },
+            {
+              "ns": 0,
+              "title": "Brown dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "CEMP star"
+            },
+            {
+              "ns": 0,
+              "title": "CH star"
+            },
+            {
+              "ns": 0,
+              "title": "CNO cycle"
+            },
+            {
+              "ns": 0,
+              "title": "CN star"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon-burning process"
+            },
+            {
+              "ns": 0,
+              "title": "Carbon star"
+            },
+            {
+              "ns": 0,
+              "title": "Cat's Eye Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Charge-coupled device"
+            },
+            {
+              "ns": 0,
+              "title": "Charles Messier"
+            },
+            {
+              "ns": 0,
+              "title": "Chemical element"
+            },
+            {
+              "ns": 0,
+              "title": "Chemically peculiar star"
+            },
+            {
+              "ns": 0,
+              "title": "Chemistry"
+            },
+            {
+              "ns": 0,
+              "title": "Chinese star names"
+            },
+            {
+              "ns": 0,
+              "title": "Chromosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Circumpolar star"
+            },
+            {
+              "ns": 0,
+              "title": "Circumstellar dust"
+            },
+            {
+              "ns": 0,
+              "title": "Circumstellar envelope"
+            },
+            {
+              "ns": 0,
+              "title": "CiteSeerX (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Color index"
+            },
+            {
+              "ns": 0,
+              "title": "Color–color diagram"
+            },
+            {
+              "ns": 0,
+              "title": "Cometary knot"
+            },
+            {
+              "ns": 0,
+              "title": "Common envelope"
+            },
+            {
+              "ns": 0,
+              "title": "Compact star"
+            },
+            {
+              "ns": 0,
+              "title": "Constellation"
+            },
+            {
+              "ns": 0,
+              "title": "Contact binary"
+            },
+            {
+              "ns": 0,
+              "title": "Continuum (theory)"
+            },
+            {
+              "ns": 0,
+              "title": "Convection zone"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic distance ladder"
+            },
+            {
+              "ns": 0,
+              "title": "Cosmic dust"
+            },
+            {
+              "ns": 0,
+              "title": "Dark-energy star"
+            },
+            {
+              "ns": 0,
+              "title": "Dark nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Dark star (dark matter)"
+            },
+            {
+              "ns": 0,
+              "title": "Density"
+            },
+            {
+              "ns": 0,
+              "title": "Deuterium fusion"
+            },
+            {
+              "ns": 0,
+              "title": "Diffuse nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Doi (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Doppler shift"
+            },
+            {
+              "ns": 0,
+              "title": "Doubly ionized oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Dredge-up"
+            },
+            {
+              "ns": 0,
+              "title": "Dumbbell Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Early-type star"
+            },
+            {
+              "ns": 0,
+              "title": "Earth's atmosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Eclipsing binary"
+            },
+            {
+              "ns": 0,
+              "title": "Eddington luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Effective temperature"
+            },
+            {
+              "ns": 0,
+              "title": "Electron"
+            },
+            {
+              "ns": 0,
+              "title": "Electroweak star"
+            },
+            {
+              "ns": 0,
+              "title": "Emission nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Emission spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Energy level"
+            },
+            {
+              "ns": 0,
+              "title": "Eskimo Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Evaporating gaseous globule"
+            },
+            {
+              "ns": 0,
+              "title": "Excited state"
+            },
+            {
+              "ns": 0,
+              "title": "Exotic star"
+            },
+            {
+              "ns": 0,
+              "title": "Extinction (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Extreme helium star"
+            },
+            {
+              "ns": 0,
+              "title": "F-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Fast Low-Ionization Emission Region"
+            },
+            {
+              "ns": 0,
+              "title": "Fleming 1"
+            },
+            {
+              "ns": 0,
+              "title": "Forbidden line"
+            },
+            {
+              "ns": 0,
+              "title": "G-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Gaia (spacecraft)"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic Center"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic bulge"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic plane"
+            },
+            {
+              "ns": 0,
+              "title": "Galactic year"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "Galaxy formation and evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Giant molecular cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Giant star"
+            },
+            {
+              "ns": 0,
+              "title": "Globular cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Globular clusters"
+            },
+            {
+              "ns": 0,
+              "title": "Gravastar"
+            },
+            {
+              "ns": 0,
+              "title": "Gravity"
+            },
+            {
+              "ns": 0,
+              "title": "Gravity darkening"
+            },
+            {
+              "ns": 0,
+              "title": "Guest star (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "H II region"
+            },
+            {
+              "ns": 0,
+              "title": "H I region"
+            },
+            {
+              "ns": 0,
+              "title": "Hayashi track"
+            },
+            {
+              "ns": 0,
+              "title": "Helioseismology"
+            },
+            {
+              "ns": 0,
+              "title": "Helium"
+            },
+            {
+              "ns": 0,
+              "title": "Helium-weak star"
+            },
+            {
+              "ns": 0,
+              "title": "Helium flash"
+            },
+            {
+              "ns": 0,
+              "title": "Helium planet"
+            },
+            {
+              "ns": 0,
+              "title": "Helium star"
+            },
+            {
+              "ns": 0,
+              "title": "Helix Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Henry Norris Russell"
+            },
+            {
+              "ns": 0,
+              "title": "Henyey track"
+            },
+            {
+              "ns": 0,
+              "title": "Herbig Ae/Be star"
+            },
+            {
+              "ns": 0,
+              "title": "Herbig–Haro object"
+            },
+            {
+              "ns": 0,
+              "title": "Hertzsprung–Russell diagram"
+            },
+            {
+              "ns": 0,
+              "title": "High-velocity cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Historical brightest stars"
+            },
+            {
+              "ns": 0,
+              "title": "Horizontal branch"
+            },
+            {
+              "ns": 0,
+              "title": "Hubble Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Hydrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Hypergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Hypernova"
+            },
+            {
+              "ns": 0,
+              "title": "Hypothetical star"
+            },
+            {
+              "ns": 0,
+              "title": "IC 2149"
+            },
+            {
+              "ns": 0,
+              "title": "ISBN (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared"
+            },
+            {
+              "ns": 0,
+              "title": "Infrared cirrus"
+            },
+            {
+              "ns": 0,
+              "title": "Instability strip"
+            },
+            {
+              "ns": 0,
+              "title": "Integrated Flux Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Intergalactic star"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Interstellar medium"
+            },
+            {
+              "ns": 0,
+              "title": "Ionisation"
+            },
+            {
+              "ns": 0,
+              "title": "Ionization"
+            },
+            {
+              "ns": 0,
+              "title": "Iron star"
+            },
+            {
+              "ns": 0,
+              "title": "James Webb Space Telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Jupiter"
+            },
+            {
+              "ns": 0,
+              "title": "Jérôme Lalande"
+            },
+            {
+              "ns": 0,
+              "title": "K-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin"
+            },
+            {
+              "ns": 0,
+              "title": "Kelvin–Helmholtz mechanism"
+            },
+            {
+              "ns": 0,
+              "title": "Kraft break"
+            },
+            {
+              "ns": 0,
+              "title": "Lambda Boötis star"
+            },
+            {
+              "ns": 0,
+              "title": "Late-type star"
+            },
+            {
+              "ns": 0,
+              "title": "Lead star"
+            },
+            {
+              "ns": 0,
+              "title": "Lemon slice nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Light year"
+            },
+            {
+              "ns": 0,
+              "title": "List of Arabic star names"
+            },
+            {
+              "ns": 0,
+              "title": "List of brightest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of brown dwarfs"
+            },
+            {
+              "ns": 0,
+              "title": "List of coolest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of diffuse nebulae"
+            },
+            {
+              "ns": 0,
+              "title": "List of hottest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of largest nebulae"
+            },
+            {
+              "ns": 0,
+              "title": "List of largest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of most distant stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of most luminous stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of most massive stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of multiplanetary systems"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest bright stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of nearest stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of novae in the Milky Way galaxy"
+            },
+            {
+              "ns": 0,
+              "title": "List of planetary nebulae"
+            },
+            {
+              "ns": 0,
+              "title": "List of proper names of stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of protoplanetary nebulae"
+            },
+            {
+              "ns": 0,
+              "title": "List of red dwarfs"
+            },
+            {
+              "ns": 0,
+              "title": "List of smallest known stars"
+            },
+            {
+              "ns": 0,
+              "title": "List of star extremes"
+            },
+            {
+              "ns": 0,
+              "title": "List of stars with resolved images"
+            },
+            {
+              "ns": 0,
+              "title": "List of supernova candidates"
+            },
+            {
+              "ns": 0,
+              "title": "List of supernova remnants"
+            },
+            {
+              "ns": 0,
+              "title": "List of supernovae"
+            },
+            {
+              "ns": 0,
+              "title": "List of white dwarfs"
+            },
+            {
+              "ns": 0,
+              "title": "Lists of nebulae"
+            },
+            {
+              "ns": 0,
+              "title": "Lists of stars"
+            },
+            {
+              "ns": 0,
+              "title": "Lithium burning"
+            },
+            {
+              "ns": 0,
+              "title": "Lori Allen (astronomer)"
+            },
+            {
+              "ns": 0,
+              "title": "Luminosity"
+            },
+            {
+              "ns": 0,
+              "title": "Luminous blue variable"
+            },
+            {
+              "ns": 0,
+              "title": "Luminous red nova"
+            },
+            {
+              "ns": 0,
+              "title": "Lyman-alpha blob"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetar"
+            },
+            {
+              "ns": 0,
+              "title": "Magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Magnitude (astronomy)"
+            },
+            {
+              "ns": 0,
+              "title": "Main-sequence"
+            },
+            {
+              "ns": 0,
+              "title": "Main sequence"
+            },
+            {
+              "ns": 0,
+              "title": "Mercury-manganese star"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 15"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 22"
+            },
+            {
+              "ns": 0,
+              "title": "Messier 46"
+            },
+            {
+              "ns": 0,
+              "title": "Messier object"
+            },
+            {
+              "ns": 0,
+              "title": "Metallicity"
+            },
+            {
+              "ns": 0,
+              "title": "Metastability"
+            },
+            {
+              "ns": 0,
+              "title": "Micronova"
+            },
+            {
+              "ns": 0,
+              "title": "Microturbulence"
+            },
+            {
+              "ns": 0,
+              "title": "Milky Way"
+            },
+            {
+              "ns": 0,
+              "title": "Misnomer"
+            },
+            {
+              "ns": 0,
+              "title": "Molecular cloud"
+            },
+            {
+              "ns": 0,
+              "title": "Monthly Notices of the Royal Astronomical Society"
+            },
+            {
+              "ns": 0,
+              "title": "Morgan-Keenan spectral classification"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 1535"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 2818"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 3132"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6326"
+            },
+            {
+              "ns": 0,
+              "title": "NGC 6441"
+            },
+            {
+              "ns": 0,
+              "title": "Nanometre"
+            },
+            {
+              "ns": 0,
+              "title": "Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Nebulium"
+            },
+            {
+              "ns": 0,
+              "title": "Necklace Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Neon-burning process"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron star"
+            },
+            {
+              "ns": 0,
+              "title": "Neutron star merger"
+            },
+            {
+              "ns": 0,
+              "title": "Nitrogen"
+            },
+            {
+              "ns": 0,
+              "title": "Nova"
+            },
+            {
+              "ns": 0,
+              "title": "Nova remnant"
+            },
+            {
+              "ns": 0,
+              "title": "Nuclear fusion"
+            },
+            {
+              "ns": 0,
+              "title": "O-type main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "OB star"
+            },
+            {
+              "ns": 0,
+              "title": "OH/IR star"
+            },
+            {
+              "ns": 0,
+              "title": "Open cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Optical resolution"
+            },
+            {
+              "ns": 0,
+              "title": "Optical spectrum"
+            },
+            {
+              "ns": 0,
+              "title": "Orion 1 and Orion 2 Space Observatories"
+            },
+            {
+              "ns": 0,
+              "title": "Orion 2 Space Observatory"
+            },
+            {
+              "ns": 0,
+              "title": "Orsola De Marco"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen"
+            },
+            {
+              "ns": 0,
+              "title": "Oxygen-burning process"
+            },
+            {
+              "ns": 0,
+              "title": "P-process"
+            },
+            {
+              "ns": 0,
+              "title": "PG 1159 star"
+            },
+            {
+              "ns": 0,
+              "title": "Palomar 6"
+            },
+            {
+              "ns": 0,
+              "title": "Photographic magnitude"
+            },
+            {
+              "ns": 0,
+              "title": "Photometric-standard star"
+            },
+            {
+              "ns": 0,
+              "title": "Photometric system"
+            },
+            {
+              "ns": 0,
+              "title": "Photon"
+            },
+            {
+              "ns": 0,
+              "title": "Photosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Pinwheel nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Planck star"
+            },
+            {
+              "ns": 0,
+              "title": "Planet"
+            },
+            {
+              "ns": 0,
+              "title": "Planet-hosting stars"
+            },
+            {
+              "ns": 0,
+              "title": "Planetary nebulae"
+            },
+            {
+              "ns": 0,
+              "title": "Planetary system"
+            },
+            {
+              "ns": 0,
+              "title": "Plasma (physics)"
+            },
+            {
+              "ns": 0,
+              "title": "Pole star"
+            },
+            {
+              "ns": 0,
+              "title": "Population II"
+            },
+            {
+              "ns": 0,
+              "title": "Post-AGB star"
+            },
+            {
+              "ns": 0,
+              "title": "Pre-main-sequence star"
+            },
+            {
+              "ns": 0,
+              "title": "Preon star"
+            },
+            {
+              "ns": 0,
+              "title": "Prism (optics)"
+            },
+            {
+              "ns": 0,
+              "title": "Proper motion"
+            },
+            {
+              "ns": 0,
+              "title": "Proplyd"
+            },
+            {
+              "ns": 0,
+              "title": "Proton–proton chain"
+            },
+            {
+              "ns": 0,
+              "title": "Protoplanetary disk"
+            },
+            {
+              "ns": 0,
+              "title": "Protoplanetary nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Protostar"
+            },
+            {
+              "ns": 0,
+              "title": "Pulsar"
+            },
+            {
+              "ns": 0,
+              "title": "Pulsar wind nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Q star"
+            },
+            {
+              "ns": 0,
+              "title": "Quark star"
+            },
+            {
+              "ns": 0,
+              "title": "Quasi-star"
+            },
+            {
+              "ns": 0,
+              "title": "R-process"
+            },
+            {
+              "ns": 0,
+              "title": "Radial velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation"
+            },
+            {
+              "ns": 0,
+              "title": "Radiation zone"
+            },
+            {
+              "ns": 0,
+              "title": "Radio-quiet neutron star"
+            },
+            {
+              "ns": 0,
+              "title": "Red-giant branch"
+            },
+            {
+              "ns": 0,
+              "title": "Red clump"
+            },
+            {
+              "ns": 0,
+              "title": "Red dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Red giant"
+            },
+            {
+              "ns": 0,
+              "title": "Red giant branch"
+            },
+            {
+              "ns": 0,
+              "title": "Red supergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Reflection nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Ring Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "S-process"
+            },
+            {
+              "ns": 0,
+              "title": "S-type star"
+            },
+            {
+              "ns": 0,
+              "title": "S2CID (identifier)"
+            },
+            {
+              "ns": 0,
+              "title": "Saturn Nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Scorpius"
+            },
+            {
+              "ns": 0,
+              "title": "Shell star"
+            },
+            {
+              "ns": 0,
+              "title": "Silicon-burning process"
+            },
+            {
+              "ns": 0,
+              "title": "Soft gamma repeater"
+            },
+            {
+              "ns": 0,
+              "title": "Solar-like oscillations"
+            },
+            {
+              "ns": 0,
+              "title": "Solar System"
+            },
+            {
+              "ns": 0,
+              "title": "Solar eclipse"
+            },
+            {
+              "ns": 0,
+              "title": "Solar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Solar nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Solar radio emission"
+            },
+            {
+              "ns": 0,
+              "title": "Soyuz 13"
+            },
+            {
+              "ns": 0,
+              "title": "Space telescope"
+            },
+            {
+              "ns": 0,
+              "title": "Star"
+            },
+            {
+              "ns": 0,
+              "title": "Star cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Star formation"
+            },
+            {
+              "ns": 0,
+              "title": "Star system"
+            },
+            {
+              "ns": 0,
+              "title": "Starlight"
+            },
+            {
+              "ns": 0,
+              "title": "Starspot"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar-wind bubble"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar atmosphere"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar classification"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar collision"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar core"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar corona"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar designations and names"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar dynamics"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar engulfment"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar evolution"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar kinematics"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar magnetic field"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar mass"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar mass loss"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar nucleosynthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar parallax"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar population"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar rotation"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar structure"
+            },
+            {
+              "ns": 0,
+              "title": "Stellar wind"
+            },
+            {
+              "ns": 0,
+              "title": "Strange star"
+            },
+            {
+              "ns": 0,
+              "title": "Strömgren sphere"
+            },
+            {
+              "ns": 0,
+              "title": "Sub-brown dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Subdwarf"
+            },
+            {
+              "ns": 0,
+              "title": "Subdwarf B star"
+            },
+            {
+              "ns": 0,
+              "title": "Subdwarf O star"
+            },
+            {
+              "ns": 0,
+              "title": "Subgiant"
+            },
+            {
+              "ns": 0,
+              "title": "Substellar object"
+            },
+            {
+              "ns": 0,
+              "title": "Sun"
+            },
+            {
+              "ns": 0,
+              "title": "Sun Kwok"
+            },
+            {
+              "ns": 0,
+              "title": "Sunlight"
+            },
+            {
+              "ns": 0,
+              "title": "Super-AGB star"
+            },
+            {
+              "ns": 0,
+              "title": "Super star cluster"
+            },
+            {
+              "ns": 0,
+              "title": "Superbubble"
+            },
+            {
+              "ns": 0,
+              "title": "Supergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Superluminous supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Supermassive black hole"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova nucleosynthesis"
+            },
+            {
+              "ns": 0,
+              "title": "Supernova remnant"
+            },
+            {
+              "ns": 0,
+              "title": "Symbiotic binary"
+            },
+            {
+              "ns": 0,
+              "title": "Symbiotic nova"
+            },
+            {
+              "ns": 0,
+              "title": "T Tauri star"
+            },
+            {
+              "ns": 0,
+              "title": "Technetium star"
+            },
+            {
+              "ns": 0,
+              "title": "Temperature"
+            },
+            {
+              "ns": 0,
+              "title": "The Astrophysical Journal"
+            },
+            {
+              "ns": 0,
+              "title": "Thorne–Żytkow object"
+            },
+            {
+              "ns": 0,
+              "title": "Tidal disruption event"
+            },
+            {
+              "ns": 0,
+              "title": "Timeline of stellar astronomy"
+            },
+            {
+              "ns": 0,
+              "title": "Triple-alpha process"
+            },
+            {
+              "ns": 0,
+              "title": "Ultraviolet"
+            },
+            {
+              "ns": 0,
+              "title": "Universe"
+            },
+            {
+              "ns": 0,
+              "title": "Uranus"
+            },
+            {
+              "ns": 0,
+              "title": "Variable nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Variable star"
+            },
+            {
+              "ns": 0,
+              "title": "Vulpecula"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "White dwarf"
+            },
+            {
+              "ns": 0,
+              "title": "White hole"
+            },
+            {
+              "ns": 0,
+              "title": "William Herschel"
+            },
+            {
+              "ns": 0,
+              "title": "William Huggins"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf–Rayet nebula"
+            },
+            {
+              "ns": 0,
+              "title": "Wolf–Rayet star"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray binary"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray burster"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray pulsar"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow giant"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow hypergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Yellow supergiant"
+            },
+            {
+              "ns": 0,
+              "title": "Young stellar object"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1770324791.0707722
+}
