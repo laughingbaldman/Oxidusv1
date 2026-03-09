@@ -63,6 +63,25 @@ d:\Oxidus for the people\
 
 ## Getting Started
 
+### Quick Launch (Windows)
+
+**Double-click to launch:**
+- `launch_oxidus.bat` - Standard launcher with console window
+- `launch_oxidus_silent.bat` - Silent launcher (no console window)
+- `launch_oxidus.ps1` - PowerShell launcher (recommended for PowerShell users)
+
+These launchers automatically:
+- Activate the virtual environment
+- Launch the Electron desktop app (or fallback to web UI)
+- Handle all environment setup
+
+**Manual launch:**
+```bash
+python launch_oxidus.py
+```
+
+### Setup
+
 1. Install dependencies: `pip install -r requirements.txt`
 2. Review the philosophy in `/config/oxidus_config.yaml`
 3. Start training with `python src/training/trainer.py`

@@ -1,3 +1,4 @@
 {
-    "workbench.editorLargeFileConfirmation": 40000
+    "workbench.editorLargeFileConfirmation": 40000,
+    "gitlens.ai.largePromptWarningThreshold": 200000
 }

@@ -5,8 +5,8 @@
 ### 1. Create Virtual Environment
 ```bash
 cd d:\Oxidus for the people
-python -m venv venv
-.\venv\Scripts\activate
+python -m venv .venv
+.\.venv\Scripts\activate
 ```
 
 ### 2. Install Dependencies
@@ -14,7 +14,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-### 2b. Configure LM Studio
+### 3. Configure LM Studio
 Start LM Studio and enable the OpenAI-compatible API server at http://127.0.0.1:1234.
 Load the model: openai/gpt-oss-20b.
 
@@ -26,21 +26,51 @@ $env:OXIDUS_LM_COMPLEX_MODEL="openai/gpt-oss-20b"
 $env:OXIDUS_LM_SECONDARY_MODEL="openai/gpt-oss-20b"
 ```
 
-### 3. Run Main Console
+## Launching Oxidus
+
+### Quick Launch (Recommended)
+
+**Windows Batch Files (Double-click to run):**
+- `launch_oxidus.bat` - Standard launcher with console output
+- `launch_oxidus_silent.bat` - Silent mode (no console window)
+- `launch_oxidus.ps1` - PowerShell version with colored output
+
+These launchers automatically:
+- Activate the virtual environment (`.venv`)
+- Check for dependencies
+- Launch Electron desktop app (or fallback to web UI)
+- Open browser at `http://localhost:5000`
+
+### Manual Launch Options
+
+**Primary Launcher (All-in-one):**
 ```bash
-python main.py
+python launch_oxidus.py
 ```
 
-## 3b. Run Web UI
+**Web UI Only:**
 ```bash
 python web_gui.py
 ```
 Then open `http://localhost:5000` and `http://localhost:5000/admin`.
 
-### 4. Train the Network
+**Console Interface:**
+```bash
+python main.py
+```
+
+**Train the Network:**
 ```bash
 python src/training/trainer.py
 ```
+
+### Environment Variables
+
+Control launcher behavior:
+- `OXIDUS_USE_ELECTRON=0` - Disable Electron, use web browser
+- `OXIDUS_USE_QT=1` - Use Qt/Chromium GUI
+- `OXIDUS_OPEN_BROWSER=0` - Don't auto-open browser
+- `OXIDUS_WSL=1` - Force WSL mode for Linux compatibility
 
 ## Project Structure
 

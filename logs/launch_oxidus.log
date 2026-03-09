@@ -314,3 +314,12 @@
 [2026-02-09 13:19:50] Warming WSL for MemryX
 [2026-02-09 13:19:51] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
 [2026-02-09 13:19:52] Starting Electron via npm start
+[2026-02-09 21:02:02] Launcher started with python: C:\Python314\python.exe
+[2026-02-09 21:02:02] Relaunching with venv: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-02-09 21:02:02] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-02-09 21:02:02] Warming WSL for MemryX
+[2026-02-09 21:02:02] Starting Electron via npm start
+[2026-03-09 16:14:00] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:14:00] Warming WSL for MemryX
+[2026-03-09 16:14:09] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:14:23] Starting Electron via npm start
