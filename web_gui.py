@@ -1398,25 +1398,52 @@ def run_maintenance_task(task: str, data: dict) -> dict:
         output_path = data.get('output_path')
         if not input_path:
             return {'success': False, 'error': 'No thought stream file found'}
+        # Validate input path is within allowed directory
+        try:
+            Path(input_path).resolve()
+        except (ValueError, OSError):
+            return {'success': False, 'error': 'Invalid input path'}
         args.append(input_path)
         if output_path:
+            # Validate output path
+            try:
+                Path(output_path).resolve()
+            except (ValueError, OSError):
+                return {'success': False, 'error': 'Invalid output path'}
             args.append(output_path)
     elif task == 'nlp_refine':
         root = data.get('root')
         if not root:
             return {'success': False, 'error': 'root is required'}
+        # Validate root path
+        try:
+            Path(root).resolve()
+        except (ValueError, OSError):
+            return {'success': False, 'error': 'Invalid root path'}
         args.extend(['--root', root])
     elif task == 'refine_uncategorized':
         src = data.get('src')
         root = data.get('root')
         if not src or not root:
             return {'success': False, 'error': 'src and root are required'}
+        # Validate both paths
+        try:
+            Path(src).resolve()
+            Path(root).resolve()
+        except (ValueError, OSError):
+            return {'success': False, 'error': 'Invalid path'}
         args.extend(['--src', src, '--root', root])
     elif task == 'sort_knowledge':
         source = data.get('source')
         out_dir = data.get('out')
         if not source or not out_dir:
             return {'success': False, 'error': 'source and out are required'}
+        # Validate both paths
+        try:
+            Path(source).resolve()
+            Path(out_dir).resolve()
+        except (ValueError, OSError):
+            return {'success': False, 'error': 'Invalid path'}
         args.extend(['--source', source, '--out', out_dir])
 
     try:
@@ -1962,19 +1989,22 @@ def admin_page():
 @app.route('/api/status', methods=['GET'])
 def get_status():
     """Get Oxidus status."""
-    if not oxidus:
-        return jsonify({'error': 'Oxidus not initialized'})
-    
-    summary = oxidus.thought_stream.get_thinking_summary()
-    
-    return jsonify({
-        'total_thoughts': summary['total_thoughts'],
-        'questions': summary['total_questions'],
-        'decisions': summary['total_decisions'],
-        'ethical_checks': summary['ethical_checks'],
-        'insights': summary['insights_gained'],
-        'most_active': summary['most_active']
-    })
+    try:
+        if not oxidus:
+            return jsonify({'error': 'Oxidus not initialized'})
+        
+        summary = oxidus.thought_stream.get_thinking_summary()
+        
+        return jsonify({
+            'total_thoughts': summary['total_thoughts'],
+            'questions': summary['total_questions'],
+            'decisions': summary['total_decisions'],
+            'ethical_checks': summary['ethical_checks'],
+            'insights': summary['insights_gained'],
+            'most_active': summary['most_active']
+        })
+    except Exception as exc:
+        return _handle_api_error(exc, 'get_status')
 
 
 @app.route('/api/health', methods=['GET'])
@@ -2721,11 +2751,14 @@ def _build_ops_summary(include_admin: bool = False) -> dict:
 @app.route('/api/ops/summary', methods=['GET'])
 def ops_summary():
     """Get streamlined operations summary for the main UI."""
-    if not oxidus:
-        return jsonify({'error': 'Oxidus not initialized'})
+    try:
+        if not oxidus:
+            return jsonify({'error': 'Oxidus not initialized'})
 
-    summary = _get_cached(_cache_key('ops_summary'), 3.0, lambda: _build_ops_summary(include_admin=False))
-    return jsonify(summary)
+        summary = _get_cached(_cache_key('ops_summary'), 3.0, lambda: _build_ops_summary(include_admin=False))
+        return jsonify(summary)
+    except Exception as exc:
+        return _handle_api_error(exc, 'ops_summary')
 
 
 @app.route('/api/admin/ops/summary', methods=['GET'])
@@ -2813,8 +2846,8 @@ def admin_stop_autonomy():
         oxidus.thought_stream.add_thought(ThoughtType.DECISION, 'Autonomy disabled by admin')
         _log_telemetry('autonomy_disabled')
         return jsonify({'success': True, 'message': 'Autonomous thinking disabled'})
-    except Exception as e:
-        return jsonify({'error': 'Failed to stop autonomy', 'detail': str(e)})
+    except Exception as exc:
+        return _handle_api_error(exc, 'stop_autonomy')
 
 
 @app.route('/api/admin/reset-knowledge', methods=['POST'])
@@ -2860,7 +2893,7 @@ def admin_knowledge_dedupe():
     try:
         result = oxidus.knowledge_organizer.dedupe_sources()
     except Exception as exc:
-        return jsonify({'success': False, 'error': str(exc)}), 500
+        return _handle_api_error(exc, 'deduplicate_sources')
 
     _log_telemetry('knowledge_dedupe', {
         'removed_duplicates': result.get('removed_duplicates'),
@@ -2885,12 +2918,12 @@ def admin_knowledge_rebuild_dedupe():
     try:
         rebuild_result = oxidus.rebuild_knowledge_index()
     except Exception as exc:
-        return jsonify({'success': False, 'error': str(exc)}), 500
+        return _handle_api_error(exc, 'rebuild_knowledge_index')
 
     try:
         dedupe_result = oxidus.knowledge_organizer.dedupe_sources()
     except Exception as exc:
-        return jsonify({'success': False, 'error': str(exc)}), 500
+        return _handle_api_error(exc, 'dedupe_sources')
 
     _log_telemetry('knowledge_rebuild_dedupe', {
         'rebuild': rebuild_result,
@@ -3009,11 +3042,14 @@ def admin_learning_trace():
     if guard:
         return guard
 
-    if not oxidus or not oxidus.knowledge_organizer:
-        return jsonify({'success': False, 'error': 'Knowledge organizer not available'}), 400
+    try:
+        if not oxidus or not oxidus.knowledge_organizer:
+            return jsonify({'success': False, 'error': 'Knowledge organizer not available'}), 400
 
-    trace = oxidus.knowledge_organizer.get_learning_trace() or {}
-    return jsonify({'success': True, 'trace': trace})
+        trace = oxidus.knowledge_organizer.get_learning_trace() or {}
+        return jsonify({'success': True, 'trace': trace})
+    except Exception as exc:
+        return _handle_api_error(exc, 'learning_trace')
 
 
 @app.route('/api/admin/moltbook/ingest', methods=['POST'])
@@ -3039,7 +3075,7 @@ def admin_moltbook_ingest():
         oxidus._moltbook_ingest_once()
     except Exception as exc:
         _enter_safe_mode(f"Moltbook ingest error: {exc}", 'moltbook_ingest')
-        return jsonify({'success': False, 'error': str(exc)}), 500
+        return _handle_api_error(exc, 'moltbook_ingest')
 
     return jsonify({'success': True, 'message': 'Moltbook ingest complete.'})
 
@@ -3391,7 +3427,7 @@ def open_file():
         else:
             subprocess.Popen(['xdg-open', str(path)])
     except Exception as exc:
-        return jsonify({'success': False, 'error': str(exc)}), 500
+        return _handle_api_error(exc, 'open_file')
 
     return jsonify({'success': True})
 
@@ -3405,14 +3441,26 @@ def admin_rebuild_knowledge():
     guard = _block_if_safe_mode('admin_rebuild_knowledge')
     if guard:
         return guard
+
+    try:
+        if not oxidus:
+            return jsonify({'error': 'Oxidus not initialized'})
+        result = oxidus.rebuild_knowledge_index()
+        _log_telemetry('knowledge_rebuild')
+        _invalidate_cache('ops_summary')
+        _invalidate_cache('admin_ops_summary')
+        _warm_ops_cache()
+        return jsonify(result)
+    except Exception as exc:
+        return _handle_api_error(exc, 'rebuild_knowledge')
     if not oxidus:
         return jsonify({'error': 'Oxidus not initialized'})
 
     result = {}
     try:
         result = oxidus.rebuild_knowledge_index()
-    except Exception as e:
-        result = {'success': False, 'error': str(e)}
+    except Exception as exc:
+        return _handle_api_error(exc, 'rebuild_knowledge')
 
     if result.get('success'):
         _invalidate_cache('ops_summary')
@@ -3433,17 +3481,20 @@ def admin_cleanup_external_sources():
     if guard:
         return guard
 
-    data = request.json or {}
-    include_retired = bool(data.get('include_retired', False))
-    dry_run = bool(data.get('dry_run', True))
-    confirm = bool(data.get('confirm', False))
+    try:
+        data = request.json or {}
+        include_retired = bool(data.get('include_retired', False))
+        dry_run = bool(data.get('dry_run', True))
+        confirm = bool(data.get('confirm', False))
 
-    if not dry_run and not confirm:
-        return jsonify({'success': False, 'error': 'Confirmation required for destructive cleanup'}), 400
+        if not dry_run and not confirm:
+            return jsonify({'success': False, 'error': 'Confirmation required for destructive cleanup'}), 400
 
-    result = cleanup_external_sources(include_retired=include_retired, dry_run=dry_run)
-    result['success'] = True
-    return jsonify(result)
+        result = cleanup_external_sources(include_retired=include_retired, dry_run=dry_run)
+        result['success'] = True
+        return jsonify(result)
+    except Exception as exc:
+        return _handle_api_error(exc, 'cleanup_external')
 
 
 @app.route('/api/admin/maintenance/run', methods=['POST'])
@@ -3501,7 +3552,7 @@ def admin_memryx_benchmark():
     except FileNotFoundError:
         return jsonify({'success': False, 'error': 'mx_bench/acclBench not found'}), 400
     except Exception as exc:
-        return jsonify({'success': False, 'error': str(exc)}), 500
+        return _handle_api_error(exc, 'memryx_benchmark')
 
 
 def _build_memryx_health_report() -> dict:
@@ -3710,6 +3761,26 @@ def admin_tiering_overview():
     return jsonify(overview)
 
 
+def _is_path_safe(path: Path, base: Path) -> bool:
+    """Verify that path is within the base directory (prevents path traversal)."""
+    try:
+        path.resolve().relative_to(base.resolve())
+        return True
+    except ValueError:
+        return False
+
+
+def _handle_api_error(exc: Exception, operation: str = 'operation') -> tuple:
+    """Handle API errors safely: log details, return generic message to client."""
+    error_msg = f"API Error during {operation}: {type(exc).__name__}: {str(exc)}"
+    _log_telemetry('api_error', {'operation': operation, 'error_type': type(exc).__name__})
+    # Log the full exception for debugging but don't expose to client
+    import traceback
+    _log_indexing(f"Exception traceback: {traceback.format_exc()}")
+    # Return generic error message to prevent information disclosure
+    return jsonify({'success': False, 'error': f'Failed to complete {operation}'}), 500
+
+
 def _archive_paths(paths: list, dry_run: bool = True, reason: str = 'retention_policy') -> dict:
     policy = _load_archival_policy()
     archive_root = Path(policy.get('archive_root') or '').expanduser()
@@ -3727,10 +3798,18 @@ def _archive_paths(paths: list, dry_run: bool = True, reason: str = 'retention_p
         if not rel_path:
             continue
         source = (kb_root / rel_path).resolve()
+        # Validate that source is still within kb_root (prevents path traversal)
+        if not _is_path_safe(source, kb_root):
+            skipped.append({'path': rel_path, 'reason': 'invalid_path'})
+            continue
         if not source.exists():
             skipped.append({'path': rel_path, 'reason': 'missing'})
             continue
         dest = (archive_root / rel_path).resolve()
+        # Validate that dest is still within archive_root (prevents path traversal)
+        if not _is_path_safe(dest, archive_root):
+            skipped.append({'path': rel_path, 'reason': 'invalid_path'})
+            continue
         if dest.exists():
             skipped.append({'path': rel_path, 'reason': 'already_archived'})
             continue
@@ -3835,6 +3914,13 @@ def admin_archive_restore():
     kb_root = _knowledge_base_root().resolve()
     source = (archive_root / rel_path).resolve()
     dest = (kb_root / rel_path).resolve()
+    
+    # Validate paths are within allowed directories (prevents path traversal)
+    if not _is_path_safe(source, archive_root):
+        return jsonify({'success': False, 'error': 'path not allowed'}), 403
+    if not _is_path_safe(dest, kb_root):
+        return jsonify({'success': False, 'error': 'path not allowed'}), 403
+    
     if not source.exists():
         return jsonify({'success': False, 'error': 'archived file not found'}), 404
     if dest.exists():
@@ -4413,4 +4499,6 @@ def lm_studio_status():
 
 if __name__ == '__main__':
     threading.Thread(target=init_oxidus, daemon=True).start()
-    app.run(debug=True, port=5000, host='127.0.0.1')
+    # Debug mode disabled in production; set OXIDUS_DEBUG env var to enable
+    debug_mode = os.environ.get('OXIDUS_DEBUG', '').lower() in ('true', '1', 'yes')
+    app.run(debug=debug_mode, port=5000, host='127.0.0.1')

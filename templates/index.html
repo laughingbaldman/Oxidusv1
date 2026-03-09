@@ -1230,6 +1230,16 @@
     </div>
 
     <script>
+        // Helper function to safely escape HTML entities
+        function escapeHtml(text) {
+            if (typeof text !== 'string') {
+                return '';
+            }
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
         function applyTooltips() {
             const buttonHints = {
                 'Send Response': 'Send your message to Oxidus. Use this when the input box contains your final wording. A send triggers reasoning, logging, and any active learning hooks.',
@@ -2150,7 +2160,7 @@
                     messageDiv.className = 'message oxidus';
                     messageDiv.innerHTML = `
                         <div class="message-label">OXIDUS [Novel Question]</div>
-                        <div class="message-content"><strong>Topic: ${data.topic || topic}</strong><br><br>${data.question}</div>
+                        <div class="message-content"><strong>Topic: ${escapeHtml(data.topic || topic)}</strong><br><br>${escapeHtml(data.question)}</div>
                     `;
                     conversationDiv.appendChild(messageDiv);
                     conversationDiv.scrollTop = conversationDiv.scrollHeight;
@@ -2196,7 +2206,7 @@
                     aiDiv.className = 'message user';
                     aiDiv.innerHTML = `
                         <div class="message-label">AI Response</div>
-                        <div class="message-content">${aiResponse}</div>
+                        <div class="message-content">${escapeHtml(aiResponse)}</div>
                     `;
                     conversationDiv.appendChild(aiDiv);
                     
@@ -2205,7 +2215,7 @@
                     oxidusDiv.className = 'message oxidus';
                     oxidusDiv.innerHTML = `
                         <div class="message-label">OXIDUS [Learning from AI]</div>
-                        <div class="message-content">${data.analysis}</div>
+                        <div class="message-content">${escapeHtml(data.analysis)}</div>
                     `;
                     conversationDiv.appendChild(oxidusDiv);
                     conversationDiv.scrollTop = conversationDiv.scrollHeight;
@@ -2476,8 +2486,8 @@
                     const questionDiv = document.createElement('div');
                     questionDiv.className = 'message user';
                     questionDiv.innerHTML = `
-                        <div class="message-label">[OXIDUS ASKS LM STUDIO] - Topic: ${topic}</div>
-                        <div class="message-content">${data.question}</div>
+                        <div class="message-label">[OXIDUS ASKS LM STUDIO] - Topic: ${escapeHtml(topic)}</div>
+                        <div class="message-content">${escapeHtml(data.question)}</div>
                     `;
                     conversationDiv.appendChild(questionDiv);
                     
@@ -2486,7 +2496,7 @@
                     responseDiv.className = 'message oxidus';
                     responseDiv.innerHTML = `
                         <div class="message-label">[LM STUDIO AI RESPONSE]</div>
-                        <div class="message-content">${data.ai_response}</div>
+                        <div class="message-content">${escapeHtml(data.ai_response)}</div>
                     `;
                     conversationDiv.appendChild(responseDiv);
                     
@@ -2495,7 +2505,7 @@
                     analysisDiv.className = 'message system';
                     analysisDiv.innerHTML = `
                         <div class="message-label">[OXIDUS LEARNING ANALYSIS]</div>
-                        <div class="message-content" style="white-space: pre-wrap;">${data.oxidus_analysis}</div>
+                        <div class="message-content" style="white-space: pre-wrap;">${escapeHtml(data.oxidus_analysis)}</div>
                     `;
                     conversationDiv.appendChild(analysisDiv);
                     

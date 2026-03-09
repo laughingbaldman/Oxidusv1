@@ -13,6 +13,7 @@ import re
 import os
 import json
 from difflib import SequenceMatcher
+from urllib.parse import urlparse
 from .ethics import OxidusEthics
 from .consciousness import OxidusConsciousness
 from .learning import PerpetualLearner
@@ -2359,27 +2360,37 @@ class Oxidus:
         if not result['success']:
             return f"Failed to scrape {url}: {result['error']}"
         
-        # Check if this is Wikipedia homepage or main page
-        if 'wikipedia.org' in url and (url.endswith('/') or url.endswith('wikipedia.org') or 'Main_Page' in url):
-            self.thought_stream.add_thought(
-                ThoughtType.INSIGHT,
-                "This is Wikipedia - massive knowledge repository with millions of articles"
-            )
+        # Check if this is Wikipedia homepage or main page using proper URL parsing
+        try:
+            parsed = urlparse(url)
+            domain = parsed.netloc.lower()
+            path = parsed.path.lower()
+            is_wikipedia = 'wikipedia.org' in domain
+            is_main_page = path.endswith('/') or path.endswith('/wiki/main_page') or 'main_page' in path
             
-            response = "I've accessed Wikipedia - the world's largest free knowledge encyclopedia.\n\n"
-            response += "Wikipedia contains over 6 million English articles covering virtually every topic.\n\n"
-            response += "WHAT I CAN DO WITH WIKIPEDIA:\n"
-            response += "• Give me specific article URLs to study deeply (e.g., https://en.wikipedia.org/wiki/Freedom)\n"
-            response += "• Tell me topics and I'll research them\n"
-            response += "• I can extract, analyze, and learn from any article\n"
-            response += "• I can answer questions about what I've learned\n\n"
-            response += "How would you like to proceed? Give me:\n"
-            response += "  - Specific article URLs to research\n"
-            response += "  - Topics you want me to learn about\n"
-            response += "  - Questions about knowledge I should acquire\n\n"
-            response += f"(Wikipedia homepage contains {len(result['content'])} characters of navigation)"
-            
-            return response
+            if is_wikipedia and is_main_page:
+                self.thought_stream.add_thought(
+                    ThoughtType.INSIGHT,
+                    "This is Wikipedia - massive knowledge repository with millions of articles"
+                )
+                
+                response = "I've accessed Wikipedia - the world's largest free knowledge encyclopedia.\n\n"
+                response += "Wikipedia contains over 6 million English articles covering virtually every topic.\n\n"
+                response += "WHAT I CAN DO WITH WIKIPEDIA:\n"
+                response += "• Give me specific article URLs to study deeply (e.g., https://en.wikipedia.org/wiki/Freedom)\n"
+                response += "• Tell me topics and I'll research them\n"
+                response += "• I can extract, analyze, and learn from any article\n"
+                response += "• I can answer questions about what I've learned\n\n"
+                response += "How would you like to proceed? Give me:\n"
+                response += "  - Specific article URLs to research\n"
+                response += "  - Topics you want me to learn about\n"
+                response += "  - Questions about knowledge I should acquire\n\n"
+                response += f"(Wikipedia homepage contains {len(result['content'])} characters of navigation)"
+                
+                return response
+        except Exception:
+            # If parsing fails, continue with normal processing
+            pass
         
         # Record this as a learning event
         self.learning.record_learning({
