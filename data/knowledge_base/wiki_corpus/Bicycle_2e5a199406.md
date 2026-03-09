@@ -1,0 +1,1305 @@
+---
+title: "Bicycle"
+domain: "engineering"
+source_id: "wikipedia"
+source_url: "https://en.wikipedia.org/wiki/Bicycle"
+source_title: "Bicycle"
+source_type: "wiki"
+topic_type: "wiki_article"
+license: "CC BY-SA 4.0"
+curator: "oxidus_wiki_crawler"
+created_utc: "2026-03-09T17:23:07.296953"
+updated_utc: "2026-03-09T23:23:07Z"
+lifecycle_state: "raw"
+content_length: 43535
+links_count: 1049
+trust_tier: "secondary"
+---
+
+A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. A bicycle rider is called a cyclist, or bicyclist.
+The bicycle was introduced in the 19th century in Europe. By the early 21st century, there were more than 1 billion bicycles. Bicycles are the principal means of transport in many regions. They also provide a popular form of recreation, and have been adapted for use as children's toys. Bicycles are used for fitness, military and police applications, courier services, bicycle racing, and artistic cycling.
+The basic shape and configuration of a typical upright or "safety" bicycle, has changed little since the first chain-driven model was developed around 1885. However, many details have been improved, especially since the advent of modern materials and computer-aided design. These have allowed for a proliferation of specialized designs for many types of cycling. In the 21st century, electric bicycles have become popular.
+The bicycle's invention has had an enormous effect on society, both in terms of culture and of advancing modern industrial methods. Several components that played a key role in the development of the automobile were initially invented for use in the bicycle, including ball bearings, pneumatic tires, chain-driven sprockets, and tension-spoked wheels.
+
+
+== Etymology ==
+The word bicycle first appeared in English print in The Daily News in 1868, to describe "Bysicles and trysicles" on the "Champs Elysées and Bois de Boulogne". The word was first used in 1847 in a French publication to describe an unidentified two-wheeled vehicle, possibly a carriage. The design of the bicycle was an advance on the velocipede, although the words were used with some degree of overlap for a time.
+Other words for bicycle include "bike", "pushbike", "pedal cycle", or "cycle". In Unicode, the code point for "bicycle" is 0x1F6B2. The entity &#x1F6B2; in HTML produces 🚲.
+Although bike and cycle are used interchangeably to refer mostly to two types of two-wheelers, the terms still vary across the world. In India, for example, a cycle refers only to a two-wheeler using pedal power whereas the term bike is used to describe a two-wheeler using an internal combustion engine or electric motors as a source of motive power instead of motorcycle/motorbike.
+
+
+== History ==
+The "dandy horse", also called Draisienne or Laufmaschine ("running machine"), was the first human means of transport to use only two wheels in tandem and was invented by the German Baron Karl von Drais. It is regarded as the first bicycle and von Drais is seen as the "father of the bicycle", but it did not have pedals. Von Drais introduced it to the public in Mannheim in 1817 and in Paris in 1818. Its rider sat astride a wooden frame supported by two in-line wheels and pushed the vehicle along with his or her feet while steering the front wheel.
+The first mechanically propelled, two-wheeled vehicle may have been built by Kirkpatrick MacMillan, a Scottish blacksmith, in 1839, although this claim is often disputed. He is also associated with the first recorded instance of a cycling traffic offense, when a Glasgow newspaper in 1842 reported an accident in which an anonymous "gentleman from Dumfries-shire... bestride a velocipede... of ingenious design" knocked over a little girl in Glasgow and was fined five shillings (equivalent to £30 in 2023).
+In the early 1860s, the Frenchmen Pierre Michaux and Pierre Lallement took bicycle design in a new direction by adding a mechanical crank drive with pedals on an enlarged front wheel (the velocipede). This was the first in mass production. Another French inventor named Douglas Grasso had a failed prototype of Pierre Lallement's bicycle several years earlier. Several inventions followed using rear-wheel drive, the best known being the rod-driven velocipede by Scotsman Thomas McCall in 1869. In the same year, bicycle wheels with wire spokes were patented by Eugène Meyer of Paris. The French vélocipède, made of iron and wood, developed into the "penny-farthing" (historically known as an "ordinary bicycle", a retronym, since there was then no other kind). It featured a tubular steel frame on which were mounted wire-spoked wheels with solid rubber tires. These bicycles were difficult to ride due to their high seat and poor weight distribution. In 1868, Rowley Turner, a sales agent of the Coventry Sewing Machine Company (which soon became the Coventry Machinists Company), brought a Michaux cycle to Coventry, England. His uncle, Josiah Turner, and business partner James Starley, used this as a basis for the 'Coventry Model' in what became Britain's first cycle factory.
+The dwarf ordinary addressed some of these faults by reducing the front wheel diameter and setting the seat further back. This, in turn, required gearing—effected in a variety of ways—to efficiently use pedal power. Having to both pedal and steer via the front wheel remained a problem. Englishman J.K. Starley (nephew of James Starley), J.H. Lawson, and Shergold solved this problem by introducing the chain drive (originated by the unsuccessful "bicyclette" of Englishman Henry Lawson), connecting the frame-mounted cranks to the rear wheel. These models were known as safety bicycles, dwarf safeties, or upright bicycles for their lower seat height and better weight distribution. Although, without pneumatic tires, the ride of the smaller-wheeled bicycle would be much rougher than that of the larger-wheeled variety. Starley's 1885 Rover, manufactured in Coventry is usually described as the first recognizably modern bicycle. Soon, the seat tube was added, which created the modern bike's double-triangle diamond frame.
+Further innovations increased comfort and ushered in a second bicycle craze, the 1890s Golden Age of Bicycles. In 1888, Scotsman John Boyd Dunlop introduced the first practical pneumatic tire, which soon became universal. Willie Hume demonstrated the supremacy of Dunlop's tyres in 1889, winning the tyre's first-ever races in Ireland and then England. Soon after, the rear freewheel was developed, enabling the rider to coast. This refinement led to the 1890s invention of coaster brakes. Derailleur gears and hand-operated Bowden cable-pull brakes were also developed during these years, but were only slowly adopted by casual riders.
+The Svea Velocipede with vertical pedal arrangement and locking hubs was introduced in 1892 by the Swedish engineers Fredrik Ljungström and Birger Ljungström.
+In the 1870s, many cycling clubs flourished. They were popular in a time when there were no cars on the market and the principal mode of transportation was horse-drawn vehicles. Among the earliest clubs was The Bicycle Touring Club, which has operated since 1878. By the turn of the century, cycling clubs flourished on both sides of the Atlantic, and touring and racing became widely popular. The Raleigh Bicycle Company was founded in Nottingham, England in 1888. It became the biggest bicycle manufacturing company in the world, making over two million bikes per year.
+Bicycles and horse buggies were the two mainstays of private transportation just prior to the automobile, and the grading of smooth roads in the late 19th century was stimulated by the widespread advertising, production, and use of these devices. More than 1 billion bicycles have been manufactured worldwide as of the early 21st century. Bicycles are the most common vehicle of any kind in the world, and the most numerous model of any kind of vehicle, whether human-powered or motor vehicle, is the Chinese Flying Pigeon, with numbers exceeding 500 million. The next most numerous vehicle, the Honda Super Cub motorcycle, has had more than 100 million units made, while the most produced car, the Toyota Corolla, had reached 44 million and counting in 2016.
+
+
+== Uses ==
+Bicycles are used for transportation, bicycle commuting, and utility cycling. They are also used professionally by mail carriers, paramedics, police, messengers, and general delivery services. Military uses of bicycles include communications, reconnaissance, troop movement, supply of provisions, and patrol, such as in bicycle infantries.
+They are also used for recreational purposes, including bicycle touring, mountain biking, physical fitness, and play. Bicycle sports include racing, BMX racing, track racing, criterium, roller racing, sportives and time trials. Major multi-stage professional events are the Giro d'Italia, the Tour de France, the Vuelta a España, the Tour de Pologne, and the Volta a Portugal. They are also used for entertainment and pleasure in other ways, such as in organised mass rides, artistic cycling and freestyle BMX.
+
+
+== Technical aspects ==
+
+The bicycle has undergone continual adaptation and improvement since its inception. These innovations have continued with the advent of modern materials and computer-aided design, allowing for a proliferation of specialized bicycle types, improved bicycle safety, and riding comfort.
+
+
+=== Types ===
+
+Bicycles can be categorized in many different ways: by function, by number of riders, by general construction, by gearing or by means of propulsion. The more common types include utility bicycles, mountain bicycles, racing bicycles, touring bicycles, hybrid bicycles, cruiser bicycles, and BMX bikes. Less common are tandems, low riders, tall bikes, fixed gear, folding models, amphibious bicycles, cargo bikes, recumbents and electric bicycles.
+Unicycles, tricycles and quadracycles are not strictly bicycles, as they have respectively one, three and four wheels, but are often referred to informally as "bikes" or "cycles".
+
+
+=== Dynamics ===
+
+A bicycle stays upright while moving forward by being steered so as to keep its center of mass over the wheels. This steering is usually provided by the rider, but under certain conditions, may be provided by the bicycle itself.
+The combined center of mass of a bicycle and its rider must lean into a turn to successfully navigate it. This lean is induced by a method known as countersteering, which can be performed by the rider turning the handlebars directly with the hands or indirectly by leaning the bicycle.
+Short-wheelbase or tall bicycles, when braking, can generate enough stopping force at the front wheel to flip longitudinally. The act of purposefully using this force to lift the rear wheel and balance on the front without tipping over is a trick known as a stoppie, endo, or front wheelie.
+
+
+=== Performance ===
+
+The bicycle is extraordinarily efficient in both biological and mechanical terms. The bicycle is the most efficient human-powered means of transportation in terms of energy a person must expend to travel a given distance. From a mechanical viewpoint, up to 99% of the energy delivered by the rider into the pedals is transmitted to the wheels, although the use of gearing mechanisms may reduce this by 10–15%.
+A human traveling on a bicycle at low to medium speeds of around 16–24 km/h (10–15 mph) uses only the power required to walk. Air drag, which is proportional to the square of speed, requires dramatically higher power outputs as speeds increase. If the rider is sitting upright, the rider's body creates about 75% of the total drag of the bicycle/rider combination. Drag can be reduced by seating the rider in a more aerodynamically streamlined position. Drag can also be reduced by covering the bicycle with an aerodynamic fairing. The fastest recorded unpaced speed on a flat surface, as of 2016, was 144.18 km/h (89.59 mph).
+The carbon dioxide generated in the production and transportation of the food required by the bicyclist, per mile traveled, is less than 1⁄10 that generated by energy efficient motorcars.
+
+
+== Parts ==
+
+
+=== Frame ===
+
+The great majority of modern bicycles have a frame with upright seating that looks much like the first chain-driven bike. These upright bicycles almost always feature the diamond frame, a truss consisting of two triangles: the front triangle and the rear triangle. The front triangle consists of the head tube, top tube, down tube, and seat tube. The head tube contains the headset, the set of bearings that allows the fork to turn smoothly for steering and balance. The top tube connects the head tube to the seat tube at the top, and the down tube connects the head tube to the bottom bracket. The rear triangle consists of the seat tube and paired chain stays and seat stays. The chain stays run parallel to the chain, connecting the bottom bracket to the rear dropout, where the axle for the rear wheel is held. The seat stays connected to the top of the seat tube (at or near the same point as the top tube) to the rear fork ends.
+Historically, women's bicycle frames had a top tube that connected in the middle of the seat tube instead of the top, resulting in a lower standover height at the expense of compromised structural integrity, since this places a strong bending load in the seat tube, and bicycle frame members are typically weak in bending. This design, referred to as a step-through frame or as an open frame, allows the rider to mount and dismount in a dignified way while wearing a skirt or dress. While some women's bicycles continue to use this frame style, there is also a variation, the mixte, which splits the top tube laterally into two thinner top tubes that bypass the seat tube on each side and connect to the rear fork ends.
+Step-throughs were popular partly for practical reasons and partly for social mores of the day. For most of the history of bicycles' popularity women have worn long skirts, and the lower frame accommodated these better than the top-tube. Furthermore, it was considered "unladylike" for women to open their legs to mount and dismount. These practices were akin to the older practice of riding horse sidesaddle.
+Another style is the recumbent bicycle. These are inherently more aerodynamic than upright versions, as the rider may lean back onto a support and operate pedals that are on about the same level as the seat. The world's fastest bicycle is a recumbent bicycle but this type was banned from competition in 1934 by the Union Cycliste Internationale.
+Historically, materials used in bicycles have followed a similar pattern as in aircraft, the goal being high strength and low weight. Since the late 1930s, alloy steels have been used for frame and fork tubes in higher quality machines. By the 1980s, aluminum welding techniques had improved to the point that aluminum tube could safely be used instead of steel. Since then aluminum alloy frames and other components have become popular due to their light weight, and most mid-range bikes are now principally aluminum alloy of some kind. More expensive bikes use carbon fibre due to its significantly lighter weight and profiling ability, allowing designers to make a bike both stiff and compliant by manipulating the lay-up. Virtually all professional racing bicycles now use carbon fibre frames, as they have the best strength to weight ratio. A typical modern carbon fiber frame can weigh less than 2 pounds (1 kg).
+Other frame materials include titanium and advanced alloys. Bamboo, a natural composite material with high strength-to-weight ratio and stiffness has been used for bicycles since 1894. Modern versions use bamboo for the primary frame with glued metal connections and parts.
+
+
+=== Drivetrain and gearing ===
+
+The drivetrain begins with pedals which rotate the cranks, which are held in axis by the bottom bracket. Most bicycles use a chain to transmit power to the rear wheel. A very small number of bicycles use a shaft drive to transmit power, or special belts. Hydraulic bicycle transmissions have been built, but they can be inefficient and complex.
+Since cyclists' legs are most efficient over a narrow range of pedaling speeds, or cadence, a variable gear ratio helps a cyclist to maintain an optimum pedalling speed while covering varied terrain. Some, mainly utility, bicycles use hub gears with between 3 and 14 ratios, but most use the generally more efficient derailleur system, by which the chain is moved between different cogs called chainrings and sprockets to select a ratio. A derailleur system normally has two derailleurs, or mechs, one at the front to select the chainring and another at the back to select the sprocket. Most bikes have two or three chainrings, and from 5 to 12 sprockets on the back, with the number of theoretical gears calculated by multiplying front by back. In reality, many gears overlap or require the chain to run diagonally, so the number of usable gears is fewer.
+An alternative to chaindrive is to use a synchronous belt. These are toothed and work much the same as a chain, they are popular with commuters and long distance cyclists as they require little maintenance. They cannot be shifted across a cassette of sprockets, and are used either as single speed or with a hub gear.
+Different gears and ranges of gears are appropriate for different people and styles of cycling. Multi-speed bicycles allow gear selection to suit the circumstances: a cyclist could use a high gear when cycling downhill, a medium gear when cycling on a flat road, and a low gear when cycling uphill. In a lower gear, every turn of the pedals leads to fewer rotations of the rear wheel. This allows the energy required to move the same distance to be distributed over more pedal turns, reducing fatigue when riding uphill, with a heavy load, or against strong winds. A higher gear allows a cyclist to make fewer pedal turns to maintain a given speed, but with more effort per turn of the pedals.
+With a chain drive transmission, a chainring attached to a crank drives the chain, which in turn rotates the rear wheel via the rear sprocket(s) (cassette or freewheel). There are four gearing options: two-speed hub gear integrated with chain ring, up to 3 chain rings, up to 12 sprockets and hub gear built into rear wheel (3-speed to 14-speed). The most common options are either a rear hub or multiple chain rings combined with multiple sprockets (other combinations of options are possible but less common).
+
+
+=== Steering ===
+
+The handlebars connect to the stem that connects to the fork that connects to the front wheel, and the whole assembly connects to the bike and rotates about the steering axis via the headset bearings. Three styles of handlebar are common. Upright handlebars, the norm in Europe and elsewhere until the 1970s, curve gently back towards the rider, offering a natural grip and comfortable upright position. Drop handlebars "drop" as they curve forward and down, offering the cyclist best braking power from a more aerodynamic "crouched" position, as well as more upright positions in which the hands grip the brake lever mounts, the forward curves, or the upper flat sections for increasingly upright postures. Mountain bikes generally feature a 'straight handlebar' or 'riser bar' with varying degrees of sweep backward and centimeters rise upwards, as well as wider widths which can provide better handling due to increased leverage against the wheel.
+
+
+=== Seating ===
+
+Saddles also vary with rider preference, from the cushioned ones favored by short-distance riders to narrower saddles which allow more room for leg swings. Comfort depends on riding position. With comfort bikes and hybrids, cyclists sit high over the seat, their weight directed down onto the saddle, such that a wider and more cushioned saddle is preferable. For racing bikes where the rider is bent over, weight is more evenly distributed between the handlebars and saddle, the hips are flexed, and a narrower and harder saddle is more efficient. Differing saddle designs exist for male and female cyclists, accommodating the genders' differing anatomies and sit bone width measurements, although bikes are typically sold with saddles most appropriate for men. Suspension seat posts and seat springs provide comfort by absorbing shock but can add to the overall weight of the bicycle.
+A recumbent bicycle has a reclined chair-like seat that some riders find more comfortable than a saddle, especially riders who suffer from certain types of seat, back, neck, shoulder, or wrist pain. Recumbent bicycles may have either under-seat or over-seat steering.
+
+
+=== Brakes ===
+
+Bicycle brakes may be rim brakes, in which friction pads are compressed against the wheel rims; hub brakes, where the mechanism is contained within the wheel hub, or disc brakes, where pads act on a rotor attached to the hub. Most road bicycles use rim brakes, but some use disc brakes. Disc brakes are more common for mountain bikes, tandems and recumbent bicycles than on other types of bicycles, due to their increased power, coupled with an increased weight and complexity.
+
+With hand-operated brakes, force is applied to brake levers mounted on the handlebars and transmitted via Bowden cables or hydraulic lines to the friction pads, which apply pressure to the braking surface, causing friction which slows the bicycle down. A rear hub brake may be either hand-operated or pedal-actuated, as in the back pedal coaster brakes which were popular in North America until the 1960s.
+Track bicycles do not have brakes, because all riders ride in the same direction around a track which does not necessitate sharp deceleration. Track riders are still able to slow down because all track bicycles are fixed-gear, meaning that there is no freewheel. Without a freewheel, coasting is impossible, so when the rear wheel is moving, the cranks are moving. To slow down, the rider applies resistance to the pedals, acting as a braking system which can be as effective as a conventional rear wheel brake, but not as effective as a front wheel brake.
+
+
+=== Suspension ===
+
+Bicycle suspension refers to the system or systems used to suspend the rider and all or part of the bicycle. This serves two purposes: to keep the wheels in continuous contact with the ground, improving control, and to isolate the rider and luggage from jarring due to rough surfaces, improving comfort.
+Bicycle suspensions are used primarily on mountain bicycles, but are also common on hybrid bicycles, as they can help deal with problematic vibration from poor surfaces. Suspension is especially important on recumbent bicycles, since while an upright bicycle rider can stand on the pedals to achieve some of the benefits of suspension, a recumbent rider cannot.
+Basic mountain bicycles and hybrids usually have front suspension only, whilst more sophisticated ones also have rear suspension. Road bicycles tend to have no suspension.
+
+
+=== Wheels and tires ===
+
+The wheel axle fits into fork ends in the frame and fork. A pair of wheels may be called a wheelset, especially in the context of ready-built "off the shelf", performance-oriented wheels. Tires vary enormously depending on their intended purpose. Road bicycles use tires 0.7 to 1.0 inch (18 to 25 mm) wide, most often completely smooth, or slick, and inflated to high pressure to roll fast on smooth surfaces. Off-road tires are usually between 1.5 and 2.5 inches (38 and 64 mm) wide, and have treads for gripping in muddy conditions or metal studs for ice.
+
+
+=== Accessories ===
+
+Some components, which are often optional accessories on sports bicycles, are standard features on utility bicycles to enhance their usefulness, comfort, safety and visibility. Fenders with spoilers (mudflaps) protect the cyclist and moving parts from spray when riding through wet areas. In some countries (e.g. Germany, UK), fenders are called mudguards. The chainguards protect clothes from oil on the chain while preventing clothing from getting caught between the chain and crankset teeth. Kick stands keep bicycles upright when parked, and bike locks deter theft. Front-mounted baskets, front or rear luggage carriers or racks, and panniers mounted above either or both wheels can be used to carry equipment or cargo. Parents sometimes add rear-mounted child seats, an auxiliary saddle fitted to the crossbar, or both to transport children. Bicycles can also be fitted with a hitch to tow a trailer for carrying cargo, a child, or both.
+Toe-clips, toestraps and clipless pedals help keep the foot locked in the proper pedal position and enable cyclists to pull and push the pedals. Technical accessories include cyclocomputers for measuring speed, distance, heart rate, GPS data etc. Other accessories include lights, reflectors, mirrors, racks, trailers, bags, water bottles and cages, and bells. Bicycle lights, reflectors, and helmets are required by law in some geographic regions. It is more common to see bicycles with bottle generators, dynamos, lights, fenders, racks and bells in Europe. Bicyclists also have specialized form fitting and high visibility clothing.
+Children's bicycles may be outfitted with cosmetic enhancements such as bike horns, streamers, and spoke beads. Training wheels are sometimes used when learning to ride, but a dedicated balance bike teaches independent riding more effectively.
+Bicycle helmets can reduce injury in the event of a collision or accident, and a suitable helmet is legally required of riders in many jurisdictions. Helmets may be classified as an accessory or as an item of clothing.
+Bike trainers are used to enable cyclists to cycle while the bike remains stationary. They are frequently used to warm up before races or indoors when riding conditions are unfavorable.
+
+
+=== Standards ===
+A number of formal and industry standards exist for bicycle components to help make spare parts exchangeable and to maintain a minimum product safety. The International Organization for Standardization (ISO) has a special technical committee for cycles, TC149, that has the scope of "Standardization in the field of cycles, their components and accessories with particular reference to terminology, testing methods and requirements for performance and safety, and interchangeability".
+The European Committee for Standardization (CEN) also has a specific Technical Committee, TC333, that defines European standards for cycles. Their mandate states that CEN cycle standards shall harmonize with ISO standards. Some CEN cycle standards were developed before ISO published their standards, leading to strong European influences in this area. European cycle standards tend to describe minimum safety requirements, while ISO standards have historically harmonized parts geometry.
+
+
+== Maintenance and repair ==
+Like all products with mechanical moving parts, bicycles require regular maintenance and replacement of worn parts. A bicycle is relatively simple compared with a car, so some cyclists choose to do at least part of the maintenance themselves. Some components are easy to manage using relatively simple tools, while other components may require specialist manufacturer-dependent tools.
+Many bicycle components are available at several different price/quality points; manufacturers generally try to keep all components on any particular bike at about the same quality level, though at the very cheap end of the market there may be some skimping on less obvious components (e.g. bottom bracket).
+
+There are several hundred assisted-service community bicycle organizations worldwide. At a community bicycle organization, laypeople bring in bicycles needing repair or maintenance; volunteers teach them how to do the required steps.
+Full services are available from bicycle mechanics at local bike shops.
+In areas where it is available, some cyclists purchase roadside assistance from companies such as the Better World Club or the American Automobile Association.
+
+
+=== Maintenance ===
+The most basic maintenance item is keeping the tires correctly inflated; this can make a noticeable difference as to how the bike feels to ride. Bicycle tires usually have a marking on the sidewall indicating the pressure appropriate for that tire. Bicycles use much higher pressures than cars: car tires are normally in the range of 30 to 40 pounds per square inch (210 to 280 kPa), whereas bicycle tires are normally in the range of 60 to 100 pounds per square inch (410 to 690 kPa).
+Another basic maintenance item is regular lubrication of the chain and pivot points for derailleurs and brake components. Most of the bearings on a modern bike are sealed and grease-filled and require little or no attention; such bearings will usually last for 10,000 miles (16,000 km) or more. The crank bearings require periodic maintenance, which involves removing, cleaning and repacking with the correct grease.
+The chain and the brake blocks are the components which wear out most quickly, so these need to be checked from time to time, typically every 500 miles (800 km) or so. Most local bike shops will do such checks for free. Note that when a chain becomes badly worn, it will also wear out the rear cogs/cassette and eventually the chain ring(s), so replacing a chain when only moderately worn will prolong the life of other components.
+Over the longer term, tires do wear out, after 2,000 to 5,000 miles (3,200 to 8,000 km); with punctures often the most visible sign of a worn tire.
+
+
+=== Repair ===
+Very few bicycle components can actually be repaired; replacement of the failing component is normal practice.
+The most common roadside problem is a puncture of the tire's inner tube. A patch kit may be employed to fix the puncture or the tube can be replaced, though the latter solution comes at a greater cost and waste of material. Some brands of tires are much more puncture-resistant than others, often incorporating one or more layers of Kevlar; the downside of such tires is that they may be heavier and more difficult to fit and remove.
+
+
+=== Tools ===
+
+There are specialized bicycle tools for use both in the shop and at the roadside. Many cyclists carry tool kits. These may include a tire patch kit (which, in turn, may contain any combination of a hand pump or CO2 pump, tire levers, spare tubes, self-adhesive patches, or tube-patching material, an adhesive, a piece of sandpaper or a metal grater (for roughening the tube surface to be patched) and sometimes even a block of French chalk), wrenches, hex keys, screwdrivers, and a chain tool. Special, thin wrenches are often required for maintaining various screw-fastened parts, specifically, the frequently lubricated ball-bearing "cones". There are also cycling-specific multi-tools that combine many of these implements into a single compact device. More specialized bicycle components may require more complex tools, including proprietary tools specific for a given manufacturer.
+
+
+== Social and historical aspects ==
+The bicycle has had a considerable effect on human society, in both the cultural and industrial realms.
+
+
+=== In daily life ===
+
+Around the turn of the 20th century, bicycles reduced crowding in inner-city tenements by allowing workers to commute from more spacious dwellings in the suburbs. They also reduced dependence on horses. Bicycles allowed people to travel for leisure into the country, since bicycles were three times as energy efficient as walking and three to four times as fast.
+
+In built-up cities around the world, urban planning uses cycling infrastructure like bikeways to reduce traffic congestion and air pollution. A number of cities around the world have implemented schemes known as bicycle sharing systems or community bicycle programs. The first of these was the White Bicycle plan in Amsterdam in 1965. It was followed by yellow bicycles in La Rochelle and green bicycles in Cambridge. These initiatives complement public transport systems and offer an alternative to motorized traffic to help reduce congestion and pollution. In Europe, especially in the Netherlands and parts of Germany and Denmark, bicycle commuting is common. In Copenhagen, a cyclists' organization runs a Cycling Embassy that promotes biking for commuting and sightseeing. The United Kingdom has a tax break scheme (IR 176) that allows employees to buy a new bicycle tax free to use for commuting.
+In the Netherlands, all train stations offer free bicycle parking, or a more secure parking place for a small fee, with the larger stations also offering bicycle repair shops. Cycling is so popular that the parking capacity may be exceeded, such as in Delft, where the capacity is usually exceeded. In Trondheim in Norway, the Trampe bicycle lift has been developed to encourage cyclists by giving assistance on a steep hill. Buses in many cities have bicycle carriers mounted on the front.
+There are towns in some countries where bicycle culture has been an integral part of the landscape for generations, even without much official support. That is the case of Ílhavo, in Portugal.
+In cities where bicycles are not integrated into the public transportation system, commuters often use bicycles as elements of a mixed-mode commute, where the bike is used to travel to and from train stations or other forms of rapid transit. Some students who commute several miles drive a car from home to a campus parking lot, then ride a bicycle to class. Folding bicycles are useful in these scenarios, as they are less cumbersome when carried aboard. Los Angeles removed a small amount of seating on some trains to make more room for bicycles and wheel chairs.
+
+Some US companies, notably in the tech sector, are developing both innovative cycle designs and cycle-friendliness in the workplace. Foursquare, whose CEO Dennis Crowley "pedaled to pitch meetings ... [when he] was raising money from venture capitalists" on a two-wheeler, chose a new location for its New York headquarters "based on where biking would be easy". Parking in the office was also integral to HQ planning. Mitchell Moss, who runs the Rudin Center for Transportation Policy & Management at New York University, said in 2012: "Biking has become the mode of choice for the educated high tech worker".
+Bicycles offer an important mode of transport in many developing countries. Until recently, bicycles have been a staple of everyday life throughout Asian countries. They are the most frequently used method of transport for commuting to work, school, shopping, and life in general. In Europe, bicycles are commonly used. They also offer a degree of exercise to keep individuals healthy.
+Bicycles are also celebrated in the visual arts. An example of this is the Bicycle Film Festival, a film festival hosted all around the world.
+
+
+=== Poverty alleviation ===
+
+
+=== Female emancipation ===
+
+The safety bicycle gave women unprecedented mobility, contributing to their emancipation in Western nations. As bicycles became safer and cheaper, more women had access to the personal freedom that bicycles embodied, and so the bicycle came to symbolize the New Woman of the late 19th century, especially in Britain and the United States. The bicycle craze in the 1890s also led to a movement for so-called rational dress, which helped liberate women from corsets and ankle-length skirts and other restrictive garments, substituting the then-shocking bloomers.
+The bicycle was recognized by 19th-century feminists and suffragists as a "freedom machine" for women. American Susan B. Anthony said in a New York World interview on 2 February 1896: "I think it has done more to emancipate woman than any one thing in the world. I rejoice every time I see a woman ride by on a wheel. It gives her a feeling of self-reliance and independence the moment she takes her seat; and away she goes, the picture of untrammelled womanhood." In 1895 Frances Willard, the tightly laced president of the Woman's Christian Temperance Union, wrote A Wheel Within a Wheel: How I Learned to Ride the Bicycle, with Some Reflections by the Way, a 75-page illustrated memoir praising "Gladys", her bicycle, for its "gladdening effect" on her health and political optimism. Willard used a cycling metaphor to urge other suffragists to action.
+In 1985, Georgena Terry started the first women-specific bicycle company. Her designs featured frame geometry and wheel sizes chosen to better fit women, with shorter top tubes and more suitable reach.
+
+
+=== Economic implications ===
+
+Bicycle manufacturing proved to be a training ground for other industries and led to the development of advanced metalworking techniques, both for the frames themselves and for special components such as ball bearings, washers, and sprockets. These techniques later enabled skilled metalworkers and mechanics to develop the components used in early automobiles and aircraft.
+Wilbur and Orville Wright, a pair of businessmen, ran the Wright Cycle Company which designed, manufactured and sold their bicycles during the bike boom of the 1890s.
+They also served to teach the industrial models later adopted, including mechanization and mass production (later copied and adopted by Ford and General Motors), vertical integration (also later copied and adopted by Ford), aggressive advertising (as much as 10% of all advertising in US periodicals in 1898 was by bicycle makers), lobbying for better roads (which had the side benefit of acting as advertising, and of improving sales by providing more places to ride), all first practiced by Pope. In addition, bicycle makers adopted the annual model change (later derided as planned obsolescence, and usually credited to General Motors), which proved very successful.
+Early bicycles were an example of conspicuous consumption, being adopted by the fashionable elites. In addition, by serving as a platform for accessories, which could ultimately cost more than the bicycle itself, it paved the way for the likes of the Barbie doll.
+Bicycles helped create, or enhance, new kinds of businesses, such as bicycle messengers, traveling seamstresses, riding academies, and racing rinks. Their board tracks were later adapted to early motorcycle and automobile racing. There were a variety of new inventions, such as spoke tighteners, and specialized lights, socks and shoes, and even cameras, such as the Eastman Company's Poco. Probably the best known and most widely used of these inventions, adopted well beyond cycling, is Charles Bennett's Bike Web, which came to be called the jock strap.
+
+They also presaged a move away from public transit that would explode with the introduction of the automobile.
+J. K. Starley's company became the Rover Cycle Company Ltd. in the late 1890s, and then renamed the Rover Company when it started making cars. Morris Motors Limited (in Oxford) and Škoda also began in the bicycle business, as did the Wright brothers. Alistair Craig, whose company eventually emerged to become the engine manufacturers Ailsa Craig, also started from manufacturing bicycles, in Glasgow in March 1885.
+In general, US and European cycle manufacturers used to assemble cycles from their own frames and components made by other companies, although very large companies (such as Raleigh) used to make almost every part of a bicycle (including bottom brackets, axles, etc.) In recent years, those bicycle makers have greatly changed their methods of production. Now, almost none of them produce their own frames.
+Many newer or smaller companies only design and market their products; with the actual production being completed elsewhere, often in Asia. For example, over 60% of the world's bicycles are now made in China. Despite this shift in production, as nations such as China and India become more wealthy, their own use of bicycles is declining due to the increasing affordability of cars and motorcycles. One of the major reasons for the proliferation of Chinese-made bicycles in foreign markets is the lower cost of labor in China.
+In line with the European financial crisis of that time, in 2011 the number of bicycle sales in Italy (1.75 million) surpassed the number of new car sales.
+
+
+=== Environmental impact ===
+
+One of the profound economic implications of bicycle use is that it liberates the user from motor fuel consumption. (Ballantine, 1972) The bicycle is an inexpensive, fast, healthy and environmentally friendly mode of transport. Ivan Illich stated that bicycle use extended the usable physical environment for people, while alternatives such as cars and motorways degraded and confined people's environment and mobility. Currently, two billion bicycles are in use around the world. Children, students, professionals, laborers, civil servants and seniors are pedaling around their communities. They all experience the freedom and the natural opportunity for exercise that the bicycle easily provides. Riding a bicycle is the lowest carbon intensity form of travel.
+
+
+=== Manufacturing ===
+
+The global bicycle market was $61 billion in 2011. As of 2009, 130 million bicycles were being sold every year globally and 66% of them were made in China. By 2025, the global market size had increased to an estimated $116 billion.
+
+
+=== Legal requirements ===
+
+Early in its development, as with automobiles, there were restrictions on the operation of bicycles. Along with advertising, and to gain free publicity, Albert A. Pope litigated on behalf of cyclists.
+The 1968 Vienna Convention on Road Traffic of the United Nations considers a bicycle to be a vehicle, and a person controlling a bicycle (whether actually riding or not) is considered an operator or driver. The traffic codes of many countries reflect these definitions and demand that a bicycle satisfy certain legal requirements before it can be used on public roads. In many jurisdictions, it is an offense to use a bicycle that is not in a roadworthy condition. In some countries, bicycles must have functioning front and rear lights when ridden after dark.
+Some countries require cyclists to wear helmets, as this may protect riders from head injuries. Countries which require adult cyclists to wear helmets include Spain, New Zealand and Australia. Mandatory helmet wearing is one of the most controversial topics in the cycling world, with proponents arguing that it reduces head injuries and thus is an acceptable requirement, while opponents argue that by making cycling seem more dangerous and cumbersome, it reduces cyclist numbers on the streets, creating an overall negative health effect (fewer people cycling for their own health, and the remaining cyclists being more exposed through a reversed safety in numbers effect).
+
+
+=== Theft ===
+
+Bicycles are popular targets for theft, due to their value and ease of resale. The number of bicycles stolen annually is difficult to quantify as a large number of crimes are not reported. Around 50% of the participants in the Montreal International Journal of Sustainable Transportation survey were subjected to a bicycle theft in their lifetime as active cyclists. Most bicycles have serial numbers that can be recorded to verify identity in case of theft.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===
+General
+
+
+== Further reading ==
+Glaskin, Max (2013). Cycling Science: How Rider and Machine Work Together. Chicago: University of Chicago Press. ISBN 978-0-226-92187-7.
+Hadland, Tony; Lessing, Hans-Erhard (2014). Bicycle design: an illustrated history. Cambridge, Massachusetts: The MIT Press. ISBN 978-0-262-02675-8.
+Wilson, David Gordon; Schmidt, Theodor; Papadopoulos, Jim (2020). Bicycling science (4 ed.). Cambridge, Massachusetts: The MIT Press. ISBN 978-0-262-53840-4.
+
+
+== External links ==
+
+A History of Bicycles and Other Cycles at the Canada Science and Technology Museum
+
+## Links
+- 27.5 Mountain bike
+- 29er (bicycle)
+- 3T Cycling
+- A-bike
+- ALAN
+- AMF Gloria
+- AT Cycles
+- Abici
+- Active mobility
+- Adler (automobile)
+- Aerodynamic
+- Ailsa Craig Engines
+- Albert A. Pope
+- Alcyon
+- Alpine touring binding
+- Aluminum
+- American Automobile Association
+- American Bicycle Company
+- American Machine and Foundry
+- American Motorcyclist
+- American Motorcyclist Association
+- American Star Bicycle
+- Amphibious bicycles
+- Amphibious cycle
+- Amsterdam
+- Animal-powered transport
+- Annie Lowrey
+- Antenore Belletti
+- Arcology
+- Ariel Motorcycles
+- Artistic cycling
+- Askoll
+- Atala (company)
+- Australian Broadcasting Corporation
+- Auto rickshaw
+- Automobile
+- Automobile racing
+- Autoped
+- BBC News
+- BMX
+- BMX bike
+- BMX racing
+- Baby transport
+- Baggage cart
+- Balance bicycle
+- Balance bike
+- Ball bearing
+- Bamboo
+- Barbie doll
+- Basso Bikes
+- Bath chair
+- Battaglin Cicli
+- Bell Sports
+- Belt-driven bicycle
+- Benotto (company)
+- Better World Club
+- Bianchi (company)
+- Bibcode (identifier)
+- Bickerton (bicycle)
+- Bicycle-friendly
+- Bicycle-sharing system
+- Bicycle (disambiguation)
+- Bicycle Film Festival
+- Bicycle Technologies International
+- Bicycle and motorcycle dynamics
+- Bicycle and motorcycle geometry
+- Bicycle basket
+- Bicycle bell
+- Bicycle brake
+- Bicycle carrier
+- Bicycle chain
+- Bicycle collecting
+- Bicycle commuting
+- Bicycle craze
+- Bicycle culture
+- Bicycle drivetrain systems
+- Bicycle drum brake
+- Bicycle fairing
+- Bicycle fender
+- Bicycle fork
+- Bicycle frame
+- Bicycle gearing
+- Bicycle handlebar
+- Bicycle helmet
+- Bicycle helmets in New Zealand
+- Bicycle horn
+- Bicycle industry
+- Bicycle infantry
+- Bicycle law
+- Bicycle lighting
+- Bicycle locker
+- Bicycle mail
+- Bicycle mechanic
+- Bicycle messenger
+- Bicycle parking
+- Bicycle parking rack
+- Bicycle parking station
+- Bicycle pedal
+- Bicycle pedals
+- Bicycle performance
+- Bicycle poverty reduction
+- Bicycle pump
+- Bicycle rodeo
+- Bicycle rollers
+- Bicycle saddle
+- Bicycle safety
+- Bicycle seat
+- Bicycle sharing system
+- Bicycle suspension
+- Bicycle theft
+- Bicycle tire
+- Bicycle tools
+- Bicycle touring
+- Bicycle trailer
+- Bicycle trainer
+- Bicycle transportation planning and engineering
+- Bicycle tree
+- Bicycle wheel
+- Bicycling (magazine)
+- Bicycling and feminism
+- Bicyclus
+- Biemme
+- Bike-to-Work Day
+- Bike (disambiguation)
+- Bike Friday
+- Bike Week (cycling)
+- Bike boom
+- Bike lock
+- Bike rage
+- Bike registry
+- Bike rental
+- Bilenky Cycle Works
+- Billy cart
+- Biofuel
+- Biogas
+- Biomass
+- Birger Ljungström
+- Birmingham Small Arms Company
+- Bloomers (clothing)
+- Boardman Bikes
+- Boda-boda
+- Bohemian Bicycles
+- Boneshaker (bicycle)
+- Bootie (bicycle)
+- Borile
+- Bottecchia
+- Bottle cage
+- Bottom bracket
+- Bowden cable
+- Brakeboard
+- Brennabor
+- British Eagle (bicycle company)
+- British Motor Museum
+- Brompton Bicycle
+- Brooklyn Bicycle Co.
+- Brooks England
+- Building insulation
+- Burley Design
+- C.B.T. Italia
+- Cable guide
+- Cadence (cycling)
+- Calfee Design
+- Campagnolo
+- Campion Cycle Company
+- Canada Science and Technology Museum
+- Cannondale
+- Canoe
+- Canyon Bicycles
+- Car
+- Car jockey
+- Car rental
+- Carbon-neutral fuel
+- Carbon dioxide
+- Carbon fibre
+- Cargo bike
+- Carlton Cycles
+- Carnielli
+- Carpool
+- Carrera Podium
+- Carsharing
+- Cart
+- Casati
+- Cassette (bicycle part)
+- Castelli (brand)
+- Caster board
+- Catrike
+- Center of mass
+- Centurion (bicycle company)
+- Chain-drive
+- Chain-driven sprocket
+- Chain drive
+- Chain tool
+- Chainguard
+- Chainring
+- Challenge riding
+- Chater-Lea
+- Chesini
+- Chicago Bicycle Company
+- Chiorda
+- Cimatti
+- Cinelli
+- Cino Cinelli
+- City bicycle
+- Ciöcc
+- Clark-Kent
+- Claud Butler
+- Clipless
+- Clipless pedals
+- Clément Cycles
+- Clément Tyres
+- Co-Motion Cycles
+- Coaster brake
+- Code point
+- Cogeneration
+- Cogset
+- Coker Tire
+- Cold-weather biking
+- Colnago
+- Columbia Bicycles
+- Columbia Manufacturing Inc.
+- Columbus (company)
+- Community wind energy
+- Compact fluorescent lamp
+- Composite material
+- Computer-aided design
+- Condor Cycles
+- Conspicuous consumption
+- Continental AG
+- Copenhagen
+- Corima
+- Corratec
+- Cortina Cycles
+- Countersteering
+- Coventry
+- Coventry-Eagle
+- Coventry Premier
+- Crampons
+- Crank (mechanism)
+- Crank set
+- Crankset
+- Criterium
+- Cross-country cycling
+- Cross-country skiing
+- Cruiser bicycle
+- Cruzbike
+- Cube Bikes
+- Cyclability
+- Cycle Force Group
+- Cycle rickshaw
+- Cycle rickshaws
+- Cycle speedway
+- Cycle sport
+- Cycles Follis
+- Cycles Peugeot
+- Cycling
+- Cycling UK
+- Cycling advocacy
+- Cycling club
+- Cycling in the Netherlands
+- Cycling infrastructure
+- Cycling kit
+- Cyclo-cross
+- Cyclo-cross bicycle
+- Cyclocomputer
+- Cyclosportive
+- Cyfac
+- DM Telai
+- Daccordi
+- Dahon
+- Dandy horse
+- Danish bicycle VIN-system
+- Dario Pegoretti
+- Dawes Cycles
+- De Marchi (clothing)
+- De Rosa (bicycle company)
+- Defiance Cycle Company
+- Dennis Crowley
+- Derailleur
+- Derailleur gears
+- Derby Cycle
+- Di Blasi Industriale
+- Diamant (German bicycle company)
+- Diameter
+- Diamondback Bicycles
+- Disc brakes
+- Doi (identifier)
+- Dolan Bikes
+- Downhill bike
+- Downhill mountain biking
+- Duathlon
+- Duke University
+- Dunlop Tyres
+- Durham, North Carolina
+- Dustcap
+- Dynacraft BSC
+- E. C. Stearns Bicycle Agency
+- EN 14764
+- EN 14765
+- EN 14766
+- EN 14781
+- EN 14782
+- EN 15194
+- EN 15496
+- EN 15532
+- Eagle Bicycle Manufacturing Company
+- Eastman Kodak
+- Eco-cities
+- Eco hotel
+- Ecohouse
+- Ecolabel
+- Edoardo Bianchi
+- Efficient energy use
+- Electra Bicycle Company
+- Electric bicycle
+- Electric bicycles
+- Electric motor
+- Electric motorcycles and scooters
+- Electric motors
+- Electric skateboard
+- Electric trike
+- Electric unicycle
+- Electric vehicle
+- Ellis Briggs
+- Ellsworth Handcrafted Bicycles
+- Elswick Hopper
+- Emancipation of women
+- Emilio Bozzi
+- Enduro (mountain biking)
+- Energy Star
+- Energy audit
+- Energy conservation
+- Energy efficiency implementation
+- Energy recovery
+- Energy recycling
+- Energy saving lamp
+- Energy storage
+- Energy transition
+- Environmental planning
+- Environmental technology
+- Ernesto Colnago
+- Eugène Meyer (inventor)
+- Europe
+- European Committee for Standardization
+- Evans Cycles
+- Express Werke
+- Factor Bikes
+- Faggin
+- Falcon Cycles
+- Fat City Cycles
+- Fatbike
+- Felt Bicycles
+- Fender (vehicle)
+- Ferrule
+- Fixed-gear bicycle
+- Flat bar road bike
+- Flatbed trolley
+- Flexible carpooling
+- Floating wind turbine
+- Flying Pigeon
+- Flying Scot (bicycles)
+- Focus Bikes
+- Folding bicycle
+- Ford Motor Company
+- Fork end
+- Fossil fuel phase-out
+- Foursquare (company)
+- Fox Business
+- Fox Factory
+- Frame geometry
+- Frances Willard (suffragist)
+- Francesco Moser
+- Fred P. Hochberg
+- Freddie Grubb
+- Fredrik Ljungström
+- Freeboard (skateboard)
+- Freeride (mountain biking)
+- Freeskates
+- Freestyle BMX
+- Freewheel
+- Freiherr
+- Frejus
+- French chalk
+- Frera
+- Frog Bikes
+- Fuji Bikes
+- Fulcrum Wheels
+- Fyxation
+- GT Bicycles
+- Gary Fisher
+- Gear case
+- Gear ratio
+- Gendron, Inc.
+- General Motors
+- Genesis (bicycle company)
+- Geothermal energy
+- Geothermal heating
+- Geothermal power
+- Ghost-Bikes
+- Gios
+- Gipiemme
+- Giro (company)
+- Giro d'Italia
+- Gitane
+- Giuseppe Olmo
+- Gladiator Cycle Company
+- Glass in green buildings
+- Glossary of cycling
+- Gnome et Rhône
+- Go-kart
+- Goldsprint
+- Golf cart
+- Gondola
+- Gormully & Jeffery
+- Gravel cycling
+- Gravity biking
+- Gravity racer
+- Green building
+- Green building and wood
+- Green transport hierarchy
+- Green vehicle
+- Greymouth
+- Guerciotti
+- HTML
+- Hackney carriage
+- Halfords
+- Hand
+- Hand signals
+- Hand truck
+- Handcar
+- Handcycle
+- Haro Bikes
+- Harry Quinn
+- Hase Spezialräder
+- Hayes Brake
+- Head (company)
+- Head tube
+- Headset (bicycle part)
+- Heat pump
+- Hercules Cycle and Motor Company
+- Hetchins
+- Hex key
+- High tech
+- Hillman
+- History of cycling infrastructure
+- History of the bicycle
+- Hobcart
+- Hoffmann (motorcycle)
+- Holdsworth
+- Honda Super Cub
+- Hope Technology
+- Horse-drawn vehicle
+- Hot air balloon
+- Hoverboard
+- Hovercraft
+- Hub gear
+- Huffy
+- Human-powered aircraft
+- Human-powered helicopter
+- Human-powered hydrofoil
+- Human-powered land vehicle
+- Human-powered transport
+- Human-powered watercraft
+- Human power
+- Human–electric hybrid vehicle
+- Humber cycles
+- Hurtu
+- Hutch BMX
+- Hutchinson SA
+- Hybrid bicycle
+- Hydraulic
+- Hydrocycle
+- Hydroelectricity
+- Hydropower
+- ISBN (identifier)
+- ISO 10230
+- ISO 11243
+- ISO 4210
+- ISO 5775
+- ISO 6692
+- ISO 6695
+- ISO 6696
+- ISO 6697
+- ISO 6698
+- ISO 6699
+- ISO 6701
+- ISO 6742
+- ISO 8090
+- ISO 8098
+- ISO 8488
+- ISO 8562
+- ISO 9633
+- ISSN (identifier)
+- Ibis (bicycle company)
+- Ice cycle
+- Ice skate
+- Ida Husted Harper
+- Idaho stop
+- Independent Fabrication
+- Indiana Bicycle Company
+- Indoor cycling
+- Industrieverband Fahrzeugbau
+- Inline skates
+- Inline skating
+- Inner tube
+- Internal combustion engine
+- International Organization for Standardization
+- International Surrey Company
+- Invalid carriage
+- Iride Bicycles
+- Iron Horse Bicycles
+- Islabikes
+- Italmanubri
+- Italvega
+- Ivan Illich
+- JMC Bicycles
+- James Starley
+- Jamis Bicycles
+- Jock strap
+- John Boyd Dunlop
+- John Kemp Starley
+- Jurisdiction
+- K2 Sports
+- Kalkhoff
+- Karl Drais
+- Kayak
+- Keith Bontrager
+- Kent International
+- Kestrel USA
+- Kettler
+- Kevlar
+- Kick scooter
+- Kick stand
+- Kickbike
+- Kicksled
+- Kickstand
+- Kirkpatrick MacMillan
+- Klein Bicycle Corporation
+- Kogswell Cycles
+- Kona Bicycle Company
+- Kuota
+- L.H. Thomson
+- La Rochelle
+- Lane splitting
+- Lapierre Bikes
+- LeMond Racing Cycles
+- Legnano
+- Lezyne
+- List of BMX bicycle manufacturers
+- List of ISO standards
+- List of bicycle- and human-powered vehicle museums
+- List of bicycle-sharing systems
+- List of bicycle brands and manufacturing companies
+- List of bicycle manufacturing companies
+- List of bicycle parts
+- List of bicycle types
+- List of cyclists
+- List of doping cases in cycling
+- List of films about bicycles and cycling
+- List of human-powered aircraft
+- List of land vehicles types by number of wheels
+- List of low-energy building techniques
+- Litespeed
+- Litter (vehicle)
+- Local bike shop
+- Locking hubs
+- Longboard (skateboard)
+- Look (company)
+- Lotus (bicycles)
+- Lotus Cars
+- Louison Bobet (company)
+- Low-energy house
+- Lowrider bicycle
+- Lucien Juy
+- Luggage carrier
+- Lulu (company)
+- MCipollini
+- Mafac
+- Maffeis
+- Magna (bicycle company)
+- Magura GmbH
+- Maino (company)
+- Mannheim
+- Manufrance
+- Marin Bikes
+- Marine current power
+- Marine energy
+- Marketplace (radio program)
+- Marzocchi
+- Masciaghi
+- Masi Bicycles
+- Mass production
+- Master link
+- Matra
+- Maurizio Fondriest
+- Mavic (bicycle parts company)
+- Melon Bicycles
+- Mercian Cycles
+- Merlin (bicycle company)
+- Miche (company)
+- Michelin
+- Micro hydro
+- Microcar
+- Microgeneration
+- Micromobility
+- Middlemores Saddles
+- Military bicycle
+- Military communications
+- Milwaukee Bicycle Co.
+- Mixed-mode commuting
+- Mixte
+- Mobility scooter
+- Mochet
+- Modal share
+- Mode of transport
+- Modern materials
+- Modolo
+- Monarch Cycle Manufacturing Company
+- Mongoose (company)
+- Moots Cycles
+- Moped
+- Morris Motors
+- Motobécane
+- Motor fuel
+- Motor ship
+- Motor vehicle
+- Motorboat
+- Motorcycle
+- Motorcycle racing
+- Motorcycle taxi
+- Motorized bicycle
+- Motorized scooter
+- Motorized wheelchair
+- Moulton Bicycle
+- Mountain bicycle
+- Mountain bike
+- Mountain bike trials
+- Mountain biking
+- Muddyfox
+- Multi-tool
+- Murray (bicycle company)
+- NSU Motorenwerke
+- National Bike Month
+- National Geographic
+- National Museum of Scotland
+- Netherlands
+- New Woman
+- New York University
+- New York World
+- Next (bicycle company)
+- Nicholas D. Kristof
+- Niner (bicycle company)
+- Nishiki (bicycle company)
+- Norman Cycles
+- Northwave (sportswear)
+- Novara (company)
+- Numeric character reference
+- Ocean thermal energy conversion
+- Olivier brothers
+- Onewheel
+- Opel
+- Ornithopter
+- Ottavio Bottecchia
+- Ouagadougou
+- Outline of bicycles
+- Outline of cycling
+- Outline of wind energy
+- Overman Wheel Company
+- Oxford
+- Oxford English Dictionary
+- PMC (identifier)
+- PMID (identifier)
+- Pacific Cycle
+- Pack animal
+- Paddleboarding
+- Paioli
+- Pannier
+- Paper Bicycle
+- Paramedic
+- Paratransit
+- Party bike
+- Pashley Cycles
+- Passive house
+- Passive solar building design
+- Pedalo
+- Pedelec
+- Pedersen bicycle
+- Pedro de Alcântara, Prince of Grão-Pará
+- Penny-farthing
+- Pentacycle
+- Perry (car)
+- Personal public transport
+- Personal rapid transit
+- Personal transporter
+- Phillips Cycles
+- Physical fitness
+- Pico hydro
+- Pierre Lallement
+- Pierre Michaux
+- Pinarello
+- Pirelli
+- Planet X Limited
+- Planned obsolescence
+- Play (activity)
+- Plug-in hybrid
+- Plymouth, England
+- Pocket Bicycles
+- Pogliaghi
+- Pogo stick
+- Police bicycle
+- Pope Manufacturing Company
+- Porteur bicycle
+- Poverty reduction
+- Prince Antônio Gastão of Orléans-Braganza
+- Prince Luís of Orléans-Braganza (1878–1920)
+- Prinetti & Stucchi
+- Priority Bicycles
+- Private jet
+- Private railroad car
+- Private spaceflight
+- Private transport
+- Proceedings of the Royal Society A
+- Prone bicycle
+- Propain Bicycles
+- Prophete
+- Protected intersection
+- Public transport
+- Pulled rickshaw
+- Pump track
+- Puncture resistance
+- Punt (boat)
+- Pure Cycles
+- Quadracycle
+- Quadracycle (human-powered vehicle)
+- Quality Bicycle Products
+- Quick release skewer
+- Quintana Roo (company)
+- R+E Cycles
+- ROSE Bikes
+- Racing bicycle
+- Rail trail
+- Rail transport
+- Raleigh Bicycle Company
+- Rambler (bicycle)
+- Randonneuring
+- Rans Designs
+- Rapid transit
+- RattleCAD
+- Razor USA
+- Reconnaissance
+- Recreation
+- Recumbent bicycle
+- Redline (bicycle brand)
+- Renewable energy
+- Renewable heat
+- René Herse
+- Retronym
+- Rewel Bikes
+- Reynolds Technology
+- Rhoades Car
+- Richard Sachs
+- Ridesharing company
+- Ridgeback (brand)
+- Riese und Müller
+- Rivendell Bicycle Works
+- Rixe
+- Road bicycle
+- Road bicycle racing
+- Road bicycles
+- Road cycling
+- Roadmaster (bicycle company)
+- Roadster (bicycle)
+- Roberts Cycles
+- Robin Hood (bicycle company)
+- RockShox
+- Rodale, Inc.
+- Rohloff
+- Roller skates
+- Roller skating
+- Ross (bicycle company)
+- Rossin
+- Rover (motorcycles)
+- Rover Company
+- Rowing
+- Rowing cycle
+- Royal Enfield
+- Rudge-Whitworth
+- Rudin Center for Transportation Policy & Management
+- Run-of-the-river hydroelectricity
+- Running
+- Rural economics
+- Rural poverty
+- S2CID (identifier)
+- SE Racing
+- SIDI
+- SOMA Fabrications
+- SRAM Corporation
+- Saddlebag
+- Safety bicycle
+- Safety in numbers
+- Safety reflector
+- Salsa Cycles
+- Sandpaper
+- Santa Cruz Bicycles
+- Santana Cycles
+- Santini SMS
+- Saracen Cycles
+- Schlumpf Drive
+- Schmidt Original Nabendynamo
+- Schoberer Rad Meßtechnik
+- Schwalbe Tires
+- Schwinn Bicycle Company
+- Scientific American
+- Scoop stretcher
+- Scooter (motorcycle)
+- Seatpost
+- Segway
+- Selle Royal
+- Serotta
+- Seven Cycles
+- Shaft-driven bicycle
+- Share taxi
+- Shared transport
+- Shelby Cycle Company
+- Shifter (bicycle part)
+- Shilling
+- Shimano
+- Shinola (retail company)
+- Shopping caddy
+- Shopping cart
+- Sidesaddle
+- Simson (company)
+- Single-track vehicle
+- Single track (mountain biking)
+- Skateboard
+- Skateboarding
+- Ski
+- Skirt guard
+- Sled
+- Slick tire
+- Slugging
+- Small-wheel bicycle
+- Small hydro
+- Snakeboard
+- Snowboard
+- Snowshoe
+- Sociable
+- Softride
+- Solar power
+- Solar vehicle
+- Solex (manufacturer)
+- Solé Bicycles
+- Somec
+- Specialized Bicycle Components
+- Speedplay (bicycle pedal)
+- Spoke
+- Spoke beads
+- Spoke card
+- Spoke nipple
+- Sprocket
+- Sri Lanka
+- Stair Climbing
+- Stair climbing
+- Stairclimber
+- Standup paddleboarding
+- Steel
+- Stelbel
+- Stelber Cycle Corp
+- Stelio Belletti
+- Stella (bicycle company)
+- Stem (bicycle part)
+- Stem (bike)
+- Step-through frame
+- Sterling Bicycle Co.
+- Stiffness
+- Stoppie
+- Stover Bicycle Manufacturing Company
+- Street luge
+- Stretcher
+- Strida
+- Stroller
+- Sturmey-Archer
+- Submarine
+- Suffragist
+- Summer toboggan
+- Sun (motorcycle)
+- Sunbeam Cycles
+- SureStop
+- Surly Bikes
+- Susan B. Anthony
+- Sustainable architecture
+- Sustainable biofuel
+- Sustainable city
+- Sustainable energy
+- Sustainable habitat
+- Sustainable refurbishment
+- Sustainable transport
+- Svea Velocipede
+- Swedish National Museum of Science and Technology
+- Swimming
+- TI Group
+- Tall bike
+- Tandem
+- Tandem bicycle
+- Tanzania
+- Taxicab
+- Tegelijk groen
+- Telemark skiing
+- TerraCycle (bicycle)
+- Terrible One
+- Terrot
+- The Daily News (UK)
+- The Economist
+- The Independent
+- The New York Times
+- Thermal energy storage
+- Thomas McCall (inventor)
+- Tidal barrage
+- Tidal farm
+- Tidal power
+- Tidal stream generator
+- Time's Up!
+- Time (bicycle company)
+- Time trial
+- Tire
+- Tire lever
+- Titanium
+- Toboggan
+- Tom Ritchey
+- Tommasini
+- Torker
+- Torpado
+- Tour de France
+- Tour de Pologne
+- Touring bicycle
+- Toy
+- Toy wagon
+- Toyota Corolla
+- Track bicycle
+- Track cycling
+- Traffic congestion
+- Trailer bike
+- Training wheels
+- Tram
+- Trampe bicycle lift
+- Transportation
+- Treadle bicycle
+- Trek Bicycle Corporation
+- Triathlon
+- Tricycle
+- Trikke
+- Triumph (TWN)
+- Triumph Cycle
+- Triumph Cycle Co. Ltd.
+- Trondheim
+- Tropical green building
+- Truss
+- Tullio Campagnolo
+- Turner Suspension Bicycles
+- Twike
+- Uganda
+- Ulnar tunnel syndrome
+- Unicode
+- Unicycle
+- Unicycle hockey
+- Unicycle trials
+- Union Cycliste Internationale
+- Univega
+- Unpaved road
+- Uppadine Cycles
+- Urago
+- Urban planning
+- Utility bicycle
+- Utility cycling
+- Utrecht
+- Valve stem
+- Van Dessel Sports
+- Van Rysel
+- Vanpool
+- Vehicle for hire
+- Vehicular cycling
+- Velocar
+- Velocipede
+- Velomobile
+- Venture capitalists
+- Victoria (motorcycle)
+- Victorian dress reform
+- Vienna Convention on Road Traffic
+- Viking Cycle Company
+- Villy Custom
+- Vittoria S.p.A.
+- Vitus (bicycle company)
+- Volagi Cycles
+- Volta a Portugal
+- Vuelta a España
+- Vulcanization
+- VéloSoleX
+- Walking
+- Wanderer (company)
+- Washer (mechanical)
+- Waste-to-energy
+- Waterford Precision Cycles
+- Wave power
+- Wayback Machine
+- Weight distribution
+- Welding
+- Western Wheel Works
+- Wheelbarrow
+- Wheelchair
+- Wheelie bike
+- Whyte Bikes
+- Wilderness Trail Bikes
+- Wilier Triestina
+- Willie Hume
+- Wind-powered vehicle
+- Wind farm
+- Wind lens
+- Wind power
+- Wind power forecasting
+- Wind power industry
+- Wind rights
+- Wind turbine
+- Windbelt
+- Windpump
+- Wippermann
+- Wire wheels
+- Wired (magazine)
+- Witcomb Cycles
+- Woman's Christian Temperance Union
+- Woman's Temperance Publishing Association
+- Wooden bicycle
+- Worksman Cycles
+- World Bicycle Day
+- World Digital Library
+- Wrench
+- Wright Cycle Company
+- Wright brothers
+- YT Industries
+- Yamaguchi Bicycles
+- Yeti Cycles
+- YouTube
+- Yuba Bicycles
+- Zero-emissions vehicle
+- Zero-energy building
+- Zero heating building
+- Zigo
+- Zipp
+- Zullo
+- Ílhavo Municipality
+- Škoda Auto

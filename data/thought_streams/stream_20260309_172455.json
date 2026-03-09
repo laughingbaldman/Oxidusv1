@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-03-09T17:24:55.029822",
+  "thought_count": 4,
+  "thoughts": [
+    {
+      "timestamp": "2026-03-09T17:24:38.883568",
+      "type": "question",
+      "content": "What is the core claim or idea behind 'Biofuel'? (source: Biofuel)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-03-09T17:24:38.883568",
+      "type": "question",
+      "content": "How do (first, advanced, advanced biofuels interact or influence each other? (source: Biofuel)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-03-09T17:24:38.883568",
+      "type": "question",
+      "content": "Why does this topic connect most to growth? (source: Biofuel)",
+      "context": {}
+    },
+    {
+      "timestamp": "2026-03-09T17:24:38.883568",
+      "type": "question",
+      "content": "What is missing or uncertain about (first in this source? (source: Biofuel)",
+      "context": {}
+    }
+  ],
+  "cumulative_stats": {
+    "question": 20,
+    "analysis": 0,
+    "decision": 1,
+    "ethical_check": 0,
+    "knowledge_lookup": 0,
+    "research": 1,
+    "reflection": 1,
+    "uncertainty": 5,
+    "insight": 0,
+    "recall": 0,
+    "system": 7
+  }
+}

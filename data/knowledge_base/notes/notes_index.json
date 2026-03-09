@@ -167,6 +167,30 @@
       "created_at": "2026-02-08T18:59:51.459824",
       "updated_at": "2026-02-08T18:59:51.459824",
       "next_review_at": "2026-02-09T18:59:51.459824"
+    },
+    {
+      "id": "110cf68ba8",
+      "topic": "hey oxidus how are you",
+      "summary": "Q: hey  oxidus how are you\nA: Hello! I’m doing well, thank you. How can I help you today?",
+      "questions": [
+        "hey  oxidus how are you"
+      ],
+      "action_items": [
+        "Clarify scope: hey  oxidus how are you",
+        "Collect 2-3 authoritative sources on hey oxidus how are you",
+        "Identify key mechanisms and measurable variables for hey oxidus how are you",
+        "List main risks, failure modes, and constraints for hey oxidus how are you",
+        "Draft a 5-step validation plan or small test for hey oxidus how are you",
+        "Extract 3 concise takeaways and compare against sources"
+      ],
+      "sources": [
+        "chat_exchange"
+      ],
+      "status": "open",
+      "review_count": 0,
+      "created_at": "2026-03-09T17:19:59.489646",
+      "updated_at": "2026-03-09T17:19:59.489646",
+      "next_review_at": "2026-03-10T17:19:59.489646"
     }
   ]
 }

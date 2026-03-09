@@ -1,0 +1,1573 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "53436": {
+          "pageid": 53436,
+          "ns": 0,
+          "title": "Bayonet",
+          "links": [
+            {
+              "ns": 0,
+              "title": "M9 bayonet"
+            },
+            {
+              "ns": 0,
+              "title": "MAC-10"
+            },
+            {
+              "ns": 0,
+              "title": "MAS-49 rifle"
+            },
+            {
+              "ns": 0,
+              "title": "MP 40"
+            },
+            {
+              "ns": 0,
+              "title": "Machete"
+            },
+            {
+              "ns": 0,
+              "title": "Machine gun"
+            },
+            {
+              "ns": 0,
+              "title": "Machine pistol"
+            },
+            {
+              "ns": 0,
+              "title": "Mad Dog Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Magazine (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Maguro bōchō"
+            },
+            {
+              "ns": 0,
+              "title": "Mahdi Army"
+            },
+            {
+              "ns": 0,
+              "title": "Mandau (knife)"
+            },
+            {
+              "ns": 0,
+              "title": "Manufacturing"
+            },
+            {
+              "ns": 0,
+              "title": "Marble Arms"
+            },
+            {
+              "ns": 0,
+              "title": "Marine Barracks Washington D.C."
+            },
+            {
+              "ns": 0,
+              "title": "Mark I trench knife"
+            },
+            {
+              "ns": 0,
+              "title": "Marking knife"
+            },
+            {
+              "ns": 0,
+              "title": "Match grade"
+            },
+            {
+              "ns": 0,
+              "title": "Mathematical discussion of rangekeeping"
+            },
+            {
+              "ns": 0,
+              "title": "Mauser rifles"
+            },
+            {
+              "ns": 0,
+              "title": "Mean time between failures"
+            },
+            {
+              "ns": 0,
+              "title": "Medal of Honor"
+            },
+            {
+              "ns": 0,
+              "title": "Medford Knife and Tool"
+            },
+            {
+              "ns": 0,
+              "title": "Medium machine gun"
+            },
+            {
+              "ns": 0,
+              "title": "Melee"
+            },
+            {
+              "ns": 0,
+              "title": "Meplat"
+            },
+            {
+              "ns": 0,
+              "title": "Mezzaluna"
+            },
+            {
+              "ns": 0,
+              "title": "Michael Walker (knifemaker)"
+            },
+            {
+              "ns": 0,
+              "title": "Microtech Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Mike Snody"
+            },
+            {
+              "ns": 0,
+              "title": "Military Cross"
+            },
+            {
+              "ns": 0,
+              "title": "Military knife wz. 98"
+            },
+            {
+              "ns": 0,
+              "title": "Military parade"
+            },
+            {
+              "ns": 0,
+              "title": "Military tactics"
+            },
+            {
+              "ns": 0,
+              "title": "Ming Dynasty"
+            },
+            {
+              "ns": 0,
+              "title": "Minié ball"
+            },
+            {
+              "ns": 0,
+              "title": "Minute and second of arc"
+            },
+            {
+              "ns": 0,
+              "title": "Misericorde (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Modern warfare"
+            },
+            {
+              "ns": 0,
+              "title": "Mora knife"
+            },
+            {
+              "ns": 0,
+              "title": "Morale"
+            },
+            {
+              "ns": 0,
+              "title": "Morseth"
+            },
+            {
+              "ns": 0,
+              "title": "Mortar (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Muela (knife manufacturer)"
+            },
+            {
+              "ns": 0,
+              "title": "Multi-tool"
+            },
+            {
+              "ns": 0,
+              "title": "Multigun"
+            },
+            {
+              "ns": 0,
+              "title": "Multiple-barrel firearm"
+            },
+            {
+              "ns": 0,
+              "title": "Murphy Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Musket"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzle (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzle brake"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzle energy"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzle rise"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzle shroud"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzle velocity"
+            },
+            {
+              "ns": 0,
+              "title": "Muzzleloader"
+            },
+            {
+              "ns": 0,
+              "title": "Nakiri bōchō"
+            },
+            {
+              "ns": 0,
+              "title": "Napoleon"
+            },
+            {
+              "ns": 0,
+              "title": "Napoleonic wars"
+            },
+            {
+              "ns": 0,
+              "title": "Nationale Volksarmee"
+            },
+            {
+              "ns": 0,
+              "title": "Navaja"
+            },
+            {
+              "ns": 0,
+              "title": "Neck knife"
+            },
+            {
+              "ns": 0,
+              "title": "Needlegun"
+            },
+            {
+              "ns": 0,
+              "title": "Net gun"
+            },
+            {
+              "ns": 0,
+              "title": "Nez Perce War"
+            },
+            {
+              "ns": 0,
+              "title": "Night-vision device"
+            },
+            {
+              "ns": 0,
+              "title": "Nitro Express"
+            },
+            {
+              "ns": 0,
+              "title": "No man's land"
+            },
+            {
+              "ns": 0,
+              "title": "Nontron knife"
+            },
+            {
+              "ns": 0,
+              "title": "OKC-3S Bayonet"
+            },
+            {
+              "ns": 0,
+              "title": "OKC-3S bayonet"
+            },
+            {
+              "ns": 0,
+              "title": "OLFA"
+            },
+            {
+              "ns": 0,
+              "title": "Obturation"
+            },
+            {
+              "ns": 0,
+              "title": "Offensive (military)"
+            },
+            {
+              "ns": 0,
+              "title": "Old French"
+            },
+            {
+              "ns": 0,
+              "title": "Ontario Knife Company"
+            },
+            {
+              "ns": 0,
+              "title": "Open bolt"
+            },
+            {
+              "ns": 0,
+              "title": "Opinel"
+            },
+            {
+              "ns": 0,
+              "title": "Opinel knife"
+            },
+            {
+              "ns": 0,
+              "title": "Out-of-battery"
+            },
+            {
+              "ns": 0,
+              "title": "Overpressure ammunition"
+            },
+            {
+              "ns": 0,
+              "title": "Overview of gun laws by nation"
+            },
+            {
+              "ns": 0,
+              "title": "Pacific War"
+            },
+            {
+              "ns": 0,
+              "title": "Palette knife"
+            },
+            {
+              "ns": 0,
+              "title": "Pantographic knife"
+            },
+            {
+              "ns": 0,
+              "title": "Paper cartridge"
+            },
+            {
+              "ns": 0,
+              "title": "Parang (knife)"
+            },
+            {
+              "ns": 0,
+              "title": "Paratrooper"
+            },
+            {
+              "ns": 0,
+              "title": "Parmesan knife"
+            },
+            {
+              "ns": 0,
+              "title": "Parrying dagger"
+            },
+            {
+              "ns": 0,
+              "title": "Pattern 1907 bayonet"
+            },
+            {
+              "ns": 0,
+              "title": "Peace of Ryswick"
+            },
+            {
+              "ns": 0,
+              "title": "Pen gun"
+            },
+            {
+              "ns": 0,
+              "title": "Penetration (weaponry)"
+            },
+            {
+              "ns": 0,
+              "title": "Peninsular War"
+            },
+            {
+              "ns": 0,
+              "title": "Penknife"
+            },
+            {
+              "ns": 0,
+              "title": "Penny knife"
+            },
+            {
+              "ns": 0,
+              "title": "People's Liberation Army"
+            },
+            {
+              "ns": 0,
+              "title": "People's Liberation Army Navy"
+            },
+            {
+              "ns": 0,
+              "title": "Pepper-box"
+            },
+            {
+              "ns": 0,
+              "title": "Percent of households with guns by country"
+            },
+            {
+              "ns": 0,
+              "title": "Percussion cap"
+            },
+            {
+              "ns": 0,
+              "title": "Personal defence weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Pesh-kabz"
+            },
+            {
+              "ns": 0,
+              "title": "Phill Hartsfield"
+            },
+            {
+              "ns": 0,
+              "title": "Photographic lens"
+            },
+            {
+              "ns": 0,
+              "title": "Phurba"
+            },
+            {
+              "ns": 0,
+              "title": "Physics of firearms"
+            },
+            {
+              "ns": 0,
+              "title": "Pierre Borel"
+            },
+            {
+              "ns": 0,
+              "title": "Pike (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Pinfire cartridge"
+            },
+            {
+              "ns": 0,
+              "title": "Pinyin"
+            },
+            {
+              "ns": 0,
+              "title": "Pirah"
+            },
+            {
+              "ns": 0,
+              "title": "Pistol"
+            },
+            {
+              "ns": 0,
+              "title": "Pistol caliber carbine"
+            },
+            {
+              "ns": 0,
+              "title": "Pistol duelling"
+            },
+            {
+              "ns": 0,
+              "title": "Pistol grip"
+            },
+            {
+              "ns": 0,
+              "title": "Pistol slide"
+            },
+            {
+              "ns": 0,
+              "title": "Pizza cutter"
+            },
+            {
+              "ns": 0,
+              "title": "Plastic-tipped bullet"
+            },
+            {
+              "ns": 0,
+              "title": "Pocket pistol"
+            },
+            {
+              "ns": 0,
+              "title": "Pocketknife"
+            },
+            {
+              "ns": 0,
+              "title": "Poignard"
+            },
+            {
+              "ns": 0,
+              "title": "Polygonal rifling"
+            },
+            {
+              "ns": 0,
+              "title": "Polymer-cased ammunition"
+            },
+            {
+              "ns": 0,
+              "title": "Power factor (shooting sports)"
+            },
+            {
+              "ns": 0,
+              "title": "Precision-guided firearm"
+            },
+            {
+              "ns": 0,
+              "title": "Primer (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Princess of Wales's Royal Regiment"
+            },
+            {
+              "ns": 0,
+              "title": "Privately made firearm"
+            },
+            {
+              "ns": 0,
+              "title": "Projectile"
+            },
+            {
+              "ns": 0,
+              "title": "Public domain"
+            },
+            {
+              "ns": 0,
+              "title": "Pugio"
+            },
+            {
+              "ns": 0,
+              "title": "Pump action"
+            },
+            {
+              "ns": 0,
+              "title": "Punch (magazine)"
+            },
+            {
+              "ns": 0,
+              "title": "Punt gun"
+            },
+            {
+              "ns": 0,
+              "title": "Push dagger"
+            },
+            {
+              "ns": 0,
+              "title": "Push feed and controlled feed"
+            },
+            {
+              "ns": 0,
+              "title": "Putty knife"
+            },
+            {
+              "ns": 0,
+              "title": "Puukko"
+            },
+            {
+              "ns": 0,
+              "title": "QBZ-95"
+            },
+            {
+              "ns": 0,
+              "title": "QNL-95"
+            },
+            {
+              "ns": 0,
+              "title": "Quillons"
+            },
+            {
+              "ns": 0,
+              "title": "Rail system (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Ralph Osterhout"
+            },
+            {
+              "ns": 0,
+              "title": "Rampuri"
+            },
+            {
+              "ns": 0,
+              "title": "Ramrod"
+            },
+            {
+              "ns": 0,
+              "title": "Randall Made Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Rangefinder"
+            },
+            {
+              "ns": 0,
+              "title": "Rate of fire"
+            },
+            {
+              "ns": 0,
+              "title": "Raufoss Mk 211"
+            },
+            {
+              "ns": 0,
+              "title": "Receiver (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Recoil"
+            },
+            {
+              "ns": 0,
+              "title": "Recoil operation"
+            },
+            {
+              "ns": 0,
+              "title": "Recoil pad"
+            },
+            {
+              "ns": 0,
+              "title": "Red Army"
+            },
+            {
+              "ns": 0,
+              "title": "Red dot sight"
+            },
+            {
+              "ns": 0,
+              "title": "Reflex sight"
+            },
+            {
+              "ns": 0,
+              "title": "Repeating firearm"
+            },
+            {
+              "ns": 0,
+              "title": "Repeating rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Resolza"
+            },
+            {
+              "ns": 0,
+              "title": "Reticle"
+            },
+            {
+              "ns": 0,
+              "title": "Revolver"
+            },
+            {
+              "ns": 0,
+              "title": "Rex Applegate"
+            },
+            {
+              "ns": 0,
+              "title": "Richard Holmes (military historian)"
+            },
+            {
+              "ns": 0,
+              "title": "Ricochet"
+            },
+            {
+              "ns": 0,
+              "title": "Rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Rifle cartridge"
+            },
+            {
+              "ns": 0,
+              "title": "Riflemen"
+            },
+            {
+              "ns": 0,
+              "title": "Rifling"
+            },
+            {
+              "ns": 0,
+              "title": "Right to keep and bear arms"
+            },
+            {
+              "ns": 0,
+              "title": "Rim (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Rimfire ammunition"
+            },
+            {
+              "ns": 0,
+              "title": "Riot gun"
+            },
+            {
+              "ns": 0,
+              "title": "Riot shotgun"
+            },
+            {
+              "ns": 0,
+              "title": "Rising Sun (badge)"
+            },
+            {
+              "ns": 0,
+              "title": "Robert Terzuola"
+            },
+            {
+              "ns": 0,
+              "title": "Roller locked"
+            },
+            {
+              "ns": 0,
+              "title": "Rondel dagger"
+            },
+            {
+              "ns": 0,
+              "title": "Rotary cannon"
+            },
+            {
+              "ns": 0,
+              "title": "Rotating bolt"
+            },
+            {
+              "ns": 0,
+              "title": "Round shot"
+            },
+            {
+              "ns": 0,
+              "title": "Rout"
+            },
+            {
+              "ns": 0,
+              "title": "Royal 22nd Regiment"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Lincolnshire Regiment"
+            },
+            {
+              "ns": 0,
+              "title": "Royal Regiment of Scotland"
+            },
+            {
+              "ns": 0,
+              "title": "Rösle"
+            },
+            {
+              "ns": 0,
+              "title": "S.L.A. Marshall"
+            },
+            {
+              "ns": 0,
+              "title": "S. L. A. Marshall"
+            },
+            {
+              "ns": 0,
+              "title": "SA80"
+            },
+            {
+              "ns": 0,
+              "title": "SARK"
+            },
+            {
+              "ns": 0,
+              "title": "SKS"
+            },
+            {
+              "ns": 0,
+              "title": "SOG Knife"
+            },
+            {
+              "ns": 0,
+              "title": "SOG Specialty Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Sabatier"
+            },
+            {
+              "ns": 0,
+              "title": "Sabot (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Saboted light armor penetrator"
+            },
+            {
+              "ns": 0,
+              "title": "Safety (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Sami knife"
+            },
+            {
+              "ns": 0,
+              "title": "Santoku"
+            },
+            {
+              "ns": 0,
+              "title": "Sashimi bōchō"
+            },
+            {
+              "ns": 0,
+              "title": "Sawed-off shotgun"
+            },
+            {
+              "ns": 0,
+              "title": "Scalpel"
+            },
+            {
+              "ns": 0,
+              "title": "School of Infantry"
+            },
+            {
+              "ns": 0,
+              "title": "Scope mount"
+            },
+            {
+              "ns": 0,
+              "title": "Scots Guards"
+            },
+            {
+              "ns": 0,
+              "title": "Sear (firearm)"
+            },
+            {
+              "ns": 0,
+              "title": "Seax"
+            },
+            {
+              "ns": 0,
+              "title": "Second Sino-Japanese War"
+            },
+            {
+              "ns": 0,
+              "title": "Self-loading rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Seme (dagger)"
+            },
+            {
+              "ns": 0,
+              "title": "Semi-automatic pistol"
+            },
+            {
+              "ns": 0,
+              "title": "Sgian-dubh"
+            },
+            {
+              "ns": 0,
+              "title": "Sharpfinger"
+            },
+            {
+              "ns": 0,
+              "title": "Sheath knife"
+            },
+            {
+              "ns": 0,
+              "title": "Shiv (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Shobo"
+            },
+            {
+              "ns": 0,
+              "title": "Shock tactics"
+            },
+            {
+              "ns": 0,
+              "title": "Shooting"
+            },
+            {
+              "ns": 0,
+              "title": "Shooting sports"
+            },
+            {
+              "ns": 0,
+              "title": "Shootout"
+            },
+            {
+              "ns": 0,
+              "title": "Shot (pellet)"
+            },
+            {
+              "ns": 0,
+              "title": "Shot grouping"
+            },
+            {
+              "ns": 0,
+              "title": "Shotgun"
+            },
+            {
+              "ns": 0,
+              "title": "Shotgun shell"
+            },
+            {
+              "ns": 0,
+              "title": "Shotgun slug"
+            },
+            {
+              "ns": 0,
+              "title": "Shun Cutlery"
+            },
+            {
+              "ns": 0,
+              "title": "Sic"
+            },
+            {
+              "ns": 0,
+              "title": "Sica"
+            },
+            {
+              "ns": 0,
+              "title": "Sidearm (weapon)"
+            },
+            {
+              "ns": 0,
+              "title": "Siege of Port Arthur"
+            },
+            {
+              "ns": 0,
+              "title": "Siege of Sarajevo"
+            },
+            {
+              "ns": 0,
+              "title": "Sight (device)"
+            },
+            {
+              "ns": 0,
+              "title": "Sight magnifier"
+            },
+            {
+              "ns": 0,
+              "title": "Sighting in"
+            },
+            {
+              "ns": 0,
+              "title": "Silencer (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Simplified Chinese characters"
+            },
+            {
+              "ns": 0,
+              "title": "Singapore Armed Forces"
+            },
+            {
+              "ns": 0,
+              "title": "Single-shot"
+            },
+            {
+              "ns": 0,
+              "title": "Sino-Indian War"
+            },
+            {
+              "ns": 0,
+              "title": "Slamfire"
+            },
+            {
+              "ns": 0,
+              "title": "Sleeve gun"
+            },
+            {
+              "ns": 0,
+              "title": "Slice, Inc."
+            },
+            {
+              "ns": 0,
+              "title": "Sliding knife"
+            },
+            {
+              "ns": 0,
+              "title": "Slug barrel"
+            },
+            {
+              "ns": 0,
+              "title": "Small Arms School Corps"
+            },
+            {
+              "ns": 0,
+              "title": "Small Arms and Light Weapons"
+            },
+            {
+              "ns": 0,
+              "title": "Small arms trade"
+            },
+            {
+              "ns": 0,
+              "title": "Smatchet"
+            },
+            {
+              "ns": 0,
+              "title": "Smokeless powder"
+            },
+            {
+              "ns": 0,
+              "title": "Smoothbore"
+            },
+            {
+              "ns": 0,
+              "title": "Snake shot"
+            },
+            {
+              "ns": 0,
+              "title": "Snap cap"
+            },
+            {
+              "ns": 0,
+              "title": "Snider–Enfield"
+            },
+            {
+              "ns": 0,
+              "title": "Sniper rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Soft-point bullet"
+            },
+            {
+              "ns": 0,
+              "title": "Son-and-mother gun"
+            },
+            {
+              "ns": 0,
+              "title": "Soviet Union"
+            },
+            {
+              "ns": 0,
+              "title": "Spear"
+            },
+            {
+              "ns": 0,
+              "title": "Special Operations Executive"
+            },
+            {
+              "ns": 0,
+              "title": "Speedloader"
+            },
+            {
+              "ns": 0,
+              "title": "Spike bayonet"
+            },
+            {
+              "ns": 0,
+              "title": "Spitzer (bullet)"
+            },
+            {
+              "ns": 0,
+              "title": "Splayd"
+            },
+            {
+              "ns": 0,
+              "title": "Spring-gun"
+            },
+            {
+              "ns": 0,
+              "title": "Spyderco"
+            },
+            {
+              "ns": 0,
+              "title": "Squad automatic weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Squeeze bore"
+            },
+            {
+              "ns": 0,
+              "title": "Squib load"
+            },
+            {
+              "ns": 0,
+              "title": "Stadiametric rangefinding"
+            },
+            {
+              "ns": 0,
+              "title": "Starting pistol"
+            },
+            {
+              "ns": 0,
+              "title": "Steak knife"
+            },
+            {
+              "ns": 0,
+              "title": "Steyr AUG"
+            },
+            {
+              "ns": 0,
+              "title": "Stiletto"
+            },
+            {
+              "ns": 0,
+              "title": "Stock (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Stopping power"
+            },
+            {
+              "ns": 0,
+              "title": "Straight razor"
+            },
+            {
+              "ns": 0,
+              "title": "Strider Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Strider SMF"
+            },
+            {
+              "ns": 0,
+              "title": "Stripper clip"
+            },
+            {
+              "ns": 0,
+              "title": "Submachine gun"
+            },
+            {
+              "ns": 0,
+              "title": "Sumpit"
+            },
+            {
+              "ns": 0,
+              "title": "Supercavitating ammunition"
+            },
+            {
+              "ns": 0,
+              "title": "Survival knife"
+            },
+            {
+              "ns": 0,
+              "title": "Sutton Publishing"
+            },
+            {
+              "ns": 0,
+              "title": "Swiss Army knife"
+            },
+            {
+              "ns": 0,
+              "title": "Switchblade"
+            },
+            {
+              "ns": 0,
+              "title": "Sword"
+            },
+            {
+              "ns": 0,
+              "title": "Sword bayonet"
+            },
+            {
+              "ns": 0,
+              "title": "Synchronization gear"
+            },
+            {
+              "ns": 0,
+              "title": "TEC-9"
+            },
+            {
+              "ns": 0,
+              "title": "TOPS Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Table knife"
+            },
+            {
+              "ns": 0,
+              "title": "Tactical formation"
+            },
+            {
+              "ns": 0,
+              "title": "Tactical recognition flash"
+            },
+            {
+              "ns": 0,
+              "title": "Tadamichi Kuribayashi"
+            },
+            {
+              "ns": 0,
+              "title": "Takedown gun"
+            },
+            {
+              "ns": 0,
+              "title": "Tang sight"
+            },
+            {
+              "ns": 0,
+              "title": "Tantō"
+            },
+            {
+              "ns": 0,
+              "title": "Tapering (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Taping knife"
+            },
+            {
+              "ns": 0,
+              "title": "Telescopic sight"
+            },
+            {
+              "ns": 0,
+              "title": "Telescoping bolt"
+            },
+            {
+              "ns": 0,
+              "title": "Terminal ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "The Boston Globe"
+            },
+            {
+              "ns": 0,
+              "title": "The Daily Telegraph"
+            },
+            {
+              "ns": 0,
+              "title": "The Press-Enterprise (California)"
+            },
+            {
+              "ns": 0,
+              "title": "The Rifles"
+            },
+            {
+              "ns": 0,
+              "title": "The Washington Post"
+            },
+            {
+              "ns": 0,
+              "title": "Thermal weapon sight"
+            },
+            {
+              "ns": 0,
+              "title": "Thiers Issard"
+            },
+            {
+              "ns": 0,
+              "title": "Third Battle of Petersburg"
+            },
+            {
+              "ns": 0,
+              "title": "Thirty Years' War"
+            },
+            {
+              "ns": 0,
+              "title": "Thompson submachine gun"
+            },
+            {
+              "ns": 0,
+              "title": "Throwing knife"
+            },
+            {
+              "ns": 0,
+              "title": "Tilting bolt"
+            },
+            {
+              "ns": 0,
+              "title": "Tom Brown Jr."
+            },
+            {
+              "ns": 0,
+              "title": "Tomato knife"
+            },
+            {
+              "ns": 0,
+              "title": "Total metal jacket"
+            },
+            {
+              "ns": 0,
+              "title": "Tracer ammunition"
+            },
+            {
+              "ns": 0,
+              "title": "Traditional Chinese characters"
+            },
+            {
+              "ns": 0,
+              "title": "Tramontina"
+            },
+            {
+              "ns": 0,
+              "title": "Transitional ballistics"
+            },
+            {
+              "ns": 0,
+              "title": "Trench knife"
+            },
+            {
+              "ns": 0,
+              "title": "Trench raiding club"
+            },
+            {
+              "ns": 0,
+              "title": "Trigger (firearms)"
+            },
+            {
+              "ns": 0,
+              "title": "Trigger guard"
+            },
+            {
+              "ns": 0,
+              "title": "Trowel"
+            },
+            {
+              "ns": 0,
+              "title": "Trunnion"
+            },
+            {
+              "ns": 0,
+              "title": "Tsardom of Russia"
+            },
+            {
+              "ns": 0,
+              "title": "Tubes and primers for ammunition"
+            },
+            {
+              "ns": 0,
+              "title": "Tumi"
+            },
+            {
+              "ns": 0,
+              "title": "Turkish Brigade"
+            },
+            {
+              "ns": 0,
+              "title": "Type 56 assault rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Udon kiri"
+            },
+            {
+              "ns": 0,
+              "title": "Ulu"
+            },
+            {
+              "ns": 0,
+              "title": "Unagisaki hōchō"
+            },
+            {
+              "ns": 0,
+              "title": "Underwater firearm"
+            },
+            {
+              "ns": 0,
+              "title": "United Nations peacekeeping"
+            },
+            {
+              "ns": 0,
+              "title": "United States Marine Corps"
+            },
+            {
+              "ns": 0,
+              "title": "United States Marine Raider stiletto"
+            },
+            {
+              "ns": 0,
+              "title": "United States Marines"
+            },
+            {
+              "ns": 0,
+              "title": "University of New Mexico"
+            },
+            {
+              "ns": 0,
+              "title": "University of New Mexico bayoneting incident"
+            },
+            {
+              "ns": 0,
+              "title": "Use of bayonets for crowd control"
+            },
+            {
+              "ns": 0,
+              "title": "Usuba bōchō"
+            },
+            {
+              "ns": 0,
+              "title": "Utility knife"
+            },
+            {
+              "ns": 0,
+              "title": "Uzi"
+            },
+            {
+              "ns": 0,
+              "title": "V-42 stiletto"
+            },
+            {
+              "ns": 0,
+              "title": "Varmint rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Vertical forward grip"
+            },
+            {
+              "ns": 0,
+              "title": "Very-low-drag bullet"
+            },
+            {
+              "ns": 0,
+              "title": "Victorinox"
+            },
+            {
+              "ns": 0,
+              "title": "Virginia"
+            },
+            {
+              "ns": 0,
+              "title": "Volley fire"
+            },
+            {
+              "ns": 0,
+              "title": "W. R. Case & Sons Cutlery Co."
+            },
+            {
+              "ns": 0,
+              "title": "Wadding"
+            },
+            {
+              "ns": 0,
+              "title": "Wallet gun"
+            },
+            {
+              "ns": 0,
+              "title": "War"
+            },
+            {
+              "ns": 0,
+              "title": "War in Afghanistan (2001–present)"
+            },
+            {
+              "ns": 0,
+              "title": "Warminster"
+            },
+            {
+              "ns": 0,
+              "title": "Warrior knife"
+            },
+            {
+              "ns": 0,
+              "title": "Wayback Machine"
+            },
+            {
+              "ns": 0,
+              "title": "Weapon"
+            },
+            {
+              "ns": 0,
+              "title": "Wedung"
+            },
+            {
+              "ns": 0,
+              "title": "Wenger"
+            },
+            {
+              "ns": 0,
+              "title": "Western Knife Company"
+            },
+            {
+              "ns": 0,
+              "title": "Wheellock"
+            },
+            {
+              "ns": 0,
+              "title": "Wildcat cartridge"
+            },
+            {
+              "ns": 0,
+              "title": "Wilfred Owen"
+            },
+            {
+              "ns": 0,
+              "title": "Wilkinson Sword"
+            },
+            {
+              "ns": 0,
+              "title": "William F. Moran (knifemaker)"
+            },
+            {
+              "ns": 0,
+              "title": "William III of England"
+            },
+            {
+              "ns": 0,
+              "title": "William Scagel"
+            },
+            {
+              "ns": 0,
+              "title": "Winchester rifle"
+            },
+            {
+              "ns": 0,
+              "title": "Winfield Scott Hancock"
+            },
+            {
+              "ns": 0,
+              "title": "World War I"
+            },
+            {
+              "ns": 0,
+              "title": "World War II"
+            },
+            {
+              "ns": 0,
+              "title": "Wüsthof"
+            },
+            {
+              "ns": 0,
+              "title": "X-Acto"
+            },
+            {
+              "ns": 0,
+              "title": "Yanagi ba"
+            },
+            {
+              "ns": 0,
+              "title": "Yarara Parachute Knife"
+            },
+            {
+              "ns": 0,
+              "title": "Yatagan"
+            },
+            {
+              "ns": 0,
+              "title": "Yoroi-dōshi"
+            },
+            {
+              "ns": 0,
+              "title": "Yoshida Metal Industry"
+            },
+            {
+              "ns": 0,
+              "title": "Zero Tolerance Knives"
+            },
+            {
+              "ns": 0,
+              "title": "Zwilling J. A. Henckels"
+            },
+            {
+              "ns": 0,
+              "title": "Épée"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1773098524.7401948
+}

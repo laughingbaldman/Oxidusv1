@@ -376,3 +376,142 @@
 [2026-02-09 13:19:52] Indexing started
 [2026-02-09 13:19:54] Indexing started
 [2026-03-09 16:14:25] Indexing started
+[2026-03-09 16:21:48] Indexing started
+[2026-03-09 16:21:50] Indexing started
+[2026-03-09 16:28:29] Indexing started
+[2026-03-09 16:28:31] Indexing started
+[2026-03-09 16:34:10] Indexing started
+[2026-03-09 16:34:12] Indexing started
+[2026-03-09 16:34:35] Indexing error: Traceback (most recent call last):
+  File "/home/baldman/mx/bin/mx_nc", line 6, in <module>
+    sys.exit(main())
+  File "memryx/neural_compiler/nc.py", line 2178, in memryx.neural_compiler.nc.main
+  File "memryx/neural_compiler/nc.py", line 1420, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1399, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1464, in memryx.neural_compiler.nc.NeuralCompiler.load
+  File "memryx/neural_compiler/graph/framework/model_loader_factory.py", line 454, in memryx.neural_compiler.graph.framework.model_loader_factory.ModelLoader.load
+  File "memryx/neural_compiler/graph/framework/onnx/loader.py", line 614, in memryx.neural_compiler.graph.framework.onnx.loader.OnnxLoader.load
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/__init__.py", line 210, in load_model
+    model = _get_serializer(format, f).deserialize_proto(_load_bytes(f), ModelProto())
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/serialization.py", line 118, in deserialize_proto
+    decoded = typing.cast(Optional[int], proto.ParseFromString(serialized))
+google.protobuf.message.DecodeError: Error parsing message with type 'onnx.ModelProto'
+
+[2026-03-09 16:34:46] Indexing error: Traceback (most recent call last):
+  File "/home/baldman/mx/bin/mx_nc", line 6, in <module>
+    sys.exit(main())
+  File "memryx/neural_compiler/nc.py", line 2178, in memryx.neural_compiler.nc.main
+  File "memryx/neural_compiler/nc.py", line 1420, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1399, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1464, in memryx.neural_compiler.nc.NeuralCompiler.load
+  File "memryx/neural_compiler/graph/framework/model_loader_factory.py", line 454, in memryx.neural_compiler.graph.framework.model_loader_factory.ModelLoader.load
+  File "memryx/neural_compiler/graph/framework/onnx/loader.py", line 614, in memryx.neural_compiler.graph.framework.onnx.loader.OnnxLoader.load
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/__init__.py", line 210, in load_model
+    model = _get_serializer(format, f).deserialize_proto(_load_bytes(f), ModelProto())
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/serialization.py", line 118, in deserialize_proto
+    decoded = typing.cast(Optional[int], proto.ParseFromString(serialized))
+google.protobuf.message.DecodeError: Error parsing message with type 'onnx.ModelProto'
+
+[2026-03-09 16:35:07] Indexing started
+[2026-03-09 16:35:19] Indexing error: Traceback (most recent call last):
+  File "/home/baldman/mx/bin/mx_nc", line 6, in <module>
+    sys.exit(main())
+  File "memryx/neural_compiler/nc.py", line 2178, in memryx.neural_compiler.nc.main
+  File "memryx/neural_compiler/nc.py", line 1420, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1399, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1464, in memryx.neural_compiler.nc.NeuralCompiler.load
+  File "memryx/neural_compiler/graph/framework/model_loader_factory.py", line 454, in memryx.neural_compiler.graph.framework.model_loader_factory.ModelLoader.load
+  File "memryx/neural_compiler/graph/framework/onnx/loader.py", line 614, in memryx.neural_compiler.graph.framework.onnx.loader.OnnxLoader.load
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/__init__.py", line 210, in load_model
+    model = _get_serializer(format, f).deserialize_proto(_load_bytes(f), ModelProto())
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/serialization.py", line 118, in deserialize_proto
+    decoded = typing.cast(Optional[int], proto.ParseFromString(serialized))
+google.protobuf.message.DecodeError: Error parsing message with type 'onnx.ModelProto'
+
+[2026-03-09 16:36:33] Indexing started
+[2026-03-09 16:36:45] Indexing error: Traceback (most recent call last):
+  File "/home/baldman/mx/bin/mx_nc", line 6, in <module>
+    sys.exit(main())
+  File "memryx/neural_compiler/nc.py", line 2178, in memryx.neural_compiler.nc.main
+  File "memryx/neural_compiler/nc.py", line 1420, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1399, in memryx.neural_compiler.nc.NeuralCompiler.run
+  File "memryx/neural_compiler/nc.py", line 1464, in memryx.neural_compiler.nc.NeuralCompiler.load
+  File "memryx/neural_compiler/graph/framework/model_loader_factory.py", line 454, in memryx.neural_compiler.graph.framework.model_loader_factory.ModelLoader.load
+  File "memryx/neural_compiler/graph/framework/onnx/loader.py", line 614, in memryx.neural_compiler.graph.framework.onnx.loader.OnnxLoader.load
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/__init__.py", line 210, in load_model
+    model = _get_serializer(format, f).deserialize_proto(_load_bytes(f), ModelProto())
+  File "/home/baldman/mx/lib/python3.10/site-packages/onnx/serialization.py", line 118, in deserialize_proto
+    decoded = typing.cast(Optional[int], proto.ParseFromString(serialized))
+google.protobuf.message.DecodeError: Error parsing message with type 'onnx.ModelProto'
+
+[2026-03-09 16:59:08] Indexing started
+[2026-03-09 16:59:22] Indexing error: memryx.errors.CompilerError: Input layer: `input_ids` has an undefined shape: [1, 'sequence']
+Check the NeuralCompiler documentation to see how to provide model input shapes
+
+
+[2026-03-09 17:00:09] Indexing started
+[2026-03-09 17:00:13] Indexing started
+[2026-03-09 17:00:35] Indexing error: memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3). Using autocrop (--autocrop) might help.
+
+[2026-03-09 17:00:46] Indexing started
+[2026-03-09 17:01:03] Indexing error: memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3). Using autocrop (--autocrop) might help.
+
+[2026-03-09 17:01:43] Indexing started
+[2026-03-09 17:02:11] Indexing error: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 17:03:33] Indexing started
+[2026-03-09 17:03:37] Indexing error: mx_nc not found and WSL is unavailable. Install WSL + MemryX tools.
+[2026-03-09 17:04:45] Indexing started
+[2026-03-09 17:05:11] Indexing error: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 17:10:33] Indexing started
+[2026-03-09 17:11:01] Indexing error: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 17:16:18] Indexing started
+[2026-03-09 17:16:19] Indexing started
+[2026-03-09 17:16:50] MemryX compile fallback to CPU: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 17:16:51] MemryX compile fallback to CPU: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 17:17:07] Progress 1/229 | 5.01 eps | 9589.21 ms/batch
+[2026-03-09 17:17:30] Progress 10/229 | 14.73 eps | 3259.25 ms/batch
+[2026-03-09 17:17:30] Progress 10/229 | 14.59 eps | 3290.03 ms/batch
+[2026-03-09 17:17:56] Progress 20/229 | 16.48 eps | 2912.04 ms/batch
+[2026-03-09 17:17:56] Progress 20/229 | 16.36 eps | 2934.78 ms/batch
+[2026-03-09 17:18:23] Progress 30/229 | 16.98 eps | 2826.14 ms/batch
+[2026-03-09 17:18:23] Progress 30/229 | 16.8 eps | 2857.47 ms/batch
+[2026-03-09 17:18:49] Progress 40/229 | 17.24 eps | 2783.42 ms/batch
+[2026-03-09 17:18:50] Progress 40/229 | 17.09 eps | 2809.22 ms/batch
+[2026-03-09 17:19:15] Progress 50/229 | 17.43 eps | 2753.32 ms/batch
+[2026-03-09 17:19:16] Progress 50/229 | 17.28 eps | 2777.03 ms/batch
+[2026-03-09 17:19:42] Progress 60/229 | 17.55 eps | 2735.77 ms/batch
+[2026-03-09 17:19:43] Progress 60/229 | 17.43 eps | 2753.81 ms/batch
+[2026-03-09 17:20:09] Progress 70/229 | 17.54 eps | 2735.85 ms/batch
+[2026-03-09 17:20:10] Progress 70/229 | 17.46 eps | 2749.3 ms/batch
+[2026-03-09 17:20:35] Progress 80/229 | 17.68 eps | 2714.83 ms/batch
+[2026-03-09 17:20:35] Progress 80/229 | 17.62 eps | 2724.27 ms/batch
+[2026-03-09 17:21:00] Progress 90/229 | 17.85 eps | 2689.44 ms/batch
+[2026-03-09 17:21:00] Progress 90/229 | 17.8 eps | 2697.15 ms/batch
+[2026-03-09 17:21:25] Progress 100/229 | 17.97 eps | 2670.51 ms/batch
+[2026-03-09 17:21:25] Progress 100/229 | 17.93 eps | 2676.53 ms/batch
+[2026-03-09 17:21:50] Progress 110/229 | 18.08 eps | 2654.56 ms/batch
+[2026-03-09 17:21:50] Progress 110/229 | 18.04 eps | 2660.78 ms/batch
+[2026-03-09 17:22:19] Progress 120/229 | 17.95 eps | 2673.94 ms/batch
+[2026-03-09 17:22:19] Progress 120/229 | 17.91 eps | 2679.95 ms/batch
+[2026-03-09 17:22:48] Progress 130/229 | 17.81 eps | 2695.75 ms/batch
+[2026-03-09 17:22:48] Progress 130/229 | 17.78 eps | 2699.75 ms/batch
+[2026-03-09 17:23:17] Progress 140/229 | 17.71 eps | 2710.93 ms/batch
+[2026-03-09 17:23:18] Progress 140/229 | 17.67 eps | 2715.92 ms/batch
+[2026-03-09 17:23:47] Progress 150/229 | 17.58 eps | 2729.99 ms/batch
+[2026-03-09 17:23:47] Progress 150/229 | 17.59 eps | 2728.79 ms/batch
+[2026-03-09 17:24:15] Progress 160/229 | 17.55 eps | 2734.43 ms/batch
+[2026-03-09 17:24:15] Progress 160/229 | 17.56 eps | 2733.46 ms/batch
+[2026-03-09 17:24:44] Progress 170/229 | 17.51 eps | 2741.43 ms/batch
+[2026-03-09 17:24:44] Progress 170/229 | 17.51 eps | 2741.7 ms/batch
+[2026-03-09 17:25:12] Progress 180/229 | 17.48 eps | 2745.22 ms/batch
+[2026-03-09 17:25:12] Progress 180/229 | 17.47 eps | 2747.44 ms/batch

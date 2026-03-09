@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "4827": {
+          "pageid": 4827,
+          "ns": 0,
+          "title": "Biomedical engineering",
+          "links": [
+            {
+              "ns": 0,
+              "title": "Willem Johan Kolff"
+            },
+            {
+              "ns": 0,
+              "title": "X-ray"
+            },
+            {
+              "ns": 0,
+              "title": "Yuan-Cheng Fung"
+            }
+          ]
+        }
+      }
+    },
+    "limits": {
+      "links": 500
+    }
+  },
+  "cached_at": 1773098710.429831
+}

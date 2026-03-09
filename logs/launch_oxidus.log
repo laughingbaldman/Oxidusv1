@@ -323,3 +323,62 @@
 [2026-03-09 16:14:00] Warming WSL for MemryX
 [2026-03-09 16:14:09] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
 [2026-03-09 16:14:23] Starting Electron via npm start
+[2026-03-09 16:21:43] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:21:43] Warming WSL for MemryX
+[2026-03-09 16:21:47] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:21:49] Starting Electron via npm start
+[2026-03-09 16:28:27] Launcher started with python: d:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:28:27] Warming WSL for MemryX
+[2026-03-09 16:28:28] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:28:30] Starting Electron via npm start
+[2026-03-09 16:34:04] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:34:04] Warming WSL for MemryX
+[2026-03-09 16:34:09] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:34:10] Starting Electron via npm start
+[2026-03-09 16:34:10] Launcher started with python: d:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:34:10] Warming WSL for MemryX
+[2026-03-09 16:34:10] Starting Electron via npm start
+[2026-03-09 16:36:44] Launcher started with python: d:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:36:44] Warming WSL for MemryX
+[2026-03-09 16:36:44] Starting Electron via npm start
+[2026-03-09 16:36:59] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:36:59] Warming WSL for MemryX
+[2026-03-09 16:36:59] Starting Electron via npm start
+[2026-03-09 16:38:54] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:38:54] Warming WSL for MemryX
+[2026-03-09 16:38:59] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:38:59] Warming WSL for MemryX
+[2026-03-09 16:39:00] Starting Electron via npm start
+[2026-03-09 16:39:12] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:39:12] Warming WSL for MemryX
+[2026-03-09 16:39:13] Starting Electron via npm start
+[2026-03-09 16:44:44] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:44:44] Warming WSL for MemryX
+[2026-03-09 16:44:48] Starting Electron via npm start
+[2026-03-09 16:54:26] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 16:54:26] Warming WSL for MemryX
+[2026-03-09 16:54:30] Starting Electron via npm start
+[2026-03-09 17:09:28] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:09:28] Warming WSL for MemryX
+[2026-03-09 17:09:31] Starting Electron via npm start
+[2026-03-09 17:12:27] Launcher started with python: C:\Python314\python.exe
+[2026-03-09 17:12:27] Relaunching with venv: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:12:27] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:12:27] Warming WSL for MemryX
+[2026-03-09 17:12:31] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:12:52] ERROR: Oxidus failed to start web server. Check logs/web_gui_startup.log
+[2026-03-09 17:12:54] Starting Electron via npm start
+[2026-03-09 17:13:08] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:13:08] Warming WSL for MemryX
+[2026-03-09 17:13:11] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:13:33] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:13:33] Warming WSL for MemryX
+[2026-03-09 17:13:36] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:13:57] ERROR: Oxidus failed to start web server. Check logs/web_gui_startup.log
+[2026-03-09 17:14:03] Starting Electron via npm start
+[2026-03-09 17:16:12] Launcher started with python: C:\Python314\python.exe
+[2026-03-09 17:16:12] Relaunching with venv: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:16:12] Launcher started with python: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:16:12] Warming WSL for MemryX
+[2026-03-09 17:16:16] Launching Flask locally: D:\Oxidus for the people\.venv\Scripts\python.exe
+[2026-03-09 17:16:18] Starting Electron via npm start

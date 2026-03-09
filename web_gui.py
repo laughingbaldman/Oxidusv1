@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Optional
 import sys
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 import shutil
 import threading
@@ -148,7 +148,7 @@ LAST_WATCHDOG_RESTART_AT = None
 
 
 def _utc_iso(ts: float) -> str:
-    return datetime.utcfromtimestamp(ts).strftime('%Y-%m-%dT%H:%M:%SZ')
+    return datetime.fromtimestamp(ts, tz=timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
 
 def _safe_load_json(path: Path) -> Optional[dict]:
@@ -1214,7 +1214,7 @@ def _compute_index_staleness(index_meta: dict) -> dict:
     if not index_ts:
         return {'indexed_at_utc': None, 'staleness_hours': None}
     index_ts = float(index_ts)
-    indexed_at_utc = datetime.utcfromtimestamp(index_ts).replace(microsecond=0).isoformat() + 'Z'
+    indexed_at_utc = datetime.fromtimestamp(index_ts, tz=timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
     staleness_hours = round((time.time() - index_ts) / 3600, 2)
     return {'indexed_at_utc': indexed_at_utc, 'staleness_hours': staleness_hours}
 
@@ -1277,11 +1277,31 @@ def _run_memryx_indexing(payload: dict) -> None:
     INDEXING_STATUS['batch_delay_ms'] = batch_delay_ms
 
     try:
+        def _should_fallback_to_cpu(error_text: str) -> bool:
+            text = (error_text or '').lower()
+            markers = [
+                'unsupported nodes',
+                'operatorerror',
+                'mx_nc not found',
+                'decodeerror',
+                'compilererror'
+            ]
+            return any(marker in text for marker in markers)
+
         if not onnx_path.exists():
             export_onnx(model_id=model_id, onnx_path=onnx_path, max_tokens=max_tokens)
 
+        use_memryx = True
         if not dfp_path.exists():
-            compile_to_dfp(onnx_path, dfp_path, num_chips=num_chips)
+            try:
+                compile_to_dfp(onnx_path, dfp_path, num_chips=num_chips, max_tokens=max_tokens)
+            except Exception as compile_exc:
+                compile_error = str(compile_exc)
+                if _should_fallback_to_cpu(compile_error):
+                    use_memryx = False
+                    _log_indexing(f"MemryX compile fallback to CPU: {compile_error}")
+                else:
+                    raise
 
         def _progress(processed, total, elapsed):
             INDEXING_STATUS['processed_batches'] = processed
@@ -1295,21 +1315,43 @@ def _run_memryx_indexing(payload: dict) -> None:
                     f"{INDEXING_STATUS['avg_batch_ms']} ms/batch"
                 )
 
-        result = build_index(
-            model_id=model_id,
-            onnx_path=onnx_path,
-            dfp_path=dfp_path,
-            data_root=data_root,
-            output_dir=output_dir,
-            max_tokens=max_tokens,
-            batch_size=batch_size,
-            device_ids=device_ids,
-            use_memryx=True,
-            prefer_async=prefer_async,
-            progress_cb=_progress,
-            priority_paths=priority_paths,
-            batch_delay_s=batch_delay_s
-        )
+        try:
+            result = build_index(
+                model_id=model_id,
+                onnx_path=onnx_path,
+                dfp_path=dfp_path,
+                data_root=data_root,
+                output_dir=output_dir,
+                max_tokens=max_tokens,
+                batch_size=batch_size,
+                device_ids=device_ids,
+                use_memryx=use_memryx,
+                prefer_async=prefer_async,
+                progress_cb=_progress,
+                priority_paths=priority_paths,
+                batch_delay_s=batch_delay_s
+            )
+        except Exception as run_exc:
+            run_error = str(run_exc)
+            if use_memryx and _should_fallback_to_cpu(run_error):
+                _log_indexing(f"MemryX runtime fallback to CPU: {run_error}")
+                result = build_index(
+                    model_id=model_id,
+                    onnx_path=onnx_path,
+                    dfp_path=dfp_path,
+                    data_root=data_root,
+                    output_dir=output_dir,
+                    max_tokens=max_tokens,
+                    batch_size=batch_size,
+                    device_ids=device_ids,
+                    use_memryx=False,
+                    prefer_async=False,
+                    progress_cb=_progress,
+                    priority_paths=priority_paths,
+                    batch_delay_s=batch_delay_s
+                )
+            else:
+                raise
 
         _log_indexing(
             f"Indexing done: {result.get('vectors', 0)} vectors | {result.get('dimensions', 0)} dim"
@@ -3263,7 +3305,7 @@ def _compute_archival_candidates(max_candidates: Optional[int] = None) -> list:
         access_age_days = _days_since(last_access)
         if access_age_days is not None and access_age_days < no_access_days:
             continue
-        age_days = _days_since(datetime.utcfromtimestamp(path.stat().st_mtime))
+        age_days = _days_since(datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc))
         if age_days is not None and age_days < min_age_days:
             continue
 
@@ -3850,45 +3892,75 @@ def admin_indexing_status():
     if guard:
         return guard
 
-    if MEMRYX_TUNED_ONNX.exists():
-        default_onnx = MEMRYX_TUNED_ONNX
-        default_dfp = MEMRYX_TUNED_DFP
-        default_model = str(MEMRYX_TUNED_DIR)
-    else:
-        default_onnx = MEMRYX_ONNX_PATH
-        default_dfp = MEMRYX_DFP_PATH
-        default_model = MEMRYX_MODEL_ID
+    try:
+        if MEMRYX_TUNED_ONNX and MEMRYX_TUNED_ONNX.exists():
+            default_onnx = MEMRYX_TUNED_ONNX
+            default_dfp = MEMRYX_TUNED_DFP
+            default_model = str(MEMRYX_TUNED_DIR)
+        else:
+            default_onnx = MEMRYX_ONNX_PATH
+            default_dfp = MEMRYX_DFP_PATH
+            default_model = MEMRYX_MODEL_ID
 
-    index_meta = _load_index_meta()
-    staleness = _compute_index_staleness(index_meta)
-    return jsonify({
-        'running': INDEXING_STATUS.get('running', False),
-        'last_error': INDEXING_STATUS.get('last_error'),
-        'last_result': INDEXING_STATUS.get('last_result'),
-        'processed_batches': INDEXING_STATUS.get('processed_batches', 0),
-        'total_batches': INDEXING_STATUS.get('total_batches', 0),
-        'throughput_eps': INDEXING_STATUS.get('throughput_eps', 0.0),
-        'started_at': INDEXING_STATUS.get('started_at'),
-        'avg_batch_ms': INDEXING_STATUS.get('avg_batch_ms', 0.0),
-        'device_ids': INDEXING_STATUS.get('device_ids', []),
-        'priority_paths': INDEXING_STATUS.get('priority_paths', []),
-        'batch_delay_ms': INDEXING_STATUS.get('batch_delay_ms', 0),
-        'index_meta': index_meta,
-        'index_staleness_hours': staleness.get('staleness_hours'),
-        'index_last_built_utc': staleness.get('indexed_at_utc'),
-        'model_id': default_model,
-        'onnx_path': str(default_onnx),
-        'dfp_path': str(default_dfp),
-        'output_dir': str(MEMRYX_INDEX_DIR),
-        'defaults': {
-            'batch_size': 48,
-            'max_tokens': 192,
-            'num_chips': default_num_chips,
-            'device_ids': default_device_ids,
-            'prefer_async': True,
-            'batch_delay_ms': 0
-        }
-    })
+        default_device_ids = get_memryx_devices().get('device_ids') or []
+        default_num_chips = max(len(default_device_ids), 1)
+
+        index_meta = _load_index_meta()
+        staleness = _compute_index_staleness(index_meta)
+        return jsonify({
+            'running': INDEXING_STATUS.get('running', False),
+            'last_error': INDEXING_STATUS.get('last_error'),
+            'last_result': INDEXING_STATUS.get('last_result'),
+            'processed_batches': INDEXING_STATUS.get('processed_batches', 0),
+            'total_batches': INDEXING_STATUS.get('total_batches', 0),
+            'throughput_eps': INDEXING_STATUS.get('throughput_eps', 0.0),
+            'started_at': INDEXING_STATUS.get('started_at'),
+            'avg_batch_ms': INDEXING_STATUS.get('avg_batch_ms', 0.0),
+            'device_ids': INDEXING_STATUS.get('device_ids', []),
+            'priority_paths': INDEXING_STATUS.get('priority_paths', []),
+            'batch_delay_ms': INDEXING_STATUS.get('batch_delay_ms', 0),
+            'index_meta': index_meta,
+            'index_staleness_hours': staleness.get('staleness_hours'),
+            'index_last_built_utc': staleness.get('indexed_at_utc'),
+            'model_id': default_model,
+            'onnx_path': str(default_onnx) if default_onnx else None,
+            'dfp_path': str(default_dfp) if default_dfp else None,
+            'output_dir': str(MEMRYX_INDEX_DIR) if MEMRYX_INDEX_DIR else None,
+            'defaults': {
+                'batch_size': 48,
+                'max_tokens': 192,
+                'num_chips': default_num_chips,
+                'device_ids': default_device_ids,
+                'prefer_async': True,
+                'batch_delay_ms': 0
+            }
+        })
+    except Exception as e:
+        import traceback
+        error_msg = f"Error in indexing status endpoint: {str(e)}"
+        print(f"[ERROR] {error_msg}")
+        traceback.print_exc()
+        return jsonify({
+            'running': False,
+            'last_error': error_msg,
+            'last_result': None,
+            'processed_batches': 0,
+            'total_batches': 0,
+            'throughput_eps': 0.0,
+            'started_at': None,
+            'avg_batch_ms': 0.0,
+            'device_ids': [],
+            'priority_paths': [],
+            'batch_delay_ms': 0,
+            'index_meta': {},
+            'index_staleness_hours': None,
+            'index_last_built_utc': None,
+            'model_id': None,
+            'onnx_path': None,
+            'dfp_path': None,
+            'output_dir': None,
+            'defaults': {}
+        }), 200  # Return 200 with error info instead of 500
 
 
 @app.route('/api/admin/indexing/metrics', methods=['GET'])

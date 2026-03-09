@@ -10,6 +10,7 @@ import threading
 from collections import deque
 import subprocess
 import shutil
+import tempfile
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
@@ -102,16 +103,28 @@ def _find_mx_nc() -> str:
 
 
 def _wsl_path(path: Path) -> Optional[str]:
+    raw = str(path)
+    normalized = raw.replace('\\', '/')
     try:
         result = subprocess.run(
-            ["wsl", "wslpath", "-a", str(path)],
+            ["wsl", "wslpath", "-a", normalized],
             capture_output=True,
             text=True
         )
-        if result.returncode != 0:
-            return None
-        return result.stdout.strip()
+        if result.returncode == 0:
+            return result.stdout.strip()
+
+        # Fallback conversion for drive-letter paths when wslpath fails.
+        if len(normalized) > 2 and normalized[1:3] == ':/':
+            drive = normalized[0].lower()
+            rest = normalized[3:]
+            return f'/mnt/{drive}/{rest}'
+        return None
     except Exception:
+        if len(normalized) > 2 and normalized[1:3] == ':/':
+            drive = normalized[0].lower()
+            rest = normalized[3:]
+            return f'/mnt/{drive}/{rest}'
         return None
 
 
@@ -129,13 +142,15 @@ def _try_wsl_compile(onnx_path: Path, dfp_path: Path, num_chips: int) -> None:
         )
 
     venv = os.environ.get('OXIDUS_WSL_MX_VENV', '').strip() or '$HOME/mx'
+    use_autocrop = os.environ.get('OXIDUS_MEMRYX_AUTOCROP', '1').lower() not in {'0', 'false', 'off', 'no'}
+    autocrop_arg = ' --autocrop' if use_autocrop else ''
     activate = f"source {venv}/bin/activate >/dev/null 2>&1 || true"
     cmd = (
         f"{activate} && "
         f"MXNC=\"$(command -v mx_nc)\"; "
         f"if [ -z \"$MXNC\" ] && [ -x {venv}/bin/mx_nc ]; then MXNC={venv}/bin/mx_nc; fi; "
         f"if [ -z \"$MXNC\" ]; then echo 'mx_nc not found in WSL'; exit 127; fi; "
-        f"$MXNC -m '{onnx_wsl}' --dfp_fname '{dfp_wsl}' -c {num_chips}"
+        f"$MXNC -m '{onnx_wsl}' --dfp_fname '{dfp_wsl}' -c {num_chips}{autocrop_arg}"
     )
     args = ["wsl", "-e", "bash", "-lc", cmd]
     result = subprocess.run(args, capture_output=True, text=True)
@@ -239,15 +254,78 @@ def _normalize(vectors: np.ndarray) -> np.ndarray:
     return vectors / norms
 
 
-def compile_to_dfp(onnx_path: Path, dfp_path: Path, num_chips: int = 0) -> None:
+def _cpu_embed_batch(batch_texts: List[str], model, tokenizer, max_tokens: int) -> np.ndarray:
+    import torch
+
+    encoded = tokenizer(
+        batch_texts,
+        padding='max_length',
+        truncation=True,
+        max_length=max_tokens,
+        return_tensors='pt'
+    )
+    encoded = {k: v.to('cpu') for k, v in encoded.items()}
+
+    with torch.no_grad():
+        outputs = model(**encoded)
+        last_hidden = outputs.last_hidden_state.cpu().numpy()
+
+    attention_mask = encoded['attention_mask'].cpu().numpy().astype(np.int32)
+    return _mean_pool(last_hidden, attention_mask)
+
+
+def _materialize_static_onnx(onnx_path: Path, max_tokens: int) -> Path:
+    """Create a static-shape ONNX copy for compilers that reject symbolic dims."""
+    try:
+        import onnx
+    except Exception as exc:
+        raise MemryxIndexingError(f'onnx package is required to staticize model shapes: {exc}')
+
+    try:
+        model = onnx.load(str(onnx_path))
+    except Exception as exc:
+        raise MemryxIndexingError(f'Failed to load ONNX for staticization: {onnx_path} ({exc})')
+
+    changed = False
+    for value_info in model.graph.input:
+        tensor_type = value_info.type.tensor_type
+        if not tensor_type.HasField('shape'):
+            continue
+        dims = tensor_type.shape.dim
+        if len(dims) >= 1 and (dims[0].dim_param or dims[0].dim_value == 0):
+            dims[0].dim_param = ''
+            dims[0].dim_value = 1
+            changed = True
+        if len(dims) >= 2 and (dims[1].dim_param or dims[1].dim_value == 0):
+            dims[1].dim_param = ''
+            dims[1].dim_value = int(max_tokens)
+            changed = True
+
+    if not changed:
+        return onnx_path
+
+    static_dir = Path(tempfile.gettempdir()) / 'oxidus_memryx'
+    static_dir.mkdir(parents=True, exist_ok=True)
+    static_path = static_dir / f'{onnx_path.stem}.static_{int(max_tokens)}{onnx_path.suffix}'
+    try:
+        onnx.save(model, str(static_path))
+    except Exception as exc:
+        raise MemryxIndexingError(f'Failed to write static ONNX: {static_path} ({exc})')
+    return static_path
+
+
+def compile_to_dfp(onnx_path: Path, dfp_path: Path, num_chips: int = 0, max_tokens: int = 192) -> None:
     dfp_path.parent.mkdir(parents=True, exist_ok=True)
+    compile_onnx_path = _materialize_static_onnx(onnx_path, max_tokens=max_tokens)
+    use_autocrop = os.environ.get('OXIDUS_MEMRYX_AUTOCROP', '1').lower() not in {'0', 'false', 'off', 'no'}
+    autocrop_args = ['--autocrop'] if use_autocrop else []
     prefer_wsl = (
         os.name == 'nt'
         and os.environ.get('OXIDUS_WSL_MX', '1').lower() not in {'0', 'false', 'off', 'no'}
     )
     if prefer_wsl:
         try:
-            _try_wsl_compile(onnx_path, dfp_path, num_chips)
+            _try_wsl_compile(compile_onnx_path, dfp_path, num_chips)
             return
         except MemryxIndexingError:
             pass
@@ -255,10 +333,10 @@ def compile_to_dfp(onnx_path: Path, dfp_path: Path, num_chips: int = 0) -> None:
     try:
         mx_nc = _find_mx_nc()
     except MemryxIndexingError:
-        _try_wsl_compile(onnx_path, dfp_path, num_chips)
+        _try_wsl_compile(compile_onnx_path, dfp_path, num_chips)
         return
 
-    args = [mx_nc, '-m', str(onnx_path), '--dfp_fname', str(dfp_path), '-c', str(num_chips)]
+    args = [mx_nc, '-m', str(compile_onnx_path), '--dfp_fname', str(dfp_path), '-c', str(num_chips), *autocrop_args]
     result = subprocess.run(args, capture_output=True, text=True)
     if result.returncode != 0:
         raise MemryxIndexingError(result.stderr or result.stdout or 'mx_nc failed')
@@ -430,6 +508,22 @@ def build_index(
             accl.connect_input(data_source)
             accl.connect_output(output_processor)
             accl.wait()
+    else:
+        from transformers import AutoModel
+
+        model = AutoModel.from_pretrained(model_id)
+        model.eval()
+        model.to('cpu')
+
+        for i in range(0, len(texts), batch_size):
+            batch = texts[i:i + batch_size]
+            pooled = _cpu_embed_batch(batch, model, tokenizer, max_tokens=max_tokens)
+            embeddings.append(pooled)
+            processed_batches += 1
+            if progress_cb:
+                progress_cb(processed_batches, total_batches, time.time() - start_time)
+            if batch_delay_s > 0:
+                time.sleep(batch_delay_s)
 
     vectors = np.vstack(embeddings)
     vectors = _normalize(vectors.astype(np.float32))

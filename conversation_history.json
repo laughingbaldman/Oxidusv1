@@ -4,5 +4,18 @@
     "message": "Conversation cleared. Let's start fresh.",
     "timestamp": "19:21:12",
     "type": "greeting"
+  },
+  {
+    "speaker": "YOU",
+    "message": "hey  oxidus how are you",
+    "timestamp": "17:19:36",
+    "type": "user"
+  },
+  {
+    "speaker": "OXIDUS",
+    "message": "Hello! I’m doing well, thank you. How can I help you today?",
+    "timestamp": "17:19:59",
+    "type": "oxidus",
+    "documented": true
   }
 ]
