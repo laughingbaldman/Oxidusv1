@@ -477,7 +477,13 @@ def _build_health_report(include_admin: bool = False) -> dict:
     if crawler_health.get('stalled'):
         _enter_safe_mode('Crawler stalled', 'crawler')
     if indexing.get('last_error'):
-        _enter_safe_mode(f"Indexing error: {indexing.get('last_error')}", 'indexing')
+        error_msg = indexing.get('last_error')
+        if error_msg == 'No Indexing Available':
+            # Allow the system to continue operating without an index.
+            if SAFE_MODE.get('active') and SAFE_MODE.get('triggered_by') == 'indexing':
+                _exit_safe_mode()
+        else:
+            _enter_safe_mode(f"Indexing error: {error_msg}", 'indexing')
 
     alerts = []
     if SAFE_MODE.get('active'):
@@ -1398,7 +1404,9 @@ def _run_memryx_indexing(payload: dict) -> None:
             if 'no documents' in error_msg or 'not found to index' in error_msg:
                 INDEXING_STATUS['last_error'] = 'No Indexing Available'
                 _log_indexing('No documents found to index')
-                # Don't enter safe mode for this case
+                # Keep the app operational when data sources are empty.
+                if SAFE_MODE.get('active') and SAFE_MODE.get('triggered_by') == 'indexing':
+                    _exit_safe_mode()
             else:
                 INDEXING_STATUS['last_error'] = 'Indexing failed'
                 _log_indexing(f"Indexing error: {type(exc).__name__}")
