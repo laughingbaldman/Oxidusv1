@@ -1393,62 +1393,88 @@ def run_maintenance_task(task: str, data: dict) -> dict:
         return {'success': False, 'error': f'Script not found: {script_path}'}
 
     args = []
+    data_dir = Path(__file__).parent / 'data'
+    allowed_base = data_dir.resolve()
+    
     if task == 'normalize_thought_stream':
         input_path = data.get('input_path') or _latest_thought_stream()
         output_path = data.get('output_path')
         if not input_path:
             return {'success': False, 'error': 'No thought stream file found'}
-        # Validate input path is within allowed directory
+        # Validate input path is within allowed directory and safe
         try:
-            Path(input_path).resolve()
+            input_resolved = Path(input_path).resolve()
+            if not _is_path_safe(input_resolved, allowed_base):
+                return {'success': False, 'error': 'Invalid input path'}
         except (ValueError, OSError):
             return {'success': False, 'error': 'Invalid input path'}
-        args.append(input_path)
+        args.append(str(input_resolved))
         if output_path:
             # Validate output path
             try:
-                Path(output_path).resolve()
+                output_resolved = Path(output_path).resolve()
+                if not _is_path_safe(output_resolved, allowed_base):
+                    return {'success': False, 'error': 'Invalid output path'}
             except (ValueError, OSError):
                 return {'success': False, 'error': 'Invalid output path'}
-            args.append(output_path)
+            args.append(str(output_resolved))
     elif task == 'nlp_refine':
         root = data.get('root')
         if not root:
             return {'success': False, 'error': 'root is required'}
         # Validate root path
         try:
-            Path(root).resolve()
+            root_resolved = Path(root).resolve()
+            if not _is_path_safe(root_resolved, allowed_base):
+                return {'success': False, 'error': 'Invalid root path'}
         except (ValueError, OSError):
             return {'success': False, 'error': 'Invalid root path'}
-        args.extend(['--root', root])
+        args.extend(['--root', str(root_resolved)])
     elif task == 'refine_uncategorized':
         src = data.get('src')
         root = data.get('root')
         if not src or not root:
             return {'success': False, 'error': 'src and root are required'}
-        # Validate both paths
+        # Validate both paths - check they're within allowed directory
         try:
-            Path(src).resolve()
-            Path(root).resolve()
+            src_resolved = Path(src).resolve()
+            root_resolved = Path(root).resolve()
+            if not _is_path_safe(src_resolved, allowed_base) or not _is_path_safe(root_resolved, allowed_base):
+                return {'success': False, 'error': 'Invalid path'}
         except (ValueError, OSError):
             return {'success': False, 'error': 'Invalid path'}
-        args.extend(['--src', src, '--root', root])
+        args.extend(['--src', str(src_resolved), '--root', str(root_resolved)])
     elif task == 'sort_knowledge':
         source = data.get('source')
         out_dir = data.get('out')
         if not source or not out_dir:
             return {'success': False, 'error': 'source and out are required'}
-        # Validate both paths
+        # Validate both paths - check they're within allowed directory
         try:
-            Path(source).resolve()
-            Path(out_dir).resolve()
+            source_resolved = Path(source).resolve()
+            out_resolved = Path(out_dir).resolve()
+            if not _is_path_safe(source_resolved, allowed_base) or not _is_path_safe(out_resolved, allowed_base):
+                return {'success': False, 'error': 'Invalid path'}
         except (ValueError, OSError):
             return {'success': False, 'error': 'Invalid path'}
-        args.extend(['--source', source, '--out', out_dir])
+        args.extend(['--source', str(source_resolved), '--out', str(out_resolved)])
 
+    # Final validation: ensure script_path is safe and args contain only validated paths
     try:
+        scripts_dir = (Path(__file__).parent / 'scripts').resolve()
+        if not _is_path_safe(script_path, scripts_dir):
+            return {'success': False, 'error': 'Invalid script path'}
+        
+        # Sanitize args to prevent command injection
+        safe_args = []
+        for arg in args:
+            # Only allow safe characters in arguments
+            if isinstance(arg, str) and not re.match(r'^[a-zA-Z0-9_./\\:-]+$', arg):
+                return {'success': False, 'error': 'Invalid argument format'}
+            safe_args.append(arg)
+        
         result = subprocess.run(
-            [sys.executable, str(script_path)] + args,
+            [sys.executable, str(script_path)] + safe_args,
             capture_output=True,
             text=True,
             timeout=120
@@ -1598,14 +1624,16 @@ def _extract_query_topics(message: str, max_items: int = 3) -> list:
 
     lowered = cleaned.lower()
 
-    between_match = re.search(r"\bbetween\s+(.+?)\s+and\s+(.+)", lowered)
+    # Use non-backtracking regex to prevent ReDoS
+    between_match = re.search(r"\bbetween\s+([^\s]+(?:\s+[^\s]+){0,5})\s+and\s+([^\s]+(?:\s+[^\s]+){0,5})", lowered)
     if between_match:
         parts = [
             cleaned[between_match.start(1):between_match.end(1)],
             cleaned[between_match.start(2):between_match.end(2)]
         ]
     else:
-        trigger_match = re.search(r"\b(about|on|regarding|re:|concerning)\b\s+(.*)", lowered)
+        # Use non-backtracking regex to prevent ReDoS
+        trigger_match = re.search(r"\b(about|on|regarding|re:|concerning)\b\s+(.{1,200})", lowered)
         if trigger_match:
             segment = cleaned[trigger_match.start(2):]
         else:
@@ -2004,9 +2032,8 @@ def get_status():
             'most_active': summary['most_active']
         })
     except Exception as exc:
-        return _handle_api_error(exc, 'get_status')
-
-
+        _log_telemetry('error', {'operation': 'get_status', 'error_type': type(exc).__name__})
+        return jsonify({'error': 'Failed to retrieve status'}), 500
 @app.route('/api/health', methods=['GET'])
 def health_check():
     """Get system health for uptime, latency, and ingestion checks."""
@@ -2526,7 +2553,8 @@ def admin_status():
         knowledge_sources = len(oxidus.knowledge_organizer.scraped_sources)
         try:
             knowledge_loose_ends = oxidus.knowledge_organizer.get_loose_ends_report()
-        except Exception:
+        except Exception as exc:
+            _log_telemetry('error', {'operation': 'get_loose_ends', 'error_type': type(exc).__name__})
             knowledge_loose_ends = {}
 
     return jsonify({
@@ -2758,7 +2786,8 @@ def ops_summary():
         summary = _get_cached(_cache_key('ops_summary'), 3.0, lambda: _build_ops_summary(include_admin=False))
         return jsonify(summary)
     except Exception as exc:
-        return _handle_api_error(exc, 'ops_summary')
+        _log_telemetry('error', {'operation': 'ops_summary', 'error_type': type(exc).__name__})
+        return jsonify({'error': 'Failed to retrieve operations summary'}), 500
 
 
 @app.route('/api/admin/ops/summary', methods=['GET'])
@@ -3408,11 +3437,12 @@ def open_file():
         return jsonify({'success': False, 'error': 'path required'}), 400
 
     kb_root = _knowledge_base_root().resolve()
-    path = Path(path_raw).resolve()
     try:
-        path.relative_to(kb_root)
-    except Exception:
-        return jsonify({'success': False, 'error': 'path not allowed'}), 403
+        path = Path(path_raw).resolve()
+        if not _is_path_safe(path, kb_root):
+            return jsonify({'success': False, 'error': 'path not allowed'}), 403
+    except (ValueError, OSError):
+        return jsonify({'success': False, 'error': 'Invalid path'}), 400
 
     if not path.exists():
         return jsonify({'success': False, 'error': 'file not found'}), 404
@@ -3427,7 +3457,8 @@ def open_file():
         else:
             subprocess.Popen(['xdg-open', str(path)])
     except Exception as exc:
-        return _handle_api_error(exc, 'open_file')
+        _log_telemetry('error', {'operation': 'open_file', 'error_type': type(exc).__name__})
+        return jsonify({'error': 'Failed to open file'}), 500
 
     return jsonify({'success': True})
 
@@ -4023,12 +4054,13 @@ def admin_indexing_status():
         })
     except Exception as e:
         import traceback
-        error_msg = f"Error in indexing status endpoint: {str(e)}"
-        print(f"[ERROR] {error_msg}")
+        error_msg = f"Error in indexing status endpoint"
+        print(f"[ERROR] {error_msg}: {type(e).__name__}")
         traceback.print_exc()
+        _log_telemetry('error', {'operation': 'indexing_status', 'error_type': type(e).__name__})
         return jsonify({
             'running': False,
-            'last_error': error_msg,
+            'last_error': 'Failed to retrieve indexing status',
             'last_result': None,
             'processed_batches': 0,
             'total_batches': 0,

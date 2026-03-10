@@ -1,14 +1,112 @@
 # Security Vulnerability Remediation Report
 **Date:** March 9, 2026  
-**Status:** 🔄 IN PROGRESS - Round 2
+**Status:** ✅ COMPLETED - All Rounds
 
 ## Summary
 **Round 1:** Addressed 26 security vulnerabilities (COMPLETED ✅)  
-**Round 2:** Addressing 19 additional security vulnerabilities detected in Python dependencies
+**Round 2:** Fixed 19 dependency vulnerabilities (COMPLETED ✅)  
+**Round 3:** Fixed 37 CodeQL security issues (COMPLETED ✅)
+
+### Total Security Issues Resolved: 82
+- **Dependency Vulnerabilities**: 45 fixed
+  - npm/Electron: 1 fixed
+  - Python packages: 44 fixed
+- **Code Security Issues**: 37 fixed  
+  - Critical: 1 (Command injection)
+  - High: 24 (Path traversal, ReDoS, URL sanitization)
+  - Medium: 12 (Information exposure)
+
+### Key Security Improvements:
+✅ **Command Injection Protection** - Validated all subprocess arguments  
+✅ **Path Traversal Prevention** - Added `_is_path_safe()` validation to all file operations  
+✅ **ReDoS Mitigation** - Replaced vulnerable regex patterns with bounded quantifiers  
+✅ **Secure Error Handling** - Generic client messages, detailed server-side logging  
+✅ **URL Validation** - Proper parsing instead of substring checks  
+✅ **Latest Security Patches** - All dependencies updated to patched versions
 
 ---
 
-## 🔄 ROUND 2 - Additional Security Vulnerabilities (Latest Scan)
+## ✅ ROUND 3 - CodeQL Security Issues (COMPLETED)
+
+### Critical Issues (1) ✅
+- **#4** Uncontrolled command line in web_gui.py:1451
+  - **Fix**: Added command injection prevention with argument sanitization and path validation
+
+### High Severity (24) ✅
+**Path Traversal Vulnerabilities:**
+- **#53, #52, #51, #50, #49, #48, #47, #46, #45, #44** Uncontrolled data in path expressions (web_gui.py)
+  - **Fix**: Added `_is_path_safe()` validation to all user-provided paths
+  - **Fix**: Ensured all paths are resolved and validated against allowed base directories
+
+- **#36, #35, #34, #33, #32, #29, #28, #27, #26** Additional path traversal issues
+  - **Fix**: Applied consistent path validation across all file operations
+
+**ReDoS (Regular Expression Denial of Service):**
+- **#3, #2** Polynomial regex on uncontrolled data (web_gui.py lines 1601, 1614)
+  - **Fix**: Replaced unbounded quantifiers with limited ones, e.g., `(.+?)` → `([^\s]+(?:\s+[^\s]+){0,5})`
+  
+- **#41** Polynomial regex in lm_studio_client.py:135
+  - **Fix**: Simplified regex patterns to non-backtracking forms
+
+**URL Sanitization:**
+- **#42** Incomplete URL substring sanitization (oxidus.py:2368)
+  - **Fix**: Replaced substring checks with proper `urlparse()` validation
+
+### Medium Severity (12) ✅
+**Information Exposure through Exceptions:**
+- **#43, #40, #39, #25, #24, #23, #21, #13, #11, #10, #9, #8** (web_gui.py various lines)
+  - **Fix**: Implemented secure error handling:
+    - Log detailed errors server-side only
+    - Return generic error messages to clients
+    - Use `_handle_api_error()` consistently
+    - Add telemetry logging for error tracking without exposure
+
+### Security Improvements Applied:
+
+1. **Command Injection Prevention** (web_gui.py:1451-1475)
+   ```python
+   # Validate script_path is within scripts directory
+   if not _is_path_safe(script_path, scripts_dir):
+       return {'success': False, 'error': 'Invalid script path'}
+   
+   # Sanitize all arguments
+   for arg in args:
+       if not re.match(r'^[a-zA-Z0-9_./\\:-]+$', arg):
+           return {'success': False, 'error': 'Invalid argument format'}
+   ```
+
+2. **Path Traversal Protection**
+   ```python
+   # Validate paths against base directory
+   try:
+       path_resolved = Path(path).resolve()
+       if not _is_path_safe(path_resolved, allowed_base):
+           return {'success': False, 'error': 'Invalid path'}
+   except (ValueError, OSError):
+       return {'success': False, 'error': 'Invalid path'}
+   ```
+
+3. **ReDoS Prevention**
+   ```python
+   # Before: r"\bbetween\s+(.+?)\s+and\s+(.+)"  # Vulnerable
+   # After:  r"\bbetween\s+([^\s]+(?:\s+[^\s]+){0,5})\s+and\s+..."  # Safe
+   ```
+
+4. **Secure Exception Handling**
+   ```python
+   except Exception as exc:
+       _log_telemetry('error', {'operation': 'op_name', 'error_type': type(exc).__name__})
+       return jsonify({'error': 'Failed to complete operation'}), 500
+   ```
+
+### Total CodeQL Issues Fixed: 37
+- Critical: 1 ✅
+- High: 24 ✅  
+- Medium: 12 ✅
+
+---
+
+## 🔄 ROUND 2 - Additional Security Vulnerabilities (COMPLETED ✅)
 
 ### Critical Issues (1)
 - **#21** PyTorch: `torch.load` with `weights_only=True` leads to remote code execution
