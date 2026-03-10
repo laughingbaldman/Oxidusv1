@@ -26173,3 +26173,18 @@
 [2026-03-09T23:16:30.549Z] Loading http://127.0.0.1:5000
 [2026-03-09T23:16:30.549Z] Loading http://127.0.0.1:5000
 [2026-03-09T23:16:30.588Z] Loading http://127.0.0.1:5000
+[2026-03-09T23:27:54.243Z] did-fail-load: -102 ERR_CONNECTION_REFUSED
+[2026-03-09T23:27:55.244Z] Loading http://127.0.0.1:5000
+[2026-03-09T23:27:56.209Z] did-fail-load: -102 ERR_CONNECTION_REFUSED
+[2026-03-09T23:27:56.211Z] Load failed: Error: ERR_CONNECTION_REFUSED (-102) loading 'http://127.0.0.1:5000/'
+[2026-03-09T23:27:57.209Z] Loading http://127.0.0.1:5000
+[2026-03-09T23:27:57.213Z] Loading http://127.0.0.1:5000
+[2026-03-09T23:27:57.213Z] Load failed: Error: ERR_ABORTED (-3) loading 'http://127.0.0.1:5000/'
+[2026-03-09T23:27:57.886Z] Load failed: Error: ERR_FAILED (-2) loading 'http://127.0.0.1:5000'
+[2026-03-09T23:27:57.895Z] Window closed
+[2026-03-09T23:27:57.895Z] All windows closed
+[2026-03-10T00:09:43.034Z] Electron app ready
+[2026-03-10T00:09:43.034Z] Creating BrowserWindow
+[2026-03-10T00:09:44.644Z] Loading http://127.0.0.1:5000
+[2026-03-10T00:09:50.018Z] Window closed
+[2026-03-10T00:09:50.018Z] All windows closed

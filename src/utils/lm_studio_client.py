@@ -126,13 +126,13 @@ class LMStudioClient:
         if not question:
             return []
 
-        cleaned = re.sub(r"\s+", " ", question).strip(" .!?")
+        # Normalize whitespace first to prevent ReDoS
+        cleaned = ' '.join(question.split()).strip(" .!?")
         if not cleaned:
             return []
 
-        # Use a more efficient regex to avoid ReDoS: split on word separators or commas
-        # Avoid problematic alternation patterns by using character class where possible
-        parts = re.split(r"(?:\s+(?:and|vs|versus|while|whereas|plus)\s+|,\s*)", cleaned, flags=re.IGNORECASE)
+        # Use simple, non-backtracking regex to avoid ReDoS
+        parts = re.split(r' (?:and|vs|versus|while|whereas|plus) |, ?', cleaned, flags=re.IGNORECASE)
         suggestions = []
         seen = set()
         for part in parts:

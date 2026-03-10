@@ -2365,7 +2365,8 @@ class Oxidus:
             parsed = urlparse(url)
             domain = parsed.netloc.lower()
             path = parsed.path.lower()
-            is_wikipedia = 'wikipedia.org' in domain
+            # Properly check domain to prevent subdomain spoofing
+            is_wikipedia = domain == 'wikipedia.org' or domain.endswith('.wikipedia.org')
             is_main_page = path.endswith('/') or path.endswith('/wiki/main_page') or 'main_page' in path
             
             if is_wikipedia and is_main_page:

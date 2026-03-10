@@ -1,44 +1,44 @@
-[03/09/2026 05:16:39 PM][memryx.neural_compiler.nc][INFO] MemryX Neural Compiler log
-[03/09/2026 05:16:39 PM][memryx.neural_compiler.nc][INFO] Anonymous user ID: 2a79ca701c0811f1b8fd9b43ad7d60a1
-[03/09/2026 05:16:39 PM][memryx.neural_compiler.nc][INFO] SDK version: 2.1.0
-[03/09/2026 05:16:39 PM][memryx.neural_compiler.nc][INFO] System info: Linux, 6.6.87.2-microsoft-standard-WSL2, x86_64, Python 3.10.12 (main, Jan 26 2026, 14:55:28) [GCC 11.4.0]
-[03/09/2026 05:16:40 PM][memryx.neural_compiler.graph.framework.model_cropper_base][INFO] Autocrop result: {'inputs': [], 'outputs': ['/pooler/dense/Gemm']}
-[03/09/2026 05:16:43 PM][memryx.neural_compiler.graph.framework.model_cropper_base][INFO] Cropped model
-[03/09/2026 05:16:43 PM][memryx.neural_compiler.nc][INFO] Model 0 framework: onnx
-[03/09/2026 05:16:43 PM][memryx.neural_compiler.nc][INFO] Model 0 parameter count: 33360846
-[03/09/2026 05:16:43 PM][memryx.neural_compiler.nc][INFO] Model 0 input shapes: [[1, 192], [1, 192], [1, 192]]
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Activations
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Bool
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Conv
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Math
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Matrix
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Merge
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Normalization
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Other
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Pool
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.QLinear
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Reduce
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Reshape
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Resize
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.ClipResNet50
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.Common
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.ConvNext
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.DFINE
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.RTDETRv2
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.TinyStories
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.VitSmall
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.VitTiny
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.YoloWorld
-[03/09/2026 05:16:48 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.Yolov10
-[03/09/2026 05:16:50 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:50 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:50 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:50 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:50 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
-[03/09/2026 05:16:51 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:09:54 PM][memryx.neural_compiler.nc][INFO] MemryX Neural Compiler log
+[03/09/2026 06:09:54 PM][memryx.neural_compiler.nc][INFO] Anonymous user ID: 2a79ca701c0811f1b8fd9b43ad7d60a1
+[03/09/2026 06:09:54 PM][memryx.neural_compiler.nc][INFO] SDK version: 2.1.0
+[03/09/2026 06:09:54 PM][memryx.neural_compiler.nc][INFO] System info: Linux, 6.6.87.2-microsoft-standard-WSL2, x86_64, Python 3.10.12 (main, Jan 26 2026, 14:55:28) [GCC 11.4.0]
+[03/09/2026 06:09:56 PM][memryx.neural_compiler.graph.framework.model_cropper_base][INFO] Autocrop result: {'inputs': [], 'outputs': ['/pooler/dense/Gemm']}
+[03/09/2026 06:09:58 PM][memryx.neural_compiler.graph.framework.model_cropper_base][INFO] Cropped model
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.nc][INFO] Model 0 framework: onnx
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.nc][INFO] Model 0 parameter count: 33360846
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.nc][INFO] Model 0 input shapes: [[1, 192], [1, 192], [1, 192]]
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Activations
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Bool
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Conv
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Math
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Matrix
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Merge
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Normalization
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Other
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Pool
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.QLinear
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Reduce
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Reshape
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.ops.Resize
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.ClipResNet50
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.Common
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.ConvNext
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.DFINE
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.RTDETRv2
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.TinyStories
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.VitSmall
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.VitTiny
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.YoloWorld
+[03/09/2026 06:09:59 PM][memryx.neural_compiler.graph.extensions][INFO] importing memryx.neural_compiler.graph.framework.onnx.subgraphs.Yolov10
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert
+[03/09/2026 06:10:02 PM][memryx.neural_compiler.graph.framework.framework_if][INFO] Converted subgraph: convert

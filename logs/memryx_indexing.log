@@ -515,3 +515,4 @@ memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3)
 [2026-03-09 17:24:44] Progress 170/229 | 17.51 eps | 2741.7 ms/batch
 [2026-03-09 17:25:12] Progress 180/229 | 17.48 eps | 2745.22 ms/batch
 [2026-03-09 17:25:12] Progress 180/229 | 17.47 eps | 2747.44 ms/batch
+[2026-03-09 18:09:41] Indexing started

@@ -1465,19 +1465,28 @@ def run_maintenance_task(task: str, data: dict) -> dict:
         if not _is_path_safe(script_path, scripts_dir):
             return {'success': False, 'error': 'Invalid script path'}
         
-        # Sanitize args to prevent command injection
+        # Sanitize args to prevent command injection - args should be paths or flags only
         safe_args = []
         for arg in args:
-            # Only allow safe characters in arguments
-            if isinstance(arg, str) and not re.match(r'^[a-zA-Z0-9_./\\:-]+$', arg):
-                return {'success': False, 'error': 'Invalid argument format'}
-            safe_args.append(arg)
+            # Reject any argument that starts with special characters that could be shell metacharacters
+            # All arguments should be either validated paths or --flags
+            if isinstance(arg, str):
+                # Reject arguments with shell metacharacters or that start with - but aren't recognized flags
+                if any(char in arg for char in ['|', '&', ';', '`', '$', '(', ')', '<', '>', '\n', '\r']):
+                    return {'success': False, 'error': 'Invalid argument format'}
+                # Only allow flags that start with -- (long flags) and are in a known set
+                if arg.startswith('-'):
+                    allowed_flags = ['--root', '--src', '--source', '--out']
+                    if arg not in allowed_flags:
+                        return {'success': False, 'error': 'Invalid argument flag'}
+            safe_args.append(str(arg))
         
         result = subprocess.run(
             [sys.executable, str(script_path)] + safe_args,
             capture_output=True,
             text=True,
-            timeout=120
+            timeout=120,
+            shell=False  # Explicitly disable shell to prevent command injection
         )
         result_payload = {
             'success': result.returncode == 0,
@@ -1639,7 +1648,10 @@ def _extract_query_topics(message: str, max_items: int = 3) -> list:
         else:
             segment = cleaned
 
-        parts = re.split(r"\s+(?:and|plus|along with|as well as|&|vs\.?|versus)\s+|,\s*", segment)
+        # Use simpler regex to avoid ReDoS - limit alternation and use maxsplit
+        # First normalize multiple spaces, then split on simple conjunctions
+        segment = re.sub(r'\s+', ' ', segment)
+        parts = re.split(r' (?:and|plus|vs|versus) |, ?', segment, flags=re.IGNORECASE)
 
     leading_phrases = (
         "tell me about", "tell me", "what about", "explain", "describe",
@@ -3114,12 +3126,20 @@ def _knowledge_base_root() -> Path:
 
 
 def _relative_kb_path(path: Path) -> str:
+    """Convert an absolute path to a relative knowledge base path. Returns sanitized path."""
     kb_root = _knowledge_base_root().resolve()
     try:
-        relative = str(path.resolve().relative_to(kb_root))
-    except Exception:
-        relative = str(path)
-    return relative.replace('\\', '/')
+        # Only return relative path if it's actually within the knowledge base
+        resolved_path = path.resolve()
+        if _is_path_safe(resolved_path, kb_root):
+            relative = str(resolved_path.relative_to(kb_root))
+            return relative.replace('\\', '/')
+        else:
+            # Path is outside knowledge base - return generic indicator
+            return 'external'
+    except (ValueError, OSError):
+        # If path resolution fails, return generic indicator
+        return 'invalid'
 
 
 def _hot_index_roots() -> list:
@@ -3451,11 +3471,15 @@ def open_file():
 
     try:
         if sys.platform == 'win32':
+            # os.startfile is safe on Windows - doesn't use shell
+            # path is already validated and resolved
             os.startfile(str(path))
         elif sys.platform == 'darwin':
-            subprocess.Popen(['open', str(path)])
+            # Explicitly disable shell to prevent command injection
+            subprocess.Popen(['open', str(path)], shell=False)
         else:
-            subprocess.Popen(['xdg-open', str(path)])
+            # Explicitly disable shell to prevent command injection
+            subprocess.Popen(['xdg-open', str(path)], shell=False)
     except Exception as exc:
         _log_telemetry('error', {'operation': 'open_file', 'error_type': type(exc).__name__})
         return jsonify({'error': 'Failed to open file'}), 500
@@ -3803,7 +3827,6 @@ def _is_path_safe(path: Path, base: Path) -> bool:
 
 def _handle_api_error(exc: Exception, operation: str = 'operation') -> tuple:
     """Handle API errors safely: log details, return generic message to client."""
-    error_msg = f"API Error during {operation}: {type(exc).__name__}: {str(exc)}"
     _log_telemetry('api_error', {'operation': operation, 'error_type': type(exc).__name__})
     # Log the full exception for debugging but don't expose to client
     import traceback
