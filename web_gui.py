@@ -492,10 +492,18 @@ def _build_health_report(include_admin: bool = False) -> dict:
         _maybe_record_alert('crawler_error', 'warning', crawler_health.get('last_error'))
 
     if indexing.get('last_error'):
-        alerts.append({'code': 'indexing_error', 'level': 'critical', 'message': indexing.get('last_error')})
-        _maybe_record_alert('indexing_error', 'critical', indexing.get('last_error'))
+        # Only treat as critical error if it's not "No Indexing Available"
+        error_msg = indexing.get('last_error')
+        if error_msg == 'No Indexing Available':
+            alerts.append({'code': 'indexing_info', 'level': 'info', 'message': error_msg})
+        else:
+            alerts.append({'code': 'indexing_error', 'level': 'critical', 'message': error_msg})
+            _maybe_record_alert('indexing_error', 'critical', error_msg)
 
-    if indexing.get('running') and indexing.get('throughput_eps', 0) < slo.get('ingestion_throughput_eps_min', 0):
+    # Only check throughput after at least one batch has been processed to avoid false alarms during startup
+    if (indexing.get('running') and 
+        indexing.get('processed_batches', 0) > 0 and 
+        indexing.get('throughput_eps', 0) < slo.get('ingestion_throughput_eps_min', 0)):
         alerts.append({'code': 'indexing_throughput', 'level': 'warning', 'message': 'Indexing throughput below SLO'})
         _maybe_record_alert('indexing_throughput', 'warning', 'Indexing throughput below SLO')
 
@@ -1374,9 +1382,21 @@ def _run_memryx_indexing(payload: dict) -> None:
         _warm_ops_cache()
     except Exception as exc:
         _log_telemetry('error', {'operation': 'indexing', 'error_type': type(exc).__name__})
-        INDEXING_STATUS['last_error'] = 'Indexing failed'
-        _log_indexing(f"Indexing error: {type(exc).__name__}")
-        _enter_safe_mode(f"Indexing error: {type(exc).__name__}", 'indexing')
+        # Check if this is a "no documents to index" error
+        if isinstance(exc, MemryxIndexingError):
+            error_msg = str(exc).lower()
+            if 'no documents' in error_msg or 'not found to index' in error_msg:
+                INDEXING_STATUS['last_error'] = 'No Indexing Available'
+                _log_indexing('No documents found to index')
+                # Don't enter safe mode for this case
+            else:
+                INDEXING_STATUS['last_error'] = 'Indexing failed'
+                _log_indexing(f"Indexing error: {type(exc).__name__}")
+                _enter_safe_mode(f"Indexing error: {type(exc).__name__}", 'indexing')
+        else:
+            INDEXING_STATUS['last_error'] = 'Indexing failed'
+            _log_indexing(f"Indexing error: {type(exc).__name__}")
+            _enter_safe_mode(f"Indexing error: {type(exc).__name__}", 'indexing')
     finally:
         INDEXING_STATUS['running'] = False
 

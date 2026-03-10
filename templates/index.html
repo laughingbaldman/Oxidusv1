@@ -1112,8 +1112,9 @@
             50% { transform: translateY(24px) scale(1.03); }
         }
     </style>
+    <link rel="stylesheet" href="/static/assets/synapse-console.css">
 </head>
-<body>
+<body class="synapse-console">
     <video class="ambient-video" autoplay muted loop playsinline>
         <source src="/static/assets/oxidus-bg.mp4" type="video/mp4">
     </video>
@@ -2546,5 +2547,6 @@
         // Check LM Studio status every 10 seconds
         setInterval(checkLMStudioStatus, 10000);
     </script>
+    <script src="/static/assets/synapse-console.js"></script>
 </body>
 </html>
