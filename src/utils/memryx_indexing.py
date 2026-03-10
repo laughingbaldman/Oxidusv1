@@ -205,7 +205,20 @@ def _iter_documents(root: Path) -> Iterable[Dict[str, str]]:
 
 
 def _chunk_text(text: str, max_tokens: int, tokenizer) -> List[str]:
-    tokens = tokenizer(text, add_special_tokens=False, return_offsets_mapping=True)
+    """Chunk text into smaller pieces based on token count."""
+    if not text or not text.strip():
+        return []
+    
+    try:
+        tokens = tokenizer(text, add_special_tokens=False, return_offsets_mapping=True)
+    except Exception:
+        # If tokenization fails, return the whole text as one chunk
+        return [text]
+    
+    # Handle cases where tokens might not be a dict or might be None
+    if not tokens or not hasattr(tokens, 'get'):
+        return [text]
+        
     offsets = tokens.get('offset_mapping', [])
     if not offsets:
         return [text]
@@ -225,17 +238,33 @@ def _chunk_text(text: str, max_tokens: int, tokenizer) -> List[str]:
 
 
 def _prepare_inputs(texts: List[str], tokenizer, max_length: int) -> Tuple[np.ndarray, ...]:
-    encoded = tokenizer(
-        texts,
-        padding='max_length',
-        truncation=True,
-        max_length=max_length,
-        return_tensors='np'
-    )
+    """Prepare tokenized inputs for the model."""
+    if not texts:
+        raise ValueError("No texts provided for tokenization")
+    
+    try:
+        encoded = tokenizer(
+            texts,
+            padding='max_length',
+            truncation=True,
+            max_length=max_length,
+            return_tensors='np'
+        )
+    except Exception as e:
+        raise MemryxIndexingError(f"Tokenization failed: {type(e).__name__}")
+    
+    # Validate encoded output
+    if not encoded or not hasattr(encoded, 'get') and not hasattr(encoded, '__getitem__'):
+        raise MemryxIndexingError("Tokenizer returned invalid output")
+    
     inputs = []
     for key in ['input_ids', 'attention_mask', 'token_type_ids']:
         if key in encoded:
             inputs.append(encoded[key].astype(np.int32))
+    
+    if not inputs:
+        raise MemryxIndexingError("No valid inputs generated from tokenizer")
+    
     return tuple(inputs)
 
 
@@ -369,10 +398,19 @@ def build_index(
         memryx = None
 
     tokenizer = _tokenizer(model_id)
+    
+    # Validate tokenizer is functional
+    if not tokenizer or not hasattr(tokenizer, '__call__'):
+        raise MemryxIndexingError('Failed to initialize tokenizer')
 
     texts = []
     metadata = []
     documents = list(_iter_documents(data_root))
+    
+    # Early validation - check for empty knowledge base
+    if not documents:
+        raise MemryxIndexingError('No documents found in knowledge base')
+    
     if priority_paths:
         normalized = [str(Path(path).resolve()) for path in priority_paths if path]
         ranked = []
