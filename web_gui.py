@@ -3825,19 +3825,40 @@ def _is_path_safe(path: Path, base: Path) -> bool:
 
 
 def _resolve_path_under_base(raw_path: str, base: Path) -> Optional[Path]:
-    """Resolve a user-provided path and ensure it remains under base."""
+    """Resolve a user-provided path and ensure it remains under base.
+    
+    Only allows relative paths without .. or absolute path components.
+    Does not expand user home directory for security (prevents path injection).
+    """
     if not isinstance(raw_path, str):
         return None
     candidate_text = raw_path.strip()
     if not candidate_text:
         return None
+    
+    # Reject absolute paths and paths with .. components
+    if raw_path.startswith('/') or raw_path.startswith('\\') or raw_path.startswith('~'):
+        return None
+    
     try:
-        candidate = Path(candidate_text).expanduser()
-        if not candidate.is_absolute():
-            candidate = base / candidate
-        resolved = candidate.resolve()
+        candidate = Path(candidate_text)
+        
+        # Reject absolute paths or paths with .. components
+        if candidate.is_absolute() or any(part == '..' for part in candidate.parts):
+            return None
+        
+        # Normalize the path (remove . and empty components)
+        normalized = Path(*[part for part in candidate.parts if part not in {'', '.'}])
+        if not normalized.parts:
+            return None
+        
+        # Resolve under base (does not follow symlinks by default in Python 3.10+)
+        resolved = (base / normalized).resolve()
+        
+        # Verify the resolved path is still within base
         if not _is_path_safe(resolved, base):
             return None
+        
         return resolved
     except (ValueError, OSError, RuntimeError):
         return None
