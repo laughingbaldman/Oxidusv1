@@ -584,7 +584,8 @@ def _run_study_sweep() -> dict:
             'review_queue': len(loose_ends.get('review_queue') or [])
         }
     except Exception as exc:
-        return {'success': False, 'error': str(exc)}
+        _log_telemetry('error', {'operation': 'organize_knowledge', 'error_type': type(exc).__name__})
+        return {'success': False, 'error': 'Failed to organize knowledge'}
 
     STUDY_STATUS['last_run_at'] = datetime.now().isoformat()
     STUDY_STATUS['summary'] = summary
@@ -911,7 +912,8 @@ def get_memryx_status() -> dict:
             import_error = None
             break
         except Exception as exc:
-            import_error = str(exc)
+            _log_telemetry('error', {'operation': 'module_import', 'module': name, 'error_type': type(exc).__name__})
+            import_error = 'Import failed'
 
     if not module_importable and python_dir.exists():
         if str(python_dir) not in sys.path:
@@ -925,7 +927,8 @@ def get_memryx_status() -> dict:
                 import_error = None
                 break
             except Exception as exc:
-                import_error = str(exc)
+                _log_telemetry('error', {'operation': 'module_import_syspath', 'module': name, 'error_type': type(exc).__name__})
+                import_error = 'Import failed'
 
     return {
         'installed': root.exists() or module_importable,
@@ -1005,7 +1008,8 @@ def get_memryx_devices() -> dict:
             diagnostics['module_path'] = getattr(module, '__file__', None)
             break
         except Exception as exc:
-            attempts.append({'name': f'import_{name}', 'success': False, 'error': str(exc)})
+            _log_telemetry('error', {'operation': 'module_import', 'module': name, 'error_type': type(exc).__name__})
+            attempts.append({'name': f'import_{name}', 'success': False, 'error': 'Import failed'})
 
     if module is None and python_dir.exists():
         diagnostics['python_dir_in_sys_path'] = str(python_dir) in sys.path
@@ -1016,8 +1020,9 @@ def get_memryx_devices() -> dict:
                 diagnostics['module_path'] = getattr(module, '__file__', None)
                 break
             except Exception as exc:
-                attempts.append({'name': f'import_{name}_from_memryx_home', 'success': False, 'error': str(exc)})
-                errors.append(f"{name} import failed: {exc}")
+                _log_telemetry('error', {'operation': 'module_import', 'module': name, 'error_type': type(exc).__name__})
+                attempts.append({'name': f'import_{name}_from_memryx_home', 'success': False, 'error': 'Import failed'})
+                errors.append(f"{name} import failed")
         if module is None:
             module = None
 
@@ -1075,8 +1080,9 @@ def get_memryx_devices() -> dict:
                     'stderr': _truncate(result.stderr)
                 })
         except Exception as exc:
-            errors.append(f'mx_bench failed: {exc}')
-            attempts.append({'name': 'mx_bench', 'success': False, 'error': str(exc)})
+            _log_telemetry('error', {'operation': 'mx_bench', 'error_type': type(exc).__name__})
+            errors.append('mx_bench failed')
+            attempts.append({'name': 'mx_bench', 'success': False, 'error': 'Benchmark failed'})
 
     if device_ids is None:
         try:
@@ -1112,8 +1118,9 @@ def get_memryx_devices() -> dict:
             else:
                 attempts.append({'name': 'acclBench', 'success': False, 'error': 'acclBench not found'})
         except Exception as exc:
-            errors.append(f'acclBench not available: {exc}')
-            attempts.append({'name': 'acclBench', 'success': False, 'error': str(exc)})
+            _log_telemetry('error', {'operation': 'acclBench', 'error_type': type(exc).__name__})
+            errors.append('acclBench not available')
+            attempts.append({'name': 'acclBench', 'success': False, 'error': 'Benchmark failed'})
 
     if device_ids is None and sys.platform == 'win32' and _prefer_wsl_mx_bench():
         try:
@@ -1155,11 +1162,13 @@ def get_memryx_devices() -> dict:
                     'stderr': _truncate(result.stderr)
                 })
         except FileNotFoundError as exc:
+            _log_telemetry('error', {'operation': 'mx_bench_wsl', 'error_type': 'FileNotFoundError'})
             errors.append('wsl not available for mx_bench')
-            attempts.append({'name': 'mx_bench_wsl', 'success': False, 'error': str(exc)})
+            attempts.append({'name': 'mx_bench_wsl', 'success': False, 'error': 'WSL not available'})
         except Exception as exc:
+            _log_telemetry('error', {'operation': 'mx_bench_wsl', 'error_type': type(exc).__name__})
             errors.append('mx_bench not available in WSL')
-            attempts.append({'name': 'mx_bench_wsl', 'success': False, 'error': str(exc)})
+            attempts.append({'name': 'mx_bench_wsl', 'success': False, 'error': 'Benchmark failed'})
 
     if device_ids:
         errors = [e for e in errors if 'mx_bench' not in e.lower() and 'wsl' not in e.lower()]
@@ -1362,9 +1371,10 @@ def _run_memryx_indexing(payload: dict) -> None:
         _invalidate_cache('tiering_overview')
         _warm_ops_cache()
     except Exception as exc:
-        INDEXING_STATUS['last_error'] = str(exc)
-        _log_indexing(f"Indexing error: {exc}")
-        _enter_safe_mode(f"Indexing error: {exc}", 'indexing')
+        _log_telemetry('error', {'operation': 'indexing', 'error_type': type(exc).__name__})
+        INDEXING_STATUS['last_error'] = 'Indexing failed'
+        _log_indexing(f"Indexing error: {type(exc).__name__}")
+        _enter_safe_mode(f"Indexing error: {type(exc).__name__}", 'indexing')
     finally:
         INDEXING_STATUS['running'] = False
 
@@ -1509,7 +1519,8 @@ def run_maintenance_task(task: str, data: dict) -> dict:
         })
         return result_payload
     except Exception as e:
-        result_payload = {'success': False, 'error': str(e)}
+        _log_telemetry('error', {'operation': 'maintenance_task', 'task': task, 'error_type': type(e).__name__})
+        result_payload = {'success': False, 'error': 'Failed to complete maintenance task'}
         LAST_MAINTENANCE_RESULT.update({
             'task': task,
             'timestamp': datetime.now().isoformat(),
@@ -2607,20 +2618,23 @@ def _run_e2e_validation() -> dict:
         status = oxidus.wiki_crawl_status()
         add_check('wiki_crawl_status', status.get('success', False), status.get('error'))
     except Exception as exc:
-        add_check('wiki_crawl_status', False, str(exc))
+        _log_telemetry('error', {'operation': 'wiki_crawl_status', 'error_type': type(exc).__name__})
+        add_check('wiki_crawl_status', False, 'Failed to check wiki crawl status')
 
     try:
         settings = oxidus.wiki_crawl_settings()
         add_check('wiki_crawl_settings', settings.get('success', False), settings.get('error'))
     except Exception as exc:
-        add_check('wiki_crawl_settings', False, str(exc))
+        _log_telemetry('error', {'operation': 'wiki_crawl_settings', 'error_type': type(exc).__name__})
+        add_check('wiki_crawl_settings', False, 'Failed to check wiki crawl settings')
 
     try:
         summary = _build_ops_summary(include_admin=False)
         ok = bool(summary.get('knowledge', {}).get('available'))
         add_check('ops_summary', ok, None if ok else 'knowledge summary unavailable')
     except Exception as exc:
-        add_check('ops_summary', False, str(exc))
+        _log_telemetry('error', {'operation': 'ops_summary', 'error_type': type(exc).__name__})
+        add_check('ops_summary', False, 'Failed to check operations summary')
 
     return {
         'success': all(item['ok'] for item in checks),
