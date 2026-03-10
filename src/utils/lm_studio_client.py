@@ -126,13 +126,20 @@ class LMStudioClient:
         if not question:
             return []
 
+        # Limit input length to prevent ReDoS
+        if len(question) > 10000:
+            question = question[:10000]
+
         # Normalize whitespace first to prevent ReDoS
         cleaned = ' '.join(question.split()).strip(" .!?")
         if not cleaned:
             return []
 
-        # Use simple, non-backtracking regex to avoid ReDoS
-        parts = re.split(r' (?:and|vs|versus|while|whereas|plus) |, ?', cleaned, flags=re.IGNORECASE)
+        lowered = cleaned.lower()
+        normalized = lowered.replace(',', ' and ')
+        for token in (' versus ', ' vs ', ' while ', ' whereas ', ' plus '):
+            normalized = normalized.replace(token, ' and ')
+        parts = [chunk.strip() for chunk in normalized.split(' and ') if chunk.strip()]
         suggestions = []
         seen = set()
         for part in parts:

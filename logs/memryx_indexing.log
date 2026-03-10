@@ -516,3 +516,44 @@ memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3)
 [2026-03-09 17:25:12] Progress 180/229 | 17.48 eps | 2745.22 ms/batch
 [2026-03-09 17:25:12] Progress 180/229 | 17.47 eps | 2747.44 ms/batch
 [2026-03-09 18:09:41] Indexing started
+[2026-03-09 18:44:02] Indexing started
+[2026-03-09 18:44:29] MemryX compile fallback to CPU: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 18:44:47] Progress 1/246 | 43.48 eps | 1103.92 ms/batch
+[2026-03-09 18:44:52] Progress 10/246 | 69.97 eps | 685.99 ms/batch
+[2026-03-09 18:44:59] Progress 20/246 | 72.1 eps | 665.78 ms/batch
+[2026-03-09 18:45:05] Progress 30/246 | 73.63 eps | 651.95 ms/batch
+[2026-03-09 18:45:11] Progress 40/246 | 74.31 eps | 645.91 ms/batch
+[2026-03-09 18:45:17] Progress 50/246 | 75.01 eps | 639.92 ms/batch
+[2026-03-09 18:45:24] Progress 60/246 | 75.56 eps | 635.26 ms/batch
+[2026-03-09 18:45:30] Progress 70/246 | 75.76 eps | 633.56 ms/batch
+[2026-03-09 18:45:36] Progress 80/246 | 75.46 eps | 636.1 ms/batch
+[2026-03-09 18:45:43] Progress 90/246 | 75.03 eps | 639.74 ms/batch
+[2026-03-09 18:45:50] Progress 100/246 | 74.78 eps | 641.91 ms/batch
+[2026-03-09 18:45:56] Progress 110/246 | 74.53 eps | 644.02 ms/batch
+[2026-03-09 18:46:03] Progress 120/246 | 74.47 eps | 644.55 ms/batch
+[2026-03-09 18:46:09] Progress 130/246 | 74.36 eps | 645.54 ms/batch
+[2026-03-09 18:46:16] Progress 140/246 | 74.44 eps | 644.83 ms/batch
+[2026-03-09 18:46:22] Progress 150/246 | 74.55 eps | 643.84 ms/batch
+[2026-03-09 18:46:28] Progress 160/246 | 74.71 eps | 642.5 ms/batch
+[2026-03-09 18:46:34] Progress 170/246 | 74.85 eps | 641.28 ms/batch
+[2026-03-09 18:46:41] Progress 180/246 | 75.0 eps | 639.98 ms/batch
+[2026-03-09 18:46:47] Progress 190/246 | 75.07 eps | 639.43 ms/batch
+[2026-03-09 18:46:53] Progress 200/246 | 75.16 eps | 638.63 ms/batch
+[2026-03-09 18:46:59] Progress 210/246 | 75.21 eps | 638.18 ms/batch
+[2026-03-09 18:47:06] Progress 220/246 | 75.21 eps | 638.25 ms/batch
+[2026-03-09 18:47:12] Progress 230/246 | 75.15 eps | 638.72 ms/batch
+[2026-03-09 18:47:19] Progress 240/246 | 75.2 eps | 638.33 ms/batch
+[2026-03-09 18:47:22] Progress 246/246 | 75.39 eps | 636.71 ms/batch
+[2026-03-09 18:47:23] Indexing done: 11781 vectors | 384 dim
+[2026-03-09 18:51:35] Indexing started
+[2026-03-09 18:52:03] MemryX compile fallback to CPU: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 18:52:04] Indexing error: AttributeError
+[2026-03-09 18:53:34] Indexing started
+[2026-03-09 18:53:59] MemryX compile fallback to CPU: MxUserWarning: [38;2;255;255;0mUnable to partition the model into non-overlapping sections of: pre-processing, neural network and post-processing; Only the neural network section will be extracted for the NeuralCompiler[0m 
+memryx.errors.OperatorError: During conversion found unsupported nodes Gather(3).
+
+[2026-03-09 18:54:03] Indexing error: AttributeError

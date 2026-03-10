@@ -1305,10 +1305,11 @@ def _run_memryx_indexing(payload: dict) -> None:
             try:
                 compile_to_dfp(onnx_path, dfp_path, num_chips=num_chips, max_tokens=max_tokens)
             except Exception as compile_exc:
-                compile_error = str(compile_exc)
-                if _should_fallback_to_cpu(compile_error):
+                # Only use exception type for fallback decision to prevent info disclosure
+                error_type = type(compile_exc).__name__
+                if _should_fallback_to_cpu(error_type):
                     use_memryx = False
-                    _log_indexing(f"MemryX compile fallback to CPU: {compile_error}")
+                    _log_indexing(f"MemryX compile fallback to CPU: {error_type}")
                 else:
                     raise
 
@@ -1341,9 +1342,10 @@ def _run_memryx_indexing(payload: dict) -> None:
                 batch_delay_s=batch_delay_s
             )
         except Exception as run_exc:
-            run_error = str(run_exc)
-            if use_memryx and _should_fallback_to_cpu(run_error):
-                _log_indexing(f"MemryX runtime fallback to CPU: {run_error}")
+            # Only use exception type for fallback decision to prevent info disclosure
+            error_type = type(run_exc).__name__
+            if use_memryx and _should_fallback_to_cpu(error_type):
+                _log_indexing(f"MemryX runtime fallback to CPU: {error_type}")
                 result = build_index(
                     model_id=model_id,
                     onnx_path=onnx_path,
@@ -1405,39 +1407,29 @@ def run_maintenance_task(task: str, data: dict) -> dict:
     args = []
     data_dir = Path(__file__).parent / 'data'
     allowed_base = data_dir.resolve()
+    scripts_dir = (Path(__file__).parent / 'scripts').resolve()
+    script_path = script_path.resolve()
     
     if task == 'normalize_thought_stream':
         input_path = data.get('input_path') or _latest_thought_stream()
         output_path = data.get('output_path')
         if not input_path:
             return {'success': False, 'error': 'No thought stream file found'}
-        # Validate input path is within allowed directory and safe
-        try:
-            input_resolved = Path(input_path).resolve()
-            if not _is_path_safe(input_resolved, allowed_base):
-                return {'success': False, 'error': 'Invalid input path'}
-        except (ValueError, OSError):
+        input_resolved = _resolve_path_under_base(str(input_path), allowed_base)
+        if not input_resolved:
             return {'success': False, 'error': 'Invalid input path'}
         args.append(str(input_resolved))
         if output_path:
-            # Validate output path
-            try:
-                output_resolved = Path(output_path).resolve()
-                if not _is_path_safe(output_resolved, allowed_base):
-                    return {'success': False, 'error': 'Invalid output path'}
-            except (ValueError, OSError):
+            output_resolved = _resolve_path_under_base(str(output_path), allowed_base)
+            if not output_resolved:
                 return {'success': False, 'error': 'Invalid output path'}
             args.append(str(output_resolved))
     elif task == 'nlp_refine':
         root = data.get('root')
         if not root:
             return {'success': False, 'error': 'root is required'}
-        # Validate root path
-        try:
-            root_resolved = Path(root).resolve()
-            if not _is_path_safe(root_resolved, allowed_base):
-                return {'success': False, 'error': 'Invalid root path'}
-        except (ValueError, OSError):
+        root_resolved = _resolve_path_under_base(str(root), allowed_base)
+        if not root_resolved:
             return {'success': False, 'error': 'Invalid root path'}
         args.extend(['--root', str(root_resolved)])
     elif task == 'refine_uncategorized':
@@ -1445,13 +1437,9 @@ def run_maintenance_task(task: str, data: dict) -> dict:
         root = data.get('root')
         if not src or not root:
             return {'success': False, 'error': 'src and root are required'}
-        # Validate both paths - check they're within allowed directory
-        try:
-            src_resolved = Path(src).resolve()
-            root_resolved = Path(root).resolve()
-            if not _is_path_safe(src_resolved, allowed_base) or not _is_path_safe(root_resolved, allowed_base):
-                return {'success': False, 'error': 'Invalid path'}
-        except (ValueError, OSError):
+        src_resolved = _resolve_path_under_base(str(src), allowed_base)
+        root_resolved = _resolve_path_under_base(str(root), allowed_base)
+        if not src_resolved or not root_resolved:
             return {'success': False, 'error': 'Invalid path'}
         args.extend(['--src', str(src_resolved), '--root', str(root_resolved)])
     elif task == 'sort_knowledge':
@@ -1459,40 +1447,25 @@ def run_maintenance_task(task: str, data: dict) -> dict:
         out_dir = data.get('out')
         if not source or not out_dir:
             return {'success': False, 'error': 'source and out are required'}
-        # Validate both paths - check they're within allowed directory
-        try:
-            source_resolved = Path(source).resolve()
-            out_resolved = Path(out_dir).resolve()
-            if not _is_path_safe(source_resolved, allowed_base) or not _is_path_safe(out_resolved, allowed_base):
-                return {'success': False, 'error': 'Invalid path'}
-        except (ValueError, OSError):
+        source_resolved = _resolve_path_under_base(str(source), allowed_base)
+        out_resolved = _resolve_path_under_base(str(out_dir), allowed_base)
+        if not source_resolved or not out_resolved:
             return {'success': False, 'error': 'Invalid path'}
         args.extend(['--source', str(source_resolved), '--out', str(out_resolved)])
 
     # Final validation: ensure script_path is safe and args contain only validated paths
     try:
-        scripts_dir = (Path(__file__).parent / 'scripts').resolve()
         if not _is_path_safe(script_path, scripts_dir):
             return {'success': False, 'error': 'Invalid script path'}
-        
-        # Sanitize args to prevent command injection - args should be paths or flags only
-        safe_args = []
+
+        # Additional security: validate that all args are safe strings without shell metacharacters
+        dangerous_chars = set(';&|`$()<>{}[]!*?~')
         for arg in args:
-            # Reject any argument that starts with special characters that could be shell metacharacters
-            # All arguments should be either validated paths or --flags
-            if isinstance(arg, str):
-                # Reject arguments with shell metacharacters or that start with - but aren't recognized flags
-                if any(char in arg for char in ['|', '&', ';', '`', '$', '(', ')', '<', '>', '\n', '\r']):
-                    return {'success': False, 'error': 'Invalid argument format'}
-                # Only allow flags that start with -- (long flags) and are in a known set
-                if arg.startswith('-'):
-                    allowed_flags = ['--root', '--src', '--source', '--out']
-                    if arg not in allowed_flags:
-                        return {'success': False, 'error': 'Invalid argument flag'}
-            safe_args.append(str(arg))
-        
+            if any(char in str(arg) for char in dangerous_chars):
+                return {'success': False, 'error': 'Invalid argument characters'}
+
         result = subprocess.run(
-            [sys.executable, str(script_path)] + safe_args,
+            [sys.executable, str(script_path), *args],
             capture_output=True,
             text=True,
             timeout=120,
@@ -1637,32 +1610,35 @@ def _extract_user_topics(max_items: int = 6) -> list:
 def _extract_query_topics(message: str, max_items: int = 3) -> list:
     if not message:
         return []
+    
+    # Limit input length to prevent ReDoS
+    if len(message) > 10000:
+        message = message[:10000]
 
-    cleaned = re.sub(r"\s+", " ", message).strip()
+    cleaned = ' '.join(message.split()).strip()
     if not cleaned:
         return []
 
     lowered = cleaned.lower()
 
-    # Use non-backtracking regex to prevent ReDoS
-    between_match = re.search(r"\bbetween\s+([^\s]+(?:\s+[^\s]+){0,5})\s+and\s+([^\s]+(?:\s+[^\s]+){0,5})", lowered)
-    if between_match:
-        parts = [
-            cleaned[between_match.start(1):between_match.end(1)],
-            cleaned[between_match.start(2):between_match.end(2)]
-        ]
+    parts = []
+    if 'between ' in lowered and ' and ' in lowered:
+        tail = lowered.split('between ', 1)[1]
+        left, right = tail.split(' and ', 1)
+        parts = [left.strip(), right.strip()]
     else:
-        # Use non-backtracking regex to prevent ReDoS
-        trigger_match = re.search(r"\b(about|on|regarding|re:|concerning)\b\s+(.{1,200})", lowered)
-        if trigger_match:
-            segment = cleaned[trigger_match.start(2):]
-        else:
-            segment = cleaned
+        segment = lowered
+        for trigger in ('about ', 'on ', 'regarding ', 're:', 'concerning '):
+            marker = segment.find(trigger)
+            if marker != -1:
+                segment = segment[marker + len(trigger):]
+                break
 
-        # Use simpler regex to avoid ReDoS - limit alternation and use maxsplit
-        # First normalize multiple spaces, then split on simple conjunctions
-        segment = re.sub(r'\s+', ' ', segment)
-        parts = re.split(r' (?:and|plus|vs|versus) |, ?', segment, flags=re.IGNORECASE)
+        normalized = segment.replace(',', ' and ')
+        normalized = normalized.replace(' versus ', ' and ')
+        normalized = normalized.replace(' vs ', ' and ')
+        normalized = normalized.replace(' plus ', ' and ')
+        parts = [chunk.strip() for chunk in normalized.split(' and ') if chunk.strip()]
 
     leading_phrases = (
         "tell me about", "tell me", "what about", "explain", "describe",
@@ -3129,7 +3105,7 @@ def admin_moltbook_ingest():
     try:
         oxidus._moltbook_ingest_once()
     except Exception as exc:
-        _enter_safe_mode(f"Moltbook ingest error: {exc}", 'moltbook_ingest')
+        _enter_safe_mode(f"Moltbook ingest error: {type(exc).__name__}", 'moltbook_ingest')
         return _handle_api_error(exc, 'moltbook_ingest')
 
     return jsonify({'success': True, 'message': 'Moltbook ingest complete.'})
@@ -3218,7 +3194,7 @@ def _load_archival_policy() -> dict:
 
 
 def _build_index_priority_paths(limit: int = 100) -> list:
-    kb_root = _knowledge_base_root()
+    kb_root = _knowledge_base_root().resolve()
     paths = []
     for root in _hot_index_roots():
         if root.exists():
@@ -3234,8 +3210,8 @@ def _build_index_priority_paths(limit: int = 100) -> list:
     for rel_path, entry in ranked[:limit]:
         if not rel_path:
             continue
-        candidate = (kb_root / rel_path).resolve()
-        if candidate.exists():
+        candidate = _resolve_relative_path_under_base(str(rel_path), kb_root)
+        if candidate and candidate.exists():
             paths.append(str(candidate))
 
     seen = set()
@@ -3273,13 +3249,18 @@ def _days_since(value: Optional[datetime]) -> Optional[float]:
 
 
 def _iter_kb_files(roots: Optional[list] = None, max_files: Optional[int] = None) -> list:
-    kb_root = _knowledge_base_root()
+    kb_root = _knowledge_base_root().resolve()
     resolved_roots = []
     if roots:
         for rel in roots:
-            resolved_roots.append((kb_root / rel).resolve())
+            # Validate that the relative path doesn't escape kb_root
+            if not isinstance(rel, str):
+                continue
+            constructed = _resolve_relative_path_under_base(str(rel), kb_root)
+            if constructed and _is_path_safe(constructed, kb_root):
+                resolved_roots.append(constructed)
     else:
-        resolved_roots = [kb_root.resolve()]
+        resolved_roots = [kb_root]
 
     files = []
     for root in resolved_roots:
@@ -3288,6 +3269,9 @@ def _iter_kb_files(roots: Optional[list] = None, max_files: Optional[int] = None
         for ext in ('.json', '.md'):
             for path in root.rglob(f'*{ext}'):
                 if not path.is_file():
+                    continue
+                # Validate each file is within kb_root
+                if not _is_path_safe(path, kb_root):
                     continue
                 files.append(path)
                 if max_files and len(files) >= max_files:
@@ -3442,12 +3426,16 @@ def _recent_knowledge_files(limit: int = 8) -> list:
     files.sort(key=lambda item: item[0], reverse=True)
     recent = []
     for mtime, path, size in files[:limit]:
+        # Validate path is within knowledge base before returning
+        if not _is_path_safe(path, kb_root):
+            continue
         try:
             relative = str(path.relative_to(kb_root))
         except Exception:
-            relative = str(path)
+            # If relative_to fails, skip this file
+            continue
         recent.append({
-            'path': str(path),
+            'path': relative,  # Only return relative paths to client
             'relative': relative,
             'name': path.name,
             'mtime': mtime,
@@ -3471,12 +3459,9 @@ def open_file():
         return jsonify({'success': False, 'error': 'path required'}), 400
 
     kb_root = _knowledge_base_root().resolve()
-    try:
-        path = Path(path_raw).resolve()
-        if not _is_path_safe(path, kb_root):
-            return jsonify({'success': False, 'error': 'path not allowed'}), 403
-    except (ValueError, OSError):
-        return jsonify({'success': False, 'error': 'Invalid path'}), 400
+    path = _resolve_path_under_base(path_raw, kb_root)
+    if not path:
+        return jsonify({'success': False, 'error': 'path not allowed'}), 403
 
     if not path.exists():
         return jsonify({'success': False, 'error': 'file not found'}), 404
@@ -3682,8 +3667,8 @@ def _hybrid_status() -> dict:
                 wsl_mx_nc = result.stdout.strip() or 'ok'
             else:
                 wsl_mx_nc = result.stderr.strip() or 'not available'
-        except Exception as exc:
-            wsl_mx_nc = f'error: {exc}'
+        except Exception:
+            wsl_mx_nc = 'error'
 
     accl_bench = memryx_root / 'acclBench' / 'acclBench.exe'
     mx_bench_path = shutil.which('mx_bench')
@@ -3839,6 +3824,47 @@ def _is_path_safe(path: Path, base: Path) -> bool:
         return False
 
 
+def _resolve_path_under_base(raw_path: str, base: Path) -> Optional[Path]:
+    """Resolve a user-provided path and ensure it remains under base."""
+    if not isinstance(raw_path, str):
+        return None
+    candidate_text = raw_path.strip()
+    if not candidate_text:
+        return None
+    try:
+        candidate = Path(candidate_text).expanduser()
+        if not candidate.is_absolute():
+            candidate = base / candidate
+        resolved = candidate.resolve()
+        if not _is_path_safe(resolved, base):
+            return None
+        return resolved
+    except (ValueError, OSError, RuntimeError):
+        return None
+
+
+def _resolve_relative_path_under_base(rel_path: str, base: Path) -> Optional[Path]:
+    """Resolve a relative path safely under a base directory."""
+    if not isinstance(rel_path, str):
+        return None
+    candidate_text = rel_path.strip()
+    if not candidate_text:
+        return None
+    try:
+        candidate = Path(candidate_text)
+        if candidate.is_absolute() or any(part == '..' for part in candidate.parts):
+            return None
+        normalized = Path(*[part for part in candidate.parts if part not in {'', '.'}])
+        if not normalized.parts:
+            return None
+        resolved = (base / normalized).resolve()
+        if not _is_path_safe(resolved, base):
+            return None
+        return resolved
+    except (ValueError, OSError, RuntimeError):
+        return None
+
+
 def _handle_api_error(exc: Exception, operation: str = 'operation') -> tuple:
     """Handle API errors safely: log details, return generic message to client."""
     _log_telemetry('api_error', {'operation': operation, 'error_type': type(exc).__name__})
@@ -3865,28 +3891,27 @@ def _archive_paths(paths: list, dry_run: bool = True, reason: str = 'retention_p
     for rel_path in paths:
         if not rel_path:
             continue
-        source = (kb_root / rel_path).resolve()
-        # Validate that source is still within kb_root (prevents path traversal)
-        if not _is_path_safe(source, kb_root):
+        source = _resolve_relative_path_under_base(str(rel_path), kb_root)
+        if not source:
             skipped.append({'path': rel_path, 'reason': 'invalid_path'})
             continue
+        normalized_rel_path = source.relative_to(kb_root).as_posix()
         if not source.exists():
-            skipped.append({'path': rel_path, 'reason': 'missing'})
+            skipped.append({'path': normalized_rel_path, 'reason': 'missing'})
             continue
-        dest = (archive_root / rel_path).resolve()
-        # Validate that dest is still within archive_root (prevents path traversal)
-        if not _is_path_safe(dest, archive_root):
-            skipped.append({'path': rel_path, 'reason': 'invalid_path'})
+        dest = _resolve_relative_path_under_base(normalized_rel_path, archive_root)
+        if not dest:
+            skipped.append({'path': normalized_rel_path, 'reason': 'invalid_path'})
             continue
         if dest.exists():
-            skipped.append({'path': rel_path, 'reason': 'already_archived'})
+            skipped.append({'path': normalized_rel_path, 'reason': 'already_archived'})
             continue
         if not dry_run:
             dest.parent.mkdir(parents=True, exist_ok=True)
             shutil.move(str(source), str(dest))
         entry = {
-            'original_relative': rel_path,
-            'archived_relative': rel_path,
+            'original_relative': normalized_rel_path,
+            'archived_relative': normalized_rel_path,
             'archived_at_utc': now,
             'reason': reason
         }
@@ -3980,13 +4005,12 @@ def admin_archive_restore():
         archive_root = (Path(__file__).parent / archive_root).resolve()
 
     kb_root = _knowledge_base_root().resolve()
-    source = (archive_root / rel_path).resolve()
-    dest = (kb_root / rel_path).resolve()
-    
-    # Validate paths are within allowed directories (prevents path traversal)
-    if not _is_path_safe(source, archive_root):
+    source = _resolve_relative_path_under_base(rel_path, archive_root)
+    if not source:
         return jsonify({'success': False, 'error': 'path not allowed'}), 403
-    if not _is_path_safe(dest, kb_root):
+    normalized_rel_path = source.relative_to(archive_root).as_posix()
+    dest = _resolve_relative_path_under_base(normalized_rel_path, kb_root)
+    if not dest:
         return jsonify({'success': False, 'error': 'path not allowed'}), 403
     
     if not source.exists():
@@ -3999,15 +4023,15 @@ def admin_archive_restore():
 
     manifest = _load_archive_manifest()
     entries = manifest.get('entries') or []
-    manifest['entries'] = [entry for entry in entries if entry.get('archived_relative') != rel_path]
+    manifest['entries'] = [entry for entry in entries if entry.get('archived_relative') != normalized_rel_path]
     _save_archive_manifest(manifest)
 
-    _log_telemetry('archive_restore', {'path': rel_path})
+    _log_telemetry('archive_restore', {'path': normalized_rel_path})
     _invalidate_cache('ops_summary')
     _invalidate_cache('admin_ops_summary')
     _warm_ops_cache()
 
-    return jsonify({'success': True, 'path': rel_path})
+    return jsonify({'success': True, 'path': normalized_rel_path})
 
 
 @app.route('/api/admin/memryx/devices', methods=['GET'])
@@ -4089,12 +4113,8 @@ def admin_indexing_status():
                 'batch_delay_ms': 0
             }
         })
-    except Exception as e:
-        import traceback
-        error_msg = f"Error in indexing status endpoint"
-        print(f"[ERROR] {error_msg}: {type(e).__name__}")
-        traceback.print_exc()
-        _log_telemetry('error', {'operation': 'indexing_status', 'error_type': type(e).__name__})
+    except Exception as exc:
+        _log_telemetry('error', {'operation': 'indexing_status', 'error_type': type(exc).__name__})
         return jsonify({
             'running': False,
             'last_error': 'Failed to retrieve indexing status',
