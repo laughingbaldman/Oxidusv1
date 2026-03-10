@@ -1308,14 +1308,22 @@ def _run_memryx_indexing(payload: dict) -> None:
         if not onnx_path.exists():
             export_onnx(model_id=model_id, onnx_path=onnx_path, max_tokens=max_tokens)
 
-        use_memryx = True
-        if not dfp_path.exists():
+        # Check environment variable to force CPU mode
+        force_cpu = os.environ.get('OXIDUS_FORCE_CPU', '').lower() in ('1', 'true', 'yes', 'on')
+        use_memryx = not force_cpu
+        
+        if force_cpu:
+            _log_indexing("CPU mode forced via OXIDUS_FORCE_CPU environment variable")
+        
+        if use_memryx and not dfp_path.exists():
             try:
                 compile_to_dfp(onnx_path, dfp_path, num_chips=num_chips, max_tokens=max_tokens)
             except Exception as compile_exc:
-                # Only use exception type for fallback decision to prevent info disclosure
+                # Check both error type and message for fallback decision
                 error_type = type(compile_exc).__name__
-                if _should_fallback_to_cpu(error_type):
+                error_msg = str(compile_exc)
+                # Always fallback for MemryxIndexingError or specific error patterns
+                if isinstance(compile_exc, MemryxIndexingError) or _should_fallback_to_cpu(error_type) or _should_fallback_to_cpu(error_msg):
                     use_memryx = False
                     _log_indexing(f"MemryX compile fallback to CPU: {error_type}")
                 else:
@@ -1350,9 +1358,11 @@ def _run_memryx_indexing(payload: dict) -> None:
                 batch_delay_s=batch_delay_s
             )
         except Exception as run_exc:
-            # Only use exception type for fallback decision to prevent info disclosure
+            # Check both error type and message for fallback decision
             error_type = type(run_exc).__name__
-            if use_memryx and _should_fallback_to_cpu(error_type):
+            error_msg = str(run_exc)
+            # Always fallback for MemryxIndexingError or specific error patterns
+            if use_memryx and (isinstance(run_exc, MemryxIndexingError) or _should_fallback_to_cpu(error_type) or _should_fallback_to_cpu(error_msg)):
                 _log_indexing(f"MemryX runtime fallback to CPU: {error_type}")
                 result = build_index(
                     model_id=model_id,
