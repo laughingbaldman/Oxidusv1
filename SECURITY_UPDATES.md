@@ -1,13 +1,77 @@
 # Security Vulnerability Remediation Report
 **Date:** March 9, 2026  
-**Status:** ✅ COMPLETED
+**Status:** 🔄 IN PROGRESS - Round 2
 
 ## Summary
-Addressed 26 security vulnerabilities detected across Python (pip) and Node.js (npm) dependencies.
+**Round 1:** Addressed 26 security vulnerabilities (COMPLETED ✅)  
+**Round 2:** Addressing 19 additional security vulnerabilities detected in Python dependencies
 
 ---
 
-## ✅ COMPLETED - NPM/Electron Dependencies
+## 🔄 ROUND 2 - Additional Security Vulnerabilities (Latest Scan)
+
+### Critical Issues (1)
+- **#21** PyTorch: `torch.load` with `weights_only=True` leads to remote code execution
+
+### High Severity (3)
+- **#8** Deserialization of Untrusted Data in Hugging Face Transformers
+- **#7** Deserialization of Untrusted Data in Hugging Face Transformers
+- **#6** Deserialization of Untrusted Data in Hugging Face Transformers
+
+### Moderate Severity (11)
+- **#14** Requests vulnerable to .netrc credentials leak via malicious URLs
+- **#9** Transformers Regular Expression Denial of Service (ReDoS) vulnerability
+- **#20** Hugging Face Transformers Regular Expression Denial of Service (ReDoS) vulnerability
+- **#17** Transformers vulnerable to ReDoS attack through get_imports() function
+- **#16** Transformers ReDoS vulnerability in get_configuration_file
+- **#23** Hugging Face Transformers library has Regular Expression Denial of Service
+- **#24** Transformers vulnerable to ReDoS in AdamWeightDecay optimizer
+- **#22** Transformers vulnerable to ReDoS through MarianTokenizer
+- **#19** Transformers vulnerable to ReDoS through DonutProcessor class
+- **#12** Hugging Face Transformers Regular Expression Denial of Service
+- **#15** PyTorch Improper Resource Shutdown or Release vulnerability
+- **#11** Transformers Regular Expression Denial of Service (ReDoS) vulnerability
+
+### Low Severity (4)
+- **#18** Transformers Improper Input Validation via username injection
+- **#25** Flask session does not add `Vary: Cookie` header
+- **#13** PyTorch susceptible to local Denial of Service
+
+### Actions Taken:
+- **torch**: `2.4.0` → `2.10.0` ✅ (fixes critical RCE and resource issues)
+- **transformers**: `4.46.2` → `5.3.0` ✅ (fixes deserialization and ReDoS vulnerabilities)
+- **tokenizers**: `0.20.3` → `0.22.2` ✅ (dependency update for transformers compatibility)
+- **requests**: `2.32.3` → `2.32.5` ✅ (fixes .netrc credential leak)
+- **Flask**: `3.0.0` → `3.1.3` ✅ (fixes session cookie header issue)
+- **huggingface-hub**: `0.36.2` → `1.6.0` ✅ (dependency update)
+
+**Installation Status:** ✅ COMPLETED - All security patches successfully installed
+
+---
+
+## Package Versions Update Summary
+
+### Round 2 Updates (March 9, 2026)
+```
+torch:           2.4.0   → 2.10.0    ✅
+transformers:    4.46.2  → 5.3.0     ✅
+tokenizers:      0.20.3  → 0.22.2    ✅
+requests:        2.32.3  → 2.32.5    ✅
+Flask:           3.0.0   → 3.1.3     ✅
+huggingface-hub: 0.36.2  → 1.6.0     ✅
+```
+
+### Total Vulnerabilities Fixed: 19
+- Critical: 1 ✅
+- High: 3 ✅
+- Moderate: 11 ✅
+- Low: 4 ✅
+
+---
+
+## ✅ ROUND 1 - Initial Security Remediation (COMPLETED)
+
+### NPM/Electron Dependencies ✅
 
 **Status: RESOLVED** - All npm vulnerabilities fixed (0/1 remaining)
 
@@ -18,7 +82,7 @@ Addressed 26 security vulnerabilities detected across Python (pip) and Node.js (
 
 ---
 
-## 🔄 IN PROGRESS - Python Dependencies (pip)
+## 🔄 IN PROGRESS - Python Dependencies (Round 1)
 
 Updated [requirements.txt](requirements.txt) with patched versions:
 
